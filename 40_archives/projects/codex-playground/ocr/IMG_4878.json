@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1343,
+            114
+          ],
+          [
+            1343,
+            971
+          ],
+          [
+            1394,
+            114
+          ],
+          [
+            1394,
+            971
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "級から神官僧侶の身分を定めることまでやっ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1275,
+            104
+          ],
+          [
+            1275,
+            163
+          ],
+          [
+            1310,
+            104
+          ],
+          [
+            1310,
+            163
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.923
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            140
+          ],
+          [
+            1200,
+            980
+          ],
+          [
+            1247,
+            140
+          ],
+          [
+            1247,
+            980
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "当然、宗教上の教義を監督する機関でもあ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1123,
+            104
+          ],
+          [
+            1123,
+            980
+          ],
+          [
+            1169,
+            104
+          ],
+          [
+            1169,
+            980
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "った。だから神道、仏教双方から代表的な人",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1043,
+            95
+          ],
+          [
+            1043,
+            982
+          ],
+          [
+            1088,
+            95
+          ],
+          [
+            1088,
+            982
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "間を選んで教導職というものを置き文化工作",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            963,
+            96
+          ],
+          [
+            963,
+            372
+          ],
+          [
+            1004,
+            96
+          ],
+          [
+            1004,
+            372
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "を担当させた。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            885,
+            146
+          ],
+          [
+            885,
+            983
+          ],
+          [
+            927,
+            146
+          ],
+          [
+            927,
+            983
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "これはキリスト教の東漸に対する一つの行",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            104
+          ],
+          [
+            805,
+            601
+          ],
+          [
+            846,
+            104
+          ],
+          [
+            846,
+            601
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "政措置でもあっただろう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            727,
+            150
+          ],
+          [
+            727,
+            984
+          ],
+          [
+            769,
+            150
+          ],
+          [
+            769,
+            984
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "嘉右衛門が、神官たちを前にして声を励ま",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            651,
+            115
+          ],
+          [
+            651,
+            982
+          ],
+          [
+            692,
+            115
+          ],
+          [
+            692,
+            982
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "して、条約改正と信教の自由、それによって",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            574,
+            118
+          ],
+          [
+            574,
+            984
+          ],
+          [
+            616,
+            118
+          ],
+          [
+            616,
+            984
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "だんだんに伝来の神道が圧迫をうけてゆくだ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            127
+          ],
+          [
+            500,
+            830
+          ],
+          [
+            539,
+            127
+          ],
+          [
+            539,
+            830
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "ろうと断じたことは一再でなかった。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            423,
+            171
+          ],
+          [
+            423,
+            959
+          ],
+          [
+            463,
+            171
+          ],
+          [
+            463,
+            959
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "国学者大国隆正の弟子玉松操あたりから、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            158
+          ],
+          [
+            350,
+            403
+          ],
+          [
+            389,
+            158
+          ],
+          [
+            389,
+            403
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "「祭政一致論」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            275,
+            184
+          ],
+          [
+            275,
+            985
+          ],
+          [
+            315,
+            184
+          ],
+          [
+            315,
+            985
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "や国粋思想を注ぎこまれていた嘉右衛門は",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            204,
+            145
+          ],
+          [
+            204,
+            963
+          ],
+          [
+            244,
+            145
+          ],
+          [
+            244,
+            963
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "海外の宗教情勢を聞くごとに憂慮していた。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            130,
+            193
+          ],
+          [
+            130,
+            1008
+          ],
+          [
+            170,
+            193
+          ],
+          [
+            170,
+            1008
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "たまたま千家尊福から「神道の将来性如何」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1365,
+            1106
+          ],
+          [
+            1365,
+            2003
+          ],
+          [
+            1411,
+            1106
+          ],
+          [
+            1411,
+            2003
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "を聞かれたから、その思うところを語って神",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1289,
+            1107
+          ],
+          [
+            1289,
+            1800
+          ],
+          [
+            1334,
+            1107
+          ],
+          [
+            1334,
+            1800
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "官に活を入れてやりたいと思った。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1213,
+            1157
+          ],
+          [
+            1213,
+            2012
+          ],
+          [
+            1258,
+            1157
+          ],
+          [
+            1258,
+            2012
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "で、皇典講究所では、神武肇国以来、卜部",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1131,
+            1109
+          ],
+          [
+            1131,
+            1846
+          ],
+          [
+            1175,
+            1109
+          ],
+          [
+            1175,
+            1846
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "氏フトマニの道を掌り-から初め、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1133
+          ],
+          [
+            1049,
+            1988
+          ],
+          [
+            1097,
+            1133
+          ],
+          [
+            1097,
+            1988
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "「神官諸君に切に勧告申す、 易を勉強せよ」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            1154
+          ],
+          [
+            969,
+            1532
+          ],
+          [
+            1012,
+            1154
+          ],
+          [
+            1012,
+            1532
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "と勧めたのである。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            889,
+            1131
+          ],
+          [
+            889,
+            2002
+          ],
+          [
+            934,
+            1131
+          ],
+          [
+            934,
+            2002
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "「論より実行である。諸君がわが国の神々の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            811,
+            1107
+          ],
+          [
+            811,
+            2001
+          ],
+          [
+            855,
+            1107
+          ],
+          [
+            855,
+            2001
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "尊さを説けば、ヤソはヤソでその神の独尊を",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            732,
+            1107
+          ],
+          [
+            732,
+            1997
+          ],
+          [
+            775,
+            1107
+          ],
+          [
+            775,
+            1997
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "説く。神の功徳不思議を説けば、ヤソもキリ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            654,
+            1113
+          ],
+          [
+            654,
+            1994
+          ],
+          [
+            696,
+            1113
+          ],
+          [
+            696,
+            1994
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "スト救世の大功徳を説いて駁す。このような",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            577,
+            1107
+          ],
+          [
+            577,
+            1991
+          ],
+          [
+            619,
+            1107
+          ],
+          [
+            619,
+            1991
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "議論は、信ずる者のみの無形の空論で、是非",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            1114
+          ],
+          [
+            500,
+            1985
+          ],
+          [
+            541,
+            1114
+          ],
+          [
+            541,
+            1985
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "の実は判然としない。わが仏尊しということ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            424,
+            1110
+          ],
+          [
+            424,
+            1977
+          ],
+          [
+            465,
+            1110
+          ],
+          [
+            465,
+            1977
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "ばもある。自立他破はついに相排斥して争い",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            348,
+            1110
+          ],
+          [
+            348,
+            1980
+          ],
+          [
+            390,
+            1110
+          ],
+          [
+            390,
+            1980
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "を生ずるばかりか、聞く大衆の迷惑この上な",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            275,
+            1111
+          ],
+          [
+            275,
+            1972
+          ],
+          [
+            314,
+            1111
+          ],
+          [
+            314,
+            1972
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "しである。 わしはそういう閑人のねごとをこ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            200,
+            1115
+          ],
+          [
+            200,
+            1298
+          ],
+          [
+            238,
+            1115
+          ],
+          [
+            238,
+            1298
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "のまない」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            129,
+            1154
+          ],
+          [
+            129,
+            1860
+          ],
+          [
+            166,
+            1154
+          ],
+          [
+            166,
+            1860
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "と、ブラグマティズムを注ぎ込んだ。",
+        "isTextline": "true",
+        "confidence": 0.948
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4878.JPEG",
+    "img_name": "IMG_4878.JPEG"
+  }
+}

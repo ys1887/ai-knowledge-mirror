@@ -1,0 +1,56 @@
+#!/usr/bin/env python3
+import subprocess
+import sys
+from pathlib import Path
+
+
+COMMIT_MESSAGE = "checkpoint: before AI markdown edit"
+
+
+def run_git(repo_or_dir: Path, args: list[str], *, capture: bool = False) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        ["git", "-C", str(repo_or_dir), *args],
+        check=False,
+        text=True,
+        stdout=subprocess.PIPE if capture else None,
+        stderr=subprocess.STDOUT if capture else None,
+    )
+
+
+def fail(message: str, code: int) -> int:
+    print(message, file=sys.stderr)
+    return code
+
+
+def main(argv: list[str]) -> int:
+    start_dir = Path(argv[0] if argv else ".").resolve()
+
+    result = run_git(start_dir, ["rev-parse", "--show-toplevel"], capture=True)
+    if result.returncode != 0:
+        return fail(f"Not inside a Git repository: {start_dir}", 2)
+
+    repo_root = Path(result.stdout.strip()).resolve()
+    if not (repo_root / ".obsidian").is_dir():
+        return fail(f"Git root is not an Obsidian vault: {repo_root}", 3)
+
+    status = run_git(repo_root, ["status", "--short", "--untracked-files=all"], capture=True)
+    if status.returncode != 0:
+        print(status.stdout, end="")
+        return status.returncode
+
+    if status.stdout.strip():
+        add = run_git(repo_root, ["add", "-A", "."])
+        if add.returncode != 0:
+            return add.returncode
+        commit = run_git(repo_root, ["commit", "-m", COMMIT_MESSAGE])
+        if commit.returncode != 0:
+            return commit.returncode
+        print(f"Created checkpoint commit in {repo_root}")
+    else:
+        print(f"No commit needed in {repo_root}")
+
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv[1:]))

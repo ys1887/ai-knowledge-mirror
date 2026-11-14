@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+script_path="$repo_root/scripts/update_prompt_header_stamp.sh"
+
+targets=(
+  "chatgpt_personalize/あなたについての詳細.md"
+  "chatgpt_personalize/カスタム指示.md"
+)
+
+if [[ ! -x "$script_path" ]]; then
+  echo "[pre-commit] script is not executable: $script_path" >&2
+  echo "run: chmod +x .githooks/pre-commit scripts/update_prompt_header_stamp.sh" >&2
+  exit 1
+fi
+
+for target_rel in "${targets[@]}"; do
+  if git diff --cached --quiet --diff-filter=ACMR -- "$target_rel"; then
+    continue
+  fi
+
+  target_path="$repo_root/$target_rel"
+  new_stamp="$("$script_path" "$target_path")"
+  git add "$target_rel"
+  echo "[pre-commit] updated: $new_stamp ($target_rel)"
+done

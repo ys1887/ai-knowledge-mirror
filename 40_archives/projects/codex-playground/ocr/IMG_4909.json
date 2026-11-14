@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1271,
+            169
+          ],
+          [
+            1271,
+            929
+          ],
+          [
+            1328,
+            169
+          ],
+          [
+            1328,
+            929
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "また、維新後の日本全体が、長い鎖国の夢",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            129
+          ],
+          [
+            1200,
+            929
+          ],
+          [
+            1256,
+            129
+          ],
+          [
+            1256,
+            929
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "から醒めたせいで外の知識(特に形面下の学",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1128,
+            127
+          ],
+          [
+            1128,
+            930
+          ],
+          [
+            1184,
+            127
+          ],
+          [
+            1184,
+            930
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "問)の吸収に急で、深奥微妙な易学を研究す",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1059,
+            127
+          ],
+          [
+            1059,
+            456
+          ],
+          [
+            1100,
+            127
+          ],
+          [
+            1100,
+            456
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "る暇がなくなった。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            989,
+            121
+          ],
+          [
+            989,
+            928
+          ],
+          [
+            1038,
+            121
+          ],
+          [
+            1038,
+            928
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "-その証拠には大学という形而上形而下の",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            913,
+            121
+          ],
+          [
+            913,
+            908
+          ],
+          [
+            966,
+            121
+          ],
+          [
+            966,
+            908
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "学術を網羅具備しているべき機関が\"易学\"",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            843,
+            125
+          ],
+          [
+            843,
+            660
+          ],
+          [
+            887,
+            125
+          ],
+          [
+            887,
+            660
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "の教育をやらないことである。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            772,
+            164
+          ],
+          [
+            772,
+            931
+          ],
+          [
+            819,
+            164
+          ],
+          [
+            819,
+            931
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "これは天下後世のため実に嘆かわしい。と",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            696,
+            118
+          ],
+          [
+            696,
+            932
+          ],
+          [
+            745,
+            118
+          ],
+          [
+            745,
+            932
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "嘆息し、易道を深く学び世のため国のために",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            623,
+            118
+          ],
+          [
+            623,
+            785
+          ],
+          [
+            669,
+            118
+          ],
+          [
+            669,
+            785
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "役立てようではないかと呼びかけた。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            551,
+            161
+          ],
+          [
+            551,
+            910
+          ],
+          [
+            598,
+            161
+          ],
+          [
+            598,
+            910
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "この時、彼の講演を聞いた人たちの中で、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            476,
+            118
+          ],
+          [
+            476,
+            951
+          ],
+          [
+            522,
+            118
+          ],
+          [
+            522,
+            951
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "心ある者は以後大綱山の邸にたびたび出入し、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            403,
+            122
+          ],
+          [
+            403,
+            937
+          ],
+          [
+            444,
+            122
+          ],
+          [
+            444,
+            937
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "ことに春四月嘉右衛門主催の孔子祭に招待さ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            329,
+            123
+          ],
+          [
+            329,
+            915
+          ],
+          [
+            369,
+            123
+          ],
+          [
+            369,
+            915
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "れ、一緒に桜を見一緒に酒を飲んだりした。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            259,
+            169
+          ],
+          [
+            259,
+            496
+          ],
+          [
+            295,
+            169
+          ],
+          [
+            295,
+            496
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "これらの人たちは、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            185,
+            152
+          ],
+          [
+            185,
+            942
+          ],
+          [
+            225,
+            152
+          ],
+          [
+            225,
+            942
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「高島先生の講演を聞き、お邸へ出入し、講",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            120,
+            136
+          ],
+          [
+            120,
+            390
+          ],
+          [
+            156,
+            136
+          ],
+          [
+            156,
+            390
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "義を拝聴した」",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1298,
+            1083
+          ],
+          [
+            1298,
+            1896
+          ],
+          [
+            1356,
+            1083
+          ],
+          [
+            1356,
+            1896
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "と言っても、 高島姓を名乗ったりはしない。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            1043
+          ],
+          [
+            1224,
+            1883
+          ],
+          [
+            1282,
+            1043
+          ],
+          [
+            1282,
+            1883
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "後年神戸の湊川附近に居住して「高島先生直",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1151,
+            1045
+          ],
+          [
+            1151,
+            1886
+          ],
+          [
+            1209,
+            1045
+          ],
+          [
+            1209,
+            1886
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "門」という看板を掲げて実占していた橋本中",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1079,
+            1044
+          ],
+          [
+            1079,
+            1886
+          ],
+          [
+            1135,
+            1044
+          ],
+          [
+            1135,
+            1886
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "道氏は、 神奈川県の小学校教員だったが、 ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1007,
+            1052
+          ],
+          [
+            1007,
+            1894
+          ],
+          [
+            1062,
+            1052
+          ],
+          [
+            1062,
+            1894
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "の講演を機会に入門、いわゆる「書き役」な",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            933,
+            1049
+          ],
+          [
+            933,
+            1700
+          ],
+          [
+            984,
+            1049
+          ],
+          [
+            984,
+            1700
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "ど勤めながら勉強したものらしい。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            860,
+            1090
+          ],
+          [
+            860,
+            1314
+          ],
+          [
+            902,
+            1090
+          ],
+          [
+            902,
+            1314
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "嘉右衛門が、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            786,
+            1073
+          ],
+          [
+            786,
+            1319
+          ],
+          [
+            828,
+            1073
+          ],
+          [
+            828,
+            1319
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "「後世の易者」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            712,
+            1097
+          ],
+          [
+            712,
+            1578
+          ],
+          [
+            756,
+            1097
+          ],
+          [
+            756,
+            1578
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "に期待したことは大きく、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            637,
+            1076
+          ],
+          [
+            637,
+            1586
+          ],
+          [
+            681,
+            1076
+          ],
+          [
+            681,
+            1586
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "「果して真の易者が居るか」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            563,
+            1097
+          ],
+          [
+            563,
+            1919
+          ],
+          [
+            607,
+            1097
+          ],
+          [
+            607,
+            1919
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "という占題で筮した挿話もあるくらいであ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            489,
+            1059
+          ],
+          [
+            489,
+            1112
+          ],
+          [
+            523,
+            1059
+          ],
+          [
+            523,
+            1112
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            1101
+          ],
+          [
+            408,
+            1926
+          ],
+          [
+            453,
+            1101
+          ],
+          [
+            453,
+            1926
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "それは、例の進歩的政治家、得庵・鳥尾小",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            331,
+            1059
+          ],
+          [
+            331,
+            1926
+          ],
+          [
+            375,
+            1059
+          ],
+          [
+            375,
+            1926
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "彌太居士と語り合った、明治十八年のことだ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            258,
+            1061
+          ],
+          [
+            258,
+            1549
+          ],
+          [
+            296,
+            1061
+          ],
+          [
+            296,
+            1549
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "が、ここに記しておこう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            185,
+            1103
+          ],
+          [
+            185,
+            1375
+          ],
+          [
+            221,
+            1103
+          ],
+          [
+            221,
+            1375
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "得庵居士曰く。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            116,
+            1088
+          ],
+          [
+            116,
+            1919
+          ],
+          [
+            153,
+            1088
+          ],
+          [
+            153,
+            1919
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "「天下は広い、人材も亦多い筈である。一人",
+        "isTextline": "true",
+        "confidence": 0.943
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4909.JPEG",
+    "img_name": "IMG_4909.JPEG"
+  }
+}

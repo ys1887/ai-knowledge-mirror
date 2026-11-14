@@ -1,0 +1,181 @@
+#!/usr/bin/env python3
+import argparse
+import datetime as dt
+import re
+import subprocess
+import sys
+
+
+SECRET_FILE_RE = re.compile(r"(^|/)(\.env(\..*)?|.*\.pem|.*\.p12|.*\.pfx|id_rsa|id_ed25519)$", re.I)
+SECRET_CONTENT_RE = re.compile(
+    r"(ghp_[A-Za-z0-9]{30,}|gho_[A-Za-z0-9]{30,}|sk-[A-Za-z0-9]{20,}|"
+    r"AIza[0-9A-Za-z_-]{20,}|-----BEGIN (RSA|EC|OPENSSH|PGP|PRIVATE) KEY-----|"
+    r"[Pp]assword\s*[=:]|[Tt]oken\s*[=:]|[Ss]ecret\s*[=:]|"
+    r"[Aa]uthorization:\s*Bearer\s+)"
+)
+PUSH_REJECT_RE = re.compile(
+    r"(non-fast-forward|fetch first|failed to push some refs|updates were rejected|rejected)",
+    re.I,
+)
+
+
+def run_git(args: list[str], *, capture: bool = False, dry_run: bool = False) -> subprocess.CompletedProcess[str]:
+    cmd = ["git", *args]
+    if dry_run:
+        print("[DRY] " + " ".join(cmd))
+        return subprocess.CompletedProcess(cmd, 0, "", "")
+
+    return subprocess.run(
+        cmd,
+        check=False,
+        text=True,
+        stdout=subprocess.PIPE if capture else None,
+        stderr=subprocess.STDOUT if capture else None,
+    )
+
+
+def fail(message: str) -> None:
+    print(f"ERROR: {message}", file=sys.stderr)
+    raise SystemExit(1)
+
+
+def git_output(args: list[str]) -> str:
+    result = run_git(args, capture=True)
+    if result.returncode != 0:
+        fail(result.stdout.strip() or f"git {' '.join(args)} failed")
+    return result.stdout
+
+
+def ensure_git_repo() -> None:
+    result = run_git(["rev-parse", "--is-inside-work-tree"], capture=True)
+    if result.returncode != 0:
+        fail("Not inside a git repository")
+
+
+def staged_files() -> list[str]:
+    output = git_output(["diff", "--cached", "--name-only"])
+    return [line for line in output.splitlines() if line.strip()]
+
+
+def generate_auto_message(mode: str) -> str:
+    if mode == "ai-summary":
+        count = len(staged_files())
+        return "chore: update 1 file" if count == 1 else f"chore: update {count} files"
+    if mode == "timestamp":
+        return "chore: auto update " + dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+    fail(f"Unknown --auto-message mode: {mode}")
+
+
+def check_secret_file_names(files: list[str]) -> None:
+    if any(SECRET_FILE_RE.search(path.replace("\\", "/")) for path in files):
+        fail("Staged files include secret-like filenames (.env, key/cert). Unstage or remove before commit.")
+
+
+def check_secret_content() -> None:
+    result = run_git(["diff", "--cached", "--", ".", ":(exclude)*.md"], capture=True)
+    if result.returncode != 0:
+        fail(result.stdout.strip() or "Unable to inspect staged diff")
+    if SECRET_CONTENT_RE.search(result.stdout):
+        fail("Potential secret detected in staged non-markdown changes. Review staged diff before commit.")
+
+
+def attempt_push(cmd: list[str]) -> tuple[int, str]:
+    result = subprocess.run(cmd, check=False, text=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    output = result.stdout or ""
+    if output:
+        print(output, end="" if output.endswith("\n") else "\n")
+    return result.returncode, output
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        prog="safe_git_publish",
+        description="Safely stage, commit, and optionally push git changes.",
+    )
+    parser.add_argument("--message", help="Commit message.")
+    parser.add_argument("--auto-message", choices=["ai-summary", "timestamp"], help="Auto-generate commit message.")
+    parser.add_argument("--path", action="append", default=[], help="Stage one path. Repeatable.")
+    parser.add_argument("--stage-all", action="store_true", help="Stage all tracked and untracked changes.")
+    parser.add_argument("--push", action="store_true", help="Push current branch after commit.")
+    parser.add_argument("--allow-main-push", action="store_true", help="Allow push when branch is main/master.")
+    parser.add_argument("--auto-sync-on-push", action="store_true", help="On push reject, run fetch+rebase and retry once.")
+    parser.add_argument("--retry-push-on-reject", dest="retry_push_on_reject", action="store_true", default=True)
+    parser.add_argument("--no-retry-push-on-reject", dest="retry_push_on_reject", action="store_false")
+    parser.add_argument("--dry-run", action="store_true", help="Print planned commands only.")
+    return parser
+
+
+def main(argv: list[str]) -> int:
+    parser = build_parser()
+    args = parser.parse_args(argv)
+
+    if args.message and args.auto_message:
+        fail("Use either --message or --auto-message, not both")
+    if args.stage_all and args.path:
+        fail("Use either --stage-all or --path, not both")
+
+    ensure_git_repo()
+
+    if args.stage_all:
+        result = run_git(["add", "-A"], dry_run=args.dry_run)
+        if result.returncode != 0:
+            return result.returncode
+    else:
+        for path in args.path:
+            result = run_git(["add", "--", path], dry_run=args.dry_run)
+            if result.returncode != 0:
+                return result.returncode
+
+    if args.dry_run:
+        run_git(["diff", "--cached", "--stat"], dry_run=True)
+
+    files = staged_files()
+    if not files:
+        fail("No staged changes to commit")
+
+    if not args.message and not args.auto_message:
+        fail("Either --message or --auto-message is required")
+    message = args.message or generate_auto_message(args.auto_message)
+
+    check_secret_file_names(files)
+    check_secret_content()
+
+    result = run_git(["commit", "-m", message], dry_run=args.dry_run)
+    if result.returncode != 0:
+        return result.returncode
+
+    if args.push:
+        branch = git_output(["rev-parse", "--abbrev-ref", "HEAD"]).strip()
+        if branch in {"main", "master"} and not args.allow_main_push:
+            fail(f"Push blocked on {branch}. Re-run with --allow-main-push to proceed intentionally.")
+
+        exists = run_git(["ls-remote", "--exit-code", "--heads", "origin", branch], capture=True).returncode == 0
+        push_cmd = ["git", "push"] if exists else ["git", "push", "-u", "origin", branch]
+
+        if args.dry_run:
+            print("[DRY] " + " ".join(push_cmd))
+        else:
+            status, output = attempt_push(push_cmd)
+            if status == 0:
+                print("Push completed.")
+            elif args.auto_sync_on_push and args.retry_push_on_reject and PUSH_REJECT_RE.search(output):
+                print("Push rejected; running auto-sync (fetch + rebase) before one retry.")
+                fetch = run_git(["fetch", "origin", branch])
+                if fetch.returncode != 0:
+                    return fetch.returncode
+                rebase = run_git(["rebase", f"origin/{branch}"])
+                if rebase.returncode != 0:
+                    fail("Rebase failed (likely conflict). Resolve conflicts, then run: git add <files> && git rebase --continue")
+                status, _ = attempt_push(push_cmd)
+                if status != 0:
+                    fail("Push failed after auto-sync retry.")
+                print("Push completed after auto-sync retry.")
+            else:
+                fail("Push failed. Enable --auto-sync-on-push or sync manually (git fetch && git pull --rebase) then retry.")
+
+    print("Done.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv[1:]))

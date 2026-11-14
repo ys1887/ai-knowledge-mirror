@@ -1,0 +1,9 @@
+{
+  "id": "ekikyo",
+  "name": "Ekikyo Plugin",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Copy SIMPLE-style I Ching source blocks from binary input.",
+  "author": "Codex",
+  "isDesktopOnly": true
+}

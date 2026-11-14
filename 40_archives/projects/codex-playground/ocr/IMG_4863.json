@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1275,
+            125
+          ],
+          [
+            1275,
+            889
+          ],
+          [
+            1356,
+            125
+          ],
+          [
+            1356,
+            889
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ヲ好ムコト是ノ如シ。在獄七年ノ間、悔悟、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1203,
+            119
+          ],
+          [
+            1203,
+            914
+          ],
+          [
+            1284,
+            119
+          ],
+          [
+            1284,
+            914
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "懲文、深思力素、世故人情、推勘徹底、其ノ",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            118
+          ],
+          [
+            1136,
+            919
+          ],
+          [
+            1214,
+            118
+          ],
+          [
+            1214,
+            919
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "見識ニ富ムコト是ノ如シ。出獄ノ後、大事業",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1065,
+            120
+          ],
+          [
+            1065,
+            918
+          ],
+          [
+            1137,
+            120
+          ],
+          [
+            1137,
+            918
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "ヲ企テ、奮勉勇毅、必成ヲ期ス、其ノ力量ヲ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            993,
+            113
+          ],
+          [
+            993,
+            922
+          ],
+          [
+            1064,
+            113
+          ],
+          [
+            1064,
+            922
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "養フコト是ノ如シ。夫レ是ノ如キ学問識見力",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            920,
+            113
+          ],
+          [
+            920,
+            919
+          ],
+          [
+            989,
+            113
+          ],
+          [
+            989,
+            919
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "量ヲ以テ、而テ心ヲ専ラニシ志ヲ六十四卦ノ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            112
+          ],
+          [
+            850,
+            922
+          ],
+          [
+            912,
+            112
+          ],
+          [
+            912,
+            922
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "間ニ致シ、以テ此書ヲ著ス。世人ノ君ノ易ヲ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            775,
+            110
+          ],
+          [
+            775,
+            928
+          ],
+          [
+            841,
+            110
+          ],
+          [
+            841,
+            928
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "学バント欲スルモノハ、須ク是ノ如キ学問識",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            701,
+            110
+          ],
+          [
+            701,
+            930
+          ],
+          [
+            764,
+            110
+          ],
+          [
+            764,
+            930
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "見力量ヲ要スベシ。因テ聊カ所見ヲ書シテ以",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            629,
+            114
+          ],
+          [
+            629,
+            485
+          ],
+          [
+            674,
+            114
+          ],
+          [
+            674,
+            485
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "テ巻末ニ弁ズト云フ。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            564,
+            598
+          ],
+          [
+            564,
+            935
+          ],
+          [
+            611,
+            598
+          ],
+          [
+            611,
+            935
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "梅窓杉浦重剛撰",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            482,
+            155
+          ],
+          [
+            482,
+            955
+          ],
+          [
+            536,
+            155
+          ],
+          [
+            536,
+            955
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "易占を目して「迷信の元兇」「非常識の大本」",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            125
+          ],
+          [
+            408,
+            933
+          ],
+          [
+            454,
+            125
+          ],
+          [
+            454,
+            933
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "のように思っている現代の世人、とくにイン",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            336,
+            130
+          ],
+          [
+            336,
+            943
+          ],
+          [
+            381,
+            130
+          ],
+          [
+            381,
+            943
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "テリたちに、維新直後に海外へ渡航し、理学",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            267,
+            137
+          ],
+          [
+            267,
+            947
+          ],
+          [
+            306,
+            137
+          ],
+          [
+            306,
+            947
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "を修めて来た国士杉浦重剛が、このように易",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            202,
+            152
+          ],
+          [
+            202,
+            950
+          ],
+          [
+            237,
+            152
+          ],
+          [
+            237,
+            950
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "に思いを致していたことを知って欲しいと思",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            146,
+            165
+          ],
+          [
+            146,
+            406
+          ],
+          [
+            174,
+            165
+          ],
+          [
+            174,
+            406
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "うものである。",
+        "isTextline": "true",
+        "confidence": 0.922
+      },
+      {
+        "boundingBox": [
+          [
+            1335,
+            1076
+          ],
+          [
+            1335,
+            1916
+          ],
+          [
+            1419,
+            1076
+          ],
+          [
+            1419,
+            1916
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "ちなみに杉浦の名重剛は易の乾為天(二)",
+        "isTextline": "true",
+        "confidence": 0.929
+      },
+      {
+        "boundingBox": [
+          [
+            1259,
+            1036
+          ],
+          [
+            1259,
+            1657
+          ],
+          [
+            1325,
+            1036
+          ],
+          [
+            1325,
+            1657
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "を意味する。重陽と同じ意味だ。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1189,
+            1085
+          ],
+          [
+            1189,
+            1932
+          ],
+          [
+            1265,
+            1085
+          ],
+          [
+            1265,
+            1932
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "この頃からの嘉右衛門は、裏面はともかく、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            1039
+          ],
+          [
+            1109,
+            1923
+          ],
+          [
+            1184,
+            1039
+          ],
+          [
+            1184,
+            1923
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "表面は実業家よりむしろ学者たちと付き合う",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            1037,
+            1045
+          ],
+          [
+            1037,
+            1584
+          ],
+          [
+            1095,
+            1045
+          ],
+          [
+            1095,
+            1584
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "ことの方が多くなっていた。",
+        "isTextline": "true",
+        "confidence": 0.827
+      },
+      {
+        "boundingBox": [
+          [
+            962,
+            1086
+          ],
+          [
+            962,
+            1934
+          ],
+          [
+            1028,
+            1086
+          ],
+          [
+            1028,
+            1934
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "長井金風あたりからは欧化主義のかたまり",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            885,
+            1051
+          ],
+          [
+            885,
+            1937
+          ],
+          [
+            954,
+            1051
+          ],
+          [
+            954,
+            1937
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "のように諷されている嘉右衛門が、斯文会",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            807,
+            1055
+          ],
+          [
+            807,
+            1942
+          ],
+          [
+            873,
+            1055
+          ],
+          [
+            873,
+            1942
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "(湯島聖堂内)で易の講義をしたりしていた",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            732,
+            1056
+          ],
+          [
+            732,
+            1950
+          ],
+          [
+            796,
+            1056
+          ],
+          [
+            796,
+            1950
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "のは矛盾のようだが(長井金風の周易物語参",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            653,
+            1054
+          ],
+          [
+            653,
+            1955
+          ],
+          [
+            715,
+            1054
+          ],
+          [
+            715,
+            1955
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "照)、それは彼が時代思潮に敏感だっただけ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            578,
+            1060
+          ],
+          [
+            578,
+            1956
+          ],
+          [
+            635,
+            1060
+          ],
+          [
+            635,
+            1956
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "のことで、 彼自身にとっては矛盾でも変節で",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            1058
+          ],
+          [
+            501,
+            1293
+          ],
+          [
+            540,
+            1058
+          ],
+          [
+            540,
+            1293
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "もなかった。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            421,
+            1104
+          ],
+          [
+            421,
+            1966
+          ],
+          [
+            475,
+            1104
+          ],
+          [
+            475,
+            1966
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "斯文会は、明治十三年に、欧化主義を慷慨",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            344,
+            1066
+          ],
+          [
+            344,
+            1966
+          ],
+          [
+            394,
+            1066
+          ],
+          [
+            394,
+            1966
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "した岡本監輔が、岩倉具視や股野琢などの援",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            270,
+            1067
+          ],
+          [
+            270,
+            1961
+          ],
+          [
+            315,
+            1067
+          ],
+          [
+            315,
+            1961
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "助で設立し、千五百名以上の会員を得たもの",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            201,
+            1074
+          ],
+          [
+            201,
+            1957
+          ],
+          [
+            241,
+            1074
+          ],
+          [
+            241,
+            1957
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "である。その会員のうち著名な人を拾ってみ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            137,
+            1076
+          ],
+          [
+            137,
+            1952
+          ],
+          [
+            172,
+            1076
+          ],
+          [
+            172,
+            1952
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "ると、重野安繹、川田剛、根本通明、島田重",
+        "isTextline": "true",
+        "confidence": 0.948
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4863.JPEG",
+    "img_name": "IMG_4863.JPEG"
+  }
+}

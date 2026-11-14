@@ -1,0 +1,256 @@
+#!/usr/bin/env bash
+
+set -u
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SKILL_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+LOG_DIR="$SKILL_DIR/logs"
+mkdir -p "$LOG_DIR"
+LOG_FILE="$LOG_DIR/epub2pdf-$(date +%Y%m%d-%H%M%S).log"
+
+IN_PATH=""
+OUT_PATH=""
+RECURSIVE=0
+OVERWRITE=0
+DRY_RUN=0
+
+TOTAL=0
+CONVERTED=0
+FAILED=0
+SKIPPED=0
+PLANNED=0
+
+EBOOK_CONVERT_CMD=""
+EBOOK_CONVERT_MODE=""
+
+usage() {
+  cat <<'EOF'
+Usage:
+  epub2pdf --in <path> [--out <path>] [--recursive] [--overwrite] [--dry-run]
+
+Options:
+  --in <path>      Required. EPUB file path or directory path.
+  --out <path>     Optional.
+                   - File input: output PDF path or output directory.
+                   - Directory input: output directory.
+  --recursive      Directory mode only. Include subdirectories.
+  --overwrite      Overwrite existing output PDFs.
+  --dry-run        Print planned actions without converting.
+  --help           Show this help.
+EOF
+}
+
+log() {
+  printf '[%s] %s\n' "$(date '+%Y-%m-%d %H:%M:%S')" "$*" | tee -a "$LOG_FILE"
+}
+
+fail() {
+  log "ERROR: $*"
+  log "Log file: $LOG_FILE"
+  exit 1
+}
+
+is_epub() {
+  local lower
+  lower="${1,,}"
+  [[ "$lower" == *.epub ]]
+}
+
+resolve_ebook_convert() {
+  local candidate
+
+  if command -v ebook-convert >/dev/null 2>&1; then
+    EBOOK_CONVERT_CMD="$(command -v ebook-convert)"
+    EBOOK_CONVERT_MODE="native"
+    return 0
+  fi
+
+  for candidate in \
+    "/mnt/c/Program Files/Calibre2/ebook-convert.exe" \
+    "/mnt/c/Program Files (x86)/Calibre2/ebook-convert.exe"; do
+    if [[ -f "$candidate" ]]; then
+      if command -v wslpath >/dev/null 2>&1; then
+        EBOOK_CONVERT_CMD="$candidate"
+        EBOOK_CONVERT_MODE="windows"
+        return 0
+      fi
+    fi
+  done
+
+  return 1
+}
+
+convert_one() {
+  local src="$1"
+  local dest="$2"
+  local dest_dir
+  local src_cmd="$src"
+  local dest_cmd="$dest"
+
+  dest_dir="$(dirname "$dest")"
+
+  if [[ ! -d "$dest_dir" ]]; then
+    if [[ "$DRY_RUN" -eq 1 ]]; then
+      log "[DRY] mkdir -p \"$dest_dir\""
+    else
+      mkdir -p "$dest_dir" || {
+        log "FAIL: could not create directory $dest_dir"
+        FAILED=$((FAILED + 1))
+        return
+      }
+    fi
+  fi
+
+  if [[ -f "$dest" && "$OVERWRITE" -eq 0 ]]; then
+    log "SKIP: output exists -> $dest"
+    SKIPPED=$((SKIPPED + 1))
+    return
+  fi
+
+  if [[ "$EBOOK_CONVERT_MODE" == "windows" ]]; then
+    src_cmd="$(wslpath -w "$src")" || {
+      log "FAIL: could not convert source path for Windows Calibre: $src"
+      FAILED=$((FAILED + 1))
+      return
+    }
+    dest_cmd="$(wslpath -w "$dest")" || {
+      log "FAIL: could not convert destination path for Windows Calibre: $dest"
+      FAILED=$((FAILED + 1))
+      return
+    }
+  fi
+
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    log "[DRY] $EBOOK_CONVERT_CMD \"$src_cmd\" \"$dest_cmd\""
+    PLANNED=$((PLANNED + 1))
+    return
+  fi
+
+  if "$EBOOK_CONVERT_CMD" "$src_cmd" "$dest_cmd" >>"$LOG_FILE" 2>&1; then
+    log "OK: $src -> $dest"
+    CONVERTED=$((CONVERTED + 1))
+  else
+    log "FAIL: $src"
+    FAILED=$((FAILED + 1))
+  fi
+}
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --in)
+      shift
+      [[ $# -gt 0 ]] || fail "Missing value for --in"
+      IN_PATH="$1"
+      ;;
+    --out)
+      shift
+      [[ $# -gt 0 ]] || fail "Missing value for --out"
+      OUT_PATH="$1"
+      ;;
+    --recursive)
+      RECURSIVE=1
+      ;;
+    --overwrite)
+      OVERWRITE=1
+      ;;
+    --dry-run)
+      DRY_RUN=1
+      ;;
+    --help)
+      usage
+      exit 0
+      ;;
+    *)
+      fail "Unknown option: $1"
+      ;;
+  esac
+  shift
+done
+
+[[ -n "$IN_PATH" ]] || fail "--in is required"
+[[ -e "$IN_PATH" ]] || fail "Input path does not exist: $IN_PATH"
+
+if resolve_ebook_convert; then
+  log "Converter: $EBOOK_CONVERT_CMD ($EBOOK_CONVERT_MODE)"
+else
+  if [[ "$DRY_RUN" -eq 1 ]]; then
+    log "WARN: ebook-convert not found. Dry-run will continue."
+  else
+    fail "ebook-convert not found. Install WSL Calibre (sudo apt install -y calibre) or install Windows Calibre at /mnt/c/Program Files/Calibre2."
+  fi
+fi
+
+if [[ -f "$IN_PATH" ]]; then
+  if ! is_epub "$IN_PATH"; then
+    fail "When --in is a file, it must end with .epub"
+  fi
+
+  input_file="$IN_PATH"
+  base_name="$(basename "$input_file")"
+  base_name="${base_name%.*}"
+
+  if [[ -z "$OUT_PATH" ]]; then
+    output_file="$(dirname "$input_file")/$base_name.pdf"
+  elif [[ "${OUT_PATH,,}" == *.pdf ]]; then
+    output_file="$OUT_PATH"
+  else
+    output_file="$OUT_PATH/$base_name.pdf"
+  fi
+
+  TOTAL=1
+  log "Mode: file"
+  log "Input: $input_file"
+  log "Output: $output_file"
+  convert_one "$input_file" "$output_file"
+
+elif [[ -d "$IN_PATH" ]]; then
+  input_dir="${IN_PATH%/}"
+  [[ -n "$input_dir" ]] || input_dir="/"
+  output_dir="${OUT_PATH:-$input_dir}"
+
+  log "Mode: directory"
+  log "Input dir: $input_dir"
+  log "Output dir: $output_dir"
+  log "Recursive: $RECURSIVE"
+
+  if [[ ! -d "$output_dir" && "$DRY_RUN" -eq 0 ]]; then
+    mkdir -p "$output_dir" || fail "Could not create output directory: $output_dir"
+  fi
+
+  if [[ "$RECURSIVE" -eq 1 ]]; then
+    while IFS= read -r -d '' src; do
+      TOTAL=$((TOTAL + 1))
+      rel="${src#$input_dir/}"
+      dest="$output_dir/${rel%.*}.pdf"
+      convert_one "$src" "$dest"
+    done < <(find "$input_dir" -type f -iname '*.epub' -print0)
+  else
+    while IFS= read -r -d '' src; do
+      TOTAL=$((TOTAL + 1))
+      rel="${src#$input_dir/}"
+      dest="$output_dir/${rel%.*}.pdf"
+      convert_one "$src" "$dest"
+    done < <(find "$input_dir" -maxdepth 1 -type f -iname '*.epub' -print0)
+  fi
+
+  if [[ "$TOTAL" -eq 0 ]]; then
+    log "No EPUB files found."
+  fi
+
+else
+  fail "Input path is neither a file nor a directory: $IN_PATH"
+fi
+
+if [[ "$DRY_RUN" -eq 1 ]]; then
+  log "Dry-run summary: total=$TOTAL planned=$PLANNED skipped=$SKIPPED failed=$FAILED"
+else
+  log "Summary: total=$TOTAL converted=$CONVERTED skipped=$SKIPPED failed=$FAILED"
+fi
+
+log "Log file: $LOG_FILE"
+
+if [[ "$FAILED" -gt 0 && "$DRY_RUN" -eq 0 ]]; then
+  exit 1
+fi
+
+exit 0

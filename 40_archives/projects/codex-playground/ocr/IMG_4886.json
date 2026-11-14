@@ -1,0 +1,762 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1371,
+            111
+          ],
+          [
+            1371,
+            950
+          ],
+          [
+            1421,
+            111
+          ],
+          [
+            1421,
+            950
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "三時頃には大暴風となり、 車軸を流すような",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1303,
+            99
+          ],
+          [
+            1303,
+            365
+          ],
+          [
+            1342,
+            99
+          ],
+          [
+            1342,
+            365
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "大雨となった。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1230,
+            133
+          ],
+          [
+            1230,
+            942
+          ],
+          [
+            1279,
+            133
+          ],
+          [
+            1279,
+            942
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "若い神職たちは神威の厳粛さに驚き、かつ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1154,
+            89
+          ],
+          [
+            1154,
+            945
+          ],
+          [
+            1201,
+            89
+          ],
+          [
+            1201,
+            945
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "嘉右衛門の易占に感動し、暴風雨の中を彼の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1076,
+            89
+          ],
+          [
+            1076,
+            950
+          ],
+          [
+            1123,
+            89
+          ],
+          [
+            1123,
+            950
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "旅館へ駆けつけ、疑り嘲ったことを心から謝",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1002,
+            94
+          ],
+          [
+            1002,
+            399
+          ],
+          [
+            1040,
+            94
+          ],
+          [
+            1040,
+            399
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "したのであった。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            924,
+            141
+          ],
+          [
+            924,
+            950
+          ],
+          [
+            965,
+            141
+          ],
+          [
+            965,
+            950
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "この一占は後に熱田神宮にとって大きな幸",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            107
+          ],
+          [
+            850,
+            321
+          ],
+          [
+            885,
+            107
+          ],
+          [
+            885,
+            321
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "いとなった。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            770,
+            146
+          ],
+          [
+            770,
+            952
+          ],
+          [
+            811,
+            146
+          ],
+          [
+            811,
+            952
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "というのは翌二十二年、伊藤(博文)枢密",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            695,
+            110
+          ],
+          [
+            695,
+            925
+          ],
+          [
+            736,
+            110
+          ],
+          [
+            736,
+            925
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "院議長と佐野(常民)宮中顧問官の二人が、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            621,
+            114
+          ],
+          [
+            621,
+            953
+          ],
+          [
+            661,
+            114
+          ],
+          [
+            661,
+            953
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "熱田神宮にお詣りして角田大宮司らから神徳",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            546,
+            125
+          ],
+          [
+            546,
+            950
+          ],
+          [
+            587,
+            125
+          ],
+          [
+            587,
+            950
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "あらたかな話を聞き、上古からの由緒をしら",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            125
+          ],
+          [
+            471,
+            954
+          ],
+          [
+            515,
+            125
+          ],
+          [
+            515,
+            954
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "べて帰り、 宮内省から十万円寄付させ、 社格",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            129
+          ],
+          [
+            400,
+            946
+          ],
+          [
+            443,
+            129
+          ],
+          [
+            443,
+            946
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "も伊勢大廟につぐ高位に上せられたのであっ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            338,
+            135
+          ],
+          [
+            338,
+            185
+          ],
+          [
+            371,
+            135
+          ],
+          [
+            371,
+            185
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.918
+      },
+      {
+        "boundingBox": [
+          [
+            1322,
+            1165
+          ],
+          [
+            1322,
+            1506
+          ],
+          [
+            1366,
+            1165
+          ],
+          [
+            1366,
+            1506
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "四僧侶と易者",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1164,
+            1117
+          ],
+          [
+            1164,
+            1974
+          ],
+          [
+            1210,
+            1117
+          ],
+          [
+            1210,
+            1974
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "嘉右衛門は八宗兼学の人だったから交際も",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1085,
+            1074
+          ],
+          [
+            1085,
+            1448
+          ],
+          [
+            1127,
+            1074
+          ],
+          [
+            1127,
+            1448
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "きわめて広かった。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1005,
+            1115
+          ],
+          [
+            1005,
+            1968
+          ],
+          [
+            1049,
+            1115
+          ],
+          [
+            1049,
+            1968
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "彼の知識の間口は人並みはずれて広かった",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            928,
+            1075
+          ],
+          [
+            928,
+            1220
+          ],
+          [
+            966,
+            1075
+          ],
+          [
+            966,
+            1220
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ようだ。",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            848,
+            1116
+          ],
+          [
+            848,
+            1956
+          ],
+          [
+            890,
+            1116
+          ],
+          [
+            890,
+            1956
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "寡聞な筆者なので見解が狭いかも知れない",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            770,
+            1074
+          ],
+          [
+            770,
+            1957
+          ],
+          [
+            811,
+            1074
+          ],
+          [
+            811,
+            1957
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "が、先年物故した紀州の怪傑・南方熊楠先生",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            694,
+            1073
+          ],
+          [
+            694,
+            1951
+          ],
+          [
+            733,
+            1073
+          ],
+          [
+            733,
+            1951
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "と同じようなスケールだったのじゃないかと",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            621,
+            1075
+          ],
+          [
+            621,
+            1260
+          ],
+          [
+            658,
+            1075
+          ],
+          [
+            658,
+            1260
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "思われる。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            540,
+            1071
+          ],
+          [
+            540,
+            1944
+          ],
+          [
+            582,
+            1071
+          ],
+          [
+            582,
+            1944
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "-昭和十六年(一九四一)に六十幾つで亡",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            464,
+            1075
+          ],
+          [
+            464,
+            1939
+          ],
+          [
+            506,
+            1075
+          ],
+          [
+            506,
+            1939
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "くなった南方と、大正三年(一九一四)に八",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            390,
+            1075
+          ],
+          [
+            390,
+            1935
+          ],
+          [
+            434,
+            1075
+          ],
+          [
+            434,
+            1935
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "十三で亡くなった嘉右衛門とを十日ほど語ら",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            317,
+            1075
+          ],
+          [
+            317,
+            1931
+          ],
+          [
+            360,
+            1075
+          ],
+          [
+            360,
+            1931
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "せたら、さぞ面白い話が世に残ったことだろ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            258,
+            1074
+          ],
+          [
+            258,
+            1130
+          ],
+          [
+            287,
+            1074
+          ],
+          [
+            287,
+            1130
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "う。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            169,
+            1117
+          ],
+          [
+            169,
+            1922
+          ],
+          [
+            215,
+            1117
+          ],
+          [
+            215,
+            1922
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "合気道の創始者植芝盛平翁は、南方熊楠に",
+        "isTextline": "true",
+        "confidence": 0.953
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4886.JPEG",
+    "img_name": "IMG_4886.JPEG"
+  }
+}

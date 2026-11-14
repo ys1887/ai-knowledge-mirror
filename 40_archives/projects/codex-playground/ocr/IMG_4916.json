@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1344,
+            123
+          ],
+          [
+            1344,
+            785
+          ],
+          [
+            1385,
+            123
+          ],
+          [
+            1385,
+            785
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "しいそうである。 神道の斎戒では、",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            1271,
+            138
+          ],
+          [
+            1271,
+            988
+          ],
+          [
+            1315,
+            138
+          ],
+          [
+            1315,
+            988
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "「仏斎清食に預ること、喪を弔うこと、病を",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1197,
+            110
+          ],
+          [
+            1197,
+            1004
+          ],
+          [
+            1239,
+            110
+          ],
+          [
+            1239,
+            1004
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "問うこと、宍を食うこと、刑殺を判ずること、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1118,
+            108
+          ],
+          [
+            1118,
+            989
+          ],
+          [
+            1161,
+            108
+          ],
+          [
+            1161,
+            989
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "罪人を決罰すること、供神以外の音楽を作す",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1040,
+            113
+          ],
+          [
+            1040,
+            985
+          ],
+          [
+            1082,
+            113
+          ],
+          [
+            1082,
+            985
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "こと、言語を妄にすること、穢悪に触るるこ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            961,
+            110
+          ],
+          [
+            961,
+            987
+          ],
+          [
+            1004,
+            110
+          ],
+          [
+            1004,
+            987
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "と、仏法を行うこと、挙哀併びに改葬に預る",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            883,
+            117
+          ],
+          [
+            883,
+            214
+          ],
+          [
+            923,
+            117
+          ],
+          [
+            923,
+            214
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "こと」",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            159
+          ],
+          [
+            805,
+            964
+          ],
+          [
+            846,
+            159
+          ],
+          [
+            846,
+            964
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "等のほぼ十一の禁忌を心得としたらしい。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            728,
+            120
+          ],
+          [
+            728,
+            989
+          ],
+          [
+            769,
+            120
+          ],
+          [
+            769,
+            989
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "もっとも大正三年に内務省令で規定されたそ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            652,
+            126
+          ],
+          [
+            652,
+            569
+          ],
+          [
+            691,
+            126
+          ],
+          [
+            691,
+            569
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "れは非常にかんたんで、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            575,
+            151
+          ],
+          [
+            575,
+            990
+          ],
+          [
+            615,
+            151
+          ],
+          [
+            615,
+            990
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "「喪に与り、又は凡そ汚穢に触るることを得",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            129
+          ],
+          [
+            500,
+            190
+          ],
+          [
+            539,
+            129
+          ],
+          [
+            539,
+            190
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "ず」",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            427,
+            178
+          ],
+          [
+            427,
+            445
+          ],
+          [
+            463,
+            178
+          ],
+          [
+            463,
+            445
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "というだけで、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            161
+          ],
+          [
+            350,
+            1006
+          ],
+          [
+            389,
+            161
+          ],
+          [
+            389,
+            1006
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "「明るく清く、正しく、直く、高く、大きく、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            276,
+            141
+          ],
+          [
+            276,
+            922
+          ],
+          [
+            316,
+            141
+          ],
+          [
+            316,
+            922
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "広き心」を持つようにすることだとある。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            201,
+            184
+          ],
+          [
+            201,
+            974
+          ],
+          [
+            241,
+            184
+          ],
+          [
+            241,
+            974
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "斎戒は祭祀の前に行うわけだが、探筮の一",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            129,
+            152
+          ],
+          [
+            129,
+            988
+          ],
+          [
+            168,
+            152
+          ],
+          [
+            168,
+            988
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "々を神事として、一、頭髪を洗い、あるいは",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1351,
+            1110
+          ],
+          [
+            1351,
+            1997
+          ],
+          [
+            1391,
+            1110
+          ],
+          [
+            1391,
+            1997
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "散髪して洗い整え、二、手足の爪を剪り、三、",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1277,
+            1112
+          ],
+          [
+            1277,
+            1984
+          ],
+          [
+            1317,
+            1112
+          ],
+          [
+            1317,
+            1984
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "髭髯を剃り、又は洗い整え、四、水又は湯で",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            1113
+          ],
+          [
+            1200,
+            1988
+          ],
+          [
+            1241,
+            1113
+          ],
+          [
+            1241,
+            1988
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "身体全部を洗い、五、尿には手を洗い、屎に",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1121,
+            1114
+          ],
+          [
+            1121,
+            1990
+          ],
+          [
+            1163,
+            1114
+          ],
+          [
+            1163,
+            1990
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "は全身を洗う、となれば、その都度では、第",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1042,
+            1114
+          ],
+          [
+            1042,
+            1986
+          ],
+          [
+            1084,
+            1114
+          ],
+          [
+            1084,
+            1986
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "五の前者ぐらいしか出来ないのが近代人だろ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            1112
+          ],
+          [
+            969,
+            1171
+          ],
+          [
+            1002,
+            1112
+          ],
+          [
+            1002,
+            1171
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "う。",
+        "isTextline": "true",
+        "confidence": 0.925
+      },
+      {
+        "boundingBox": [
+          [
+            885,
+            1111
+          ],
+          [
+            885,
+            1976
+          ],
+          [
+            926,
+            1111
+          ],
+          [
+            926,
+            1976
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "-神社では、それぞれ斎戒にも流儀があっ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            807,
+            1116
+          ],
+          [
+            807,
+            1954
+          ],
+          [
+            848,
+            1116
+          ],
+          [
+            848,
+            1954
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "て、伊勢神宮などは(永正十年(一五一三)",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            1117
+          ],
+          [
+            730,
+            1981
+          ],
+          [
+            771,
+            1117
+          ],
+          [
+            771,
+            1981
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "の永正記。禰宜荒木田守晨撰)内外親族仮服",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            653,
+            1110
+          ],
+          [
+            653,
+            1782
+          ],
+          [
+            693,
+            1110
+          ],
+          [
+            693,
+            1782
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "事以下六十近くのタブーがあった。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            577,
+            1156
+          ],
+          [
+            577,
+            1975
+          ],
+          [
+            618,
+            1156
+          ],
+          [
+            618,
+            1975
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "その中には、鼻血を出したら沐浴せねばな",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            1113
+          ],
+          [
+            501,
+            1974
+          ],
+          [
+            540,
+            1113
+          ],
+          [
+            540,
+            1974
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "らないとか、メオトのことを行ったら男女共",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            424,
+            1115
+          ],
+          [
+            424,
+            1969
+          ],
+          [
+            464,
+            1115
+          ],
+          [
+            464,
+            1969
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "三日之を忌んで精進を始め、五日目になって",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            349,
+            1110
+          ],
+          [
+            349,
+            1968
+          ],
+          [
+            389,
+            1110
+          ],
+          [
+            389,
+            1968
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "参宮すべきだとか、灸をすえたら七日精進し",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            275,
+            1113
+          ],
+          [
+            275,
+            1684
+          ],
+          [
+            314,
+            1113
+          ],
+          [
+            314,
+            1684
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "なければならない、とかある。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            199,
+            1155
+          ],
+          [
+            199,
+            1961
+          ],
+          [
+            240,
+            1155
+          ],
+          [
+            240,
+            1961
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "出雲大社、宇佐神宮、石清水八幡等もそれ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            126,
+            1112
+          ],
+          [
+            126,
+            1961
+          ],
+          [
+            166,
+            1112
+          ],
+          [
+            166,
+            1961
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "ぞれ斎戒の内規があるが、 筮儀は神斎でなく",
+        "isTextline": "true",
+        "confidence": 0.953
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4916.JPEG",
+    "img_name": "IMG_4916.JPEG"
+  }
+}

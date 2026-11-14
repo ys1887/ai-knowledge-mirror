@@ -1,0 +1,220 @@
+## Day:2025-05-14 00:58
+
+## Tags: #易経 #易占 #山風蠱
+## Related Ideas: 
+## Source: 
+[‎Gemini](https://gemini.google.com/gem/baca87fdcab0/263195807cd840cb)
+[Gemini](https://gemini.google.com/gem/0ffa5296171e/6720c9f31f710aa6)
+## LLM: Gemini 2.5 Pro
+
+本卦と変爻の原文と解釈はGemini
+
+```
+### 1. 占いに至った背景・状況
+今月、小網神社に行こうか迷っているので、易経にたずねたい。
+
+### 2. 易経への質問
+今月、小網神社に行った方がいいか？
+
+### 3. 占い結果入力
+本卦：18山風蠱
+変爻：3
+はい、承知いたしました。ご指定の山風蠱の三爻について解説します。
+
+---
+
+## 📖 山風蠱（さんぷうこ）
+
+### （卦象の本質）
+
+- **卦名と構成:** 山風蠱（さんぷうこ）
+    - 上卦：艮（ごん）☰ - 山
+    - 下卦：巽（そん）☴ - 風
+- **象徴的意味・図像の解釈:**
+    - 「蠱」は、皿の上に三匹の虫がいる形を表し、腐敗、乱れ、弊害、事の生じる時を意味します。山の下に風が吹き、物が散り乱れる様、あるいは、山が止まり風が通じないで物が腐る様とも解釈されます。（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+    - また、蠱とは、事が生ずること、腐敗してそこから新たなものが生じることを意味します。親のやり残したことを子が継ぐという意味合いもあります。（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+
+### （卦の基本解釈）
+
+- **序卦伝**（この卦の配列上の意義や前後の卦との関連など）
+    
+    - 原文または関連記述（出典：[https://ekikyo.net/kougi/kougi64/kougi64-18.html](https://www.google.com/search?q=https://ekikyo.net/kougi/kougi64/kougi64-18.html)）
+        - 「隨とは、人に隨う者也。故に之を受くるに蠱を以てす。蠱とは事ある也。」
+    - 解釈（出典：[https://ekikyo.net/kougi/kougi64/kougi64-18.html](https://www.google.com/search?q=https://ekikyo.net/kougi/kougi64/kougi64-18.html)）
+        - 人に随っていくと、必ず何らかの事件や問題（事）が起こる。そこで隨の卦の次に蠱の卦が置かれる。蠱とは事ある時である。
+    - 原文または関連記述（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+        - 「序卦伝には「隨ゆれば則ち説ぶ。故に之を受くるに蠱を以てす。蠱とは事あるなり」とあり、人に随うことによって喜ぶことができるが、ともすれば安きに流れてしまう。それによって腐敗が生じ、物事が滞る。それゆえに隨の卦の次に蠱の卦がある。」
+    - 解釈（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+        - 前の卦である澤雷隨は人に随うことで悦びがあるが、安易に流されると腐敗が生じ、物事が滞ることを示唆している。そのため、隨の次に蠱が配置されている。蠱は「事ある」時、つまり何かが起こり、乱れや腐敗が生じている状態を意味する。
+- **卦辞**
+    
+    - 原文（出典：[https://ctext.org/book-of-changes/gu](https://ctext.org/book-of-changes/gu)）
+        - 「蠱、元亨。利渉大川。先甲三日、後甲三日。」
+    - 解釈（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+        - 蠱は、大いに通る。大川を渉るのに利ろし。甲に先だつ三日、甲に後る三日。
+        - 腐敗や乱れの後に新たなものが生じるため、願いは大きく通る。困難な状況を乗り越えるのに良い。物事を始めるにあたっては、慎重に準備し、事後も丁寧に処理することが大切である。「甲」は物事の始まりや変革を意味し、その前後の準備と処理の重要性を示している。
+    - 解釈（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+        - 蠱の時は、弊害を取り除き、刷新する時なので、願いは大いに通る。大きな川を渡るような困難な事業もやり遂げることができる。ただし、「先甲三日、後甲三日」とあるように、物事を始めるにあたっては慎重に計画を練り、事後も丁寧に処理する必要がある。甲は十干の最初で、物事の始まりを意味する。
+- **彖伝**
+    
+    - 原文（出典：[https://ctext.org/book-of-changes/gu](https://ctext.org/book-of-changes/gu)）
+        - 「彖曰：蠱、剛上而柔下、巽而止、蠱。蠱、元亨、而天下治也。利渉大川、往有事也。先甲三日、後甲三日、終則有始、天行也。」
+    - 解釈（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+        - 彖に曰く、蠱は剛上りて柔下り、巽にして止まるは蠱なり。蠱は元いに亨りて天下治まるなり。大川を渉るに利しとは、往きて事あるなり。甲に先だつ三日、甲に後る三日とは、終れば則ち始め有り、天行なり。
+        - 蠱の卦は、陽剛が上に進み、陰柔が下に退く形で、内卦の巽（従順）と外卦の艮（止まる）の性質が組み合わさっている。これが蠱の状態である。蠱の時は、根本から亨通し、それによって天下は治まる。大川を渡るのが良いというのは、進んで事に当たるべきだからである。「先甲三日、後甲三日」というのは、物事が終わればまた新たな始まりがあるという、天の運行の法則を示す。
+    - 解釈（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+        - 蠱の卦は、陽剛の気が上に昇り、陰柔の気が下に降りる形で、下卦の巽（風、従順）と上卦の艮（山、止まる）が組み合わさっている。風が山に遮られて通じない、あるいは、内は従順だが外で止められる、といった意味で「蠱」となる。しかし、この腐敗や困難を克服することで、天下は治まる。「大川を渉るに利ろし」とは、困難な事業（事）に積極的に取り組むべきだということ。「先甲三日、後甲三日」とは、物事が終わればまた始まりがあるという、天の運行の自然なリズムを表している。
+- **大象伝**
+    
+    - 原文（出典：[https://ctext.org/book-of-changes/gu](https://ctext.org/book-of-changes/gu)）
+        - 「象曰：山下有風、蠱。君子以振民育徳。」
+    - 解釈（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+        - 象に曰く、山下に風有るは蠱なり。君子以て民を振い徳を育う。
+        - 山の下に風が吹いているのが蠱の象である。君子はこの象を見て、民衆の気を奮い立たせ、徳性を養い育てる。
+    - 解釈（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+        - 山の下に風が吹き、草木がなびき乱れる様子が蠱の形である。君子はこの象に則り、民の気を奮い立たせ、徳を養い育てる。腐敗や乱れを正し、新たな秩序を築くことを意味する。
+
+### （爻辞解釈）（指定された変爻：九三）
+
+- **爻位:** 九三（きゅうさん）
+- **爻辞原文**（出典：[https://ctext.org/book-of-changes/gu](https://ctext.org/book-of-changes/gu)）
+    - 「幹父之蠱。小有悔。无大咎。」
+- **小象伝原文**（出典：[https://ctext.org/book-of-changes/gu](https://ctext.org/book-of-changes/gu)）
+    - 「象曰：幹父之蠱、意承考也。」
+- **逐語訳:**
+    - 幹（かん）：処理する、正す、引き受ける。
+    - 父（ふ）：父。
+    - 之（の）：～の。
+    - 蠱（こ）：腐敗、乱れ、弊害。
+    - 小（しょう）：少し。
+    - 有（ゆう）：ある。
+    - 悔（かい）：後悔、悔い。
+    - 无（む）：なし。
+    - 大（だい）：大きな。
+    - 咎（きゅう）：とがめ、過ち。
+    - 意（い）：心、意志。
+    - 承（しょう）：承ける、引き継ぐ。
+    - 考（こう）：父、亡父。
+- **解釈**（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+    - 父の蠱を処理する。少し悔いがあるが、大きな咎めはない。
+    - （小象伝）：父の蠱を処理するとは、父の遺志を継承しようとする心である。
+    - 父が残した問題や弊害を子が処理する時。やや強引な手段を取るため、多少の後悔はあるかもしれないが、根本的な解決に向かうので大きな過ちにはならない。
+- **解釈**（出典：[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+    - 父の代からの弊害を正す時。少し後悔することがあっても、大きな過ちにはならない。
+    - （小象伝）：父の代の弊害を正すのは、父の志を継承しようとする意志があるからである。
+    - 九三は陽爻で陽位にあり、才能と力はあるが、やや強引に進めがちである。父の代からの弊害を正そうとするが、そのやり方が急であったり、厳しすぎたりして、周囲の反発を招いたり、小さな悔いを残すことがある。しかし、根本的な目的は正しいので、大きな咎めには至らない。
+- **解釈**（出典：[https://note.com/ryuseizan/n/n583f7c9f9631](https://www.google.com/search?q=https://note.com/ryuseizan/n/n583f7c9f9631)）
+    - 父の蠱を幹（あらた）む。小（すこ）しく悔い有り。大なる咎めなし。
+    - 父の代からの弊害を改め治める。やり方が性急なため、少し後悔することがあるが、大きな過失にはならない。
+    - （小象伝）：父の蠱を幹むとは、意、考（ちち）を承（う）くればなり。
+    - 父の代からの弊害を改め治めるのは、亡き父の事業を受け継いでいこうという意志があるからである。
+
+### （注釈（語句補足））
+
+- **蠱（こ）:**
+    - 皿の上に虫がいる形。物が腐敗して虫がわく様。転じて、腐敗、乱れ、弊害、また、事が生じる、悩殺するなどの意味を持つ。（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/)）
+- **幹（かん）:**
+    - 木の幹。物事の中心、主要な部分。また、物事を処理する、取り締まる、正すという意味も持つ。（出典：複数の辞書的解釈に基づく一般的な意味）
+- **先甲三日、後甲三日（さきこうみっか、のちこうみっか）:**
+    - 「甲」は十干の最初で、物事の始まりや変革を意味する。その三日前と三日後ということで、物事を始める前の周到な準備と、事後の丁寧な処理の重要性を示す。あるいは、変革に際しての慎重さと、変革後の配慮の必要性を説く。（出典：[https://ekikyo.net/card/18sampuuko/](https://www.google.com/search?q=https://ekikyo.net/card/18sampuuko/) 、[https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html](https://www.google.com/search?q=https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html)）
+
+---
+
+以上が、山風蠱の卦と三爻に関する解釈です。
+---
+
+## AI への指示
+
+### 解釈の原則
+
+1. 核心提示  
+    最初に今回の占い結果が示す核心メッセージを一行で示し、その理由を簡潔に説明します。
+2. 客観性とバランス  
+    特定の感情や希望的観測に偏らず、肯定面・注意点・課題を多面的に整理します。
+3. 焦点の設定  
+    本卦（全体の状況）と変爻（変化のポイント）を中心に構造的に読み解きます。
+4. 卦象と象伝からの示唆  
+    本卦の卦象（上下の卦の組み合わせや全体の象徴）及び関連する象伝（大象伝・小象伝）を参考に、現在の状況に対する理解や取るべき態度について、質問内容と関連付けて考察します。この際、象伝を根拠として適宜引用します (行頭 "> " を使用)。
+5. 根拠の明示  
+    卦辞・爻辞・象伝などの原文を行頭 "> " で引用し、対応する解釈の根拠を示します。
+6. 範囲限定  
+    心理学的助言やスピリチュアル比喩など、易経以外の体系による解釈は含めません。
+7. 情報源の優先順位  
+    URL 出典を最優先とし、内部知識は矛盾のない範囲で補足的に用います。矛盾が生じた場合は URL 出典を採用します。
+
+### 出力形式
+
+- Markdown を使用します。  
+- 見出し構成例：  
+    - `## 核心・結論`  
+    - `### 本卦`  
+    - `### 変爻`  
+    - `### 卦象と象伝からの示唆`
+- 箇条書き・表形式の使用可。  
+- 絵文字・過剰装飾・感情的表現は使用しません。  
+- 文字数は原則 600 字以内（引用が多い場合は超過を許容します）。  
+- 本文中では太字強調を使用しません（見出し・タイトルのみ可）。
+
+---
+
+## 詳細モード
+
+true
+
+
+```
+
+## 核心・結論
+
+今月、小網神社に参拝することは、過去からの課題や心のわだかまりを清め、新たな一歩を踏み出すための良い機会となるでしょう。ただし、山風蠱の卦と九三の爻は、行動が性急になりすぎないよう注意を促してもいます。
+
+### 本卦：山風蠱（さんぷうこ）の示唆
+
+山風蠱は、物事が腐敗し、乱れが生じている状態や、何らかの問題（事）が起こる時を示します。しかし、これは同時に、弊害を取り除き刷新する好機でもあります。
+
+- **卦辞**:
+    
+    > 「蠱、元亨。利渉大川。先甲三日、後甲三日。」:contentReference[oaicite:0]{index=0}（出典：https://ctext.org/book-of-changes/gu）
+    > 
+    > この卦辞は、蠱の時は大きな願いも通りやすく、困難なこと（大川を渉る）も乗り越えられると示しています:contentReference[oaicite:1]{index=1}（出典：https://ekikyo.net/card/18sampuuko/）。ただし、「先甲三日、後甲三日」とあるように、物事を始める前の周到な準備と、事後の丁寧な処理が重要です:contentReference[oaicite:2]{index=2}（出典：https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html）。
+    
+- 取るべき態度:
+    
+    現状の乱れや問題を認識し、それを解決するために積極的に行動することが求められます。ただし、その際には慎重な計画と丁寧な実行が不可欠です。
+    
+
+### 変爻：九三（きゅうさん）の示唆
+
+変爻である九三は、あなたが直面している具体的な状況や取るべき行動のポイントを示します。
+
+- **爻辞**:
+    
+    > 「幹父之蠱。小有悔。无大咎。」:contentReference[oaicite:3]{index=3}（出典：https://ctext.org/book-of-changes/gu）
+    > 
+    > これは「父の蠱を処理する。少し悔いがあるが、大きな咎めはない」という意味です:contentReference[oaicite:4]{index=4}（出典：https://ekikyo.net/card/18sampuuko/）。過去からの問題や弊害に立ち向かい、解決しようとする時です。
+    
+- **小象伝**:
+    
+    > 「象曰：幹父之蠱、意承考也。」:contentReference[oaicite:5]{index=5}（出典：https://ctext.org/book-of-changes/gu）
+    > 
+    > 「父の蠱を処理するとは、父の遺志を継承しようとする心である」と解説されています:contentReference[oaicite:6]{index=6}（出典：https://ekikyo.net/card/18sampuuko/）。これは、過去からの課題や、あるいは自分自身の内面にある古いパターンなどに取り組む意志を示しています。
+    
+- 行動の指針と注意点:
+    
+    九三は陽爻で陽位にあり力強いものの、やや強引に進めがちな側面も持ちます:contentReference[oaicite:7]{index=7}（出典：https://forestofwisdom.net/64ka/setsumei/018-sanpuuko.html）。そのため、問題解決に向けて積極的に行動する中で、多少性急になったり、やり方が厳しすぎたりして「少し悔い」が残ることがあるかもしれません。しかし、根本的な目的は正しいため、「大きな咎めはない」とされています。
+    
+
+### 卦象と象伝からの示唆
+
+- 山風蠱の卦象:
+    
+    山の下に風が吹き、物が散り乱れたり、風が山に遮られて通じず物が腐敗する象です:contentReference[oaicite:8]{index=8}（出典：https://ekikyo.net/card/18sampuuko/）。これは、現状に何らかの滞りや乱れがあり、それを正す必要があることを示唆しています。小網神社への参拝は、このような状況を清め、心を新たにするための一つの行動と捉えられます。
+    
+- **大象伝**:
+    
+    > 「象曰：山下有風、蠱。君子以振民育徳。」:contentReference[oaicite:9]{index=9}（出典：https://ctext.org/book-of-changes/gu）
+    > 
+    > 「山の下に風が吹いているのが蠱の象である。君子はこの象を見て、民衆の気を奮い立たせ、徳性を養い育てる」とあります:contentReference[oaicite:10]{index=10}（出典：https://ekikyo.net/card/18sampuuko/）。神社への参拝を通じて、自身の精神を高め、徳を養うことを意識すると良いでしょう。
+    
+
+以上のことから、今月小網神社へ参拝することは、現状の「蠱（乱れ、問題）」を「幹（ただ）す」ための良いきっかけとなり得ます。ただし、九三の示唆する通り、行動が性急にならないよう、また参拝によって何かを決断する際にも慎重さを忘れず、丁寧に事を進めることが肝要です。

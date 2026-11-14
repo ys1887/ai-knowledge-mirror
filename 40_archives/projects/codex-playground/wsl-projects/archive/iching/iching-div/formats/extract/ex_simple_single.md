@@ -1,0 +1,23 @@
+# EX_SIMPLE output skeleton (single-source)
+
+- Order: `**核心・結論**` -> `**本卦（<卦名>）**` -> `**変爻（<変爻>）**` -> one final interpretation section.
+- output exactly one interpretation section with the profile label only.
+- `**本卦（<卦名>）**` is where you state the overall situation, phase, or governing tendency of the question.
+- Within `**本卦（<卦名>）**`, keep the order `卦辞` -> `彖伝` -> `大象伝`.
+- Within `**本卦（<卦名>）**`, emit explicit subsection headings as `### 卦辞`, `### 彖伝`, and `### 大象伝`.
+- In each main-hexagram subsection, quote the original text first, then include its reading immediately after the quote, then one short explanatory paragraph.
+- Use the selected `kaji`, `tanden`, `taisho`, and required `yao_n` sections only.
+- `**変爻（<変爻>）**` is the strongest evidence for the specific condition, correction, warning, or narrowing that applies to this case.
+- `爻辞` is required for the selected changing line.
+- `象曰` is included only if the selected section contains it.
+- Within `**変爻（<変爻>）**`, do not emit `### 爻辞` or `### 小象伝` headings.
+- Present the changing-line evidence as one unified block: `爻辞`, optional `小象伝`, their readings, then one interpretation paragraph that synthesizes both.
+- Treat `卦辞` `彖伝` and `大象伝` as supporting evidence for the overall reading; do not let each subsection make an independent final verdict.
+- Outside `**核心・結論**` and the final interpretation section, do not restate the user's concrete question, options, or domain terms; explain only the hexagram logic, its governing condition, and how it supports the reading.
+- Each quoted block should be followed by one short explanatory paragraph that supports `**核心・結論**` or clarifies the main-hexagram situation, then one citation line.
+- The interpretation section must recombine `本卦` and `変爻`; do not introduce a new unrelated thesis there.
+- Only the interpretation section may reconnect the reading to the user's concrete scenario.
+- Do not append profile notes, evidence-scope notes, implementation notes, or other meta commentary after the interpretation section.
+- Citation shape for item sections must be `（参照：<citation path>|<卦名> - <項目名>）`.
+- Citation shape for interpretation sections must be `（参照：<citation path>|<卦名>）`.
+- Do not invent support-only sections unless they are explicitly selected and present.

@@ -1,0 +1,9 @@
+description: Bot作成・調整の窓口。全Botのツール・プラグイン等の変更は案件ごとの許可を得て対応
+description_auto: false
+ui_meta:
+  hermes-bots:
+    imageKind: photo
+    custom: true
+    title: ナユタ/仙人
+_ui_meta_revisions:
+  hermes-bots: 2

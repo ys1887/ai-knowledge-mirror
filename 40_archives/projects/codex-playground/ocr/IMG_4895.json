@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1304,
+            176
+          ],
+          [
+            1304,
+            879
+          ],
+          [
+            1360,
+            176
+          ],
+          [
+            1360,
+            879
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "明治十六年(一八八三)のことである。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1233,
+            171
+          ],
+          [
+            1233,
+            945
+          ],
+          [
+            1291,
+            171
+          ],
+          [
+            1291,
+            945
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "後の皇太后大夫杉聴雨がハワイ国王の即位",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1162,
+            128
+          ],
+          [
+            1162,
+            946
+          ],
+          [
+            1217,
+            128
+          ],
+          [
+            1217,
+            946
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "式に参列するというので、その歓送会に出席",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1092,
+            124
+          ],
+          [
+            1092,
+            960
+          ],
+          [
+            1144,
+            124
+          ],
+          [
+            1144,
+            960
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "するに先立ち、嘉右衛門は杉の前途を問筮し、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1018,
+            120
+          ],
+          [
+            1018,
+            672
+          ],
+          [
+            1065,
+            120
+          ],
+          [
+            1065,
+            672
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "地天泰(3三)の二爻を得た。",
+        "isTextline": "true",
+        "confidence": 0.91
+      },
+      {
+        "boundingBox": [
+          [
+            946,
+            117
+          ],
+          [
+            946,
+            286
+          ],
+          [
+            984,
+            117
+          ],
+          [
+            984,
+            286
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "席上、",
+        "isTextline": "true",
+        "confidence": 0.928
+      },
+      {
+        "boundingBox": [
+          [
+            872,
+            135
+          ],
+          [
+            872,
+            944
+          ],
+          [
+            917,
+            135
+          ],
+          [
+            917,
+            944
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "「今朝布いてみた卦で無事大任を果して帰ら",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            798,
+            111
+          ],
+          [
+            798,
+            945
+          ],
+          [
+            841,
+            111
+          ],
+          [
+            841,
+            945
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "れることを知ることが出来ました。また、そ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            723,
+            108
+          ],
+          [
+            723,
+            944
+          ],
+          [
+            765,
+            108
+          ],
+          [
+            765,
+            944
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "ればかりでなくハワイの王様とどんなことを",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            646,
+            105
+          ],
+          [
+            646,
+            834
+          ],
+          [
+            688,
+            105
+          ],
+          [
+            688,
+            834
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "話し合うか、その内容も判りましたよ」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            570,
+            145
+          ],
+          [
+            570,
+            944
+          ],
+          [
+            611,
+            145
+          ],
+          [
+            611,
+            944
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "と、嘉右衛門が思わせぶりな口ぶりで語る",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            493,
+            105
+          ],
+          [
+            493,
+            876
+          ],
+          [
+            533,
+            105
+          ],
+          [
+            533,
+            876
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "と、杉のまわりに集まっていた人たちが、",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            130
+          ],
+          [
+            416,
+            705
+          ],
+          [
+            459,
+            130
+          ],
+          [
+            459,
+            705
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "「ぜひそれを聞かせて下さいよ」",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            341,
+            152
+          ],
+          [
+            341,
+            705
+          ],
+          [
+            383,
+            152
+          ],
+          [
+            383,
+            705
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "と皆耳をそばだてるのだった。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            263,
+            156
+          ],
+          [
+            263,
+            945
+          ],
+          [
+            310,
+            156
+          ],
+          [
+            310,
+            945
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "嘉右衛門は人の話す話の内容を前知するこ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            199,
+            126
+          ],
+          [
+            199,
+            669
+          ],
+          [
+            239,
+            126
+          ],
+          [
+            239,
+            669
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "とに興味を持っていたらしい。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            123,
+            155
+          ],
+          [
+            123,
+            950
+          ],
+          [
+            173,
+            155
+          ],
+          [
+            173,
+            950
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "「海外移民のことについて内々の交渉を進め",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1333,
+            1068
+          ],
+          [
+            1333,
+            1596
+          ],
+          [
+            1378,
+            1068
+          ],
+          [
+            1378,
+            1596
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "るということが出ています。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1261,
+            1114
+          ],
+          [
+            1261,
+            1956
+          ],
+          [
+            1314,
+            1114
+          ],
+          [
+            1314,
+            1956
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "この得た卦の象伝に、天地交わるは泰なり。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1185,
+            1066
+          ],
+          [
+            1185,
+            1957
+          ],
+          [
+            1240,
+            1066
+          ],
+          [
+            1240,
+            1957
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "后以て天地の道を財成し、天地の宜を輔相し、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1111,
+            1067
+          ],
+          [
+            1111,
+            1696
+          ],
+          [
+            1160,
+            1067
+          ],
+          [
+            1160,
+            1696
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "以て民を左け右く、とあります。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1038,
+            1115
+          ],
+          [
+            1038,
+            1950
+          ],
+          [
+            1087,
+            1115
+          ],
+          [
+            1087,
+            1950
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "これは国際親善の実を挙げ、相互に足らぬ",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            1066
+          ],
+          [
+            960,
+            1955
+          ],
+          [
+            1010,
+            1066
+          ],
+          [
+            1010,
+            1955
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "を補い、 そればかりで",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            885,
+            1068
+          ],
+          [
+            885,
+            1965
+          ],
+          [
+            933,
+            1068
+          ],
+          [
+            933,
+            1965
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "なく、いまや人口過剰の憂慮されている日本",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            807,
+            1072
+          ],
+          [
+            807,
+            1965
+          ],
+          [
+            853,
+            1072
+          ],
+          [
+            853,
+            1965
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "のため、新しい天地を開拓し、安居楽業させ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            730,
+            1070
+          ],
+          [
+            730,
+            1761
+          ],
+          [
+            772,
+            1070
+          ],
+          [
+            772,
+            1761
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "ようという希望が現われています。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            650,
+            1121
+          ],
+          [
+            650,
+            1976
+          ],
+          [
+            693,
+            1121
+          ],
+          [
+            693,
+            1976
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ハワイの国王の即位式に臨席するという好",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            571,
+            1068
+          ],
+          [
+            571,
+            1952
+          ],
+          [
+            613,
+            1068
+          ],
+          [
+            613,
+            1952
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "機に、その話し合いをしてくるのでしょう。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            489,
+            1114
+          ],
+          [
+            489,
+            1985
+          ],
+          [
+            534,
+            1114
+          ],
+          [
+            534,
+            1985
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "泰の内卦の陽(三)は、国内に住民が充満",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            407,
+            1073
+          ],
+          [
+            407,
+            1978
+          ],
+          [
+            453,
+            1073
+          ],
+          [
+            453,
+            1978
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "している象であり、外卦の陰(二)は、遠い",
+        "isTextline": "true",
+        "confidence": 0.915
+      },
+      {
+        "boundingBox": [
+          [
+            331,
+            1073
+          ],
+          [
+            331,
+            1979
+          ],
+          [
+            372,
+            1073
+          ],
+          [
+            372,
+            1979
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ところに開発する余地がたくさんあることを",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            259,
+            1074
+          ],
+          [
+            259,
+            1355
+          ],
+          [
+            297,
+            1074
+          ],
+          [
+            297,
+            1355
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "示しています。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            184,
+            1119
+          ],
+          [
+            184,
+            1396
+          ],
+          [
+            221,
+            1119
+          ],
+          [
+            221,
+            1396
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "また、二爻に、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            106,
+            1102
+          ],
+          [
+            106,
+            1964
+          ],
+          [
+            153,
+            1102
+          ],
+          [
+            153,
+            1964
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "\"荒を包ねる、馮河を用い、遐きを遺てず朋",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4895.JPEG",
+    "img_name": "IMG_4895.JPEG"
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1313,
+            110
+          ],
+          [
+            1313,
+            923
+          ],
+          [
+            1380,
+            110
+          ],
+          [
+            1380,
+            923
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "やった一人だ。判検事が嘉右衛門先生の易を",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1242,
+            103
+          ],
+          [
+            1242,
+            925
+          ],
+          [
+            1311,
+            103
+          ],
+          [
+            1311,
+            925
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "裁判に活用した。無罪の場合は面白いもので",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1165,
+            98
+          ],
+          [
+            1165,
+            849
+          ],
+          [
+            1236,
+            98
+          ],
+          [
+            1236,
+            849
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "三解の六五がよく出る。解の象伝には、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1098,
+            116
+          ],
+          [
+            1098,
+            760
+          ],
+          [
+            1159,
+            116
+          ],
+          [
+            1159,
+            760
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "「君子以テ過ヲ赦シ、罪ヲ宥ムベシ」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1029,
+            131
+          ],
+          [
+            1029,
+            554
+          ],
+          [
+            1077,
+            131
+          ],
+          [
+            1077,
+            554
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "とあり六五の爻辞には、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            951,
+            109
+          ],
+          [
+            951,
+            918
+          ],
+          [
+            1009,
+            109
+          ],
+          [
+            1009,
+            918
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "「君子維レ解クコト有ラバ、吉ナリ、小人ニ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            875,
+            82
+          ],
+          [
+            875,
+            218
+          ],
+          [
+            917,
+            82
+          ],
+          [
+            917,
+            218
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "孚有リ」",
+        "isTextline": "true",
+        "confidence": 0.933
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            121
+          ],
+          [
+            805,
+            944
+          ],
+          [
+            857,
+            121
+          ],
+          [
+            857,
+            944
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "とある通り、ムジツの罪で嫌疑をかけられ、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            725,
+            77
+          ],
+          [
+            725,
+            927
+          ],
+          [
+            778,
+            77
+          ],
+          [
+            778,
+            927
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "未決に入れられたりしていた者が多く、先生",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            82
+          ],
+          [
+            648,
+            928
+          ],
+          [
+            699,
+            82
+          ],
+          [
+            699,
+            928
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "の解の六五で放免され、お礼に来た者まであ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            574,
+            85
+          ],
+          [
+            574,
+            338
+          ],
+          [
+            612,
+            85
+          ],
+          [
+            612,
+            338
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "ったくらいだ。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            495,
+            120
+          ],
+          [
+            495,
+            932
+          ],
+          [
+            541,
+            120
+          ],
+          [
+            541,
+            932
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "当時の裁判は今とちがっていたから、判検",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            418,
+            79
+          ],
+          [
+            418,
+            930
+          ],
+          [
+            459,
+            79
+          ],
+          [
+            459,
+            930
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "事も易を学んで、法の運用を誤らぬようにし",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            346,
+            86
+          ],
+          [
+            346,
+            263
+          ],
+          [
+            382,
+            86
+          ],
+          [
+            382,
+            263
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "たもんだ。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            267,
+            90
+          ],
+          [
+            267,
+            929
+          ],
+          [
+            307,
+            90
+          ],
+          [
+            307,
+            929
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "-それはさておき、ある雨の日、前に言っ",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            195,
+            102
+          ],
+          [
+            195,
+            939
+          ],
+          [
+            237,
+            102
+          ],
+          [
+            237,
+            939
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "た皆が、先生の室に集まって碁を囲んでいた",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            128,
+            114
+          ],
+          [
+            128,
+            962
+          ],
+          [
+            167,
+            114
+          ],
+          [
+            167,
+            962
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ところへ、またどやどやと多勢がやってきた。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1355,
+            1046
+          ],
+          [
+            1355,
+            1929
+          ],
+          [
+            1418,
+            1046
+          ],
+          [
+            1418,
+            1929
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "見ると、大隈・伊藤・井上の三参議と、安藤",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            1063
+          ],
+          [
+            1282,
+            1906
+          ],
+          [
+            1345,
+            1063
+          ],
+          [
+            1345,
+            1906
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "・落合・矢野・伊藤の四書記官、林(硯海)",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1206,
+            1049
+          ],
+          [
+            1206,
+            1416
+          ],
+          [
+            1255,
+            1049
+          ],
+          [
+            1255,
+            1416
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "軍医総監の八人だ。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            1098
+          ],
+          [
+            1136,
+            1597
+          ],
+          [
+            1184,
+            1098
+          ],
+          [
+            1184,
+            1597
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "ここで先生が、さっきの、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1056,
+            1075
+          ],
+          [
+            1056,
+            1515
+          ],
+          [
+            1103,
+            1075
+          ],
+          [
+            1103,
+            1515
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "\"参議を前に筮をひく\"",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            980,
+            1095
+          ],
+          [
+            980,
+            1841
+          ],
+          [
+            1035,
+            1095
+          ],
+          [
+            1035,
+            1841
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "という地口の実演ということになる。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            901,
+            1054
+          ],
+          [
+            901,
+            1964
+          ],
+          [
+            958,
+            1054
+          ],
+          [
+            958,
+            1964
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "……大隈参議が「今日は雨で猟に出られない",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            822,
+            1057
+          ],
+          [
+            822,
+            1972
+          ],
+          [
+            878,
+            1057
+          ],
+          [
+            878,
+            1972
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ので、高島屋の易の話を聞こうじゃないかと",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            1061
+          ],
+          [
+            744,
+            1976
+          ],
+          [
+            796,
+            1061
+          ],
+          [
+            796,
+            1976
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "いうことになった。話だけでなく、一筮立て",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            662,
+            1058
+          ],
+          [
+            662,
+            1985
+          ],
+          [
+            715,
+            1058
+          ],
+          [
+            715,
+            1985
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "て欲しいんだが、どうだろう」と言った。伊",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            582,
+            1055
+          ],
+          [
+            582,
+            1341
+          ],
+          [
+            623,
+            1055
+          ],
+          [
+            623,
+            1341
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "藤は如才なく、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            1083
+          ],
+          [
+            501,
+            1676
+          ],
+          [
+            546,
+            1083
+          ],
+          [
+            546,
+            1676
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "「清興中を妨げて気の毒だが」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            422,
+            1106
+          ],
+          [
+            422,
+            1303
+          ],
+          [
+            461,
+            1106
+          ],
+          [
+            461,
+            1303
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "と言った。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            340,
+            1087
+          ],
+          [
+            340,
+            1398
+          ],
+          [
+            382,
+            1087
+          ],
+          [
+            382,
+            1398
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「いや結構です」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            263,
+            1108
+          ],
+          [
+            263,
+            1985
+          ],
+          [
+            305,
+            1108
+          ],
+          [
+            305,
+            1985
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "と先生が答えたので、まず大隈さんが清露",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            1065
+          ],
+          [
+            191,
+            1977
+          ],
+          [
+            230,
+            1065
+          ],
+          [
+            230,
+            1977
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "境界紛争が拡大するかどうかという占題を出",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            123,
+            1068
+          ],
+          [
+            123,
+            1710
+          ],
+          [
+            160,
+            1068
+          ],
+          [
+            160,
+            1710
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "した。 そこで一筮して得たのが、",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4901.JPEG",
+    "img_name": "IMG_4901.JPEG"
+  }
+}

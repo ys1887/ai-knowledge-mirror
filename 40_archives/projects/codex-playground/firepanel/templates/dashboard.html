@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FirePanel</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='panel.css') }}">
+  <script defer src="{{ url_for('static', filename='panel.js') }}"></script>
+</head>
+<body>
+  <main class="panel" data-csrf="{{ csrf }}">
+    <header class="topbar">
+      <time id="today" aria-label="今日の日付">--月--日</time>
+      <div class="topbar-right">
+        <button class="quiet" type="button" id="refresh-button">更新</button>
+        <time id="clock" aria-label="現在時刻">--:--</time>
+      </div>
+    </header>
+
+    <div class="overview">
+      <section class="todoist-section" aria-label="Todoistの項目">
+        <div class="section-heading"><h1 id="todoist-heading">今日のTodoist</h1><span id="todoist-count"></span></div>
+        <ul id="todoist-list" class="todoist-list"><li class="todoist-message">読み込み中…</li></ul>
+        <p class="section-note" id="todoist-updated" role="status"></p>
+      </section>
+      <section class="pc-section" aria-label="PC情報">
+        <div class="section-heading"><h2>PC情報</h2><span id="pc-connection">接続中…</span></div>
+        <div class="metrics">
+        <div class="metric"><span>応答</span><span class="metric-context">PCとの通信</span><strong id="latency-value">-- ms</strong></div>
+        <div class="metric"><span>CPU</span><div class="meter" role="progressbar" aria-label="CPU使用率" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="cpu-meter"><span id="cpu-bar"></span></div><strong id="cpu-value">--%</strong></div>
+        <div class="metric"><span>メモリ</span><div class="meter" role="progressbar" aria-label="メモリ使用率" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="memory-meter"><span id="memory-bar"></span></div><strong id="memory-value">--%</strong></div>
+        <div class="metric disk"><span>C:</span><div class="disk-usage"><div class="meter" role="progressbar" aria-label="Cドライブ使用率" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="c-meter"><span id="c-bar"></span></div><span id="c-value">-- / -- GB</span></div><strong id="c-percent">--%</strong></div>
+        <div class="metric disk"><span>E:</span><div class="disk-usage"><div class="meter" role="progressbar" aria-label="Eドライブ使用率" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="e-meter"><span id="e-bar"></span></div><span id="e-value">-- / -- GB</span></div><strong id="e-percent">--%</strong></div>
+        </div>
+        <p class="section-note" id="updated-at" role="status"></p>
+      </section>
+    </div>
+
+    <section class="apps-section" aria-label="アプリ起動">
+      <div class="app-grid">
+        {% for button in buttons %}
+        <button class="app-button" type="button" data-slot="{{ loop.index0 }}" {% if not button.enabled %}disabled{% endif %}>
+          <span class="app-label">{{ button.label }}</span>
+          {% if not button.enabled %}<span class="app-state">未登録</span>{% endif %}
+        </button>
+        {% endfor %}
+        <button class="app-button control-button" type="button" id="fullscreen-button" aria-pressed="false"><span class="app-label">全画面</span></button>
+      </div>
+      <p class="feedback" id="feedback" role="status" aria-live="polite"></p>
+    </section>
+  </main>
+</body>
+</html>

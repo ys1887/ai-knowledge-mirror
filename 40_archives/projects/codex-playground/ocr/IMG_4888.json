@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1338,
+            148
+          ],
+          [
+            1338,
+            955
+          ],
+          [
+            1393,
+            148
+          ],
+          [
+            1393,
+            955
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "\"易\"に引っ張り込んでしまうのだから、易",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1269,
+            112
+          ],
+          [
+            1269,
+            952
+          ],
+          [
+            1320,
+            112
+          ],
+          [
+            1320,
+            952
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "を知らない相手は手も足も出なくなってしま",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1197,
+            116
+          ],
+          [
+            1197,
+            453
+          ],
+          [
+            1238,
+            116
+          ],
+          [
+            1238,
+            453
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ったにちがいない。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1121,
+            148
+          ],
+          [
+            1121,
+            952
+          ],
+          [
+            1170,
+            148
+          ],
+          [
+            1170,
+            952
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "それは丁度、鎌と分銅を交互に使って相手",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1044,
+            110
+          ],
+          [
+            1044,
+            953
+          ],
+          [
+            1091,
+            110
+          ],
+          [
+            1091,
+            953
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "の刀を搦めとり、首に刃を当ててしまう鎖鎌",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            968,
+            112
+          ],
+          [
+            968,
+            667
+          ],
+          [
+            1010,
+            112
+          ],
+          [
+            1010,
+            667
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "の達人みたいなものであった。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            815,
+            155
+          ],
+          [
+            815,
+            954
+          ],
+          [
+            857,
+            155
+          ],
+          [
+            857,
+            954
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "ある年の夏、嘉右衛門は鎌倉の甥の家に滞",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            740,
+            117
+          ],
+          [
+            740,
+            586
+          ],
+          [
+            780,
+            117
+          ],
+          [
+            780,
+            586
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "在して幾日かを過ごした。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            664,
+            162
+          ],
+          [
+            664,
+            956
+          ],
+          [
+            705,
+            162
+          ],
+          [
+            705,
+            956
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "毎朝起きるとすぐ尻ッ端折をしてバラや朝",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            589,
+            125
+          ],
+          [
+            589,
+            951
+          ],
+          [
+            631,
+            125
+          ],
+          [
+            631,
+            951
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "顔に水をやる。草花が好きだったから自分の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            518,
+            130
+          ],
+          [
+            518,
+            549
+          ],
+          [
+            556,
+            130
+          ],
+          [
+            556,
+            549
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "もよそのも区別はない。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            155
+          ],
+          [
+            439,
+            763
+          ],
+          [
+            485,
+            155
+          ],
+          [
+            485,
+            763
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "「そんなことをして頂かなくても」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            365,
+            178
+          ],
+          [
+            365,
+            954
+          ],
+          [
+            411,
+            178
+          ],
+          [
+            411,
+            954
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "と言われても、やるのが楽しみだからそこ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            290,
+            144
+          ],
+          [
+            290,
+            977
+          ],
+          [
+            339,
+            144
+          ],
+          [
+            339,
+            977
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "にいる間中は自分の日課として庭をいじった。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            220,
+            143
+          ],
+          [
+            220,
+            931
+          ],
+          [
+            270,
+            143
+          ],
+          [
+            270,
+            931
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "彼は何にもせずに座っていて黙想するより、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            144,
+            146
+          ],
+          [
+            144,
+            956
+          ],
+          [
+            199,
+            146
+          ],
+          [
+            199,
+            956
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "手先を働かせながら何か考える方が、まとめ",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1365,
+            1079
+          ],
+          [
+            1365,
+            1582
+          ],
+          [
+            1408,
+            1079
+          ],
+          [
+            1408,
+            1582
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "よかったのかも知れない。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1290,
+            1120
+          ],
+          [
+            1290,
+            1985
+          ],
+          [
+            1343,
+            1120
+          ],
+          [
+            1343,
+            1985
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "喋っている方が黙っている時より妙案が湧",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1214,
+            1084
+          ],
+          [
+            1214,
+            1986
+          ],
+          [
+            1263,
+            1084
+          ],
+          [
+            1263,
+            1986
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "いてくるとも言っていた。(後年、足が不自由",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1134,
+            1080
+          ],
+          [
+            1134,
+            1985
+          ],
+          [
+            1183,
+            1080
+          ],
+          [
+            1183,
+            1985
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "になって寝たっきりになってからは、草花な",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            1076
+          ],
+          [
+            1055,
+            1985
+          ],
+          [
+            1102,
+            1076
+          ],
+          [
+            1102,
+            1985
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "どいじれなくなったから、 その代り枕許に置",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            975,
+            1084
+          ],
+          [
+            975,
+            1974
+          ],
+          [
+            1021,
+            1084
+          ],
+          [
+            1021,
+            1974
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "いた莨入れから煙草を出して、指先でひねっ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            895,
+            1081
+          ],
+          [
+            895,
+            1980
+          ],
+          [
+            939,
+            1081
+          ],
+          [
+            939,
+            1980
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "て、粉にしながら想を練ったりしたものであ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            818,
+            1080
+          ],
+          [
+            818,
+            1153
+          ],
+          [
+            857,
+            1080
+          ],
+          [
+            857,
+            1153
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "る。)",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            738,
+            1075
+          ],
+          [
+            738,
+            1945
+          ],
+          [
+            780,
+            1075
+          ],
+          [
+            780,
+            1945
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "-ある朝、いつものように生垣に沿って、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            660,
+            1076
+          ],
+          [
+            660,
+            1990
+          ],
+          [
+            703,
+            1076
+          ],
+          [
+            703,
+            1990
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "朝顔、バラの手入れに一心になっていたとき、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            581,
+            1078
+          ],
+          [
+            581,
+            1964
+          ],
+          [
+            624,
+            1078
+          ],
+          [
+            624,
+            1964
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "オーウオーウという多ぜいの呻り声が聞こ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            1078
+          ],
+          [
+            511,
+            1267
+          ],
+          [
+            548,
+            1078
+          ],
+          [
+            548,
+            1267
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "えてきた。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            426,
+            1121
+          ],
+          [
+            426,
+            1935
+          ],
+          [
+            472,
+            1121
+          ],
+          [
+            472,
+            1935
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "見ると道路の両側を、編笠で草鞋履きの、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            1083
+          ],
+          [
+            350,
+            1934
+          ],
+          [
+            397,
+            1083
+          ],
+          [
+            397,
+            1934
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "二十人程の雲水が呻りながら托鉢して行く。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            272,
+            1121
+          ],
+          [
+            272,
+            1957
+          ],
+          [
+            322,
+            1121
+          ],
+          [
+            322,
+            1957
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "紺地に白く円覚寺僧堂と染め抜いた頭陀袋",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            199,
+            1079
+          ],
+          [
+            199,
+            1947
+          ],
+          [
+            248,
+            1079
+          ],
+          [
+            248,
+            1947
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "をかけているので、円覚寺の雲水たちだとい",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            134,
+            1078
+          ],
+          [
+            134,
+            1437
+          ],
+          [
+            174,
+            1078
+          ],
+          [
+            174,
+            1437
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "うことが分かった。",
+        "isTextline": "true",
+        "confidence": 0.946
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4888.JPEG",
+    "img_name": "IMG_4888.JPEG"
+  }
+}

@@ -1,0 +1,1476 @@
+[
+  {
+    "number": 1,
+    "name": "乾為天",
+    "folder_path": "assets/extract_takashima_split/01_乾為天",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6",
+      "yongjiu"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": true,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 2,
+    "name": "坤為地",
+    "folder_path": "assets/extract_takashima_split/02_坤為地",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6",
+      "yongliu"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": true
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 3,
+    "name": "水雷屯",
+    "folder_path": "assets/extract_takashima_split/03_水雷屯",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 4,
+    "name": "山水蒙",
+    "folder_path": "assets/extract_takashima_split/04_山水蒙",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 5,
+    "name": "水天需",
+    "folder_path": "assets/extract_takashima_split/05_水天需",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 6,
+    "name": "天水訟",
+    "folder_path": "assets/extract_takashima_split/06_天水訟",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 7,
+    "name": "地水師",
+    "folder_path": "assets/extract_takashima_split/07_地水師",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 8,
+    "name": "水地比",
+    "folder_path": "assets/extract_takashima_split/08_水地比",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 9,
+    "name": "風天小畜",
+    "folder_path": "assets/extract_takashima_split/09_風天小畜",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 10,
+    "name": "天沢履",
+    "folder_path": "assets/extract_takashima_split/10_天沢履",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 11,
+    "name": "地天泰",
+    "folder_path": "assets/extract_takashima_split/11_地天泰",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 12,
+    "name": "天地否",
+    "folder_path": "assets/extract_takashima_split/12_天地否",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 13,
+    "name": "天火同人",
+    "folder_path": "assets/extract_takashima_split/13_天火同人",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 14,
+    "name": "火天大有",
+    "folder_path": "assets/extract_takashima_split/14_火天大有",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 15,
+    "name": "地山謙",
+    "folder_path": "assets/extract_takashima_split/15_地山謙",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 16,
+    "name": "雷地予",
+    "folder_path": "assets/extract_takashima_split/16_雷地予",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 17,
+    "name": "沢雷随",
+    "folder_path": "assets/extract_takashima_split/17_沢雷随",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 18,
+    "name": "山風蠱",
+    "folder_path": "assets/extract_takashima_split/18_山風蠱",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 19,
+    "name": "地沢臨",
+    "folder_path": "assets/extract_takashima_split/19_地沢臨",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 20,
+    "name": "風地観",
+    "folder_path": "assets/extract_takashima_split/20_風地観",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 21,
+    "name": "火雷噬嗑",
+    "folder_path": "assets/extract_takashima_split/21_火雷噬嗑",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 22,
+    "name": "山火賁",
+    "folder_path": "assets/extract_takashima_split/22_山火賁",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 23,
+    "name": "山地剥",
+    "folder_path": "assets/extract_takashima_split/23_山地剥",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 24,
+    "name": "地雷復",
+    "folder_path": "assets/extract_takashima_split/24_地雷復",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 25,
+    "name": "天雷无妄",
+    "folder_path": "assets/extract_takashima_split/25_天雷无妄",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 26,
+    "name": "山天大畜",
+    "folder_path": "assets/extract_takashima_split/26_山天大畜",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 27,
+    "name": "山雷頤",
+    "folder_path": "assets/extract_takashima_split/27_山雷頤",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 28,
+    "name": "沢風大過",
+    "folder_path": "assets/extract_takashima_split/28_沢風大過",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 29,
+    "name": "坎為水",
+    "folder_path": "assets/extract_takashima_split/29_坎為水",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 30,
+    "name": "離為火",
+    "folder_path": "assets/extract_takashima_split/30_離為火",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": true
+  },
+  {
+    "number": 31,
+    "name": "沢山咸",
+    "folder_path": "assets/extract_takashima_split/31_沢山咸",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 32,
+    "name": "雷風恒",
+    "folder_path": "assets/extract_takashima_split/32_雷風恒",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 33,
+    "name": "天山遯",
+    "folder_path": "assets/extract_takashima_split/33_天山遯",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 34,
+    "name": "雷天大壮",
+    "folder_path": "assets/extract_takashima_split/34_雷天大壮",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 35,
+    "name": "火地晋",
+    "folder_path": "assets/extract_takashima_split/35_火地晋",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 36,
+    "name": "地火明夷",
+    "folder_path": "assets/extract_takashima_split/36_地火明夷",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 37,
+    "name": "風火家人",
+    "folder_path": "assets/extract_takashima_split/37_風火家人",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 38,
+    "name": "火沢睽",
+    "folder_path": "assets/extract_takashima_split/38_火沢睽",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 39,
+    "name": "水山蹇",
+    "folder_path": "assets/extract_takashima_split/39_水山蹇",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 40,
+    "name": "雷水解",
+    "folder_path": "assets/extract_takashima_split/40_雷水解",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 41,
+    "name": "山沢損",
+    "folder_path": "assets/extract_takashima_split/41_山沢損",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 42,
+    "name": "風雷益",
+    "folder_path": "assets/extract_takashima_split/42_風雷益",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 43,
+    "name": "沢天夬",
+    "folder_path": "assets/extract_takashima_split/43_沢天夬",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 44,
+    "name": "天風姤",
+    "folder_path": "assets/extract_takashima_split/44_天風姤",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 45,
+    "name": "沢地萃",
+    "folder_path": "assets/extract_takashima_split/45_沢地萃",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 46,
+    "name": "地風升",
+    "folder_path": "assets/extract_takashima_split/46_地風升",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 47,
+    "name": "沢水困",
+    "folder_path": "assets/extract_takashima_split/47_沢水困",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 48,
+    "name": "水風井",
+    "folder_path": "assets/extract_takashima_split/48_水風井",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 49,
+    "name": "沢火革",
+    "folder_path": "assets/extract_takashima_split/49_沢火革",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 50,
+    "name": "火風鼎",
+    "folder_path": "assets/extract_takashima_split/50_火風鼎",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 51,
+    "name": "震為雷",
+    "folder_path": "assets/extract_takashima_split/51_震為雷",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 52,
+    "name": "艮為山",
+    "folder_path": "assets/extract_takashima_split/52_艮為山",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 53,
+    "name": "風山漸",
+    "folder_path": "assets/extract_takashima_split/53_風山漸",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 54,
+    "name": "雷沢帰妹",
+    "folder_path": "assets/extract_takashima_split/54_雷沢帰妹",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 55,
+    "name": "雷火豊",
+    "folder_path": "assets/extract_takashima_split/55_雷火豊",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 56,
+    "name": "火山旅",
+    "folder_path": "assets/extract_takashima_split/56_火山旅",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 57,
+    "name": "巽為風",
+    "folder_path": "assets/extract_takashima_split/57_巽為風",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 58,
+    "name": "兌為沢",
+    "folder_path": "assets/extract_takashima_split/58_兌為沢",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 59,
+    "name": "風水渙",
+    "folder_path": "assets/extract_takashima_split/59_風水渙",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 60,
+    "name": "水沢節",
+    "folder_path": "assets/extract_takashima_split/60_水沢節",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 61,
+    "name": "風沢中孚",
+    "folder_path": "assets/extract_takashima_split/61_風沢中孚",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 62,
+    "name": "雷山小過",
+    "folder_path": "assets/extract_takashima_split/62_雷山小過",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 63,
+    "name": "水火既済",
+    "folder_path": "assets/extract_takashima_split/63_水火既済",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  },
+  {
+    "number": 64,
+    "name": "火水未済",
+    "folder_path": "assets/extract_takashima_split/64_火水未済",
+    "sections": [
+      "keywords",
+      "kaji",
+      "tanden",
+      "taisho",
+      "yao_1",
+      "yao_2",
+      "yao_3",
+      "yao_4",
+      "yao_5",
+      "yao_6"
+    ],
+    "special_sections": {
+      "bungen": false,
+      "yongjiu": false,
+      "yongliu": false
+    },
+    "has_exceptions": false
+  }
+]

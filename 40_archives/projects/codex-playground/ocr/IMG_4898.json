@@ -1,0 +1,787 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1279,
+            78
+          ],
+          [
+            1279,
+            932
+          ],
+          [
+            1332,
+            78
+          ],
+          [
+            1332,
+            932
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "……後年、この王女と日本のある貴族との間",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1204,
+            74
+          ],
+          [
+            1204,
+            930
+          ],
+          [
+            1257,
+            74
+          ],
+          [
+            1257,
+            930
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "に縁談が起ったが、それはこうした裏話があ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1130,
+            78
+          ],
+          [
+            1130,
+            816
+          ],
+          [
+            1176,
+            78
+          ],
+          [
+            1176,
+            816
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ったということだけ付け加えておこう。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1050,
+            108
+          ],
+          [
+            1050,
+            932
+          ],
+          [
+            1097,
+            108
+          ],
+          [
+            1097,
+            932
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "結局、ハワイ国王の王女と日本の貴族の青",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            973,
+            68
+          ],
+          [
+            973,
+            928
+          ],
+          [
+            1017,
+            68
+          ],
+          [
+            1017,
+            928
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "年との間の婚姻は実現しなかったが、移民の",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            76
+          ],
+          [
+            896,
+            380
+          ],
+          [
+            936,
+            76
+          ],
+          [
+            936,
+            380
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ことは実現した。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            819,
+            119
+          ],
+          [
+            819,
+            933
+          ],
+          [
+            859,
+            119
+          ],
+          [
+            859,
+            933
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "その頃、ハワイが日本ともっとも深い関係",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            742,
+            84
+          ],
+          [
+            742,
+            932
+          ],
+          [
+            782,
+            84
+          ],
+          [
+            782,
+            932
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "になっていたなら、それから約六十年後の日",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            665,
+            86
+          ],
+          [
+            665,
+            931
+          ],
+          [
+            707,
+            86
+          ],
+          [
+            707,
+            931
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "米戦争、七十年後の日米関係は大分ちがって",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            593,
+            98
+          ],
+          [
+            593,
+            436
+          ],
+          [
+            630,
+            98
+          ],
+          [
+            630,
+            436
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "いたかも知れない。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            514,
+            137
+          ],
+          [
+            514,
+            936
+          ],
+          [
+            557,
+            137
+          ],
+          [
+            557,
+            936
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "嘉右衛門が、日本の人口は七十年にして倍",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            107
+          ],
+          [
+            439,
+            936
+          ],
+          [
+            483,
+            107
+          ],
+          [
+            483,
+            936
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "になるといった七十年目は、昭和二十八年",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            364,
+            114
+          ],
+          [
+            364,
+            935
+          ],
+          [
+            413,
+            114
+          ],
+          [
+            413,
+            935
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "(一九五三)だ。昭和三十年秋の国勢調査で",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            293,
+            113
+          ],
+          [
+            293,
+            937
+          ],
+          [
+            341,
+            113
+          ],
+          [
+            341,
+            937
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "は、八千九百二十七万五千五百二十九人とな",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            236,
+            125
+          ],
+          [
+            236,
+            290
+          ],
+          [
+            268,
+            125
+          ],
+          [
+            268,
+            290
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "っている。",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            148,
+            165
+          ],
+          [
+            148,
+            939
+          ],
+          [
+            199,
+            165
+          ],
+          [
+            199,
+            939
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "しかし、移民は思うように行かぬから、産",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1372,
+            1058
+          ],
+          [
+            1372,
+            1662
+          ],
+          [
+            1419,
+            1058
+          ],
+          [
+            1419,
+            1662
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "児制限が盛んに叫ばれている。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1300,
+            1103
+          ],
+          [
+            1300,
+            1973
+          ],
+          [
+            1349,
+            1103
+          ],
+          [
+            1349,
+            1973
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "百年目に当たる昭和五十八年頃には、この",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1221,
+            1058
+          ],
+          [
+            1221,
+            1762
+          ],
+          [
+            1268,
+            1058
+          ],
+          [
+            1268,
+            1762
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "ままで行ったら一億を超すだろう。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1138,
+            1101
+          ],
+          [
+            1138,
+            1996
+          ],
+          [
+            1189,
+            1101
+          ],
+          [
+            1189,
+            1996
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "嘉右衛門が願った南北アメリカへの移民が、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1061,
+            1058
+          ],
+          [
+            1061,
+            1975
+          ],
+          [
+            1105,
+            1058
+          ],
+          [
+            1105,
+            1975
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "もっとスムーズに運ばれることは、我人とも",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            975,
+            1060
+          ],
+          [
+            975,
+            1575
+          ],
+          [
+            1022,
+            1060
+          ],
+          [
+            1022,
+            1575
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "に切に願うところである。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            818,
+            1103
+          ],
+          [
+            818,
+            1962
+          ],
+          [
+            861,
+            1103
+          ],
+          [
+            861,
+            1962
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "小玉呑象氏に在りし日の嘉右衛門の思い出",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            740,
+            1057
+          ],
+          [
+            740,
+            1956
+          ],
+          [
+            782,
+            1057
+          ],
+          [
+            782,
+            1956
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "を聞くことが出来たので、ここに記録に止め",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            1060
+          ],
+          [
+            661,
+            1923
+          ],
+          [
+            703,
+            1060
+          ],
+          [
+            703,
+            1923
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ておきたい。小玉呑象氏は日向の人、十五、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            583,
+            1059
+          ],
+          [
+            583,
+            1949
+          ],
+          [
+            627,
+            1059
+          ],
+          [
+            627,
+            1949
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "六歳の頃から嘉右衛門の身辺に侍し、後に高",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            506,
+            1058
+          ],
+          [
+            506,
+            1945
+          ],
+          [
+            551,
+            1058
+          ],
+          [
+            551,
+            1945
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "島家から特に呑象の号を許された唯一人の人",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            1062
+          ],
+          [
+            439,
+            1203
+          ],
+          [
+            474,
+            1062
+          ],
+          [
+            474,
+            1203
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "である。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            279,
+            1101
+          ],
+          [
+            279,
+            1932
+          ],
+          [
+            324,
+            1101
+          ],
+          [
+            324,
+            1932
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "高島先生は話が下手だったから、伯円に喋",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            205,
+            1059
+          ],
+          [
+            205,
+            1928
+          ],
+          [
+            251,
+            1059
+          ],
+          [
+            251,
+            1928
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "り方を習われた。だから大時代がかった調子",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            146,
+            1062
+          ],
+          [
+            146,
+            1113
+          ],
+          [
+            180,
+            1062
+          ],
+          [
+            180,
+            1113
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "で、",
+        "isTextline": "true",
+        "confidence": 0.923
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4898.JPEG",
+    "img_name": "IMG_4898.JPEG"
+  }
+}

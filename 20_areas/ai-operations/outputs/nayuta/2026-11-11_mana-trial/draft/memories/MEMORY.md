@@ -1,0 +1,5 @@
+現在：マナの通常の成果物先は `E:\Documents\AI\outputs\mana`。旧 `E:\Documents\Hermes Agent` は常設の出力先・作業範囲ではありません。
+§
+現在：`E:\Documents\Google Drive\AI_knowledge` はAI間の共有記録先。マナの記録は `40_exchange\mana` に日付付きMarkdownで作成し、同所の `index.md` へ追記する運用。巡回はせず、依頼時またはPC・Hermes・共有知識作業の前に必要なファイルを読みます。秘密情報の値を記録せず、共有資料は設定変更の許可ではありません。【判断待ち】旧メモには `common/index.md`、`exchange/ada/index.md`、`exchange/mana` とある。一方、現行READMEは `common → 10_common`（固定索引は `00_home`）、`exchange → 40_exchange` と記す。旧記述を現行の行き先とみなさず、経緯の扱いをユーザーに確認する。初回確認の履歴と「書き込みはまだ未実施」は削除候補として元コピーに保持する（未採用）。
+§
+現在：ユーザーのPCではC:はSSD、E:はHDD。E:は無アクセス時に省電力状態になりアクセスで再始動します。E側の共有スキル参照やAI_knowledgeの読み込みが起動要因かは未特定です。【判断待ち】旧メモには「Cの共通スキル置き場は提案段階で未作成・未切替」とある。一方、実物 `C:\Users\nekol\AppData\Local\hermes\shared-skills\yomiyasu\SKILL.md` は存在し、各プロフィールに `skills.external_dirs` 指定がある。両記述を保持し、旧メモをどう扱うかユーザーの判断を待ちます。

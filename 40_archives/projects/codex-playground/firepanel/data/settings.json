@@ -1,0 +1,31 @@
+{
+  "host": "192.168.3.2",
+  "port": 8765,
+  "todoist_feed_url": "https://ext.todoist.com/export/ical/todoist?user_id=50168491&ical_token=dbe8cb9d1238261ad16c412f94456144714919b9997da1cc7dcabc202012a7c4&r_factor=4869",
+  "buttons": [
+    {
+      "label": "アプリ 1",
+      "path": ""
+    },
+    {
+      "label": "アプリ 2",
+      "path": ""
+    },
+    {
+      "label": "アプリ 3",
+      "path": ""
+    },
+    {
+      "label": "アプリ 4",
+      "path": ""
+    },
+    {
+      "label": "アプリ 5",
+      "path": ""
+    },
+    {
+      "label": "アプリ 6",
+      "path": ""
+    }
+  ]
+}

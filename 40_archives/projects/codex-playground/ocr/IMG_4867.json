@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1270,
+            152
+          ],
+          [
+            1270,
+            857
+          ],
+          [
+            1348,
+            152
+          ],
+          [
+            1348,
+            857
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "軍を送ることなども出来ない筈である。)",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1203,
+            187
+          ],
+          [
+            1203,
+            947
+          ],
+          [
+            1277,
+            187
+          ],
+          [
+            1277,
+            947
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "せいぜいフランスは海戦(坎の海)で利を",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1130,
+            145
+          ],
+          [
+            1130,
+            948
+          ],
+          [
+            1201,
+            145
+          ],
+          [
+            1201,
+            948
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "得、沿岸封鎖を強行するくらいがオチであろ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1062,
+            143
+          ],
+          [
+            1062,
+            950
+          ],
+          [
+            1126,
+            143
+          ],
+          [
+            1126,
+            950
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "う。越南を攻め取った勢いで大陸を襲っても",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            988,
+            139
+          ],
+          [
+            988,
+            952
+          ],
+          [
+            1054,
+            139
+          ],
+          [
+            1054,
+            952
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "外・諸国の非難攻撃を受け、内・兵を失い財",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            916,
+            139
+          ],
+          [
+            916,
+            675
+          ],
+          [
+            969,
+            139
+          ],
+          [
+            969,
+            675
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "を破り国力を消耗するだけだ。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            843,
+            177
+          ],
+          [
+            843,
+            952
+          ],
+          [
+            901,
+            177
+          ],
+          [
+            901,
+            952
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "之卦山沢損(三三)がその将来を暗示して",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            771,
+            142
+          ],
+          [
+            771,
+            225
+          ],
+          [
+            807,
+            142
+          ],
+          [
+            807,
+            225
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "いる。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            697,
+            137
+          ],
+          [
+            697,
+            954
+          ],
+          [
+            750,
+            137
+          ],
+          [
+            750,
+            954
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "……これに反して清はかえってこれが契機と",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            622,
+            136
+          ],
+          [
+            622,
+            957
+          ],
+          [
+            673,
+            136
+          ],
+          [
+            673,
+            957
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "なって偸安の夢から覚め、富国強兵に力を注",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            550,
+            135
+          ],
+          [
+            550,
+            551
+          ],
+          [
+            587,
+            135
+          ],
+          [
+            587,
+            551
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "ぐようになるであろう。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            473,
+            179
+          ],
+          [
+            473,
+            958
+          ],
+          [
+            516,
+            179
+          ],
+          [
+            516,
+            958
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "したがって清にはこの国難がむしろプラス",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            397,
+            144
+          ],
+          [
+            397,
+            962
+          ],
+          [
+            439,
+            144
+          ],
+          [
+            439,
+            962
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "になる。清から見た之卦風雷益がそれを示し",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            328,
+            147
+          ],
+          [
+            328,
+            275
+          ],
+          [
+            362,
+            147
+          ],
+          [
+            362,
+            275
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "ている。",
+        "isTextline": "true",
+        "confidence": 0.933
+      },
+      {
+        "boundingBox": [
+          [
+            177,
+            199
+          ],
+          [
+            177,
+            972
+          ],
+          [
+            221,
+            199
+          ],
+          [
+            221,
+            972
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "翌十八年四月、清はフランスとハトール条",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            109,
+            171
+          ],
+          [
+            109,
+            972
+          ],
+          [
+            155,
+            171
+          ],
+          [
+            155,
+            972
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "約を結ぶことによって戦争を有利に終結させ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1327,
+            1071
+          ],
+          [
+            1327,
+            1932
+          ],
+          [
+            1404,
+            1071
+          ],
+          [
+            1404,
+            1932
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ることが出来た。が、そればかりではない。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1251,
+            1112
+          ],
+          [
+            1251,
+            1964
+          ],
+          [
+            1327,
+            1112
+          ],
+          [
+            1327,
+            1964
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "嘉右衛門が言っているように海防の弱点を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1173,
+            1071
+          ],
+          [
+            1173,
+            1961
+          ],
+          [
+            1250,
+            1071
+          ],
+          [
+            1250,
+            1961
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "大いに改めるべく、後に日清戦役で名を売っ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1099,
+            1074
+          ],
+          [
+            1099,
+            1974
+          ],
+          [
+            1171,
+            1074
+          ],
+          [
+            1171,
+            1974
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "た軍艦定遠や鎮遠を作り、国防力を充実した",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1024,
+            1079
+          ],
+          [
+            1024,
+            1263
+          ],
+          [
+            1067,
+            1079
+          ],
+          [
+            1067,
+            1263
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "のだった。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            949,
+            1072
+          ],
+          [
+            949,
+            1983
+          ],
+          [
+            1013,
+            1072
+          ],
+          [
+            1013,
+            1983
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "-斯文会に出席の学者諸先生も嘉右衛門の",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            870,
+            1076
+          ],
+          [
+            870,
+            1995
+          ],
+          [
+            933,
+            1076
+          ],
+          [
+            933,
+            1995
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "易占に対する自信、それを裏付ける持論に舌",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            792,
+            1078
+          ],
+          [
+            792,
+            1732
+          ],
+          [
+            846,
+            1078
+          ],
+          [
+            846,
+            1732
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "を捲いたことはいうまでもない。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            636,
+            1125
+          ],
+          [
+            636,
+            2027
+          ],
+          [
+            690,
+            1125
+          ],
+          [
+            690,
+            2027
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "嘉右衛門の易占を、後に「高島流の爻辞占」",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            558,
+            1083
+          ],
+          [
+            558,
+            2003
+          ],
+          [
+            607,
+            1083
+          ],
+          [
+            607,
+            2003
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "と呼び、ついには嘉右衛門は爻辞一点張りの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            479,
+            1085
+          ],
+          [
+            479,
+            2005
+          ],
+          [
+            525,
+            1085
+          ],
+          [
+            525,
+            2005
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "占をしたかのように思い込む人が多く、中に",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            399,
+            1090
+          ],
+          [
+            399,
+            1979
+          ],
+          [
+            444,
+            1090
+          ],
+          [
+            444,
+            1979
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "は象占と爻辞占とどちらに重点を置いたか、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            323,
+            1091
+          ],
+          [
+            323,
+            2003
+          ],
+          [
+            364,
+            1091
+          ],
+          [
+            364,
+            2003
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "その比率は?というようなことまで言われ",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            245,
+            1096
+          ],
+          [
+            245,
+            2004
+          ],
+          [
+            287,
+            1096
+          ],
+          [
+            287,
+            2004
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "ているが、彼は象を充分たたいた上でその辞",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            168,
+            1098
+          ],
+          [
+            168,
+            2003
+          ],
+          [
+            211,
+            1098
+          ],
+          [
+            211,
+            2003
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "に合点出来るものがあれば、簡にして要を得",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            98,
+            1097
+          ],
+          [
+            98,
+            1996
+          ],
+          [
+            140,
+            1097
+          ],
+          [
+            140,
+            1996
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "た辞を引き当てて要領よくまとめたものであ",
+        "isTextline": "true",
+        "confidence": 0.946
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4867.JPEG",
+    "img_name": "IMG_4867.JPEG"
+  }
+}

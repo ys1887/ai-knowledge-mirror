@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1322,
+            172
+          ],
+          [
+            1322,
+            954
+          ],
+          [
+            1380,
+            172
+          ],
+          [
+            1380,
+            954
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "るにちがいない。何となれば「嘘」というこ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1254,
+            167
+          ],
+          [
+            1254,
+            957
+          ],
+          [
+            1313,
+            167
+          ],
+          [
+            1313,
+            957
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "とを知っているのは、当の高島家をはじめ全",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            166
+          ],
+          [
+            1182,
+            528
+          ],
+          [
+            1228,
+            166
+          ],
+          [
+            1228,
+            528
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "国で五百か千の人だ。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1111,
+            201
+          ],
+          [
+            1111,
+            958
+          ],
+          [
+            1167,
+            201
+          ],
+          [
+            1167,
+            958
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "逆に大新聞社が発行している週刊誌は少く",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1043,
+            162
+          ],
+          [
+            1043,
+            956
+          ],
+          [
+            1095,
+            162
+          ],
+          [
+            1095,
+            956
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "とも数十万部は出ているだろうから、活字で",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            970,
+            159
+          ],
+          [
+            970,
+            958
+          ],
+          [
+            1019,
+            159
+          ],
+          [
+            1019,
+            958
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "紹介された偽りの履歴の方が広く深く信じら",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            899,
+            159
+          ],
+          [
+            899,
+            958
+          ],
+          [
+            946,
+            159
+          ],
+          [
+            946,
+            958
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "れる可能性がある。彼の作戦はまんまと図に",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            828,
+            156
+          ],
+          [
+            828,
+            937
+          ],
+          [
+            874,
+            156
+          ],
+          [
+            874,
+            937
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "当って多くから信じられているわけである。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            682,
+            199
+          ],
+          [
+            682,
+            958
+          ],
+          [
+            726,
+            199
+          ],
+          [
+            726,
+            958
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "いま残っている人のうち、小玉呑象氏のこ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            609,
+            153
+          ],
+          [
+            609,
+            482
+          ],
+          [
+            647,
+            153
+          ],
+          [
+            647,
+            482
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "とはすでに書いた。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            535,
+            196
+          ],
+          [
+            535,
+            963
+          ],
+          [
+            576,
+            196
+          ],
+          [
+            576,
+            963
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "このほか北海道(嘉右衛門がはじめて明治",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            460,
+            157
+          ],
+          [
+            460,
+            965
+          ],
+          [
+            501,
+            157
+          ],
+          [
+            501,
+            965
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "二十六年に開墾に着手した石狩川のほとり奈",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            387,
+            154
+          ],
+          [
+            387,
+            964
+          ],
+          [
+            428,
+            154
+          ],
+          [
+            428,
+            964
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "井江)に今も住んでおられる細野生二氏。長",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            313,
+            158
+          ],
+          [
+            313,
+            967
+          ],
+          [
+            356,
+            158
+          ],
+          [
+            356,
+            967
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "島忠蔵氏。最後まで枕頭に侍ったという忠蔵",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            246,
+            164
+          ],
+          [
+            246,
+            754
+          ],
+          [
+            287,
+            164
+          ],
+          [
+            287,
+            754
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "氏の兄長島浜吉氏(東京在住)は、",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            176,
+            194
+          ],
+          [
+            176,
+            971
+          ],
+          [
+            221,
+            194
+          ],
+          [
+            221,
+            971
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「…論語と鳩翁道話を手にして最終の幕を閉",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1357,
+            1075
+          ],
+          [
+            1357,
+            1927
+          ],
+          [
+            1419,
+            1075
+          ],
+          [
+            1419,
+            1927
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "じられた故先生は、 難解至極のものを如何に",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            1075
+          ],
+          [
+            1282,
+            1931
+          ],
+          [
+            1345,
+            1075
+          ],
+          [
+            1345,
+            1931
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "平凡平易に多数人に教へんかに苦心せられた",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1212,
+            1077
+          ],
+          [
+            1212,
+            1428
+          ],
+          [
+            1257,
+            1077
+          ],
+          [
+            1257,
+            1428
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "ようであります…」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1137,
+            1119
+          ],
+          [
+            1137,
+            1912
+          ],
+          [
+            1194,
+            1119
+          ],
+          [
+            1194,
+            1912
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "と筆者宛の私信で当時を語っておられる。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1064,
+            1119
+          ],
+          [
+            1064,
+            1910
+          ],
+          [
+            1119,
+            1119
+          ],
+          [
+            1119,
+            1910
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "また盛岡に住んでおられる七戸綏人氏は、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            989,
+            1077
+          ],
+          [
+            989,
+            1945
+          ],
+          [
+            1044,
+            1077
+          ],
+          [
+            1044,
+            1945
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "明治三十九年から四十二年までの四年間、嘉",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            913,
+            1078
+          ],
+          [
+            913,
+            1947
+          ],
+          [
+            967,
+            1078
+          ],
+          [
+            967,
+            1947
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "右衛門邸に起居し、他職を習いながら易を聴",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            840,
+            1078
+          ],
+          [
+            840,
+            1569
+          ],
+          [
+            885,
+            1078
+          ],
+          [
+            885,
+            1569
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "講したと言っておられる。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            768,
+            1122
+          ],
+          [
+            768,
+            1954
+          ],
+          [
+            813,
+            1122
+          ],
+          [
+            813,
+            1954
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "もう一人、明治二十八年のある日、東京帝",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            690,
+            1080
+          ],
+          [
+            690,
+            1937
+          ],
+          [
+            735,
+            1080
+          ],
+          [
+            735,
+            1937
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "大の英法科へ行っているという制服制帽の一",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            614,
+            1081
+          ],
+          [
+            614,
+            1955
+          ],
+          [
+            657,
+            1081
+          ],
+          [
+            657,
+            1955
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "学生が嘉右衛門邸を訪れ、勧められるままに",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            537,
+            1082
+          ],
+          [
+            537,
+            1933
+          ],
+          [
+            580,
+            1082
+          ],
+          [
+            580,
+            1933
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "その広大な邸の一部にある寮に幾日か泊り、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            460,
+            1082
+          ],
+          [
+            460,
+            1953
+          ],
+          [
+            502,
+            1082
+          ],
+          [
+            502,
+            1953
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "嘉右衛門の室を連日叩いて疑団を糺していっ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            389,
+            1085
+          ],
+          [
+            389,
+            1141
+          ],
+          [
+            424,
+            1085
+          ],
+          [
+            424,
+            1141
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.929
+      },
+      {
+        "boundingBox": [
+          [
+            309,
+            1129
+          ],
+          [
+            309,
+            1958
+          ],
+          [
+            349,
+            1129
+          ],
+          [
+            349,
+            1958
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "金沢に生れたこの青年は、学校を終えると",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            235,
+            1086
+          ],
+          [
+            235,
+            1956
+          ],
+          [
+            277,
+            1086
+          ],
+          [
+            277,
+            1956
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "直ぐ官界に入り、山口県の参事官になって赴",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            171,
+            1087
+          ],
+          [
+            171,
+            1357
+          ],
+          [
+            206,
+            1087
+          ],
+          [
+            206,
+            1357
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "任して行った。",
+        "isTextline": "true",
+        "confidence": 0.95
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4927.JPEG",
+    "img_name": "IMG_4927.JPEG"
+  }
+}

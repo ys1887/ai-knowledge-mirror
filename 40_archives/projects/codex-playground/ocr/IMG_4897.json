@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1341,
+            111
+          ],
+          [
+            1341,
+            938
+          ],
+          [
+            1403,
+            111
+          ],
+          [
+            1403,
+            938
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "おそらくその事を非公式に頼まれるでしょう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1270,
+            109
+          ],
+          [
+            1270,
+            917
+          ],
+          [
+            1327,
+            109
+          ],
+          [
+            1327,
+            917
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "これが実現したなら、日布両国のためきっと",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            103
+          ],
+          [
+            1198,
+            684
+          ],
+          [
+            1253,
+            103
+          ],
+          [
+            1253,
+            684
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "大きな幸いになることでしょう」",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1127,
+            138
+          ],
+          [
+            1127,
+            597
+          ],
+          [
+            1176,
+            138
+          ],
+          [
+            1176,
+            597
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "と激励した。 杉孫七郎は、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1052,
+            116
+          ],
+          [
+            1052,
+            309
+          ],
+          [
+            1095,
+            116
+          ],
+          [
+            1095,
+            309
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "「なるほど」",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            982,
+            134
+          ],
+          [
+            982,
+            917
+          ],
+          [
+            1032,
+            134
+          ],
+          [
+            1032,
+            917
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "と感に堪えたように腕を組んで考えこんで",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            908,
+            99
+          ],
+          [
+            908,
+            918
+          ],
+          [
+            954,
+            99
+          ],
+          [
+            954,
+            918
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "いたが、参会の人々の嘆声と拍手にきッとし",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            834,
+            93
+          ],
+          [
+            834,
+            138
+          ],
+          [
+            869,
+            93
+          ],
+          [
+            869,
+            138
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "て、",
+        "isTextline": "true",
+        "confidence": 0.911
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            110
+          ],
+          [
+            757,
+            921
+          ],
+          [
+            803,
+            110
+          ],
+          [
+            803,
+            921
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "「面白い、とにかく元気で行って来ます。今",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            682,
+            87
+          ],
+          [
+            682,
+            917
+          ],
+          [
+            726,
+            87
+          ],
+          [
+            726,
+            917
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "高島君が言われたことは、実に思いも及ばぬ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            90
+          ],
+          [
+            607,
+            920
+          ],
+          [
+            649,
+            90
+          ],
+          [
+            649,
+            920
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "ことですが、移民の件、国王の希望、それぞ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            529,
+            90
+          ],
+          [
+            529,
+            921
+          ],
+          [
+            571,
+            90
+          ],
+          [
+            571,
+            921
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "れについて、船中ゆっくり考慮し、即位式参",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            453,
+            90
+          ],
+          [
+            453,
+            922
+          ],
+          [
+            496,
+            90
+          ],
+          [
+            496,
+            922
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "列の公使としての任を果すだけでなく、出来",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            377,
+            94
+          ],
+          [
+            377,
+            685
+          ],
+          [
+            421,
+            94
+          ],
+          [
+            421,
+            685
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "うるだけのことをやって来ます」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            312,
+            141
+          ],
+          [
+            312,
+            354
+          ],
+          [
+            348,
+            141
+          ],
+          [
+            348,
+            354
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "と挨拶した。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            231,
+            149
+          ],
+          [
+            231,
+            943
+          ],
+          [
+            280,
+            149
+          ],
+          [
+            280,
+            943
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "やがて杉公使は、 大任を果して帰還したが、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            165,
+            118
+          ],
+          [
+            165,
+            931
+          ],
+          [
+            212,
+            118
+          ],
+          [
+            212,
+            931
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "早々に望欣台の嘉右衛門を訪れ、ハワイの模",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1371,
+            1040
+          ],
+          [
+            1371,
+            1268
+          ],
+          [
+            1412,
+            1040
+          ],
+          [
+            1412,
+            1268
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "様を語った。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1298,
+            1065
+          ],
+          [
+            1298,
+            1917
+          ],
+          [
+            1353,
+            1065
+          ],
+          [
+            1353,
+            1917
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "「驚きましたな。あの時は余りに奇妙なこと",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1226,
+            1041
+          ],
+          [
+            1226,
+            1926
+          ],
+          [
+            1280,
+            1041
+          ],
+          [
+            1280,
+            1926
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ばだったので、 いかに高島の言といえども信",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1152,
+            1042
+          ],
+          [
+            1152,
+            1899
+          ],
+          [
+            1204,
+            1042
+          ],
+          [
+            1204,
+            1899
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "じられなかった。ところが向こうへ行って、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            1042
+          ],
+          [
+            1074,
+            1929
+          ],
+          [
+            1127,
+            1042
+          ],
+          [
+            1127,
+            1929
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "国王にお目にかかったら、先さまから移民の",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            996,
+            1041
+          ],
+          [
+            996,
+            1908
+          ],
+          [
+            1049,
+            1041
+          ],
+          [
+            1049,
+            1908
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "話が出た。日本人は非常に勤勉だそうだし、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            919,
+            1040
+          ],
+          [
+            919,
+            1942
+          ],
+          [
+            972,
+            1040
+          ],
+          [
+            972,
+            1942
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "性質も明るくかつ率直だそうだから、ぜひ寄",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            1042
+          ],
+          [
+            842,
+            1943
+          ],
+          [
+            891,
+            1042
+          ],
+          [
+            891,
+            1943
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "越してくれ。それぞれに土地を分け、国とし",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            766,
+            1046
+          ],
+          [
+            766,
+            1919
+          ],
+          [
+            812,
+            1046
+          ],
+          [
+            812,
+            1919
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "て出来るだけのお世話をしようではないか、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            687,
+            1044
+          ],
+          [
+            687,
+            1949
+          ],
+          [
+            731,
+            1044
+          ],
+          [
+            731,
+            1949
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "という話なんだ。喜んでその御好意を受ける",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            609,
+            1048
+          ],
+          [
+            609,
+            1923
+          ],
+          [
+            650,
+            1048
+          ],
+          [
+            650,
+            1923
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "ことにして来た。……そればかりではない、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            526,
+            1044
+          ],
+          [
+            526,
+            1950
+          ],
+          [
+            571,
+            1044
+          ],
+          [
+            571,
+            1950
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "帝乙帰妹の希望も現実にあった。この写真の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            448,
+            1051
+          ],
+          [
+            448,
+            1953
+          ],
+          [
+            492,
+            1051
+          ],
+          [
+            492,
+            1953
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "(と懐中にしていた王女の釣りをしておられ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            369,
+            1048
+          ],
+          [
+            369,
+            1952
+          ],
+          [
+            411,
+            1048
+          ],
+          [
+            411,
+            1952
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "るところの写真を出してみせて)王女を、日",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            291,
+            1048
+          ],
+          [
+            291,
+            1949
+          ],
+          [
+            337,
+            1048
+          ],
+          [
+            337,
+            1949
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "本の貴族に世話して貰えないだろうか、と頼",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            218,
+            1050
+          ],
+          [
+            218,
+            1962
+          ],
+          [
+            263,
+            1050
+          ],
+          [
+            263,
+            1962
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "まれたのだが、易は実によく出ていましたな」",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            162,
+            1051
+          ],
+          [
+            162,
+            1237
+          ],
+          [
+            194,
+            1051
+          ],
+          [
+            194,
+            1237
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "と言った。",
+        "isTextline": "true",
+        "confidence": 0.933
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4897.JPEG",
+    "img_name": "IMG_4897.JPEG"
+  }
+}

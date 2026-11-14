@@ -1,0 +1,101 @@
+{
+  "cases": [
+    {
+      "id": "extract-standard-test-1",
+      "kind": "standard",
+      "template": "EX_SIMPLE",
+      "input": "tests/fixtures/extract_cases/test_1.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_1_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "recommended_elements": ["彖伝", "大象伝", "本田解釈", "高島解釈"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-2",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "tests/fixtures/extract_cases/test_2.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_2_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "本田解釈", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-3",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "tests/fixtures/extract_cases/test_3.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_3_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "本田解釈", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-standard-1",
+      "kind": "standard",
+      "template": "EX_SIMPLE",
+      "input": "tests/fixtures/extract_cases/standard_1.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "recommended_elements": ["本田解釈", "高島解釈"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-standard-2",
+      "kind": "standard",
+      "template": "EX_SIMPLE",
+      "input": "tests/fixtures/extract_cases/standard_2.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "recommended_elements": ["本田解釈", "高島解釈"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-1",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "tests/fixtures/extract_cases/complex_1.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "本田解釈", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-2",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "tests/fixtures/extract_cases/complex_2.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "本田解釈", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-compare-test-4",
+      "kind": "compare",
+      "template": "EX_COMPARE",
+      "input": "tests/fixtures/extract_cases/test_4.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_4_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "吉凶順位", "まとめ"],
+      "minimum_candidate_details": 2,
+      "recommended_elements": ["候補別詳細", "推薦候補の明示"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1337,
+            94
+          ],
+          [
+            1337,
+            952
+          ],
+          [
+            1399,
+            94
+          ],
+          [
+            1399,
+            952
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "を人事に応用して種々の問題を解決し得べき",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1269,
+            82
+          ],
+          [
+            1269,
+            951
+          ],
+          [
+            1332,
+            82
+          ],
+          [
+            1332,
+            951
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ものと考えた。飜て思うに彼の易なるものは",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1195,
+            76
+          ],
+          [
+            1195,
+            952
+          ],
+          [
+            1257,
+            76
+          ],
+          [
+            1257,
+            952
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "その原理はたしかに波動説である。昔漢学を",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1117,
+            72
+          ],
+          [
+            1117,
+            953
+          ],
+          [
+            1176,
+            72
+          ],
+          [
+            1176,
+            953
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "修めつつあった時にも、易というものは実に",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1036,
+            73
+          ],
+          [
+            1036,
+            955
+          ],
+          [
+            1094,
+            73
+          ],
+          [
+            1094,
+            955
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "大事なものであって、占ばかりでなく、むし",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            959,
+            80
+          ],
+          [
+            959,
+            955
+          ],
+          [
+            1012,
+            80
+          ],
+          [
+            1012,
+            955
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ろ原理の深遠なる所が大いに重んずべきもの",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            880,
+            85
+          ],
+          [
+            880,
+            959
+          ],
+          [
+            933,
+            85
+          ],
+          [
+            933,
+            959
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "であると考えていたが、後ち理学を攻めるよ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            91
+          ],
+          [
+            805,
+            960
+          ],
+          [
+            855,
+            91
+          ],
+          [
+            855,
+            960
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "うになつて、彼と之とを比較してその皈趨を",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            728,
+            99
+          ],
+          [
+            728,
+            963
+          ],
+          [
+            777,
+            99
+          ],
+          [
+            777,
+            963
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "同じうする所あるを見て非常に興味を深くし",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            653,
+            109
+          ],
+          [
+            653,
+            419
+          ],
+          [
+            692,
+            109
+          ],
+          [
+            692,
+            419
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "たのである」と。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            159
+          ],
+          [
+            579,
+            965
+          ],
+          [
+            627,
+            159
+          ],
+          [
+            627,
+            965
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "彼は明治十六年(一八八三)に、神奈川の",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            507,
+            127
+          ],
+          [
+            507,
+            817
+          ],
+          [
+            552,
+            127
+          ],
+          [
+            552,
+            817
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "大綱山の邸に高島嘉右衛門を訪ねた。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            184
+          ],
+          [
+            439,
+            974
+          ],
+          [
+            482,
+            184
+          ],
+          [
+            482,
+            974
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "ついでながら、 杉浦重剛が初版の 『高島島易",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            367,
+            144
+          ],
+          [
+            367,
+            866
+          ],
+          [
+            411,
+            144
+          ],
+          [
+            411,
+            866
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "断』に寄せた「跋」を掲載しておこう。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            299,
+            175
+          ],
+          [
+            299,
+            972
+          ],
+          [
+            342,
+            175
+          ],
+          [
+            342,
+            972
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "「呑象高島君、 易ヲ以テ人事ニ推シ中セザル",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            233,
+            171
+          ],
+          [
+            233,
+            955
+          ],
+          [
+            273,
+            171
+          ],
+          [
+            273,
+            955
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ハ無シ。世人驚キテ以テ神ト為スモノアリ。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            167,
+            172
+          ],
+          [
+            167,
+            971
+          ],
+          [
+            207,
+            172
+          ],
+          [
+            207,
+            971
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "夫レ易ハ人事ノ定律ナリ。之ヲ泰西ノ理学ニ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1375,
+            1079
+          ],
+          [
+            1375,
+            1995
+          ],
+          [
+            1436,
+            1079
+          ],
+          [
+            1436,
+            1995
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "比スレバ精疎ノ別アリト雖モ、ソノ原理ニ到",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1303,
+            1082
+          ],
+          [
+            1303,
+            1999
+          ],
+          [
+            1363,
+            1082
+          ],
+          [
+            1363,
+            1999
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "リテハ即チ消息盈虚、 波動ノ説ト符節ヲ合ス",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            1082
+          ],
+          [
+            1224,
+            2007
+          ],
+          [
+            1285,
+            1082
+          ],
+          [
+            1285,
+            2007
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ガ如シ。 抑嘗テ之ヲ聞クニ、 理学ノ趣旨ハ変",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1141,
+            1082
+          ],
+          [
+            1141,
+            2003
+          ],
+          [
+            1200,
+            1082
+          ],
+          [
+            1200,
+            2003
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "化ヲ前知スルニ在リ。 変化ヲ前知スルハ易ノ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1059,
+            1082
+          ],
+          [
+            1059,
+            2004
+          ],
+          [
+            1120,
+            1082
+          ],
+          [
+            1120,
+            2004
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "事トスルトコロナリ。 然ラバ則チ易ノ理学ト",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            977,
+            1085
+          ],
+          [
+            977,
+            2002
+          ],
+          [
+            1034,
+            1085
+          ],
+          [
+            1034,
+            2002
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "啻に其ノ理ヲ同ジクスルノミナラズ、ソノ用",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            900,
+            1091
+          ],
+          [
+            900,
+            1969
+          ],
+          [
+            954,
+            1091
+          ],
+          [
+            954,
+            1969
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ヲ同ジクスルナリ。 己ニ其ノ理ヲ同ジクシ、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            820,
+            1087
+          ],
+          [
+            820,
+            1985
+          ],
+          [
+            872,
+            1087
+          ],
+          [
+            872,
+            1985
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "且ツ其ノ用ヲ同ジクス、 易マタ理学タルノミ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            1090
+          ],
+          [
+            744,
+            1983
+          ],
+          [
+            794,
+            1090
+          ],
+          [
+            794,
+            1983
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "ナリ。昔、 邵康節ハ暦数ヲ善クシ、 兼ネテ易",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            668,
+            1096
+          ],
+          [
+            668,
+            1950
+          ],
+          [
+            718,
+            1096
+          ],
+          [
+            718,
+            1950
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ニ通ズ。 暦数トハ理学ノ最醇ナルモノナリ。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            593,
+            1089
+          ],
+          [
+            593,
+            1967
+          ],
+          [
+            642,
+            1089
+          ],
+          [
+            642,
+            1967
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "曽テ客アリ、 康節",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            520,
+            1093
+          ],
+          [
+            520,
+            1961
+          ],
+          [
+            570,
+            1093
+          ],
+          [
+            570,
+            1961
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "則チ晋書帝紀ヲ出シテ之ヲ示シテ曰ク、己理",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            449,
+            1101
+          ],
+          [
+            449,
+            1947
+          ],
+          [
+            495,
+            1101
+          ],
+          [
+            495,
+            1947
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "ニ通ズルニ非レバ、焉ゾ能ク此ノ如キヲ得ン",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            378,
+            1096
+          ],
+          [
+            378,
+            1947
+          ],
+          [
+            423,
+            1096
+          ],
+          [
+            423,
+            1947
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ト。余是ニ於テ益々易ノ理学ト互ニ相因ル所",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            309,
+            1100
+          ],
+          [
+            309,
+            1941
+          ],
+          [
+            354,
+            1100
+          ],
+          [
+            354,
+            1941
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "アルヲ信ズ、今茲ニ呑象君ソノ著ス所ノ易断",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            240,
+            1101
+          ],
+          [
+            240,
+            1934
+          ],
+          [
+            284,
+            1101
+          ],
+          [
+            284,
+            1934
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "ヲ刻ス。蓋シ君ノ少キ時、西洋理学ノ説ヲ聞",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            174,
+            1098
+          ],
+          [
+            174,
+            1926
+          ],
+          [
+            217,
+            1098
+          ],
+          [
+            217,
+            1926
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "キ深ク之ヲ悦ビ、大ニ得ル所アリ。其ノ学問",
+        "isTextline": "true",
+        "confidence": 0.953
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4862.JPEG",
+    "img_name": "IMG_4862.JPEG"
+  }
+}

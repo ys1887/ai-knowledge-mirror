@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1281,
+            130
+          ],
+          [
+            1281,
+            350
+          ],
+          [
+            1324,
+            130
+          ],
+          [
+            1324,
+            350
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "見返し参照。)",
+        "isTextline": "true",
+        "confidence": 0.914
+      },
+      {
+        "boundingBox": [
+          [
+            1212,
+            177
+          ],
+          [
+            1212,
+            369
+          ],
+          [
+            1254,
+            177
+          ],
+          [
+            1254,
+            369
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一人の客が、",
+        "isTextline": "true",
+        "confidence": 0.932
+      },
+      {
+        "boundingBox": [
+          [
+            1141,
+            144
+          ],
+          [
+            1141,
+            924
+          ],
+          [
+            1204,
+            144
+          ],
+          [
+            1204,
+            924
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "「書は姓名を記すことが出来ればそれでたく",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1073,
+            119
+          ],
+          [
+            1073,
+            924
+          ],
+          [
+            1131,
+            119
+          ],
+          [
+            1131,
+            924
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "さんだという人もあるが、それは取るに足り",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            114
+          ],
+          [
+            1000,
+            926
+          ],
+          [
+            1058,
+            114
+          ],
+          [
+            1058,
+            926
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "ない論だ。しかし、技神に入ると識者から讃",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            929,
+            110
+          ],
+          [
+            929,
+            924
+          ],
+          [
+            982,
+            110
+          ],
+          [
+            982,
+            924
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "えられているような字が、見様によれば蚯蚓",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            854,
+            107
+          ],
+          [
+            854,
+            922
+          ],
+          [
+            907,
+            107
+          ],
+          [
+            907,
+            922
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "がのたくっているようじゃないかとそしられ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            779,
+            105
+          ],
+          [
+            779,
+            921
+          ],
+          [
+            830,
+            105
+          ],
+          [
+            830,
+            921
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "る場合もなくはない。優劣は結局各人の好み",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            707,
+            102
+          ],
+          [
+            707,
+            919
+          ],
+          [
+            751,
+            102
+          ],
+          [
+            751,
+            919
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "によって決まるといっていえないこともない",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            630,
+            99
+          ],
+          [
+            630,
+            924
+          ],
+          [
+            676,
+            99
+          ],
+          [
+            676,
+            924
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "と思う。しかしそれじゃ私にはどうも納得出",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            99
+          ],
+          [
+            554,
+            927
+          ],
+          [
+            598,
+            99
+          ],
+          [
+            598,
+            927
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "来ない。時代の人気や需要をこえて、真の優",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            478,
+            99
+          ],
+          [
+            478,
+            923
+          ],
+          [
+            520,
+            99
+          ],
+          [
+            520,
+            923
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "劣があるんじゃないかと思う。公正に見てど",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            402,
+            100
+          ],
+          [
+            402,
+            944
+          ],
+          [
+            444,
+            100
+          ],
+          [
+            444,
+            944
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "れが優でどれが劣か、どうでしょう高島さん、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            323,
+            124
+          ],
+          [
+            323,
+            689
+          ],
+          [
+            369,
+            124
+          ],
+          [
+            369,
+            689
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "\"易占\"でそれが判りませんか」",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            259,
+            148
+          ],
+          [
+            259,
+            359
+          ],
+          [
+            295,
+            148
+          ],
+          [
+            295,
+            359
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "とたずねた。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            188,
+            137
+          ],
+          [
+            188,
+            409
+          ],
+          [
+            226,
+            137
+          ],
+          [
+            226,
+            409
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「それは面白い」",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            111,
+            166
+          ],
+          [
+            111,
+            939
+          ],
+          [
+            158,
+            166
+          ],
+          [
+            158,
+            939
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "副島も筆を捨てて話に割り込んで来た。も",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1325,
+            1043
+          ],
+          [
+            1325,
+            1314
+          ],
+          [
+            1369,
+            1043
+          ],
+          [
+            1369,
+            1314
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "う一人の客が、",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            1248,
+            1068
+          ],
+          [
+            1248,
+            1935
+          ],
+          [
+            1318,
+            1068
+          ],
+          [
+            1318,
+            1935
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "「今ここに三人の書家があります。 いずれも",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1174,
+            1046
+          ],
+          [
+            1174,
+            1940
+          ],
+          [
+            1242,
+            1046
+          ],
+          [
+            1242,
+            1940
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "知名の士です。名は伏せておきますが、かり",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1101,
+            1048
+          ],
+          [
+            1101,
+            1942
+          ],
+          [
+            1167,
+            1048
+          ],
+          [
+            1167,
+            1942
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "に天地人の三人としておきます。天の人はど",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1026,
+            1046
+          ],
+          [
+            1026,
+            1945
+          ],
+          [
+            1087,
+            1046
+          ],
+          [
+            1087,
+            1945
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "うか、地の人はどうか、人の人はどうか。こ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            949,
+            1051
+          ],
+          [
+            949,
+            1833
+          ],
+          [
+            1008,
+            1051
+          ],
+          [
+            1008,
+            1833
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "の三人の優劣を一つ占ってみて下さい」",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            874,
+            1092
+          ],
+          [
+            874,
+            1961
+          ],
+          [
+            929,
+            1092
+          ],
+          [
+            929,
+            1961
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "その人は、持参したらしいかたわらの風呂",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            793,
+            1047
+          ],
+          [
+            793,
+            1655
+          ],
+          [
+            843,
+            1047
+          ],
+          [
+            843,
+            1655
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "敷包みを指差し一占を求めた。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            717,
+            1091
+          ],
+          [
+            717,
+            1751
+          ],
+          [
+            763,
+            1091
+          ],
+          [
+            763,
+            1751
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "うなづいた嘉右衛門は探筮した。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            634,
+            1147
+          ],
+          [
+            634,
+            1944
+          ],
+          [
+            685,
+            1147
+          ],
+          [
+            685,
+            1944
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "大の人に同人の无妄に之く卦。",
+        "isTextline": "true",
+        "confidence": 0.744
+      },
+      {
+        "boundingBox": [
+          [
+            555,
+            1142
+          ],
+          [
+            555,
+            1756
+          ],
+          [
+            602,
+            1142
+          ],
+          [
+            602,
+            1756
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "地の人に大畜の上爻。",
+        "isTextline": "true",
+        "confidence": 0.683
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            1370
+          ],
+          [
+            471,
+            1758
+          ],
+          [
+            523,
+            1370
+          ],
+          [
+            523,
+            1758
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "二三大有の二爻。",
+        "isTextline": "true",
+        "confidence": 0.696
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            1057
+          ],
+          [
+            400,
+            1247
+          ],
+          [
+            438,
+            1057
+          ],
+          [
+            438,
+            1247
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "であった。",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            313,
+            1079
+          ],
+          [
+            313,
+            1954
+          ],
+          [
+            359,
+            1079
+          ],
+          [
+            359,
+            1954
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「天の書家は筆勢剛健だが、癖のある字だ。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            235,
+            1057
+          ],
+          [
+            235,
+            1975
+          ],
+          [
+            280,
+            1057
+          ],
+          [
+            280,
+            1975
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "同人野に於て亨る、大川を渉るに利ろし、と",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            157,
+            1065
+          ],
+          [
+            157,
+            1971
+          ],
+          [
+            206,
+            1065
+          ],
+          [
+            206,
+            1971
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "いう同人の象は、野人的奔放さのある人柄を",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            87,
+            1060
+          ],
+          [
+            87,
+            1966
+          ],
+          [
+            137,
+            1060
+          ],
+          [
+            137,
+            1966
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "示している。 無人の境を行く",
+        "isTextline": "true",
+        "confidence": 0.955
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4871.JPEG",
+    "img_name": "IMG_4871.JPEG"
+  }
+}

@@ -1,0 +1,31 @@
+# EX_SIMPLE output skeleton (single-source)
+
+- Order: `## 質問文` -> `## 本卦` -> `## 変爻` -> one final interpretation section -> one references section.
+- output exactly one interpretation section with the profile label only.
+- `## 質問文` is a script-filled code block section. Emit the heading only; the script inserts the full user input under it.
+- `## 本卦` is a script-filled quote section. Emit the heading only; the script inserts the honka source block under it.
+- `## 変爻` is a script-filled quote section. Emit the heading only; the script inserts the selected changing-line source block under it.
+- `EX_SIMPLE` requires one changing line. Reject `変爻：なし` or missing `変爻`.
+- Outside the final interpretation section, do not restate the user's concrete question, options, or domain terms.
+- The interpretation section must recombine `本卦` and `変爻`; do not introduce a new unrelated thesis there.
+- Only the interpretation section may reconnect the reading to the user's concrete scenario.
+- `## 総合解釈` must read like an applied Takashima judgment, not a short recap.
+- `## 総合解釈` must apply the honka quote block, changing-line quote block, and relevant Takashima passages to the user's concrete question.
+- Use short inline quotations or close paraphrases when they materially support the judgment, but do not turn the section into a quotation dump.
+- Do not reformat or reproduce the fixed quote blocks yourself.
+- `## 総合解釈` must be 2-4 paragraphs. Typical count is 2-3 paragraphs.
+- The first paragraph must identify what is at stake in this question, where the relevant parties or conditions stand, and how the quoted evidence bears on this case.
+- The remaining paragraph(s) must state the likely trajectory and practical meaning first; any guidance should stay secondary and restrained.
+- Let the first paragraph move from the concrete dispute, stake, or party-position in this case into application; do not leave it at general attitude alone.
+- When the evidence supports divergent outcomes, conditional branching is allowed, but keep it compact and tied to the established reading.
+- Close the final paragraph with concrete trajectory for this case, optionally followed by short restrained guidance, not with abstract posture alone.
+- Include conditions, timing, cautions, or likely obstacles only when the evidence supports them.
+- Keep guidance at the level of posture, timing, caution, or what to avoid; do not turn `## 総合解釈` into step-by-step practical advice.
+- Allowed guidance examples include `焦って押し通すべきではない`, `通る筋を見極めるべき時である`, and `すぐに結果を求めず、受け止められる形を待つ`.
+- Avoid concrete real-world tactics such as `別窓口に照会する`, `必要書類を整える`, `複線化する`, or `今日明日の資金繰りを最優先にする` unless the evidence directly compels that exact condition.
+- Do not open `## 総合解釈` with a bare conclusion alone; let the judgment emerge through recomposition first.
+- Do not open `## 総合解釈` with phrases such as `本卦は○○の卦である`, `この卦は○○を表す`, or similar re-framing of the hexagram or changing line.
+- Do not append profile notes, evidence-scope notes, implementation notes, or other meta commentary after the interpretation section.
+- Do not emit `（参照：...）` at the end of any section.
+- After `## 総合解釈`, emit exactly one `## 参照` section before `## 高島易断`.
+- The references section must use bullet lines in the form `- <citation path> | <卦名>`.

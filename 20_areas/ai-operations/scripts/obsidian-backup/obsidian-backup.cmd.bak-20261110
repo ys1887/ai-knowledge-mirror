@@ -1,0 +1,24 @@
+@echo off
+setlocal
+rem Obsidian backup: mirror C:\Users\nekol\Obsidian into the Cryptomator vault (Z:\Obsidian)
+set "SRC=C:\Users\nekol\Obsidian"
+set "DST=Z:\Obsidian"
+set "LOG=%~dp0obsidian-backup.log"
+
+echo ==== %DATE% %TIME% backup start ==== >> "%LOG%"
+
+rem Wait for the vault drive (auto-unlock may take a moment after sign-in). Up to about 5 minutes.
+set "FOUND="
+for /L %%i in (1,1,30) do (
+  if exist "Z:\" set "FOUND=1"
+  if defined FOUND goto :run
+  timeout /t 10 /nobreak >nul
+)
+echo Z drive not found. Backup skipped. >> "%LOG%"
+exit /b 1
+
+:run
+robocopy "%SRC%" "%DST%" /MIR /COPY:DAT /DCOPY:DAT /R:3 /W:5 /NP /LOG+:"%LOG%"
+set "RC=%ERRORLEVEL%"
+echo robocopy exit code: %RC% >> "%LOG%"
+if %RC% LSS 8 (exit /b 0) else (exit /b %RC%)

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1289,
+            123
+          ],
+          [
+            1289,
+            931
+          ],
+          [
+            1367,
+            123
+          ],
+          [
+            1367,
+            931
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "き受けたことだろうが、この例などは特に快",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1216,
+            120
+          ],
+          [
+            1216,
+            612
+          ],
+          [
+            1277,
+            120
+          ],
+          [
+            1277,
+            612
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "心の作だったにちがいない。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            155
+          ],
+          [
+            1147,
+            948
+          ],
+          [
+            1219,
+            155
+          ],
+          [
+            1219,
+            948
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "当時千駄谷の陰気な家に住んでいた副島に、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            115
+          ],
+          [
+            1074,
+            931
+          ],
+          [
+            1140,
+            115
+          ],
+          [
+            1140,
+            931
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "陽気な家と、明るい嫁を世話しようというの",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            115
+          ],
+          [
+            1001,
+            931
+          ],
+          [
+            1066,
+            115
+          ],
+          [
+            1066,
+            931
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "で、彼が易を布いてみたら、風沢中孚の九二",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            929,
+            114
+          ],
+          [
+            929,
+            740
+          ],
+          [
+            985,
+            114
+          ],
+          [
+            985,
+            740
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "で、風雷益に之くという卦が出た。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            855,
+            148
+          ],
+          [
+            855,
+            935
+          ],
+          [
+            913,
+            148
+          ],
+          [
+            913,
+            935
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "相手は彼が旧い関係のある大垣・戸田藩の",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            779,
+            109
+          ],
+          [
+            779,
+            938
+          ],
+          [
+            836,
+            109
+          ],
+          [
+            836,
+            938
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "旧藩士の娘で、家事見習いとして預っていた",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            704,
+            108
+          ],
+          [
+            704,
+            280
+          ],
+          [
+            744,
+            108
+          ],
+          [
+            744,
+            280
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "者である。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            631,
+            150
+          ],
+          [
+            631,
+            916
+          ],
+          [
+            682,
+            150
+          ],
+          [
+            682,
+            916
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "日常の挙措を見知っていることではあり、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            553,
+            110
+          ],
+          [
+            553,
+            942
+          ],
+          [
+            606,
+            110
+          ],
+          [
+            606,
+            942
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "誠実でしかも美貌の人なので、 これは良縁だ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            481,
+            115
+          ],
+          [
+            481,
+            943
+          ],
+          [
+            526,
+            115
+          ],
+          [
+            526,
+            943
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "と思ったが、副島は幾度も不幸な結婚をして",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            406,
+            125
+          ],
+          [
+            406,
+            946
+          ],
+          [
+            450,
+            125
+          ],
+          [
+            450,
+            946
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "いるので寡居になれ、誰が縁談を持ち込んで",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            126
+          ],
+          [
+            334,
+            796
+          ],
+          [
+            372,
+            126
+          ],
+          [
+            372,
+            796
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "も受け付けようとしない難物である。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            262,
+            175
+          ],
+          [
+            262,
+            956
+          ],
+          [
+            301,
+            175
+          ],
+          [
+            301,
+            956
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "そこで彼は、果してこの縁まとまるかどう",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            198,
+            148
+          ],
+          [
+            198,
+            670
+          ],
+          [
+            234,
+            148
+          ],
+          [
+            234,
+            670
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "か、と成否の易を布いてみた。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            133,
+            205
+          ],
+          [
+            133,
+            966
+          ],
+          [
+            172,
+            205
+          ],
+          [
+            172,
+            966
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "これには、兌為沢(三)の沢雷随にゆく",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            1335,
+            1051
+          ],
+          [
+            1335,
+            1238
+          ],
+          [
+            1380,
+            1051
+          ],
+          [
+            1380,
+            1238
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "卦を得た。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1267,
+            1054
+          ],
+          [
+            1267,
+            1945
+          ],
+          [
+            1339,
+            1054
+          ],
+          [
+            1339,
+            1945
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "……………………………………「相",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1185,
+            1054
+          ],
+          [
+            1185,
+            1946
+          ],
+          [
+            1257,
+            1054
+          ],
+          [
+            1257,
+            1946
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "性」ということが最大の関心事のようである",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1112,
+            1056
+          ],
+          [
+            1112,
+            1955
+          ],
+          [
+            1181,
+            1056
+          ],
+          [
+            1181,
+            1955
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "が、両者の結び付きの可否もあり、成否もあ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1037,
+            1059
+          ],
+          [
+            1037,
+            1955
+          ],
+          [
+            1104,
+            1059
+          ],
+          [
+            1104,
+            1955
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "るので、 嘉右衛門は別に卦を布いてみたので",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            1058
+          ],
+          [
+            960,
+            1966
+          ],
+          [
+            1027,
+            1058
+          ],
+          [
+            1027,
+            1966
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "ある。(良縁でも成らないこともあれば、悪縁",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            882,
+            1063
+          ],
+          [
+            882,
+            1799
+          ],
+          [
+            942,
+            1063
+          ],
+          [
+            942,
+            1799
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "でも成ってしまうこともあるからだ)",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            806,
+            1113
+          ],
+          [
+            806,
+            1977
+          ],
+          [
+            866,
+            1113
+          ],
+          [
+            866,
+            1977
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "いま得た兌為沢の沢雷随によれば、彼が話",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            727,
+            1064
+          ],
+          [
+            727,
+            1980
+          ],
+          [
+            786,
+            1064
+          ],
+          [
+            786,
+            1980
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "を持ち込むことによって必ず成るという見究",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            1066
+          ],
+          [
+            648,
+            1982
+          ],
+          [
+            702,
+            1066
+          ],
+          [
+            702,
+            1982
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "めがついたので、 彼は早速手頃の家を見つけ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            569,
+            1071
+          ],
+          [
+            569,
+            1981
+          ],
+          [
+            620,
+            1071
+          ],
+          [
+            620,
+            1981
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "て改装し、副島や伊藤を招き碁会を催すこと",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            493,
+            1073
+          ],
+          [
+            493,
+            1218
+          ],
+          [
+            530,
+            1073
+          ],
+          [
+            530,
+            1218
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "にした。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            1117
+          ],
+          [
+            412,
+            1985
+          ],
+          [
+            458,
+            1117
+          ],
+          [
+            458,
+            1985
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "当日、嘉右衛門は自家で使っている女中た",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            335,
+            1075
+          ],
+          [
+            335,
+            1984
+          ],
+          [
+            378,
+            1075
+          ],
+          [
+            378,
+            1984
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ちを総動員して、貴顕来客の接待に当らせた",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            260,
+            1078
+          ],
+          [
+            260,
+            1983
+          ],
+          [
+            302,
+            1078
+          ],
+          [
+            302,
+            1983
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "が、 その中で花嫁候補の娘おつるさんは、 特",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            1084
+          ],
+          [
+            191,
+            1973
+          ],
+          [
+            229,
+            1084
+          ],
+          [
+            229,
+            1973
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "に念入りに化粧させて副島のかたわらにのみ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            131,
+            1082
+          ],
+          [
+            131,
+            1268
+          ],
+          [
+            162,
+            1082
+          ],
+          [
+            162,
+            1268
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "侍らせた。",
+        "isTextline": "true",
+        "confidence": 0.936
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4869.JPEG",
+    "img_name": "IMG_4869.JPEG"
+  }
+}

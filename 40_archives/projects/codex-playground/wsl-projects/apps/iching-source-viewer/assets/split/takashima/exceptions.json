@@ -1,0 +1,12 @@
+[
+  {
+    "number": 30,
+    "name": "離為火",
+    "section": "五爻",
+    "issue": "元 source の五爻見出しが `#### 3爻（九三）` と誤記されており、generator 側で五爻ブロックへ再結合して吸収している。",
+    "status": "source_artifact_absorbed",
+    "affected_files": [
+      "30_離為火/yao_5.md"
+    ]
+  }
+]

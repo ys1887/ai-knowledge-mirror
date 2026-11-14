@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1321,
+            112
+          ],
+          [
+            1321,
+            969
+          ],
+          [
+            1375,
+            112
+          ],
+          [
+            1375,
+            969
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ろ経験家の話を聞いて見たいと思って居たと",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1248,
+            109
+          ],
+          [
+            1248,
+            973
+          ],
+          [
+            1301,
+            109
+          ],
+          [
+            1301,
+            973
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ころが、翁に面会するに及んで自分は理想中",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            110
+          ],
+          [
+            1170,
+            378
+          ],
+          [
+            1213,
+            110
+          ],
+          [
+            1213,
+            378
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "の一人を得た。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1093,
+            151
+          ],
+          [
+            1093,
+            972
+          ],
+          [
+            1144,
+            151
+          ],
+          [
+            1144,
+            972
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "翁の言は経験から得た所、自分の考は寧ろ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1013,
+            111
+          ],
+          [
+            1013,
+            977
+          ],
+          [
+            1066,
+            111
+          ],
+          [
+            1066,
+            977
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "学理から割出した所であるのに、それが符節",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            937,
+            115
+          ],
+          [
+            937,
+            557
+          ],
+          [
+            982,
+            115
+          ],
+          [
+            982,
+            557
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "を合せたる如くである。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            861,
+            161
+          ],
+          [
+            861,
+            911
+          ],
+          [
+            909,
+            161
+          ],
+          [
+            909,
+            911
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "自分は真に意中の人を得たのを喜んだ。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            708,
+            150
+          ],
+          [
+            708,
+            915
+          ],
+          [
+            757,
+            150
+          ],
+          [
+            757,
+            915
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "「私の先祖は斯ういうりっぱな人だった」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            633,
+            155
+          ],
+          [
+            633,
+            744
+          ],
+          [
+            679,
+            155
+          ],
+          [
+            679,
+            744
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "「僕の先輩は斯の通り大人物だ」",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            561,
+            180
+          ],
+          [
+            561,
+            980
+          ],
+          [
+            605,
+            180
+          ],
+          [
+            605,
+            980
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "などと言うと、時として「そういう血筋の",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            142
+          ],
+          [
+            484,
+            983
+          ],
+          [
+            531,
+            142
+          ],
+          [
+            531,
+            983
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "私だから尊敬しろ……そういう人の後輩だか",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            147
+          ],
+          [
+            412,
+            493
+          ],
+          [
+            449,
+            147
+          ],
+          [
+            449,
+            493
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "らもっと重んじろ」",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            339,
+            191
+          ],
+          [
+            339,
+            984
+          ],
+          [
+            381,
+            191
+          ],
+          [
+            381,
+            984
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "というふうに受け取られ、かえって相手に",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            264,
+            151
+          ],
+          [
+            264,
+            988
+          ],
+          [
+            307,
+            151
+          ],
+          [
+            307,
+            988
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "非常に反感を抱かせる場合が多い。だから私",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            155
+          ],
+          [
+            192,
+            249
+          ],
+          [
+            229,
+            155
+          ],
+          [
+            229,
+            249
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "達の、",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            120,
+            183
+          ],
+          [
+            120,
+            630
+          ],
+          [
+            158,
+            183
+          ],
+          [
+            158,
+            630
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "\"道の先覚者・嘉右衛門\"",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1343,
+            1145
+          ],
+          [
+            1343,
+            1973
+          ],
+          [
+            1394,
+            1145
+          ],
+          [
+            1394,
+            1973
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "の偉大さを傍証するために、明治から大正",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1267,
+            1100
+          ],
+          [
+            1267,
+            1976
+          ],
+          [
+            1317,
+            1100
+          ],
+          [
+            1317,
+            1976
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "にかけて、蓋世の大教師と仰がれた杉浦重剛",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1188,
+            1103
+          ],
+          [
+            1188,
+            1977
+          ],
+          [
+            1239,
+            1103
+          ],
+          [
+            1239,
+            1977
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の尊敬をかち得た事実を例に引いても、(現",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            1098
+          ],
+          [
+            1108,
+            1975
+          ],
+          [
+            1158,
+            1098
+          ],
+          [
+            1158,
+            1975
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "代のような思想混沌とした時代では)やはり",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1028,
+            1100
+          ],
+          [
+            1028,
+            1860
+          ],
+          [
+            1079,
+            1100
+          ],
+          [
+            1079,
+            1860
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "押付けがましく取られるかも知れない。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            953,
+            1143
+          ],
+          [
+            953,
+            1971
+          ],
+          [
+            1001,
+            1143
+          ],
+          [
+            1001,
+            1971
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "昔は、学者・医者・易者の三者が比肩して",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            875,
+            1100
+          ],
+          [
+            875,
+            1989
+          ],
+          [
+            926,
+            1100
+          ],
+          [
+            926,
+            1989
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "世人の尊敬の対象になっていたと言われるが、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            798,
+            1101
+          ],
+          [
+            798,
+            1970
+          ],
+          [
+            847,
+            1101
+          ],
+          [
+            847,
+            1970
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "近頃\"易者\"のみはひどく値打ちが下り、子",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            721,
+            1102
+          ],
+          [
+            721,
+            1964
+          ],
+          [
+            769,
+            1102
+          ],
+          [
+            769,
+            1964
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "供の保護者の職業欄に「易者」と記入するこ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            1103
+          ],
+          [
+            648,
+            1966
+          ],
+          [
+            692,
+            1103
+          ],
+          [
+            692,
+            1966
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "とさえはばからなければならなくなっている",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            572,
+            1108
+          ],
+          [
+            572,
+            1682
+          ],
+          [
+            613,
+            1108
+          ],
+          [
+            613,
+            1682
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ことは、まことに嘆かわしい。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            1104
+          ],
+          [
+            496,
+            1963
+          ],
+          [
+            538,
+            1104
+          ],
+          [
+            538,
+            1963
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "-お前のような馬鹿が、いろいろなことを",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            420,
+            1106
+          ],
+          [
+            420,
+            1961
+          ],
+          [
+            465,
+            1106
+          ],
+          [
+            465,
+            1961
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "書き散らすからだ、と言われれば、それもそ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            346,
+            1107
+          ],
+          [
+            346,
+            1961
+          ],
+          [
+            391,
+            1107
+          ],
+          [
+            391,
+            1961
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "うだな、と引き下らざるを得ないが、この世",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            271,
+            1108
+          ],
+          [
+            271,
+            1961
+          ],
+          [
+            318,
+            1108
+          ],
+          [
+            318,
+            1961
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "界に、嘉右衛門につぐすぐれた易者の「出現",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            196,
+            1108
+          ],
+          [
+            196,
+            1975
+          ],
+          [
+            243,
+            1108
+          ],
+          [
+            243,
+            1975
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "待望の書」という意義は本書にあるつもりだ。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            123,
+            1152
+          ],
+          [
+            123,
+            1970
+          ],
+          [
+            170,
+            1152
+          ],
+          [
+            170,
+            1970
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "杉浦重剛は安政二年(一八五六)三月三日、",
+        "isTextline": "true",
+        "confidence": 0.95
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4924.JPEG",
+    "img_name": "IMG_4924.JPEG"
+  }
+}

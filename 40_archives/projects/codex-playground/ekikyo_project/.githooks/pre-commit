@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+target_rel="project_source/prompts/ekikyo_custom_prompt.md"
+
+if ! git diff --cached --name-only --diff-filter=ACMR | grep -qx "$target_rel"; then
+  exit 0
+fi
+
+repo_root="$(git rev-parse --show-toplevel)"
+script_path="$repo_root/scripts/update_prompt_version_stamp.sh"
+target_path="$repo_root/$target_rel"
+
+if [[ ! -x "$script_path" ]]; then
+  echo "[pre-commit] script is not executable: $script_path" >&2
+  echo "run: chmod +x scripts/update_prompt_version_stamp.sh" >&2
+  exit 1
+fi
+
+new_stamp="$("$script_path" "$target_path")"
+git add "$target_rel"
+echo "[pre-commit] updated: $new_stamp ($target_rel)"

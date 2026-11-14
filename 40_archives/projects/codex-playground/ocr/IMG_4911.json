@@ -1,0 +1,762 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1340,
+            113
+          ],
+          [
+            1340,
+            929
+          ],
+          [
+            1403,
+            113
+          ],
+          [
+            1403,
+            929
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "を求め、初夏に新米を求めるような気の早い",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1266,
+            109
+          ],
+          [
+            1266,
+            204
+          ],
+          [
+            1305,
+            109
+          ],
+          [
+            1305,
+            204
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "話だ」",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            149
+          ],
+          [
+            1198,
+            367
+          ],
+          [
+            1239,
+            149
+          ],
+          [
+            1239,
+            367
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "と同意した。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1124,
+            152
+          ],
+          [
+            1124,
+            571
+          ],
+          [
+            1174,
+            152
+          ],
+          [
+            1174,
+            571
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "いま誰かが同じ占題で、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1047,
+            128
+          ],
+          [
+            1047,
+            447
+          ],
+          [
+            1096,
+            128
+          ],
+          [
+            1096,
+            447
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "「真の易者ありや」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            977,
+            145
+          ],
+          [
+            977,
+            938
+          ],
+          [
+            1032,
+            145
+          ],
+          [
+            1032,
+            938
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "を求めても、七十年前に呑象と得庵が求め",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            900,
+            106
+          ],
+          [
+            900,
+            936
+          ],
+          [
+            956,
+            106
+          ],
+          [
+            956,
+            936
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "て得られなかったように「未だ居ない」とい",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            825,
+            102
+          ],
+          [
+            825,
+            574
+          ],
+          [
+            873,
+            102
+          ],
+          [
+            873,
+            574
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "う答が出るかも知れない。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            184
+          ],
+          [
+            677,
+            503
+          ],
+          [
+            724,
+            184
+          ],
+          [
+            724,
+            503
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "七易神と易者",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            142
+          ],
+          [
+            523,
+            946
+          ],
+          [
+            572,
+            142
+          ],
+          [
+            572,
+            946
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "彼は自身の筮室を神易堂と命名し、そこに",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            445,
+            104
+          ],
+          [
+            445,
+            947
+          ],
+          [
+            494,
+            104
+          ],
+          [
+            494,
+            947
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "至聖文宣公(孔子)を祀り朝夕礼拝していた",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            370,
+            105
+          ],
+          [
+            370,
+            838
+          ],
+          [
+            415,
+            105
+          ],
+          [
+            415,
+            838
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "が、敬神の念は特に篤かったのである。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            296,
+            149
+          ],
+          [
+            296,
+            954
+          ],
+          [
+            339,
+            149
+          ],
+          [
+            339,
+            954
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "筆者は、嘉右衛門の爪の垢を煎じて飲む代",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            223,
+            118
+          ],
+          [
+            223,
+            954
+          ],
+          [
+            263,
+            118
+          ],
+          [
+            263,
+            954
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "わりに彼を易神として仰ぎ、次の祝詞を奏し",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            151,
+            124
+          ],
+          [
+            151,
+            635
+          ],
+          [
+            190,
+            124
+          ],
+          [
+            190,
+            635
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "て探筮することにしている。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1373,
+            1081
+          ],
+          [
+            1373,
+            1910
+          ],
+          [
+            1436,
+            1081
+          ],
+          [
+            1436,
+            1910
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "(祝詞は、 春日大社の神職江角君に筆者が依",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1299,
+            1055
+          ],
+          [
+            1299,
+            1690
+          ],
+          [
+            1355,
+            1055
+          ],
+          [
+            1355,
+            1690
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "頼して作って貰ったものである。)",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1228,
+            1099
+          ],
+          [
+            1228,
+            1919
+          ],
+          [
+            1286,
+            1099
+          ],
+          [
+            1286,
+            1919
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "易占を行う人のうち、あいは共鳴せられる",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1152,
+            1059
+          ],
+          [
+            1152,
+            1923
+          ],
+          [
+            1212,
+            1059
+          ],
+          [
+            1212,
+            1923
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "人が出てくるかも知れないと思い、中臣祓の",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1076,
+            1059
+          ],
+          [
+            1076,
+            1552
+          ],
+          [
+            1128,
+            1059
+          ],
+          [
+            1128,
+            1552
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "祝詞と共に列記しておく。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            928,
+            1191
+          ],
+          [
+            928,
+            1434
+          ],
+          [
+            976,
+            1191
+          ],
+          [
+            976,
+            1434
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "祓詞",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            1106
+          ],
+          [
+            850,
+            1962
+          ],
+          [
+            907,
+            1106
+          ],
+          [
+            907,
+            1962
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "掛まくも畏き、伊邪那岐大神、筑紫の日向",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            773,
+            1110
+          ],
+          [
+            773,
+            1964
+          ],
+          [
+            830,
+            1110
+          ],
+          [
+            830,
+            1964
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "の橘小戸阿波岐原に、 御禊祓給ひし時に生",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            696,
+            1110
+          ],
+          [
+            696,
+            1968
+          ],
+          [
+            749,
+            1110
+          ],
+          [
+            749,
+            1968
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "坐せる祓戸大神等、諸諸の禍事罪穢有らむ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            619,
+            1113
+          ],
+          [
+            619,
+            1945
+          ],
+          [
+            669,
+            1113
+          ],
+          [
+            669,
+            1945
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "をば、祓給ひ清給へと申す事を聞食せと、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            539,
+            1114
+          ],
+          [
+            539,
+            1447
+          ],
+          [
+            581,
+            1114
+          ],
+          [
+            581,
+            1447
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "恐み恐みも白す。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            382,
+            1206
+          ],
+          [
+            382,
+            1454
+          ],
+          [
+            427,
+            1206
+          ],
+          [
+            427,
+            1454
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "大祓詞",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            302,
+            1119
+          ],
+          [
+            302,
+            1985
+          ],
+          [
+            352,
+            1119
+          ],
+          [
+            352,
+            1985
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "高天原に神留坐す、皇が親神漏岐神漏美命",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            228,
+            1122
+          ],
+          [
+            228,
+            2000
+          ],
+          [
+            275,
+            1122
+          ],
+          [
+            275,
+            2000
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "以ちて、八百万神等を、神集へに集へ賜ひ、",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            156,
+            1122
+          ],
+          [
+            156,
+            1975
+          ],
+          [
+            201,
+            1122
+          ],
+          [
+            201,
+            1975
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "神議りに議賜ひて、 我皇御孫命は、 豊葦原",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4911.JPEG",
+    "img_name": "IMG_4911.JPEG"
+  }
+}

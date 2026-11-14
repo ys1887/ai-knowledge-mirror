@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1301,
+            108
+          ],
+          [
+            1301,
+            770
+          ],
+          [
+            1366,
+            108
+          ],
+          [
+            1366,
+            770
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "二人傑れた人士が居ない筈はない」",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1226,
+            145
+          ],
+          [
+            1226,
+            332
+          ],
+          [
+            1271,
+            145
+          ],
+          [
+            1271,
+            332
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "呑象曰く。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1149,
+            129
+          ],
+          [
+            1149,
+            975
+          ],
+          [
+            1214,
+            129
+          ],
+          [
+            1214,
+            975
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "「自分のように易理を玩んで二十有余年にな",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1071,
+            113
+          ],
+          [
+            1071,
+            979
+          ],
+          [
+            1138,
+            113
+          ],
+          [
+            1138,
+            979
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "る者にして、其の感通の度といえば僅かに沢",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            991,
+            117
+          ],
+          [
+            991,
+            978
+          ],
+          [
+            1053,
+            117
+          ],
+          [
+            1053,
+            978
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "山咸(二)の初爻程度である。昔から易を",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            914,
+            122
+          ],
+          [
+            914,
+            982
+          ],
+          [
+            978,
+            122
+          ],
+          [
+            978,
+            982
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "学んだ人達のことを通観してみても、孔子以",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            839,
+            129
+          ],
+          [
+            839,
+            1003
+          ],
+          [
+            901,
+            129
+          ],
+          [
+            901,
+            1003
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "来、真に神明に酬酢した者は多くないようだ。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            765,
+            136
+          ],
+          [
+            765,
+            990
+          ],
+          [
+            824,
+            136
+          ],
+          [
+            824,
+            990
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "だから今日のように現理のみを主にする時代",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            692,
+            148
+          ],
+          [
+            692,
+            968
+          ],
+          [
+            749,
+            148
+          ],
+          [
+            749,
+            968
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "に、そんな傑れた人物があるとは思えない」",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            619,
+            200
+          ],
+          [
+            619,
+            993
+          ],
+          [
+            674,
+            200
+          ],
+          [
+            674,
+            993
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "このような意見の相違から、では真の易者",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            544,
+            166
+          ],
+          [
+            544,
+            974
+          ],
+          [
+            601,
+            166
+          ],
+          [
+            601,
+            974
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "の有無を一占によって決しようではないか。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            475,
+            172
+          ],
+          [
+            475,
+            997
+          ],
+          [
+            527,
+            172
+          ],
+          [
+            527,
+            997
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "……と二人で筮し、得庵が得たのは水沢節",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            398,
+            183
+          ],
+          [
+            398,
+            1002
+          ],
+          [
+            456,
+            183
+          ],
+          [
+            456,
+            1002
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "(三二)の三爻だった。呑象が得たのは風地観",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            327,
+            189
+          ],
+          [
+            327,
+            589
+          ],
+          [
+            374,
+            189
+          ],
+          [
+            374,
+            589
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "(一一三)の上爻である。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            262,
+            230
+          ],
+          [
+            262,
+            1005
+          ],
+          [
+            312,
+            230
+          ],
+          [
+            312,
+            1005
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "呑象は自身の得た卦から、「観は大艮で鬼",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            191,
+            194
+          ],
+          [
+            191,
+            998
+          ],
+          [
+            241,
+            194
+          ],
+          [
+            241,
+            998
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "神を祭祀する卦だから、この問筮事項に叶っ",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            123,
+            202
+          ],
+          [
+            123,
+            735
+          ],
+          [
+            168,
+            202
+          ],
+          [
+            168,
+            735
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "た卦が出ている」とまず認め、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1341,
+            1118
+          ],
+          [
+            1341,
+            1994
+          ],
+          [
+            1409,
+            1118
+          ],
+          [
+            1409,
+            1994
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「人間は変詐百出でアテにならねえが、 天道",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1265,
+            1101
+          ],
+          [
+            1265,
+            1997
+          ],
+          [
+            1332,
+            1101
+          ],
+          [
+            1332,
+            1997
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "には変がない、この五・上爻の陽明・高尚が",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1184,
+            1101
+          ],
+          [
+            1184,
+            1999
+          ],
+          [
+            1252,
+            1101
+          ],
+          [
+            1252,
+            1999
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "それだ。若し人にして陽明・高尚な天道を承",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1104,
+            1102
+          ],
+          [
+            1104,
+            1996
+          ],
+          [
+            1170,
+            1102
+          ],
+          [
+            1170,
+            1996
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "けられる人があれば、 三爻の人位 (易では五",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1025,
+            1105
+          ],
+          [
+            1025,
+            1997
+          ],
+          [
+            1088,
+            1105
+          ],
+          [
+            1088,
+            1997
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "上爻を天位とし、三四爻を人位とし、初二爻",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            1106
+          ],
+          [
+            945,
+            1992
+          ],
+          [
+            1008,
+            1106
+          ],
+          [
+            1008,
+            1992
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "を地位と見る)に変があって然るべきだ。そ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            867,
+            1108
+          ],
+          [
+            867,
+            1984
+          ],
+          [
+            929,
+            1108
+          ],
+          [
+            929,
+            1984
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "れがそこに起きず、 上爻に変を見るのは真の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            1108
+          ],
+          [
+            790,
+            1982
+          ],
+          [
+            850,
+            1108
+          ],
+          [
+            850,
+            1982
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "易者が存在しない証拠。だから今はまだ出て",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            717,
+            1115
+          ],
+          [
+            717,
+            1975
+          ],
+          [
+            773,
+            1115
+          ],
+          [
+            773,
+            1975
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "いないと見る。 しかしいつまでも出ないとい",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            643,
+            1111
+          ],
+          [
+            643,
+            1976
+          ],
+          [
+            700,
+            1111
+          ],
+          [
+            700,
+            1976
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "うのでなく、上爻が示す未来には、易術を以",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            567,
+            1117
+          ],
+          [
+            567,
+            1970
+          ],
+          [
+            624,
+            1117
+          ],
+          [
+            624,
+            1970
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "て神明に通じることの出来る者が必ず現れる",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            495,
+            1116
+          ],
+          [
+            495,
+            1258
+          ],
+          [
+            533,
+            1116
+          ],
+          [
+            533,
+            1258
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "だろう」",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            423,
+            1161
+          ],
+          [
+            423,
+            1555
+          ],
+          [
+            466,
+            1161
+          ],
+          [
+            466,
+            1555
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "と判断した。得庵も、",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            1142
+          ],
+          [
+            350,
+            1959
+          ],
+          [
+            405,
+            1142
+          ],
+          [
+            405,
+            1959
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「なるほど、 観の上爻というところから見れ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            280,
+            1121
+          ],
+          [
+            280,
+            1959
+          ],
+          [
+            334,
+            1121
+          ],
+          [
+            334,
+            1959
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "ば、 神明に酬酢している者は居ないという表",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            209,
+            1124
+          ],
+          [
+            209,
+            1952
+          ],
+          [
+            262,
+            1124
+          ],
+          [
+            262,
+            1952
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "示だ。わしの得た節の六三もその通り、ほん",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            141,
+            1124
+          ],
+          [
+            141,
+            1950
+          ],
+          [
+            194,
+            1124
+          ],
+          [
+            194,
+            1950
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "との易者をいま求めることは、霜月に春の花",
+        "isTextline": "true",
+        "confidence": 0.954
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4910.JPEG",
+    "img_name": "IMG_4910.JPEG"
+  }
+}

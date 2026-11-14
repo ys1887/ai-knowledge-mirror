@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1318,
+            151
+          ],
+          [
+            1318,
+            946
+          ],
+          [
+            1372,
+            151
+          ],
+          [
+            1372,
+            946
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "礼、藤野海南らをはじめとし、豊島、三島、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1254,
+            141
+          ],
+          [
+            1254,
+            970
+          ],
+          [
+            1303,
+            141
+          ],
+          [
+            1303,
+            970
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "股野、内藤、蒲生、巖谷、伊知地らの錚々た",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            138
+          ],
+          [
+            1183,
+            480
+          ],
+          [
+            1224,
+            138
+          ],
+          [
+            1224,
+            480
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "る人たちであった。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1110,
+            175
+          ],
+          [
+            1110,
+            973
+          ],
+          [
+            1154,
+            175
+          ],
+          [
+            1154,
+            973
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "その発会式の時には明治天皇から金一千円",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1034,
+            137
+          ],
+          [
+            1034,
+            972
+          ],
+          [
+            1079,
+            137
+          ],
+          [
+            1079,
+            972
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "の御内帑金が下賜され、当時の思想振興上重",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            957,
+            133
+          ],
+          [
+            957,
+            974
+          ],
+          [
+            1002,
+            133
+          ],
+          [
+            1002,
+            974
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "大な役割を担って設立された会であった。(高",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            883,
+            138
+          ],
+          [
+            883,
+            604
+          ],
+          [
+            924,
+            138
+          ],
+          [
+            924,
+            604
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "田博士・日本儒学史参照)",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            810,
+            181
+          ],
+          [
+            810,
+            970
+          ],
+          [
+            850,
+            181
+          ],
+          [
+            850,
+            970
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "その会で易を講じたのだから、嘉右衛門の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            734,
+            144
+          ],
+          [
+            734,
+            974
+          ],
+          [
+            774,
+            144
+          ],
+          [
+            774,
+            974
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "学識は、交際上手から来ただけのものではな",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            662,
+            148
+          ],
+          [
+            662,
+            994
+          ],
+          [
+            701,
+            148
+          ],
+          [
+            701,
+            994
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "く、易学博士級のものがあったにちがいない。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            588,
+            193
+          ],
+          [
+            588,
+            974
+          ],
+          [
+            627,
+            193
+          ],
+          [
+            627,
+            974
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "彼は、方々の会へよく出席し、易の効用を",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            516,
+            157
+          ],
+          [
+            516,
+            974
+          ],
+          [
+            555,
+            157
+          ],
+          [
+            555,
+            974
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "語り心服者をたくさん作ったから、彼の説は",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            445,
+            163
+          ],
+          [
+            445,
+            950
+          ],
+          [
+            483,
+            163
+          ],
+          [
+            483,
+            950
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "俗受けしていたかのように見られがちだが、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            373,
+            166
+          ],
+          [
+            373,
+            977
+          ],
+          [
+            413,
+            166
+          ],
+          [
+            413,
+            977
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "決してそうではなく、当時一流の知識人から",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            303,
+            172
+          ],
+          [
+            303,
+            911
+          ],
+          [
+            342,
+            172
+          ],
+          [
+            342,
+            911
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "も相当高く買われていたことは疑いない。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            234,
+            214
+          ],
+          [
+            234,
+            979
+          ],
+          [
+            274,
+            214
+          ],
+          [
+            274,
+            979
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "彼は学者とディスカッションをやってもな",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            162,
+            182
+          ],
+          [
+            162,
+            979
+          ],
+          [
+            204,
+            182
+          ],
+          [
+            204,
+            979
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "かなか負けない。めんどうになると、平沢随",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1345,
+            1091
+          ],
+          [
+            1345,
+            1958
+          ],
+          [
+            1393,
+            1091
+          ],
+          [
+            1393,
+            1958
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "貞ばりに、いでや組まんとばかり論より証拠",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1271,
+            1097
+          ],
+          [
+            1271,
+            1366
+          ],
+          [
+            1311,
+            1097
+          ],
+          [
+            1311,
+            1366
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の著を取った。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1197,
+            1136
+          ],
+          [
+            1197,
+            1964
+          ],
+          [
+            1244,
+            1136
+          ],
+          [
+            1244,
+            1964
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "矢面に立つ学者もこれには閉口させられる",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1119,
+            1092
+          ],
+          [
+            1119,
+            1983
+          ],
+          [
+            1166,
+            1092
+          ],
+          [
+            1166,
+            1983
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "者が多かったらしい。清仏戦争を占したのも、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1042,
+            1091
+          ],
+          [
+            1042,
+            1966
+          ],
+          [
+            1088,
+            1091
+          ],
+          [
+            1088,
+            1966
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "講義のあとで易占実用論を展開した彼に、学",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            966,
+            1093
+          ],
+          [
+            966,
+            1963
+          ],
+          [
+            1010,
+            1093
+          ],
+          [
+            1010,
+            1963
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "としての易は認めても占の方は認めたがらな",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            889,
+            1100
+          ],
+          [
+            889,
+            1961
+          ],
+          [
+            933,
+            1100
+          ],
+          [
+            933,
+            1961
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "い当時の学者との一論判があって、実地活断",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            1098
+          ],
+          [
+            814,
+            1976
+          ],
+          [
+            855,
+            1098
+          ],
+          [
+            855,
+            1976
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "でゆきましょうと一矢報いた一占なのである。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            737,
+            1136
+          ],
+          [
+            737,
+            1953
+          ],
+          [
+            779,
+            1136
+          ],
+          [
+            779,
+            1953
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "明治十六年の五月、越南を侵略して来た仏",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            662,
+            1095
+          ],
+          [
+            662,
+            1796
+          ],
+          [
+            702,
+            1095
+          ],
+          [
+            702,
+            1796
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "軍に対し、劉永福が宣戦を布告した。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            588,
+            1137
+          ],
+          [
+            588,
+            1945
+          ],
+          [
+            628,
+            1137
+          ],
+          [
+            628,
+            1945
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "が、結果は越南側が負けて、仏の保護国と",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            513,
+            1094
+          ],
+          [
+            513,
+            1942
+          ],
+          [
+            553,
+            1094
+          ],
+          [
+            553,
+            1942
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "なってしまい、一応戦火は治まった。翌十七",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            1093
+          ],
+          [
+            440,
+            1872
+          ],
+          [
+            480,
+            1093
+          ],
+          [
+            480,
+            1872
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "年六月、再び清仏交戦という悪事態発生。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            368,
+            1093
+          ],
+          [
+            368,
+            1939
+          ],
+          [
+            407,
+            1093
+          ],
+          [
+            407,
+            1939
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "-嘉右衛門が斯文会でこれをとりあげて占",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            296,
+            1094
+          ],
+          [
+            296,
+            1932
+          ],
+          [
+            336,
+            1094
+          ],
+          [
+            336,
+            1932
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "断したのは、四ケ月後の十月例会でのことで",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            229,
+            1095
+          ],
+          [
+            229,
+            1233
+          ],
+          [
+            263,
+            1095
+          ],
+          [
+            263,
+            1233
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "あった。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            152,
+            1136
+          ],
+          [
+            152,
+            1862
+          ],
+          [
+            193,
+            1136
+          ],
+          [
+            193,
+            1862
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "古題は「清仏戦争の将来如何」である。",
+        "isTextline": "true",
+        "confidence": 0.95
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4864.JPEG",
+    "img_name": "IMG_4864.JPEG"
+  }
+}

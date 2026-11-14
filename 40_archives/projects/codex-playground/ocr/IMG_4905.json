@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1292,
+            182
+          ],
+          [
+            1292,
+            949
+          ],
+          [
+            1362,
+            182
+          ],
+          [
+            1362,
+            949
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "き知って、一つ米国にかけ合ってその金を返",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1223,
+            181
+          ],
+          [
+            1223,
+            688
+          ],
+          [
+            1278,
+            181
+          ],
+          [
+            1278,
+            688
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "して貰おうという話になった。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1157,
+            217
+          ],
+          [
+            1157,
+            951
+          ],
+          [
+            1219,
+            217
+          ],
+          [
+            1219,
+            951
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "その金が戻って来るかどうか、これが当時",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1086,
+            177
+          ],
+          [
+            1086,
+            952
+          ],
+          [
+            1148,
+            177
+          ],
+          [
+            1148,
+            952
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "その折衝に当っていた責任者伊藤の重大問題",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            1017,
+            175
+          ],
+          [
+            1017,
+            946
+          ],
+          [
+            1073,
+            175
+          ],
+          [
+            1073,
+            946
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "だ。高島先生もこの間の事情はよく知ってい",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            948,
+            175
+          ],
+          [
+            948,
+            726
+          ],
+          [
+            996,
+            175
+          ],
+          [
+            996,
+            726
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "たので、取引をやることにした。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            878,
+            209
+          ],
+          [
+            878,
+            948
+          ],
+          [
+            926,
+            209
+          ],
+          [
+            926,
+            948
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "返ってくるかどうか、ただ当ててみたとこ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            808,
+            174
+          ],
+          [
+            808,
+            565
+          ],
+          [
+            848,
+            174
+          ],
+          [
+            848,
+            565
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "ろで仕方ないでしょう。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            736,
+            206
+          ],
+          [
+            736,
+            969
+          ],
+          [
+            784,
+            206
+          ],
+          [
+            784,
+            969
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "私は易をひくからにはどうすれば取れるか、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            663,
+            168
+          ],
+          [
+            663,
+            955
+          ],
+          [
+            707,
+            168
+          ],
+          [
+            707,
+            955
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "取ったらその金をどう使うか、 目的のある占",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            594,
+            168
+          ],
+          [
+            594,
+            523
+          ],
+          [
+            630,
+            168
+          ],
+          [
+            630,
+            523
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "をやりたいもんです。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            520,
+            209
+          ],
+          [
+            520,
+            953
+          ],
+          [
+            560,
+            209
+          ],
+          [
+            560,
+            953
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "で、その金が出来たら、高島お前にやるか",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            446,
+            170
+          ],
+          [
+            446,
+            954
+          ],
+          [
+            487,
+            170
+          ],
+          [
+            487,
+            954
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "ら何でもいい、国の役に立つことに使え、と",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            372,
+            175
+          ],
+          [
+            372,
+            808
+          ],
+          [
+            413,
+            175
+          ],
+          [
+            413,
+            808
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "いうような話にはならんもんですか。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            213
+          ],
+          [
+            298,
+            957
+          ],
+          [
+            343,
+            213
+          ],
+          [
+            343,
+            957
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "そもそも貴方がたはアテにしていないんだ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            227,
+            181
+          ],
+          [
+            227,
+            962
+          ],
+          [
+            277,
+            181
+          ],
+          [
+            277,
+            962
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "から、取れたらわっしに使わして下さっても",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            176,
+            193
+          ],
+          [
+            176,
+            501
+          ],
+          [
+            209,
+            193
+          ],
+          [
+            209,
+            501
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "いいわけでしょう。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1337,
+            1108
+          ],
+          [
+            1337,
+            1924
+          ],
+          [
+            1409,
+            1108
+          ],
+          [
+            1409,
+            1924
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "と言った。筮を取って貰わなければ困るん",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1263,
+            1066
+          ],
+          [
+            1263,
+            1932
+          ],
+          [
+            1337,
+            1066
+          ],
+          [
+            1337,
+            1932
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "だし、事実、誰もその金の返還など余り期待",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1192,
+            1067
+          ],
+          [
+            1192,
+            1906
+          ],
+          [
+            1260,
+            1067
+          ],
+          [
+            1260,
+            1906
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "していなかったのだから、 先生のいう通り、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1117,
+            1068
+          ],
+          [
+            1117,
+            1774
+          ],
+          [
+            1177,
+            1068
+          ],
+          [
+            1177,
+            1774
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "それもよかろうということになった。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1046,
+            1110
+          ],
+          [
+            1046,
+            1941
+          ],
+          [
+            1108,
+            1110
+          ],
+          [
+            1108,
+            1941
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "そこで高島先生が易をひいて、 得た卦が山",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            1068
+          ],
+          [
+            969,
+            1646
+          ],
+          [
+            1024,
+            1068
+          ],
+          [
+            1024,
+            1646
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "水蒙の六四というわけなんだ。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            1091
+          ],
+          [
+            896,
+            1950
+          ],
+          [
+            955,
+            1091
+          ],
+          [
+            955,
+            1950
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "「貴方も御存知のように四爻では未だ時が来",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            824,
+            1074
+          ],
+          [
+            824,
+            1952
+          ],
+          [
+            876,
+            1074
+          ],
+          [
+            876,
+            1952
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ていない。\"蒙に苦しむ吝\"だからね。しかし",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            748,
+            1071
+          ],
+          [
+            748,
+            1957
+          ],
+          [
+            798,
+            1071
+          ],
+          [
+            798,
+            1957
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "明年になれば五爻だ。\"童蒙の吉は順以て巽う",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            672,
+            1073
+          ],
+          [
+            672,
+            1961
+          ],
+          [
+            720,
+            1073
+          ],
+          [
+            720,
+            1961
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "なり\"で後進国日本が先進国米国の教導支持",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            597,
+            1073
+          ],
+          [
+            597,
+            1962
+          ],
+          [
+            639,
+            1073
+          ],
+          [
+            639,
+            1962
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "を得られるということになる。米国の方は",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            518,
+            1100
+          ],
+          [
+            518,
+            1965
+          ],
+          [
+            561,
+            1100
+          ],
+          [
+            561,
+            1965
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "\"我童蒙に求むるに匪ず童蒙我に求む\"るの",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            1075
+          ],
+          [
+            440,
+            1969
+          ],
+          [
+            483,
+            1075
+          ],
+          [
+            483,
+            1969
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "を待っているかたちだから、こちらから申出",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            1079
+          ],
+          [
+            361,
+            1972
+          ],
+          [
+            407,
+            1079
+          ],
+          [
+            407,
+            1972
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "れば応じてくることは間違いない……と高島",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            283,
+            1077
+          ],
+          [
+            283,
+            1966
+          ],
+          [
+            331,
+            1077
+          ],
+          [
+            331,
+            1966
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "先生は見たんだね。 で、 伊藤さんたちにその",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            209,
+            1079
+          ],
+          [
+            209,
+            1966
+          ],
+          [
+            257,
+            1079
+          ],
+          [
+            257,
+            1966
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "旨を告げ外務卿井上馨をして米政府に交渉さ",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            139,
+            1083
+          ],
+          [
+            139,
+            1949
+          ],
+          [
+            188,
+            1083
+          ],
+          [
+            188,
+            1949
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "せたんです。 その返還された金が基本になっ",
+        "isTextline": "true",
+        "confidence": 0.952
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4905.JPEG",
+    "img_name": "IMG_4905.JPEG"
+  }
+}

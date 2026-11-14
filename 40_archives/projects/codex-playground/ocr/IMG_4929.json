@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1318,
+            186
+          ],
+          [
+            1318,
+            453
+          ],
+          [
+            1368,
+            186
+          ],
+          [
+            1368,
+            453
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「至誠無息不息」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1249,
+            202
+          ],
+          [
+            1249,
+            862
+          ],
+          [
+            1311,
+            202
+          ],
+          [
+            1311,
+            862
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "が非常に役立ったと言われたそうだ。",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1177,
+            201
+          ],
+          [
+            1177,
+            970
+          ],
+          [
+            1239,
+            201
+          ],
+          [
+            1239,
+            970
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "嘉右衛門の一夕話が西会々員数十万をして",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1104,
+            161
+          ],
+          [
+            1104,
+            987
+          ],
+          [
+            1168,
+            161
+          ],
+          [
+            1168,
+            987
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "易に関心を抱かせる契機となったらしいので、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1034,
+            161
+          ],
+          [
+            1034,
+            972
+          ],
+          [
+            1090,
+            161
+          ],
+          [
+            1090,
+            972
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "その\"一夕\"は実に大きな影響をもたらした",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            963,
+            160
+          ],
+          [
+            963,
+            371
+          ],
+          [
+            1002,
+            160
+          ],
+          [
+            1002,
+            371
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ものである。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            887,
+            197
+          ],
+          [
+            887,
+            977
+          ],
+          [
+            944,
+            197
+          ],
+          [
+            944,
+            977
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "筆者の易友のうち、 助永、 二星、 友田、米",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            816,
+            162
+          ],
+          [
+            816,
+            949
+          ],
+          [
+            869,
+            162
+          ],
+          [
+            869,
+            949
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "田、藤井、中西、三田、内田、宮田、塩沢、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            742,
+            160
+          ],
+          [
+            742,
+            977
+          ],
+          [
+            794,
+            160
+          ],
+          [
+            794,
+            977
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "粟谷、吉沢の諸氏は、西会の錚々たる教師だ",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            668,
+            161
+          ],
+          [
+            668,
+            978
+          ],
+          [
+            718,
+            161
+          ],
+          [
+            718,
+            978
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "が、嘉右衛門一夕話の影響から研究に入った",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            594,
+            160
+          ],
+          [
+            594,
+            371
+          ],
+          [
+            633,
+            160
+          ],
+          [
+            633,
+            371
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "人達である。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            240
+          ],
+          [
+            447,
+            456
+          ],
+          [
+            490,
+            240
+          ],
+          [
+            490,
+            456
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "十結び",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            295,
+            204
+          ],
+          [
+            295,
+            977
+          ],
+          [
+            336,
+            204
+          ],
+          [
+            336,
+            977
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "明治三十九年(一九〇六)、足腰が悪くなっ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            222,
+            171
+          ],
+          [
+            222,
+            984
+          ],
+          [
+            264,
+            171
+          ],
+          [
+            264,
+            984
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "て、それが癒ってから-おそらく若い頃の",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            151,
+            174
+          ],
+          [
+            151,
+            982
+          ],
+          [
+            193,
+            174
+          ],
+          [
+            193,
+            982
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "無理が崇ったものだろうけれど--脚が曲っ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1361,
+            1088
+          ],
+          [
+            1361,
+            1952
+          ],
+          [
+            1430,
+            1088
+          ],
+          [
+            1430,
+            1952
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "たきりになってしまい、以来九年間仰臥して",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1284,
+            1087
+          ],
+          [
+            1284,
+            1956
+          ],
+          [
+            1354,
+            1087
+          ],
+          [
+            1354,
+            1956
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "暮らし、大正三年、八十三歳の天寿を全うし",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1212,
+            1091
+          ],
+          [
+            1212,
+            1145
+          ],
+          [
+            1248,
+            1091
+          ],
+          [
+            1248,
+            1145
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.93
+      },
+      {
+        "boundingBox": [
+          [
+            1137,
+            1133
+          ],
+          [
+            1137,
+            1935
+          ],
+          [
+            1203,
+            1133
+          ],
+          [
+            1203,
+            1935
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "嘉右衛門は、特旨を以て一級を進められ、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1060,
+            1093
+          ],
+          [
+            1060,
+            1452
+          ],
+          [
+            1109,
+            1093
+          ],
+          [
+            1109,
+            1452
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "正五位を贈られた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            986,
+            1136
+          ],
+          [
+            986,
+            1675
+          ],
+          [
+            1040,
+            1136
+          ],
+          [
+            1040,
+            1675
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "法号大観院神易呑象居士。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            913,
+            1138
+          ],
+          [
+            913,
+            1996
+          ],
+          [
+            972,
+            1138
+          ],
+          [
+            972,
+            1996
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "その墓は赤穂義士と同じ高輪泉岳寺にある。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            837,
+            1139
+          ],
+          [
+            837,
+            1980
+          ],
+          [
+            893,
+            1139
+          ],
+          [
+            893,
+            1980
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "嗣子長政氏のことばによれば、万朝報(明",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            760,
+            1098
+          ],
+          [
+            760,
+            1979
+          ],
+          [
+            815,
+            1098
+          ],
+          [
+            815,
+            1979
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "治二十五年・一八九二年十一月発刊)に誰の",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            1099
+          ],
+          [
+            684,
+            1987
+          ],
+          [
+            737,
+            1099
+          ],
+          [
+            737,
+            1987
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "手になったものか判らないが、伝記小説が連",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            1101
+          ],
+          [
+            607,
+            1989
+          ],
+          [
+            659,
+            1101
+          ],
+          [
+            659,
+            1989
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "載されたそうだし、小玉呑象氏は、菊池寛が",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            529,
+            1104
+          ],
+          [
+            529,
+            1739
+          ],
+          [
+            575,
+            1104
+          ],
+          [
+            575,
+            1739
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "取材に来たとも言っておられる。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            1148
+          ],
+          [
+            451,
+            2000
+          ],
+          [
+            499,
+            1148
+          ],
+          [
+            499,
+            2000
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "伝記は、明治四十年代に大野太衛氏が「言",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            372,
+            1106
+          ],
+          [
+            372,
+            2002
+          ],
+          [
+            418,
+            1106
+          ],
+          [
+            418,
+            2002
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "行録」という題で書いているし、 植村澄三郎",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            294,
+            1109
+          ],
+          [
+            294,
+            2003
+          ],
+          [
+            339,
+            1109
+          ],
+          [
+            339,
+            2003
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "氏が、嘉右衛門逝去の直前に「呑象高島嘉右",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            218,
+            1110
+          ],
+          [
+            218,
+            1996
+          ],
+          [
+            261,
+            1110
+          ],
+          [
+            261,
+            1996
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "衛門伝」というりっぱな装訂の本を出してい",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            151,
+            1115
+          ],
+          [
+            151,
+            1168
+          ],
+          [
+            184,
+            1115
+          ],
+          [
+            184,
+            1168
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.927
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4929.JPEG",
+    "img_name": "IMG_4929.JPEG"
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1338,
+            114
+          ],
+          [
+            1338,
+            653
+          ],
+          [
+            1379,
+            114
+          ],
+          [
+            1379,
+            653
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "一つ占ってみて貰えませんか」",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            1275,
+            125
+          ],
+          [
+            1275,
+            307
+          ],
+          [
+            1310,
+            125
+          ],
+          [
+            1310,
+            307
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "と頼んだ。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            116
+          ],
+          [
+            1200,
+            932
+          ],
+          [
+            1245,
+            116
+          ],
+          [
+            1245,
+            932
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "筮して三(天地否の火地晋に之く)を得",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            1126,
+            72
+          ],
+          [
+            1126,
+            929
+          ],
+          [
+            1169,
+            72
+          ],
+          [
+            1169,
+            929
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "た嘉右衛門は、国教は「神道」が選に当るだ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1051,
+            72
+          ],
+          [
+            1051,
+            554
+          ],
+          [
+            1090,
+            72
+          ],
+          [
+            1090,
+            554
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "ろうと次のように断じた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            973,
+            92
+          ],
+          [
+            973,
+            922
+          ],
+          [
+            1013,
+            92
+          ],
+          [
+            1013,
+            922
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "「否の象は、否ハ之レ人ニ匪ズ。君子ノ貞ニ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            893,
+            77
+          ],
+          [
+            893,
+            932
+          ],
+          [
+            934,
+            77
+          ],
+          [
+            934,
+            932
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "利ロシカラズ。大往キ小来ルとある。この卦",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            817,
+            74
+          ],
+          [
+            817,
+            932
+          ],
+          [
+            858,
+            74
+          ],
+          [
+            858,
+            932
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "は、陰が時を得て、陽が退く時とする。目先",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            741,
+            80
+          ],
+          [
+            741,
+            929
+          ],
+          [
+            781,
+            80
+          ],
+          [
+            781,
+            929
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "の利を教える理屈が盛んになって真理が蔽わ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            665,
+            85
+          ],
+          [
+            665,
+            931
+          ],
+          [
+            706,
+            85
+          ],
+          [
+            706,
+            931
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "れる時が来ていることを物語っている。いま",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            588,
+            85
+          ],
+          [
+            588,
+            929
+          ],
+          [
+            631,
+            85
+          ],
+          [
+            631,
+            929
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "神道の気運如何を占してこの否塞の卦を得た",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            515,
+            95
+          ],
+          [
+            515,
+            928
+          ],
+          [
+            556,
+            95
+          ],
+          [
+            556,
+            928
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "のは実状に叶っている。陽を上とし陰を下と",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            95
+          ],
+          [
+            440,
+            904
+          ],
+          [
+            483,
+            95
+          ],
+          [
+            483,
+            904
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "して、現象としては天地のあるがままの形、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            366,
+            98
+          ],
+          [
+            366,
+            905
+          ],
+          [
+            410,
+            98
+          ],
+          [
+            410,
+            905
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "神と人との位置をそのままに示しているが、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            295,
+            103
+          ],
+          [
+            295,
+            930
+          ],
+          [
+            339,
+            103
+          ],
+          [
+            339,
+            930
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "神がカムアグリしてしまわれた象である。し",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            221,
+            108
+          ],
+          [
+            221,
+            947
+          ],
+          [
+            268,
+            108
+          ],
+          [
+            268,
+            947
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "かしこれも陰陽消長という神業のあらわれで、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            150,
+            113
+          ],
+          [
+            150,
+            928
+          ],
+          [
+            198,
+            113
+          ],
+          [
+            198,
+            928
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "人が小智を以てさかしらに云々すべきことで",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1355,
+            1058
+          ],
+          [
+            1355,
+            1930
+          ],
+          [
+            1395,
+            1058
+          ],
+          [
+            1395,
+            1930
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "はないであろう。否は之れ人に匪ずというの",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1283,
+            1058
+          ],
+          [
+            1283,
+            1954
+          ],
+          [
+            1324,
+            1058
+          ],
+          [
+            1324,
+            1954
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "は、人力の及ぶところに非ずという意味にも、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1206,
+            1058
+          ],
+          [
+            1206,
+            1911
+          ],
+          [
+            1247,
+            1058
+          ],
+          [
+            1247,
+            1911
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "又人のせいではないとも云える。序卦伝に、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1128,
+            1055
+          ],
+          [
+            1128,
+            1941
+          ],
+          [
+            1169,
+            1055
+          ],
+          [
+            1169,
+            1941
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "物ハ以テ否ニ終ル可ラズとあって、やがて時",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1056
+          ],
+          [
+            1049,
+            1936
+          ],
+          [
+            1091,
+            1056
+          ],
+          [
+            1091,
+            1936
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "来れば窮通の道が開かれることを教えている",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            967,
+            1057
+          ],
+          [
+            967,
+            1938
+          ],
+          [
+            1014,
+            1057
+          ],
+          [
+            1014,
+            1938
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "し、消長生卦法を以て見るならば、二三から",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            887,
+            1058
+          ],
+          [
+            887,
+            1934
+          ],
+          [
+            936,
+            1058
+          ],
+          [
+            936,
+            1934
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "三三に来たのだから、一陰が進めば二三とな",
+        "isTextline": "true",
+        "confidence": 0.907
+      },
+      {
+        "boundingBox": [
+          [
+            813,
+            1054
+          ],
+          [
+            813,
+            1925
+          ],
+          [
+            855,
+            1054
+          ],
+          [
+            855,
+            1925
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "り、国ノ光ヲ観ルことも出来る。九五に其レ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            737,
+            1054
+          ],
+          [
+            737,
+            1925
+          ],
+          [
+            777,
+            1054
+          ],
+          [
+            777,
+            1925
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "亡ビン其レ亡ビン苞桑ニ繋グとあるところか",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            659,
+            1056
+          ],
+          [
+            659,
+            1940
+          ],
+          [
+            702,
+            1056
+          ],
+          [
+            702,
+            1940
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "らすれば、危殆に頻していることは事実だが、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            584,
+            1053
+          ],
+          [
+            584,
+            1915
+          ],
+          [
+            625,
+            1053
+          ],
+          [
+            625,
+            1915
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "神道興隆の方途を此の爻辞から読みとること",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            508,
+            1053
+          ],
+          [
+            508,
+            1500
+          ],
+          [
+            549,
+            1053
+          ],
+          [
+            549,
+            1500
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "も出来る。-それは」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            432,
+            1096
+          ],
+          [
+            432,
+            1913
+          ],
+          [
+            473,
+            1096
+          ],
+          [
+            473,
+            1913
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "といって、彼は机上の筮筒から、愛用の善",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            363,
+            1052
+          ],
+          [
+            363,
+            1278
+          ],
+          [
+            400,
+            1052
+          ],
+          [
+            400,
+            1278
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "を取り出し、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            284,
+            1075
+          ],
+          [
+            284,
+            1709
+          ],
+          [
+            327,
+            1075
+          ],
+          [
+            327,
+            1709
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "「苞桑とは此の筮竹の形容ですよ」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            214,
+            1095
+          ],
+          [
+            214,
+            1491
+          ],
+          [
+            251,
+            1095
+          ],
+          [
+            251,
+            1491
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "と、にっこり笑った。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            137,
+            1094
+          ],
+          [
+            137,
+            1895
+          ],
+          [
+            181,
+            1094
+          ],
+          [
+            181,
+            1895
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "戦前から戦時中の隆盛を極めた神道を知る",
+        "isTextline": "true",
+        "confidence": 0.953
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4876.JPEG",
+    "img_name": "IMG_4876.JPEG"
+  }
+}

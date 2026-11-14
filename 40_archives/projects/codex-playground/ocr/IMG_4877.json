@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1273,
+            125
+          ],
+          [
+            1273,
+            916
+          ],
+          [
+            1356,
+            125
+          ],
+          [
+            1356,
+            916
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "者は、明治十七、八年代に神道がこの易が示",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1206,
+            125
+          ],
+          [
+            1206,
+            917
+          ],
+          [
+            1284,
+            125
+          ],
+          [
+            1284,
+            917
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "しているように衰微していたとは、 思いも及",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1135,
+            124
+          ],
+          [
+            1135,
+            406
+          ],
+          [
+            1184,
+            124
+          ],
+          [
+            1184,
+            406
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ばぬことだろう。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1066,
+            167
+          ],
+          [
+            1066,
+            920
+          ],
+          [
+            1139,
+            167
+          ],
+          [
+            1139,
+            920
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "しかし実際には、神道を国教化するには幾",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            994,
+            120
+          ],
+          [
+            994,
+            525
+          ],
+          [
+            1047,
+            120
+          ],
+          [
+            1047,
+            525
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "度も失敗していたのだ。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            921,
+            158
+          ],
+          [
+            921,
+            924
+          ],
+          [
+            988,
+            158
+          ],
+          [
+            988,
+            924
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "維新の業がほぼ成った明治初年、時の政府",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            848,
+            124
+          ],
+          [
+            848,
+            925
+          ],
+          [
+            910,
+            124
+          ],
+          [
+            910,
+            925
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "(主として時の内大臣岩倉具視) がまっさき",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            777,
+            124
+          ],
+          [
+            777,
+            927
+          ],
+          [
+            840,
+            124
+          ],
+          [
+            840,
+            927
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "に手をつけたのは、祭政一致による新国家建",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            704,
+            120
+          ],
+          [
+            704,
+            930
+          ],
+          [
+            759,
+            120
+          ],
+          [
+            759,
+            930
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "設の計画で、神道を超宗教的なものにしよう",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            634,
+            122
+          ],
+          [
+            634,
+            408
+          ],
+          [
+            673,
+            122
+          ],
+          [
+            673,
+            408
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "としたのである。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            560,
+            161
+          ],
+          [
+            560,
+            931
+          ],
+          [
+            611,
+            161
+          ],
+          [
+            611,
+            931
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "内閣に、神道省を含めた七ツの省を作った",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            127
+          ],
+          [
+            485,
+            907
+          ],
+          [
+            536,
+            127
+          ],
+          [
+            536,
+            907
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "が、二年七月の官制改革では省を六ツとし、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            412,
+            128
+          ],
+          [
+            412,
+            495
+          ],
+          [
+            452,
+            128
+          ],
+          [
+            452,
+            495
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "神祇官は独立させた。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            341,
+            176
+          ],
+          [
+            341,
+            939
+          ],
+          [
+            383,
+            176
+          ],
+          [
+            383,
+            939
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "天照大神崇拝を基礎とした国民宗教を打ち",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            272,
+            144
+          ],
+          [
+            272,
+            833
+          ],
+          [
+            310,
+            144
+          ],
+          [
+            310,
+            833
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "立てるという目的から、三年七月には、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            206,
+            172
+          ],
+          [
+            206,
+            438
+          ],
+          [
+            241,
+            172
+          ],
+          [
+            241,
+            438
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「宣布大教の詔」",
+        "isTextline": "true",
+        "confidence": 0.912
+      },
+      {
+        "boundingBox": [
+          [
+            140,
+            206
+          ],
+          [
+            140,
+            953
+          ],
+          [
+            177,
+            206
+          ],
+          [
+            177,
+            953
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "を発し、宣教使という役目を作って津々浦",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1332,
+            1037
+          ],
+          [
+            1332,
+            1787
+          ],
+          [
+            1409,
+            1037
+          ],
+          [
+            1409,
+            1787
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "々の国民に神道を徹底させようとした。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1260,
+            1075
+          ],
+          [
+            1260,
+            1906
+          ],
+          [
+            1339,
+            1075
+          ],
+          [
+            1339,
+            1906
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "当然の事ながら、神道顕揚に余り力を用い",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            1037
+          ],
+          [
+            1183,
+            1916
+          ],
+          [
+            1264,
+            1037
+          ],
+          [
+            1264,
+            1916
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "たために、仏教その他の宗教団体から、信教",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1110,
+            1042
+          ],
+          [
+            1110,
+            1919
+          ],
+          [
+            1187,
+            1042
+          ],
+          [
+            1187,
+            1919
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "の自由を叫ぶ声がほうはいとして起り、これ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1034,
+            1040
+          ],
+          [
+            1034,
+            1924
+          ],
+          [
+            1110,
+            1040
+          ],
+          [
+            1110,
+            1924
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "を抑えるために神道側から廃仏毀釈の狼煙が",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            959,
+            1042
+          ],
+          [
+            959,
+            1930
+          ],
+          [
+            1032,
+            1042
+          ],
+          [
+            1032,
+            1930
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "上がったりし、宗教界はてんやわんやの大騒",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            887,
+            1043
+          ],
+          [
+            887,
+            1453
+          ],
+          [
+            936,
+            1043
+          ],
+          [
+            936,
+            1453
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ぎになってしまった。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            810,
+            1088
+          ],
+          [
+            810,
+            1915
+          ],
+          [
+            871,
+            1088
+          ],
+          [
+            871,
+            1915
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "中からだけではない。それまで\"有った\"",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            733,
+            1049
+          ],
+          [
+            733,
+            1684
+          ],
+          [
+            786,
+            1049
+          ],
+          [
+            786,
+            1684
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "ということが不思議に思われる、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            655,
+            1073
+          ],
+          [
+            655,
+            1555
+          ],
+          [
+            704,
+            1073
+          ],
+          [
+            704,
+            1555
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "「キリスト教禁止の布告」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            577,
+            1095
+          ],
+          [
+            577,
+            1948
+          ],
+          [
+            633,
+            1095
+          ],
+          [
+            633,
+            1948
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "撤廃を外から新帰朝の進歩的官民が担って",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            501,
+            1055
+          ],
+          [
+            501,
+            1975
+          ],
+          [
+            554,
+            1055
+          ],
+          [
+            554,
+            1975
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "来、外交措置が突っつかれる破目にもなった。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            424,
+            1102
+          ],
+          [
+            424,
+            1947
+          ],
+          [
+            474,
+            1102
+          ],
+          [
+            474,
+            1947
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "明治四年には神祇官の宗教行政が行き詰っ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            347,
+            1065
+          ],
+          [
+            347,
+            1929
+          ],
+          [
+            395,
+            1065
+          ],
+          [
+            395,
+            1929
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "て、神祇省が設置された。五年の四月には、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            273,
+            1064
+          ],
+          [
+            273,
+            1883
+          ],
+          [
+            318,
+            1064
+          ],
+          [
+            318,
+            1883
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "宗教全般を統べるべく、教部省が出来た。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            202,
+            1114
+          ],
+          [
+            202,
+            1952
+          ],
+          [
+            244,
+            1114
+          ],
+          [
+            244,
+            1952
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "これは宗派の事を規定し、神社や寺院の設",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            137,
+            1071
+          ],
+          [
+            137,
+            1947
+          ],
+          [
+            174,
+            1071
+          ],
+          [
+            174,
+            1947
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "立を統制したりするばかりでなく、社寺の等",
+        "isTextline": "true",
+        "confidence": 0.948
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4877.JPEG",
+    "img_name": "IMG_4877.JPEG"
+  }
+}

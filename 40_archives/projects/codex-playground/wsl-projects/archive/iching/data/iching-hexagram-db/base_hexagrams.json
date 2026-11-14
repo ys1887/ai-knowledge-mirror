@@ -1,0 +1,324 @@
+{
+  "hexagrams": [
+    {
+      "binary": "111111",
+      "number": 1,
+      "name": "乾為天"
+    },
+    {
+      "binary": "000000",
+      "number": 2,
+      "name": "坤為地"
+    },
+    {
+      "binary": "100010",
+      "number": 3,
+      "name": "水雷屯"
+    },
+    {
+      "binary": "010001",
+      "number": 4,
+      "name": "山水蒙"
+    },
+    {
+      "binary": "111010",
+      "number": 5,
+      "name": "水天需"
+    },
+    {
+      "binary": "010111",
+      "number": 6,
+      "name": "天水訟"
+    },
+    {
+      "binary": "010000",
+      "number": 7,
+      "name": "地水師"
+    },
+    {
+      "binary": "000010",
+      "number": 8,
+      "name": "水地比"
+    },
+    {
+      "binary": "111011",
+      "number": 9,
+      "name": "風天小畜"
+    },
+    {
+      "binary": "110111",
+      "number": 10,
+      "name": "天沢履"
+    },
+    {
+      "binary": "111000",
+      "number": 11,
+      "name": "地天泰"
+    },
+    {
+      "binary": "000111",
+      "number": 12,
+      "name": "天地否"
+    },
+    {
+      "binary": "101111",
+      "number": 13,
+      "name": "天火同人"
+    },
+    {
+      "binary": "111101",
+      "number": 14,
+      "name": "火天大有"
+    },
+    {
+      "binary": "001000",
+      "number": 15,
+      "name": "地山謙"
+    },
+    {
+      "binary": "000100",
+      "number": 16,
+      "name": "雷地豫"
+    },
+    {
+      "binary": "100110",
+      "number": 17,
+      "name": "沢雷随"
+    },
+    {
+      "binary": "011001",
+      "number": 18,
+      "name": "山風蠱"
+    },
+    {
+      "binary": "110000",
+      "number": 19,
+      "name": "地沢臨"
+    },
+    {
+      "binary": "000011",
+      "number": 20,
+      "name": "風地観"
+    },
+    {
+      "binary": "100101",
+      "number": 21,
+      "name": "火雷噬嗑"
+    },
+    {
+      "binary": "101001",
+      "number": 22,
+      "name": "山火賁"
+    },
+    {
+      "binary": "000001",
+      "number": 23,
+      "name": "山地剥"
+    },
+    {
+      "binary": "100000",
+      "number": 24,
+      "name": "地雷復"
+    },
+    {
+      "binary": "100111",
+      "number": 25,
+      "name": "天雷無妄"
+    },
+    {
+      "binary": "111001",
+      "number": 26,
+      "name": "山天大畜"
+    },
+    {
+      "binary": "100001",
+      "number": 27,
+      "name": "山雷頤"
+    },
+    {
+      "binary": "011110",
+      "number": 28,
+      "name": "沢風大過"
+    },
+    {
+      "binary": "010010",
+      "number": 29,
+      "name": "坎為水"
+    },
+    {
+      "binary": "101101",
+      "number": 30,
+      "name": "離為火"
+    },
+    {
+      "binary": "001110",
+      "number": 31,
+      "name": "沢山咸"
+    },
+    {
+      "binary": "011100",
+      "number": 32,
+      "name": "雷風恆"
+    },
+    {
+      "binary": "001111",
+      "number": 33,
+      "name": "天山遯"
+    },
+    {
+      "binary": "111100",
+      "number": 34,
+      "name": "雷天大壮"
+    },
+    {
+      "binary": "000101",
+      "number": 35,
+      "name": "火地晋"
+    },
+    {
+      "binary": "101000",
+      "number": 36,
+      "name": "地火明夷"
+    },
+    {
+      "binary": "101011",
+      "number": 37,
+      "name": "風火家人"
+    },
+    {
+      "binary": "110101",
+      "number": 38,
+      "name": "火沢睽"
+    },
+    {
+      "binary": "001010",
+      "number": 39,
+      "name": "水山蹇"
+    },
+    {
+      "binary": "010100",
+      "number": 40,
+      "name": "雷水解"
+    },
+    {
+      "binary": "110001",
+      "number": 41,
+      "name": "山沢損"
+    },
+    {
+      "binary": "100011",
+      "number": 42,
+      "name": "風雷益"
+    },
+    {
+      "binary": "111110",
+      "number": 43,
+      "name": "沢天夬"
+    },
+    {
+      "binary": "011111",
+      "number": 44,
+      "name": "天風姤"
+    },
+    {
+      "binary": "000110",
+      "number": 45,
+      "name": "沢地萃"
+    },
+    {
+      "binary": "011000",
+      "number": 46,
+      "name": "地風升"
+    },
+    {
+      "binary": "010110",
+      "number": 47,
+      "name": "沢水困"
+    },
+    {
+      "binary": "011010",
+      "number": 48,
+      "name": "水風井"
+    },
+    {
+      "binary": "101110",
+      "number": 49,
+      "name": "沢火革"
+    },
+    {
+      "binary": "011101",
+      "number": 50,
+      "name": "火風鼎"
+    },
+    {
+      "binary": "100100",
+      "number": 51,
+      "name": "震為雷"
+    },
+    {
+      "binary": "001001",
+      "number": 52,
+      "name": "艮為山"
+    },
+    {
+      "binary": "001011",
+      "number": 53,
+      "name": "風山漸"
+    },
+    {
+      "binary": "110100",
+      "number": 54,
+      "name": "雷沢帰妹"
+    },
+    {
+      "binary": "101100",
+      "number": 55,
+      "name": "雷火豊"
+    },
+    {
+      "binary": "001101",
+      "number": 56,
+      "name": "火山旅"
+    },
+    {
+      "binary": "011011",
+      "number": 57,
+      "name": "巽為風"
+    },
+    {
+      "binary": "110110",
+      "number": 58,
+      "name": "兌為沢"
+    },
+    {
+      "binary": "010011",
+      "number": 59,
+      "name": "風水渙"
+    },
+    {
+      "binary": "110010",
+      "number": 60,
+      "name": "水沢節"
+    },
+    {
+      "binary": "110011",
+      "number": 61,
+      "name": "風沢中孚"
+    },
+    {
+      "binary": "001100",
+      "number": 62,
+      "name": "雷山小過"
+    },
+    {
+      "binary": "101010",
+      "number": 63,
+      "name": "水火既済"
+    },
+    {
+      "binary": "010101",
+      "number": 64,
+      "name": "火水未済"
+    }
+  ]
+}

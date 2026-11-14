@@ -1,0 +1,10 @@
+description: 易経占いを行うBot
+description_auto: false
+ui_meta:
+  hermes-bots:
+    title: アルカナ/占い師
+    shape: circle
+    imageKind: photo
+    custom: true
+_ui_meta_revisions:
+  hermes-bots: 7

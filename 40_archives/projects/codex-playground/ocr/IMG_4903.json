@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1279,
+            93
+          ],
+          [
+            1279,
+            900
+          ],
+          [
+            1356,
+            93
+          ],
+          [
+            1356,
+            900
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "てからだが……大隈さん日くだ、高島は易で",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1207,
+            87
+          ],
+          [
+            1207,
+            904
+          ],
+          [
+            1281,
+            87
+          ],
+          [
+            1281,
+            904
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "天の智恵を借りて判断したのだが、わしは自",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            86
+          ],
+          [
+            1136,
+            903
+          ],
+          [
+            1209,
+            86
+          ],
+          [
+            1209,
+            903
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "分の智恵で、きっとそうなるだろうと思って",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1065,
+            89
+          ],
+          [
+            1065,
+            905
+          ],
+          [
+            1135,
+            89
+          ],
+          [
+            1135,
+            905
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "いたんだから、わしの方が高島よりエライん",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            993,
+            81
+          ],
+          [
+            993,
+            215
+          ],
+          [
+            1031,
+            81
+          ],
+          [
+            1031,
+            215
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "だ、と。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            918,
+            119
+          ],
+          [
+            918,
+            906
+          ],
+          [
+            984,
+            119
+          ],
+          [
+            984,
+            906
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "先生もその虫のいい言いぐさには呆れてい",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            844,
+            78
+          ],
+          [
+            844,
+            211
+          ],
+          [
+            883,
+            78
+          ],
+          [
+            883,
+            211
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "たがね。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            770,
+            78
+          ],
+          [
+            770,
+            889
+          ],
+          [
+            831,
+            78
+          ],
+          [
+            831,
+            889
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "……次に伊藤さんだ。これはもっと切実だ。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            693,
+            75
+          ],
+          [
+            693,
+            913
+          ],
+          [
+            755,
+            75
+          ],
+          [
+            755,
+            913
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "自身掛り合があるし、また日本の損得にかか",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            618,
+            77
+          ],
+          [
+            618,
+            632
+          ],
+          [
+            668,
+            77
+          ],
+          [
+            668,
+            632
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "わることで、一層真剣だった。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            544,
+            118
+          ],
+          [
+            544,
+            918
+          ],
+          [
+            598,
+            118
+          ],
+          [
+            598,
+            918
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "というのは、例の下関戦争の償金の問題だ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            465,
+            79
+          ],
+          [
+            465,
+            896
+          ],
+          [
+            520,
+            79
+          ],
+          [
+            520,
+            896
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "ね。下関戦争というのは、長州の攘夷派が、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            389,
+            79
+          ],
+          [
+            389,
+            925
+          ],
+          [
+            440,
+            79
+          ],
+          [
+            440,
+            925
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "慶応二年に、あすこを通る米蘭二国の船を砲",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            314,
+            84
+          ],
+          [
+            314,
+            512
+          ],
+          [
+            355,
+            84
+          ],
+          [
+            355,
+            512
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "台から砲撃した事件だ。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            240,
+            131
+          ],
+          [
+            240,
+            946
+          ],
+          [
+            284,
+            131
+          ],
+          [
+            284,
+            946
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "相手は商船だから応戦するわけにはいかず、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            169,
+            102
+          ],
+          [
+            169,
+            934
+          ],
+          [
+            209,
+            102
+          ],
+          [
+            209,
+            934
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ほうほうのていで逃げて、横浜港へやって来",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            106,
+            113
+          ],
+          [
+            106,
+            161
+          ],
+          [
+            136,
+            113
+          ],
+          [
+            136,
+            161
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.916
+      },
+      {
+        "boundingBox": [
+          [
+            1332,
+            1065
+          ],
+          [
+            1332,
+            1898
+          ],
+          [
+            1408,
+            1065
+          ],
+          [
+            1408,
+            1898
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "その時、横浜には英国とフランスの軍艦が",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1257,
+            1032
+          ],
+          [
+            1257,
+            1125
+          ],
+          [
+            1295,
+            1032
+          ],
+          [
+            1295,
+            1125
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "いた。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            1068
+          ],
+          [
+            1182,
+            1913
+          ],
+          [
+            1254,
+            1068
+          ],
+          [
+            1254,
+            1913
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "事情を聞いて、幕府は五港を開いて貿易を",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1107,
+            1032
+          ],
+          [
+            1107,
+            1902
+          ],
+          [
+            1180,
+            1032
+          ],
+          [
+            1180,
+            1902
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "やろうといっているのに、幕府の下にいる一",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1030,
+            1029
+          ],
+          [
+            1030,
+            1925
+          ],
+          [
+            1102,
+            1029
+          ],
+          [
+            1102,
+            1925
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "藩がその意図に背いて攘夷の何のと騒ぐのは",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            952,
+            1033
+          ],
+          [
+            952,
+            1267
+          ],
+          [
+            999,
+            1033
+          ],
+          [
+            999,
+            1267
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "怪しからん。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            881,
+            1032
+          ],
+          [
+            881,
+            1941
+          ],
+          [
+            947,
+            1032
+          ],
+          [
+            947,
+            1941
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "-この際文明国の威力を示し、かつ日本幕",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            799,
+            1036
+          ],
+          [
+            799,
+            1948
+          ],
+          [
+            867,
+            1036
+          ],
+          [
+            867,
+            1948
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "府との取引を有利にするため、下関砲台を攻",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            721,
+            1039
+          ],
+          [
+            721,
+            1953
+          ],
+          [
+            786,
+            1039
+          ],
+          [
+            786,
+            1953
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "略してやろうじゃないか、と英国軍艦の艦長",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            642,
+            1043
+          ],
+          [
+            642,
+            1279
+          ],
+          [
+            686,
+            1043
+          ],
+          [
+            686,
+            1279
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "が提案した。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            563,
+            1088
+          ],
+          [
+            563,
+            1958
+          ],
+          [
+            621,
+            1088
+          ],
+          [
+            621,
+            1958
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "英仏らから難癖をつけられるいわれはない",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            1052
+          ],
+          [
+            484,
+            1966
+          ],
+          [
+            538,
+            1052
+          ],
+          [
+            538,
+            1966
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "のだが、連合軍ということで、米蘭を煽動し",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            403,
+            1050
+          ],
+          [
+            403,
+            1969
+          ],
+          [
+            459,
+            1050
+          ],
+          [
+            459,
+            1969
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "たんだ。米蘭は商船だから、軍艦とは出来が",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            325,
+            1052
+          ],
+          [
+            325,
+            1201
+          ],
+          [
+            364,
+            1052
+          ],
+          [
+            364,
+            1201
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ちがう。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            246,
+            1099
+          ],
+          [
+            246,
+            1970
+          ],
+          [
+            295,
+            1099
+          ],
+          [
+            295,
+            1970
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "仕方がないからペンキで軍艦に見えるよう",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            174,
+            1062
+          ],
+          [
+            174,
+            1964
+          ],
+          [
+            219,
+            1062
+          ],
+          [
+            219,
+            1964
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "にし、墨で砲門があるように見せて、堂々と",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            105,
+            1063
+          ],
+          [
+            105,
+            1960
+          ],
+          [
+            148,
+            1063
+          ],
+          [
+            148,
+            1960
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "下関まで出掛け、英仏軍艦が主力になって砲",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4903.JPEG",
+    "img_name": "IMG_4903.JPEG"
+  }
+}

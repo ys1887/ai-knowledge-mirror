@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1325,
+            131
+          ],
+          [
+            1325,
+            961
+          ],
+          [
+            1376,
+            131
+          ],
+          [
+            1376,
+            961
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ような勢いだ。九三の爻辞に、莽に伏す、其",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1255,
+            123
+          ],
+          [
+            1255,
+            960
+          ],
+          [
+            1304,
+            123
+          ],
+          [
+            1304,
+            960
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "の高陵に升る、 三歳興らずとあるところをも",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            118
+          ],
+          [
+            1182,
+            958
+          ],
+          [
+            1234,
+            118
+          ],
+          [
+            1234,
+            958
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "て察するに、これは名筆には相違ないが癖が",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1107,
+            113
+          ],
+          [
+            1107,
+            957
+          ],
+          [
+            1157,
+            113
+          ],
+          [
+            1157,
+            957
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "ある。才能は人並み以上優れているが、他の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1031,
+            112
+          ],
+          [
+            1031,
+            959
+          ],
+          [
+            1080,
+            112
+          ],
+          [
+            1080,
+            959
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "大家の書を見て負けん気を出して頑張る風が",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            956,
+            115
+          ],
+          [
+            956,
+            958
+          ],
+          [
+            1002,
+            115
+          ],
+          [
+            1002,
+            958
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ある。三歳興らずというのは、そのカドが五",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            879,
+            117
+          ],
+          [
+            879,
+            961
+          ],
+          [
+            924,
+            117
+          ],
+          [
+            924,
+            961
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "爻の時までとれず苦しむという象だ。今から",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            804,
+            123
+          ],
+          [
+            804,
+            964
+          ],
+          [
+            848,
+            123
+          ],
+          [
+            848,
+            964
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "三年すればこの人は離為火になるから、自分",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            729,
+            130
+          ],
+          [
+            729,
+            962
+          ],
+          [
+            771,
+            130
+          ],
+          [
+            771,
+            962
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "の思い通りの見事な書を書けるようになるだ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            655,
+            133
+          ],
+          [
+            655,
+            226
+          ],
+          [
+            692,
+            133
+          ],
+          [
+            692,
+            226
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "ろう」",
+        "isTextline": "true",
+        "confidence": 0.93
+      },
+      {
+        "boundingBox": [
+          [
+            581,
+            176
+          ],
+          [
+            581,
+            957
+          ],
+          [
+            620,
+            176
+          ],
+          [
+            620,
+            957
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "副島はじめ三人の客は顔を見合わせてにっ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            143
+          ],
+          [
+            511,
+            314
+          ],
+          [
+            545,
+            143
+          ],
+          [
+            545,
+            314
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "こりした。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            433,
+            166
+          ],
+          [
+            433,
+            967
+          ],
+          [
+            474,
+            166
+          ],
+          [
+            474,
+            967
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "「地の人は、大畜の泰に之く卦からして、す",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            362,
+            151
+          ],
+          [
+            362,
+            959
+          ],
+          [
+            402,
+            151
+          ],
+          [
+            402,
+            959
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "でに自分の思い通りの書が書けるようになっ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            288,
+            155
+          ],
+          [
+            288,
+            967
+          ],
+          [
+            330,
+            155
+          ],
+          [
+            330,
+            967
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "ている。筆勢縦横、天上を翔るが如しだ。上",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            216,
+            156
+          ],
+          [
+            216,
+            965
+          ],
+          [
+            260,
+            156
+          ],
+          [
+            260,
+            965
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "九の爻辞に何ぞ天の衢なる、亨る、とあるの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            144,
+            162
+          ],
+          [
+            144,
+            967
+          ],
+          [
+            192,
+            162
+          ],
+          [
+            192,
+            967
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "がそれを物語っている。しかしこの人も初め",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1347,
+            1083
+          ],
+          [
+            1347,
+            1959
+          ],
+          [
+            1398,
+            1083
+          ],
+          [
+            1398,
+            1959
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "からこんなじゃなかった。 三年前にはせっか",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1275,
+            1082
+          ],
+          [
+            1275,
+            1961
+          ],
+          [
+            1325,
+            1082
+          ],
+          [
+            1325,
+            1961
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "くの大才 (乾) がありながら筆勢を伸ばすこ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            1083
+          ],
+          [
+            1200,
+            1971
+          ],
+          [
+            1248,
+            1083
+          ],
+          [
+            1248,
+            1971
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "とが出来ず(艮止されて)相当悩んでいた筈",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1122,
+            1084
+          ],
+          [
+            1122,
+            1970
+          ],
+          [
+            1169,
+            1084
+          ],
+          [
+            1169,
+            1970
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "だ。しかしもうよい。大畜も上爻へ来て、そ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1042,
+            1089
+          ],
+          [
+            1042,
+            1969
+          ],
+          [
+            1091,
+            1089
+          ],
+          [
+            1091,
+            1969
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "の畜止が退いたのだから、気字洪大な天馬空",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            965,
+            1084
+          ],
+          [
+            965,
+            1944
+          ],
+          [
+            1012,
+            1084
+          ],
+          [
+            1012,
+            1944
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "をゆく新機軸が出せるようになったわけだ」",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            887,
+            1126
+          ],
+          [
+            887,
+            1541
+          ],
+          [
+            929,
+            1126
+          ],
+          [
+            929,
+            1541
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "皆が深くうなづいた。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            809,
+            1109
+          ],
+          [
+            809,
+            1965
+          ],
+          [
+            855,
+            1109
+          ],
+          [
+            855,
+            1965
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "「人の人は、大有の重離だから、すでに能筆",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            733,
+            1085
+          ],
+          [
+            733,
+            1936
+          ],
+          [
+            776,
+            1085
+          ],
+          [
+            776,
+            1936
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "家、名書家として世に重く用いられている。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            657,
+            1086
+          ],
+          [
+            657,
+            1957
+          ],
+          [
+            699,
+            1086
+          ],
+          [
+            699,
+            1957
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "大有は柔尊位大中を得て、而して上下之に応",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            582,
+            1085
+          ],
+          [
+            582,
+            1953
+          ],
+          [
+            622,
+            1085
+          ],
+          [
+            622,
+            1953
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "ずとあり、其の徳剛健にして文明、天に応じ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            506,
+            1090
+          ],
+          [
+            506,
+            1950
+          ],
+          [
+            546,
+            1090
+          ],
+          [
+            546,
+            1950
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "て時に行わる、是を以て元いに亨るとあるか",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            431,
+            1088
+          ],
+          [
+            431,
+            1792
+          ],
+          [
+            470,
+            1088
+          ],
+          [
+            470,
+            1792
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "らして、政府に仕えている有名人だ」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            359,
+            1131
+          ],
+          [
+            359,
+            1358
+          ],
+          [
+            395,
+            1131
+          ],
+          [
+            395,
+            1358
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "と占断した。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            282,
+            1131
+          ],
+          [
+            282,
+            1917
+          ],
+          [
+            322,
+            1131
+          ],
+          [
+            322,
+            1917
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "天の人は巖谷一六、地の人は日下部鳴鶴、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            209,
+            1089
+          ],
+          [
+            209,
+            1939
+          ],
+          [
+            249,
+            1089
+          ],
+          [
+            249,
+            1939
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "人の人は長三洲だった。一座の人々はすべて",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            138,
+            1090
+          ],
+          [
+            138,
+            1698
+          ],
+          [
+            176,
+            1090
+          ],
+          [
+            176,
+            1698
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "そのよく的を射た占に感嘆した。",
+        "isTextline": "true",
+        "confidence": 0.946
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4872.JPEG",
+    "img_name": "IMG_4872.JPEG"
+  }
+}

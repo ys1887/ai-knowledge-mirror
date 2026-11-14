@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1366,
+            164
+          ],
+          [
+            1366,
+            947
+          ],
+          [
+            1424,
+            164
+          ],
+          [
+            1424,
+            947
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "はなはだしいのはニギリキンタマでも、裸",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1294,
+            123
+          ],
+          [
+            1294,
+            947
+          ],
+          [
+            1350,
+            123
+          ],
+          [
+            1350,
+            947
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "にあぐらでも、しかも易はアタルから特別ぎ",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            123
+          ],
+          [
+            1224,
+            948
+          ],
+          [
+            1278,
+            123
+          ],
+          [
+            1278,
+            948
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ょうぎょうしくしなくても、ということを公",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1146,
+            117
+          ],
+          [
+            1146,
+            420
+          ],
+          [
+            1189,
+            117
+          ],
+          [
+            1189,
+            420
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "言する人もある。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1073,
+            159
+          ],
+          [
+            1073,
+            946
+          ],
+          [
+            1127,
+            159
+          ],
+          [
+            1127,
+            946
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "かく言う筆者などは筮儀に喧しすぎるとい",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            998,
+            113
+          ],
+          [
+            998,
+            951
+          ],
+          [
+            1053,
+            113
+          ],
+          [
+            1053,
+            951
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "う声を周囲に聞くが、嘉右衛門はもっと喧し",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            925,
+            114
+          ],
+          [
+            925,
+            460
+          ],
+          [
+            968,
+            114
+          ],
+          [
+            968,
+            460
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "かったに相違ない。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            851,
+            153
+          ],
+          [
+            851,
+            973
+          ],
+          [
+            904,
+            153
+          ],
+          [
+            904,
+            973
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "易占は、至誠の有無が問題だと言っている。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            776,
+            111
+          ],
+          [
+            776,
+            950
+          ],
+          [
+            827,
+            111
+          ],
+          [
+            827,
+            950
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "もちろん筮儀について厳しいことを言ってい",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            112
+          ],
+          [
+            700,
+            953
+          ],
+          [
+            750,
+            112
+          ],
+          [
+            750,
+            953
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "るのは彼が初めてではなく、谷川祐信もその",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            622,
+            106
+          ],
+          [
+            622,
+            959
+          ],
+          [
+            676,
+            106
+          ],
+          [
+            676,
+            959
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "著 「周易本筮指南」 の中で、 特に斎戒の一項",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            547,
+            108
+          ],
+          [
+            547,
+            541
+          ],
+          [
+            590,
+            108
+          ],
+          [
+            590,
+            541
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "目を設け、繋辞伝中の、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            469,
+            130
+          ],
+          [
+            469,
+            958
+          ],
+          [
+            518,
+            130
+          ],
+          [
+            518,
+            958
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "「聖人此を以て斎戒し、以て其の徳を神明に",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            392,
+            106
+          ],
+          [
+            392,
+            162
+          ],
+          [
+            431,
+            106
+          ],
+          [
+            431,
+            162
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "す」",
+        "isTextline": "true",
+        "confidence": 0.925
+      },
+      {
+        "boundingBox": [
+          [
+            319,
+            153
+          ],
+          [
+            319,
+            500
+          ],
+          [
+            359,
+            153
+          ],
+          [
+            359,
+            500
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "るという辞を掲げ、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            242,
+            136
+          ],
+          [
+            242,
+            972
+          ],
+          [
+            286,
+            136
+          ],
+          [
+            286,
+            972
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「心を洗うを斎と云う、患を防ぐを戒という。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            172,
+            121
+          ],
+          [
+            172,
+            962
+          ],
+          [
+            212,
+            121
+          ],
+          [
+            212,
+            962
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "内外清浄、湛然純一、粛然警場、敬礼神事で",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1394,
+            1066
+          ],
+          [
+            1394,
+            1422
+          ],
+          [
+            1440,
+            1066
+          ],
+          [
+            1440,
+            1422
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "なければならない」",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1322,
+            1110
+          ],
+          [
+            1322,
+            1379
+          ],
+          [
+            1363,
+            1110
+          ],
+          [
+            1363,
+            1379
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "と言っている。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1247,
+            1113
+          ],
+          [
+            1247,
+            1380
+          ],
+          [
+            1290,
+            1113
+          ],
+          [
+            1290,
+            1380
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "その斎戒とは、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1170,
+            1093
+          ],
+          [
+            1170,
+            1936
+          ],
+          [
+            1231,
+            1093
+          ],
+          [
+            1231,
+            1936
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "「沐浴して新衣を著し、 著室に静坐し、 視聴",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1095,
+            1071
+          ],
+          [
+            1095,
+            1939
+          ],
+          [
+            1155,
+            1071
+          ],
+          [
+            1155,
+            1939
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "言動不正のことを以てせず、婦女僧尼及び庸",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1020,
+            1072
+          ],
+          [
+            1020,
+            1956
+          ],
+          [
+            1079,
+            1072
+          ],
+          [
+            1079,
+            1956
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "愚醜行の徒に近かず、 葷酒不正の物を食せず、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            945,
+            1073
+          ],
+          [
+            945,
+            1944
+          ],
+          [
+            1001,
+            1073
+          ],
+          [
+            1001,
+            1944
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "内外清潔にし、朝毎に元亨利貞を唱え、又は",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            869,
+            1076
+          ],
+          [
+            869,
+            1964
+          ],
+          [
+            926,
+            1076
+          ],
+          [
+            926,
+            1964
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "易経を読み、又は神道の中臣祓六根祓にても、",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            793,
+            1076
+          ],
+          [
+            793,
+            1955
+          ],
+          [
+            848,
+            1076
+          ],
+          [
+            848,
+            1955
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "筮者の意に任せて、 専ら内観を修し、 心の垢",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            716,
+            1077
+          ],
+          [
+            716,
+            1955
+          ],
+          [
+            769,
+            1077
+          ],
+          [
+            769,
+            1955
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "穢を洗うことを務むること、 凡そ七日にして",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            640,
+            1079
+          ],
+          [
+            640,
+            1490
+          ],
+          [
+            684,
+            1079
+          ],
+          [
+            684,
+            1490
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "而して筮すべし」と、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            562,
+            1126
+          ],
+          [
+            562,
+            1761
+          ],
+          [
+            610,
+            1126
+          ],
+          [
+            610,
+            1761
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "行者のようなことを言っている。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            486,
+            1128
+          ],
+          [
+            486,
+            1972
+          ],
+          [
+            534,
+            1128
+          ],
+          [
+            534,
+            1972
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "もっとも斎戒ということは、日本の神道固",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            403,
+            1085
+          ],
+          [
+            403,
+            1972
+          ],
+          [
+            453,
+            1085
+          ],
+          [
+            453,
+            1972
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "有のものではなく、神道学者も認めているよ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            327,
+            1087
+          ],
+          [
+            327,
+            1972
+          ],
+          [
+            374,
+            1087
+          ],
+          [
+            374,
+            1972
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "うに、この語は「繋辞伝」に初めて出ている",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            252,
+            1093
+          ],
+          [
+            252,
+            1368
+          ],
+          [
+            290,
+            1093
+          ],
+          [
+            290,
+            1368
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "ことばである。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            177,
+            1133
+          ],
+          [
+            177,
+            1965
+          ],
+          [
+            224,
+            1133
+          ],
+          [
+            224,
+            1965
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "神斎・儒斎・仏斎のうち、仏斎が一番きび",
+        "isTextline": "true",
+        "confidence": 0.953
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4915.JPEG",
+    "img_name": "IMG_4915.JPEG"
+  }
+}

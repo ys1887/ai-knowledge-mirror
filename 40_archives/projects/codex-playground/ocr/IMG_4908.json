@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1302,
+            169
+          ],
+          [
+            1302,
+            711
+          ],
+          [
+            1355,
+            169
+          ],
+          [
+            1355,
+            711
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "と言い、 声をさらに大にして、",
+        "isTextline": "true",
+        "confidence": 0.926
+      },
+      {
+        "boundingBox": [
+          [
+            1230,
+            148
+          ],
+          [
+            1230,
+            950
+          ],
+          [
+            1292,
+            148
+          ],
+          [
+            1292,
+            950
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "「或は大いに世に益する所のものあらん。凡",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1158,
+            127
+          ],
+          [
+            1158,
+            951
+          ],
+          [
+            1217,
+            127
+          ],
+          [
+            1217,
+            951
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "そ人の世にあるや。貴賤男女を問はず、進退",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1081,
+            128
+          ],
+          [
+            1081,
+            951
+          ],
+          [
+            1140,
+            128
+          ],
+          [
+            1140,
+            951
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "挙措に就きて疑懼憂悔の念無き能はず、今や",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1008,
+            135
+          ],
+          [
+            1008,
+            955
+          ],
+          [
+            1064,
+            135
+          ],
+          [
+            1064,
+            955
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "来つて占筮を請う者は、皆此の疑懼憂悔あり",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            935,
+            144
+          ],
+          [
+            935,
+            958
+          ],
+          [
+            988,
+            144
+          ],
+          [
+            988,
+            958
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "て其の進退挙措を決すること能はざるものな",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            863,
+            151
+          ],
+          [
+            863,
+            958
+          ],
+          [
+            914,
+            151
+          ],
+          [
+            914,
+            958
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "れば、心配の相談人となり、之に対するには",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            156
+          ],
+          [
+            790,
+            958
+          ],
+          [
+            843,
+            156
+          ],
+          [
+            843,
+            958
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "懇篤親切を以てし、其の請う所の事を占筮に",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            722,
+            164
+          ],
+          [
+            722,
+            943
+          ],
+          [
+            773,
+            164
+          ],
+          [
+            773,
+            943
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "問うて将来の方向を誤らざらしむるを要す」",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            655,
+            213
+          ],
+          [
+            655,
+            662
+          ],
+          [
+            696,
+            213
+          ],
+          [
+            696,
+            662
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "と、易者の心得を説いた。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            200
+          ],
+          [
+            585,
+            969
+          ],
+          [
+            634,
+            200
+          ],
+          [
+            634,
+            969
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "「占者各自其の業務に勉励し、 言行誠実を旨",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            518,
+            189
+          ],
+          [
+            518,
+            972
+          ],
+          [
+            565,
+            189
+          ],
+          [
+            565,
+            972
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "とすべし…出処起赴人にはじざるの一大精神",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            196
+          ],
+          [
+            451,
+            972
+          ],
+          [
+            496,
+            196
+          ],
+          [
+            496,
+            972
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "を有ち、自彊して息まざるべし。斯くの如き",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            384,
+            201
+          ],
+          [
+            384,
+            975
+          ],
+          [
+            431,
+            201
+          ],
+          [
+            431,
+            975
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "者天下に輩出するときは、 易道大いに世に崇",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            318,
+            208
+          ],
+          [
+            318,
+            974
+          ],
+          [
+            363,
+            208
+          ],
+          [
+            363,
+            974
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "信せられ、易者は常に世人に倚頼せらるるに",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            255,
+            213
+          ],
+          [
+            255,
+            381
+          ],
+          [
+            290,
+            213
+          ],
+          [
+            290,
+            381
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "至るべし」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            257
+          ],
+          [
+            192,
+            382
+          ],
+          [
+            225,
+            257
+          ],
+          [
+            225,
+            382
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "と諭し、",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            1333,
+            1089
+          ],
+          [
+            1333,
+            1915
+          ],
+          [
+            1391,
+            1089
+          ],
+          [
+            1391,
+            1915
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「人をして神明の厳在を確認せしむるは、易",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1260,
+            1071
+          ],
+          [
+            1260,
+            1913
+          ],
+          [
+            1319,
+            1071
+          ],
+          [
+            1319,
+            1913
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "に如くなし。又天命を立どころに受け、以て",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            1069
+          ],
+          [
+            1183,
+            1915
+          ],
+          [
+            1239,
+            1069
+          ],
+          [
+            1239,
+            1915
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "世事に利用するは易を措きて他に術あること",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            1072
+          ],
+          [
+            1108,
+            1170
+          ],
+          [
+            1147,
+            1072
+          ],
+          [
+            1147,
+            1170
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "なし」",
+        "isTextline": "true",
+        "confidence": 0.934
+      },
+      {
+        "boundingBox": [
+          [
+            1035,
+            1115
+          ],
+          [
+            1035,
+            1907
+          ],
+          [
+            1089,
+            1115
+          ],
+          [
+            1089,
+            1907
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "とその効用を讃し、次いで最も大切な、い",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            1073
+          ],
+          [
+            960,
+            1902
+          ],
+          [
+            1016,
+            1073
+          ],
+          [
+            1016,
+            1902
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "うなれば彼の大秘伝とも称すべきことを述べ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            885,
+            1079
+          ],
+          [
+            885,
+            1211
+          ],
+          [
+            922,
+            1079
+          ],
+          [
+            922,
+            1211
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ている。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            812,
+            1098
+          ],
+          [
+            812,
+            1901
+          ],
+          [
+            867,
+            1098
+          ],
+          [
+            867,
+            1901
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "「…然るに世の易を説く者、 至誠を以てせず",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            1079
+          ],
+          [
+            744,
+            1896
+          ],
+          [
+            792,
+            1079
+          ],
+          [
+            792,
+            1896
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "して単に学理を以てするあり。故に的中あり",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            672,
+            1080
+          ],
+          [
+            672,
+            1891
+          ],
+          [
+            722,
+            1080
+          ],
+          [
+            722,
+            1891
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "又不的中あり、是れ俚諺に\"当るも八卦、当",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            604,
+            1082
+          ],
+          [
+            604,
+            1885
+          ],
+          [
+            651,
+            1082
+          ],
+          [
+            651,
+            1885
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "らぬも八卦\"と云う所以にして、遂に世人に",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            534,
+            1082
+          ],
+          [
+            534,
+            1581
+          ],
+          [
+            577,
+            1082
+          ],
+          [
+            577,
+            1581
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "之を贅物視せらるるに至る」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            467,
+            1124
+          ],
+          [
+            467,
+            1882
+          ],
+          [
+            513,
+            1124
+          ],
+          [
+            513,
+            1882
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "と慨嘆し、それは易者でありながら真に易",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            401,
+            1086
+          ],
+          [
+            401,
+            1892
+          ],
+          [
+            448,
+            1086
+          ],
+          [
+            448,
+            1892
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "を信じないで、天命を知らず、天命を畏れず、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            1089
+          ],
+          [
+            334,
+            1873
+          ],
+          [
+            379,
+            1089
+          ],
+          [
+            379,
+            1873
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "ややもすれば大人に狎れ聖人の言を侮る易者",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            268,
+            1088
+          ],
+          [
+            268,
+            1866
+          ],
+          [
+            313,
+            1088
+          ],
+          [
+            313,
+            1866
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "自らが招くところだ、と痛いところを突いて",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            205,
+            1095
+          ],
+          [
+            205,
+            1178
+          ],
+          [
+            236,
+            1095
+          ],
+          [
+            236,
+            1178
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "いる。",
+        "isTextline": "true",
+        "confidence": 0.925
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4908.JPEG",
+    "img_name": "IMG_4908.JPEG"
+  }
+}

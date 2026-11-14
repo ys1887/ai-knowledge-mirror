@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1330,
+            154
+          ],
+          [
+            1330,
+            655
+          ],
+          [
+            1383,
+            154
+          ],
+          [
+            1383,
+            655
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "\"かかるところへ大隈・伊藤\"",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1264,
+            165
+          ],
+          [
+            1264,
+            927
+          ],
+          [
+            1322,
+            165
+          ],
+          [
+            1322,
+            927
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "といったようなせりふまわしをされた。あ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1192,
+            122
+          ],
+          [
+            1192,
+            926
+          ],
+          [
+            1251,
+            122
+          ],
+          [
+            1251,
+            926
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "なたの書かれているような、あんな調子でし",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1121,
+            117
+          ],
+          [
+            1121,
+            207
+          ],
+          [
+            1156,
+            117
+          ],
+          [
+            1156,
+            207
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "たよ。",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            1050,
+            148
+          ],
+          [
+            1050,
+            925
+          ],
+          [
+            1107,
+            148
+          ],
+          [
+            1107,
+            925
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "芸人では伯円・円朝・如燕なんかと親しか",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            979,
+            115
+          ],
+          [
+            979,
+            911
+          ],
+          [
+            1031,
+            115
+          ],
+          [
+            1031,
+            911
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ったし、 歌舞伎の方でも、 団十郎・菊五郎",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            904,
+            102
+          ],
+          [
+            904,
+            928
+          ],
+          [
+            958,
+            102
+          ],
+          [
+            958,
+            928
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "左団次などと特に懇意でした。貴方の嘉右衛",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            833,
+            100
+          ],
+          [
+            833,
+            925
+          ],
+          [
+            880,
+            100
+          ],
+          [
+            880,
+            925
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "門に出てくる巖谷一六の孫に当る真一さんと",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            758,
+            96
+          ],
+          [
+            758,
+            926
+          ],
+          [
+            805,
+            96
+          ],
+          [
+            805,
+            926
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "もよく話合っているんですが、嘉右衛門先生",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            98
+          ],
+          [
+            681,
+            927
+          ],
+          [
+            727,
+            98
+          ],
+          [
+            727,
+            927
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "の一代を劇に仕組んで貰ったらと思っていま",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            608,
+            93
+          ],
+          [
+            608,
+            146
+          ],
+          [
+            644,
+            93
+          ],
+          [
+            644,
+            146
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "す。",
+        "isTextline": "true",
+        "confidence": 0.928
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            132
+          ],
+          [
+            530,
+            928
+          ],
+          [
+            573,
+            132
+          ],
+          [
+            573,
+            928
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "昔は芝居があった。一人の花魁を山内容堂",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            453,
+            94
+          ],
+          [
+            453,
+            927
+          ],
+          [
+            495,
+            94
+          ],
+          [
+            495,
+            927
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "さんと一貧書生とが取り合うところで、それ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            376,
+            96
+          ],
+          [
+            376,
+            904
+          ],
+          [
+            419,
+            96
+          ],
+          [
+            419,
+            904
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "をさばくのが浦島屋高右衛門という侠客だ。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            300,
+            140
+          ],
+          [
+            300,
+            933
+          ],
+          [
+            346,
+            140
+          ],
+          [
+            346,
+            933
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "外題は浦島屋高右衛門という高島先生の仮",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            238,
+            109
+          ],
+          [
+            238,
+            404
+          ],
+          [
+            274,
+            109
+          ],
+          [
+            274,
+            404
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "名そのままです。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            160,
+            159
+          ],
+          [
+            160,
+            938
+          ],
+          [
+            205,
+            159
+          ],
+          [
+            205,
+            938
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "その貧書生というのが、後の井上毅で高右",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1365,
+            1045
+          ],
+          [
+            1365,
+            1882
+          ],
+          [
+            1429,
+            1045
+          ],
+          [
+            1429,
+            1882
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "衛門の粋なさばきによって思う女と添われ、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1295,
+            1049
+          ],
+          [
+            1295,
+            1912
+          ],
+          [
+            1356,
+            1049
+          ],
+          [
+            1356,
+            1912
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "やがて立身出世して高右衛門と再会するとい",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1222,
+            1046
+          ],
+          [
+            1222,
+            1363
+          ],
+          [
+            1268,
+            1046
+          ],
+          [
+            1268,
+            1363
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "う場面があった。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1152,
+            1095
+          ],
+          [
+            1152,
+            1930
+          ],
+          [
+            1208,
+            1095
+          ],
+          [
+            1208,
+            1930
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "これは仙台あたりまで打って廻って相当人",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            1047
+          ],
+          [
+            1074,
+            1457
+          ],
+          [
+            1123,
+            1047
+          ],
+          [
+            1123,
+            1457
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "気があったようだが。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            1095
+          ],
+          [
+            1001,
+            1687
+          ],
+          [
+            1051,
+            1095
+          ],
+          [
+            1051,
+            1687
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "このほか歌舞伎で 〝十年の役〟",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            927,
+            1093
+          ],
+          [
+            927,
+            1945
+          ],
+          [
+            978,
+            1093
+          ],
+          [
+            978,
+            1945
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "というのをやったときも、先生が出て来ら",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            847,
+            1051
+          ],
+          [
+            847,
+            1950
+          ],
+          [
+            899,
+            1051
+          ],
+          [
+            899,
+            1950
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "れた。これは尾上菊五郎が、嘉右衛門に扮し",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            770,
+            1054
+          ],
+          [
+            770,
+            1950
+          ],
+          [
+            820,
+            1054
+          ],
+          [
+            820,
+            1950
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "て、山県有朋に十年の役のことを聞かれ、つ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            691,
+            1052
+          ],
+          [
+            691,
+            1962
+          ],
+          [
+            739,
+            1052
+          ],
+          [
+            739,
+            1962
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "らつら天文を案ずるに……といって、その予",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            613,
+            1052
+          ],
+          [
+            613,
+            1519
+          ],
+          [
+            654,
+            1052
+          ],
+          [
+            654,
+            1519
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "言をするところがある。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            532,
+            1096
+          ],
+          [
+            532,
+            1964
+          ],
+          [
+            576,
+            1096
+          ],
+          [
+            576,
+            1964
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "巖谷一六という人は面白い人で、知合いの",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            454,
+            1053
+          ],
+          [
+            454,
+            1381
+          ],
+          [
+            495,
+            1053
+          ],
+          [
+            495,
+            1381
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "未亡人を据えて、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            373,
+            1081
+          ],
+          [
+            373,
+            1968
+          ],
+          [
+            415,
+            1081
+          ],
+          [
+            415,
+            1968
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "\"後家という字は後ろの家よ、前の空家は誰",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            1060
+          ],
+          [
+            298,
+            1204
+          ],
+          [
+            338,
+            1060
+          ],
+          [
+            338,
+            1204
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "に貸す\"",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            224,
+            1103
+          ],
+          [
+            224,
+            1748
+          ],
+          [
+            263,
+            1103
+          ],
+          [
+            263,
+            1748
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "などと冷やかしたりしたものだ。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            149,
+            1104
+          ],
+          [
+            149,
+            1953
+          ],
+          [
+            192,
+            1104
+          ],
+          [
+            192,
+            1953
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "高島先生も粋人だったから稚気もあり、駄",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4899.JPEG",
+    "img_name": "IMG_4899.JPEG"
+  }
+}

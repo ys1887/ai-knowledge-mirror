@@ -1,0 +1,22 @@
+default_profile = "legacy"
+
+[providers.codex]
+path = "/home/ys/.nvm/versions/node/v22.21.1/bin/codex"
+sandbox = "workspace-write"
+
+[profiles.legacy]
+extract_source_kind = "legacy"
+extract_groups = ["extract_honda", "extract_takashima"]
+extract_prompt_fragment = "extract_shared.md"
+
+[profiles.honda]
+extract_source_kind = "split"
+extract_groups = ["extract_honda"]
+extract_root = "sources/extract_honda_split"
+extract_prompt_fragment = "extract_shared_split.md"
+
+[profiles.takashima]
+extract_source_kind = "split"
+extract_groups = ["extract_takashima"]
+extract_root = "sources/extract_takashima_split"
+extract_prompt_fragment = "extract_shared_split.md"

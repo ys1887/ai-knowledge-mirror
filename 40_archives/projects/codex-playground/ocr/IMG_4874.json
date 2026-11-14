@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1328,
+            128
+          ],
+          [
+            1328,
+            964
+          ],
+          [
+            1382,
+            128
+          ],
+          [
+            1382,
+            964
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「神官たる者は、宜しく大易を精学し、誠意",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1259,
+            94
+          ],
+          [
+            1259,
+            963
+          ],
+          [
+            1312,
+            94
+          ],
+          [
+            1312,
+            963
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "正心、 以て明命を神に受け、 以て将来の禍福",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1185,
+            89
+          ],
+          [
+            1185,
+            984
+          ],
+          [
+            1237,
+            89
+          ],
+          [
+            1237,
+            984
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "を氏子人民に指示するを、之が職務とすべし」",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            131
+          ],
+          [
+            1109,
+            965
+          ],
+          [
+            1158,
+            131
+          ],
+          [
+            1158,
+            965
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "という、 学易のすすめは、 彼の早くから唱",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1030,
+            90
+          ],
+          [
+            1030,
+            967
+          ],
+          [
+            1077,
+            90
+          ],
+          [
+            1077,
+            967
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "えていたところであるが、出雲大社教の千家",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            950,
+            92
+          ],
+          [
+            950,
+            984
+          ],
+          [
+            999,
+            92
+          ],
+          [
+            999,
+            984
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "尊福との交遊から、その部下神官に易を講じ、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            873,
+            105
+          ],
+          [
+            873,
+            970
+          ],
+          [
+            921,
+            105
+          ],
+          [
+            921,
+            970
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "ついには明治十八年(一八八五)皇典講究所",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            797,
+            109
+          ],
+          [
+            797,
+            158
+          ],
+          [
+            834,
+            109
+          ],
+          [
+            834,
+            158
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "で、",
+        "isTextline": "true",
+        "confidence": 0.92
+      },
+      {
+        "boundingBox": [
+          [
+            720,
+            136
+          ],
+          [
+            720,
+            384
+          ],
+          [
+            760,
+            136
+          ],
+          [
+            760,
+            384
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "「神道実用論」",
+        "isTextline": "true",
+        "confidence": 0.93
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            164
+          ],
+          [
+            648,
+            948
+          ],
+          [
+            691,
+            164
+          ],
+          [
+            691,
+            948
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "と題し、長広舌を振うことにまでなった。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            573,
+            169
+          ],
+          [
+            573,
+            974
+          ],
+          [
+            618,
+            169
+          ],
+          [
+            618,
+            974
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "彼のその大演説は、当時の国情、国民思潮",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            502,
+            141
+          ],
+          [
+            502,
+            975
+          ],
+          [
+            545,
+            141
+          ],
+          [
+            545,
+            975
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "のあり方を知る上にも非常に役に立つと思う",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            432,
+            148
+          ],
+          [
+            432,
+            973
+          ],
+          [
+            472,
+            148
+          ],
+          [
+            472,
+            973
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "ので、大時代的セリフながら、ここに引いて",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            362,
+            154
+          ],
+          [
+            362,
+            973
+          ],
+          [
+            401,
+            154
+          ],
+          [
+            401,
+            973
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "みたいと思う。嘉右衛門の物の考え方もこの",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            295,
+            159
+          ],
+          [
+            295,
+            747
+          ],
+          [
+            331,
+            159
+          ],
+          [
+            331,
+            747
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "中に尽くされているからである。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            226,
+            187
+          ],
+          [
+            226,
+            980
+          ],
+          [
+            264,
+            187
+          ],
+          [
+            264,
+            980
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「ここに列座の各神官諸君は、 皆是れ博学多",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            160,
+            174
+          ],
+          [
+            160,
+            979
+          ],
+          [
+            197,
+            174
+          ],
+          [
+            197,
+            979
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "識の人なるべし、予が無学不才を以て、博識",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1352,
+            1087
+          ],
+          [
+            1352,
+            1973
+          ],
+          [
+            1400,
+            1087
+          ],
+          [
+            1400,
+            1973
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "諸君に対して一言を呈せんと欲するは、所謂",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1278,
+            1087
+          ],
+          [
+            1278,
+            1974
+          ],
+          [
+            1327,
+            1087
+          ],
+          [
+            1327,
+            1974
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "釈迦に説法するに異らざれども、予は世間の",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1201,
+            1090
+          ],
+          [
+            1201,
+            1981
+          ],
+          [
+            1249,
+            1090
+          ],
+          [
+            1249,
+            1981
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "実事に於て聊か経歴あるを以て切に諸君に向",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1123,
+            1100
+          ],
+          [
+            1123,
+            1978
+          ],
+          [
+            1169,
+            1100
+          ],
+          [
+            1169,
+            1978
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "って、将来我国神道の為めに謀る所あらんと",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1040,
+            1091
+          ],
+          [
+            1040,
+            1976
+          ],
+          [
+            1089,
+            1091
+          ],
+          [
+            1089,
+            1976
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "欲するなり。諺に曰く、岡目八目、局に当る",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            961,
+            1091
+          ],
+          [
+            961,
+            1974
+          ],
+          [
+            1010,
+            1091
+          ],
+          [
+            1010,
+            1974
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "者は迷う、と。故に世間局外者より見るとき",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            884,
+            1093
+          ],
+          [
+            884,
+            1970
+          ],
+          [
+            932,
+            1093
+          ],
+          [
+            932,
+            1970
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "は、亦八目の益なしとせず、各位請う、局外",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            806,
+            1092
+          ],
+          [
+            806,
+            1940
+          ],
+          [
+            854,
+            1092
+          ],
+          [
+            854,
+            1940
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "者の妄言として棄て玉わざらんことを」と。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            731,
+            1136
+          ],
+          [
+            731,
+            1958
+          ],
+          [
+            777,
+            1136
+          ],
+          [
+            777,
+            1958
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "明治八年(一八七五)五月、神仏各宗合併",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            656,
+            1092
+          ],
+          [
+            656,
+            1951
+          ],
+          [
+            702,
+            1092
+          ],
+          [
+            702,
+            1951
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "布教停止令というものが出来、廃仏毀釈が公",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            583,
+            1098
+          ],
+          [
+            583,
+            1920
+          ],
+          [
+            627,
+            1098
+          ],
+          [
+            627,
+            1920
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "の声だったから、神道の方は\"我が世の春\"",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            1094
+          ],
+          [
+            511,
+            1916
+          ],
+          [
+            555,
+            1094
+          ],
+          [
+            555,
+            1916
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "だったわけだが、嘉右衛門の目から見れば、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            437,
+            1095
+          ],
+          [
+            437,
+            1930
+          ],
+          [
+            480,
+            1095
+          ],
+          [
+            480,
+            1930
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "仏教教団に押され、また東漸して来たキリス",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            367,
+            1096
+          ],
+          [
+            367,
+            1927
+          ],
+          [
+            408,
+            1096
+          ],
+          [
+            408,
+            1927
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ト教にだんだん侵されそうになってきている",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            1100
+          ],
+          [
+            298,
+            1650
+          ],
+          [
+            336,
+            1100
+          ],
+          [
+            336,
+            1650
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "のが歯がゆかったのであろう。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            229,
+            1138
+          ],
+          [
+            229,
+            1916
+          ],
+          [
+            271,
+            1138
+          ],
+          [
+            271,
+            1916
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "千家尊福とは、宮内大輔杉孫七郎の紹介で",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            162,
+            1096
+          ],
+          [
+            162,
+            1913
+          ],
+          [
+            203,
+            1096
+          ],
+          [
+            203,
+            1913
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "会って、尊福に風地観の象伝「天の神道を観",
+        "isTextline": "true",
+        "confidence": 0.949
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4874.JPEG",
+    "img_name": "IMG_4874.JPEG"
+  }
+}

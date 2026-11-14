@@ -1,0 +1,33 @@
+# EX_5 output skeleton (single-source)
+
+- Order: `## 質問文` -> `## 本卦` -> `## 変爻` -> `## 之卦` -> supporting auxiliary hexagrams in input order -> one final interpretation section -> one references section.
+- output exactly one interpretation section with the profile label only.
+- `## 質問文` is a script-filled code block section. Emit the heading only; the script inserts the full user input under it.
+- `## 本卦` is a script-filled quote section. Emit the heading only; the script inserts the honka source block under it.
+- `## 変爻` is a script-filled quote section. If a changing line exists, emit the heading only; the script inserts the changing-line source block under it.
+- If multiple changing lines exist, emit one `## 変爻` section per line in input order.
+- If `変爻：なし`, omit both `## 変爻` and `## 之卦`.
+- If `之卦` is present, treat it as the landing direction of the change, not as a second main hexagram with equal weight. Emit the `## 之卦` heading only; the script inserts the zhigua source block under it.
+- For each supporting auxiliary hexagram such as `互卦`, `錯卦`, and `綜卦`, emit the section heading only; the script inserts the source block under it.
+- Do not read or cite auxiliary changing lines.
+- The main hexagram and changing line are the primary evidence for the reading.
+- If there is exactly one changing line, treat that changing line as the main message for this reading.
+- If there are two or more changing lines, treat the main hexagram's `卦辞` as the main message and use the changing lines as supporting evidence.
+- `之卦` is supporting evidence for landing direction or after-state; do not let it overtake the main hexagram or changing line.
+- Supporting auxiliary hexagrams such as `互卦`, `錯卦`, and `綜卦` are supporting structure only.
+- Outside the final interpretation section, do not restate the user's concrete question, options, or domain terms.
+- Only the interpretation section may reconnect the reading to the user's concrete scenario.
+- `## 総合解釈` must read like an applied Takashima judgment, not a short recap.
+- `## 総合解釈` must apply the honka quote block, changing-line quote block when present, any auxiliary quote blocks that matter, and relevant Takashima passages to the user's concrete question.
+- Use short inline quotations or close paraphrases when they materially support the judgment, but do not turn the section into a quotation dump.
+- `## 総合解釈` must be 2-4 paragraphs. Typical count is 2-3 paragraphs.
+- The first paragraph must identify what is at stake in this question, where the relevant parties or conditions stand, and how the already-established readings bear on this case.
+- The remaining paragraph(s) must state the likely trajectory and practical meaning first; any guidance should stay secondary and restrained.
+- If there is no changing line, apply the honka directly and use the supporting auxiliary hexagrams only when they materially sharpen the reading.
+- Fold in `之卦` only when it materially affects trajectory or landing direction.
+- Fold in supporting auxiliary hexagrams only when they materially affect trajectory or illuminate a relevant hidden perspective.
+- Do not open `## 総合解釈` with a bare conclusion alone; let the judgment emerge through recomposition first.
+- Do not append profile notes, evidence-scope notes, implementation notes, or other meta commentary after the interpretation section.
+- Do not emit `（参照：...）` at the end of any section.
+- After `## 総合解釈`, emit exactly one `## 参照` section before `## 高島易断`.
+- The references section must list only actually used hexagram citations in input order, deduplicated, with bullet lines in the form `- <citation path> | <卦名>`.

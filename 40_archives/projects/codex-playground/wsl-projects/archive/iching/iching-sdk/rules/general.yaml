@@ -1,0 +1,4 @@
+# rules/ge.yaml（該当部分を追加）
+sources:
+  root: sources/general
+  index_md: sources/index.md

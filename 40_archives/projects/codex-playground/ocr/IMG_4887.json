@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1318,
+            123
+          ],
+          [
+            1318,
+            910
+          ],
+          [
+            1393,
+            123
+          ],
+          [
+            1393,
+            910
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "私淑扈従した人だが、筆者の意見に大いに共",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1249,
+            120
+          ],
+          [
+            1249,
+            437
+          ],
+          [
+            1298,
+            120
+          ],
+          [
+            1298,
+            437
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "鳴しておられたが、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            119
+          ],
+          [
+            1182,
+            927
+          ],
+          [
+            1249,
+            119
+          ],
+          [
+            1249,
+            927
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "……象牙の塔にこもる型の学者に言わせれば、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            114
+          ],
+          [
+            1108,
+            912
+          ],
+          [
+            1174,
+            114
+          ],
+          [
+            1174,
+            912
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "彼は\"雑学\"かも知れない。しかし彼の博覧",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1038,
+            112
+          ],
+          [
+            1038,
+            912
+          ],
+          [
+            1098,
+            112
+          ],
+          [
+            1098,
+            912
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "強記という武器は易占の上でも遺憾なく発揮",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            111
+          ],
+          [
+            969,
+            237
+          ],
+          [
+            1004,
+            111
+          ],
+          [
+            1004,
+            237
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "された。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            145
+          ],
+          [
+            894,
+            913
+          ],
+          [
+            946,
+            145
+          ],
+          [
+            946,
+            913
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "易を研究している人の中に学者または専門",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            821,
+            106
+          ],
+          [
+            821,
+            884
+          ],
+          [
+            871,
+            106
+          ],
+          [
+            871,
+            884
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "家と呼ばれる人と、実占家と言われる人と、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            751,
+            105
+          ],
+          [
+            751,
+            913
+          ],
+          [
+            796,
+            105
+          ],
+          [
+            796,
+            913
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "ジレッタントともいうべき人とがあるが、嘉",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            674,
+            103
+          ],
+          [
+            674,
+            910
+          ],
+          [
+            720,
+            103
+          ],
+          [
+            720,
+            910
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "右衛門の学識は学者と呼んで差支えないほど",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            602,
+            104
+          ],
+          [
+            602,
+            270
+          ],
+          [
+            639,
+            104
+          ],
+          [
+            639,
+            270
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "深かった。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            525,
+            143
+          ],
+          [
+            525,
+            889
+          ],
+          [
+            567,
+            143
+          ],
+          [
+            567,
+            889
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "が、さきにも書いたように\"論より証拠\"",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            448,
+            106
+          ],
+          [
+            448,
+            912
+          ],
+          [
+            492,
+            106
+          ],
+          [
+            492,
+            912
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "といった風に、事を決したり主張を通そうと",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            373,
+            110
+          ],
+          [
+            373,
+            915
+          ],
+          [
+            418,
+            110
+          ],
+          [
+            418,
+            915
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "したりするときには、必ず\"易\"を持ち出し",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            297,
+            115
+          ],
+          [
+            297,
+            916
+          ],
+          [
+            347,
+            115
+          ],
+          [
+            347,
+            916
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "て占ってみせたので、その意味では実占家だ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            240,
+            128
+          ],
+          [
+            240,
+            482
+          ],
+          [
+            278,
+            128
+          ],
+          [
+            278,
+            482
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ったと言えるだろう。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            159,
+            172
+          ],
+          [
+            159,
+            923
+          ],
+          [
+            211,
+            172
+          ],
+          [
+            211,
+            923
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "しかし、彼は易占によって生活費を稼ぎ出",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1367,
+            1031
+          ],
+          [
+            1367,
+            1911
+          ],
+          [
+            1439,
+            1031
+          ],
+          [
+            1439,
+            1911
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "していたわけではないから、やっぱりジレッ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1296,
+            1034
+          ],
+          [
+            1296,
+            1481
+          ],
+          [
+            1347,
+            1034
+          ],
+          [
+            1347,
+            1481
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "タントだったのだろう。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1217,
+            1071
+          ],
+          [
+            1217,
+            1927
+          ],
+          [
+            1289,
+            1071
+          ],
+          [
+            1289,
+            1927
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "宗教関係の友人も多く、 それぞれの道の碩",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1140,
+            1030
+          ],
+          [
+            1140,
+            1396
+          ],
+          [
+            1191,
+            1030
+          ],
+          [
+            1191,
+            1396
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "学とも深く交った。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1069,
+            1029
+          ],
+          [
+            1069,
+            1926
+          ],
+          [
+            1128,
+            1029
+          ],
+          [
+            1128,
+            1926
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "-キリスト教に関しては、その東漸を云々",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            992,
+            1033
+          ],
+          [
+            992,
+            1938
+          ],
+          [
+            1050,
+            1033
+          ],
+          [
+            1050,
+            1938
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "しただけであまり深く言及していないが、神",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            912,
+            1031
+          ],
+          [
+            912,
+            1941
+          ],
+          [
+            970,
+            1031
+          ],
+          [
+            970,
+            1941
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "道には深甚な関心をもっていたし、仏教の方",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            837,
+            1037
+          ],
+          [
+            837,
+            1941
+          ],
+          [
+            889,
+            1037
+          ],
+          [
+            889,
+            1941
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "でも芝増上寺の福田行誠上人や、臨済宗にそ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            760,
+            1038
+          ],
+          [
+            760,
+            1946
+          ],
+          [
+            808,
+            1038
+          ],
+          [
+            808,
+            1946
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "の人ありと知られた円覚寺の今北洪川和尚な",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            682,
+            1034
+          ],
+          [
+            682,
+            1452
+          ],
+          [
+            724,
+            1034
+          ],
+          [
+            724,
+            1452
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "どと特に懇意だった。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            601,
+            1078
+          ],
+          [
+            601,
+            1954
+          ],
+          [
+            646,
+            1078
+          ],
+          [
+            646,
+            1954
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "望欣台記念碑の碑文を書いた弁玉和尚は神",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            521,
+            1035
+          ],
+          [
+            521,
+            1953
+          ],
+          [
+            566,
+            1035
+          ],
+          [
+            566,
+            1953
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "奈川の某寺の住職で、嘉右衛門に易を習った",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            1052
+          ],
+          [
+            447,
+            1273
+          ],
+          [
+            486,
+            1052
+          ],
+          [
+            486,
+            1273
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一人である。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            360,
+            1082
+          ],
+          [
+            360,
+            1929
+          ],
+          [
+            406,
+            1082
+          ],
+          [
+            406,
+            1929
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "また、真言宗の雲照律師とも親しかった。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            282,
+            1039
+          ],
+          [
+            282,
+            1953
+          ],
+          [
+            331,
+            1039
+          ],
+          [
+            331,
+            1953
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "彼はこれら大和尚を前にしても臆することな",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            213,
+            1042
+          ],
+          [
+            213,
+            1547
+          ],
+          [
+            256,
+            1042
+          ],
+          [
+            256,
+            1547
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "く得意の快弁をふるった。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            133,
+            1088
+          ],
+          [
+            133,
+            1940
+          ],
+          [
+            183,
+            1088
+          ],
+          [
+            183,
+            1940
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "もっとも彼はどんな話でも皆自家薬籠中の",
+        "isTextline": "true",
+        "confidence": 0.954
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4887.JPEG",
+    "img_name": "IMG_4887.JPEG"
+  }
+}

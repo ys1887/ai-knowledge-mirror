@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1322,
+            133
+          ],
+          [
+            1322,
+            706
+          ],
+          [
+            1378,
+            133
+          ],
+          [
+            1378,
+            706
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "言葉を思い出して語ってみよう。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1253,
+            170
+          ],
+          [
+            1253,
+            381
+          ],
+          [
+            1295,
+            170
+          ],
+          [
+            1295,
+            381
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "翁常に曰く、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            151
+          ],
+          [
+            1182,
+            938
+          ],
+          [
+            1245,
+            151
+          ],
+          [
+            1245,
+            938
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "「何でも人間というものは、自分で充分に骨",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1112,
+            128
+          ],
+          [
+            1112,
+            953
+          ],
+          [
+            1175,
+            128
+          ],
+          [
+            1175,
+            953
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "を折って置いて、そして御辞儀をして居れば、",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1039,
+            126
+          ],
+          [
+            1039,
+            604
+          ],
+          [
+            1091,
+            126
+          ],
+          [
+            1091,
+            604
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "決して間違はないものだ」。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            967,
+            164
+          ],
+          [
+            967,
+            937
+          ],
+          [
+            1026,
+            164
+          ],
+          [
+            1026,
+            937
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "哲学上の議論などをして「絶対」などとい",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            124
+          ],
+          [
+            896,
+            748
+          ],
+          [
+            948,
+            124
+          ],
+          [
+            948,
+            748
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "う理屈を並べて居ると、翁の曰く、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            822,
+            144
+          ],
+          [
+            822,
+            942
+          ],
+          [
+            878,
+            144
+          ],
+          [
+            878,
+            942
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "「哲学なんていうものは、らっきょうの皮を",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            750,
+            120
+          ],
+          [
+            750,
+            458
+          ],
+          [
+            794,
+            120
+          ],
+          [
+            794,
+            458
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "むくようなものだ」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            677,
+            160
+          ],
+          [
+            677,
+            944
+          ],
+          [
+            730,
+            160
+          ],
+          [
+            730,
+            944
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "などと喝破せられる。又果てしのつかぬよ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            602,
+            116
+          ],
+          [
+            602,
+            751
+          ],
+          [
+            651,
+            116
+          ],
+          [
+            651,
+            751
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "うな論議をして居ると、翁の曰く、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            524,
+            137
+          ],
+          [
+            524,
+            946
+          ],
+          [
+            578,
+            137
+          ],
+          [
+            578,
+            946
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "「貴下方は、 流れ川を棒でたたくような話を",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            114
+          ],
+          [
+            451,
+            498
+          ],
+          [
+            493,
+            114
+          ],
+          [
+            493,
+            498
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "しているじゃないか」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            375,
+            155
+          ],
+          [
+            375,
+            582
+          ],
+          [
+            416,
+            155
+          ],
+          [
+            416,
+            582
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "と云われたこともある。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            162
+          ],
+          [
+            298,
+            949
+          ],
+          [
+            343,
+            162
+          ],
+          [
+            343,
+            949
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "いつか火山の話が出て、地下の熱とか何と",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            223,
+            118
+          ],
+          [
+            223,
+            955
+          ],
+          [
+            266,
+            118
+          ],
+          [
+            266,
+            955
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "か八釜敷学理的のことをいうたところが、翁",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            154,
+            121
+          ],
+          [
+            154,
+            170
+          ],
+          [
+            186,
+            121
+          ],
+          [
+            186,
+            170
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "は、",
+        "isTextline": "true",
+        "confidence": 0.924
+      },
+      {
+        "boundingBox": [
+          [
+            1358,
+            1072
+          ],
+          [
+            1358,
+            1896
+          ],
+          [
+            1425,
+            1072
+          ],
+          [
+            1425,
+            1896
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「つまり餅を焼いた時、 ぷうとふくれるよう",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1290,
+            1052
+          ],
+          [
+            1290,
+            1275
+          ],
+          [
+            1333,
+            1052
+          ],
+          [
+            1333,
+            1275
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "なものだな」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1219,
+            1096
+          ],
+          [
+            1219,
+            1748
+          ],
+          [
+            1277,
+            1096
+          ],
+          [
+            1277,
+            1748
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "と卑近な一言を以て説き尽された。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1146,
+            1099
+          ],
+          [
+            1146,
+            1907
+          ],
+          [
+            1209,
+            1099
+          ],
+          [
+            1209,
+            1907
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "凡そ此のような工合で、物を見るに機敏で",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1069,
+            1058
+          ],
+          [
+            1069,
+            1915
+          ],
+          [
+            1132,
+            1058
+          ],
+          [
+            1132,
+            1915
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "又実地に適切で、 痒ゆい所へ手の届くような",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            994,
+            1059
+          ],
+          [
+            994,
+            1717
+          ],
+          [
+            1054,
+            1059
+          ],
+          [
+            1054,
+            1717
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "穿った味いのある言葉を云われた。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            922,
+            1102
+          ],
+          [
+            922,
+            1589
+          ],
+          [
+            975,
+            1102
+          ],
+          [
+            975,
+            1589
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "働きのない学者を評して、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            847,
+            1086
+          ],
+          [
+            847,
+            1466
+          ],
+          [
+            897,
+            1086
+          ],
+          [
+            897,
+            1466
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "「手足の生えた本箱」",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            776,
+            1107
+          ],
+          [
+            776,
+            1821
+          ],
+          [
+            829,
+            1107
+          ],
+          [
+            829,
+            1821
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "などと云われたのも其の一例である。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            700,
+            1108
+          ],
+          [
+            700,
+            1942
+          ],
+          [
+            754,
+            1108
+          ],
+          [
+            754,
+            1942
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "自分は明治三十七年(一九〇四)の春、病",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            621,
+            1067
+          ],
+          [
+            621,
+            1947
+          ],
+          [
+            677,
+            1067
+          ],
+          [
+            677,
+            1947
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "気であった折、五ケ月ばかり高島山の翁が邸",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            544,
+            1069
+          ],
+          [
+            544,
+            1524
+          ],
+          [
+            589,
+            1069
+          ],
+          [
+            589,
+            1524
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "内に厄介になって居た。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            465,
+            1115
+          ],
+          [
+            465,
+            1884
+          ],
+          [
+            516,
+            1115
+          ],
+          [
+            516,
+            1884
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "自分を見ること実に子の如くであって、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            384,
+            1098
+          ],
+          [
+            384,
+            1758
+          ],
+          [
+            436,
+            1098
+          ],
+          [
+            436,
+            1758
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「家を挙げて此処へ転住しなさい」",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            308,
+            1120
+          ],
+          [
+            308,
+            1534
+          ],
+          [
+            351,
+            1120
+          ],
+          [
+            351,
+            1534
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "とまで云ってくれた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            228,
+            1121
+          ],
+          [
+            228,
+            1961
+          ],
+          [
+            277,
+            1121
+          ],
+          [
+            277,
+            1961
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "顧みれば自分は明治十三年、欧州から帰っ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            153,
+            1084
+          ],
+          [
+            153,
+            1972
+          ],
+          [
+            200,
+            1084
+          ],
+          [
+            200,
+            1972
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "て後は、学者に遇って学理を聞くよりも、寧",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4923.JPEG",
+    "img_name": "IMG_4923.JPEG"
+  }
+}

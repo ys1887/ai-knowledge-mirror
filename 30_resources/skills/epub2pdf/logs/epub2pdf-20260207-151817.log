@@ -1,0 +1,29 @@
+[2026-02-07 15:18:17] Converter: /mnt/c/Program Files/Calibre2/ebook-convert.exe (windows)
+[2026-02-07 15:18:17] Mode: directory
+[2026-02-07 15:18:17] Input dir: /mnt/e/Documents/Workspace/Sherlock Holmes
+[2026-02-07 15:18:17] Output dir: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf
+[2026-02-07 15:18:17] Recursive: 0
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\A Study in Scarlet.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\A Study in Scarlet.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\Adventures of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\Adventures of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\His last bow  Some later reminiscences of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\His last bow  Some later reminiscences of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Adventure of the Dying Detective.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Adventure of the Dying Detective.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Adventures of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Adventures of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The case-book of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The case-book of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Hound of the Baskervilles.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Hound of the Baskervilles.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Memoirs of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Memoirs of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Return of Sherlock Holmes.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Return of Sherlock Holmes.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Sign of the Four.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Sign of the Four.pdf"
+[2026-02-07 15:18:17] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf"
+[2026-02-07 15:18:17] [DRY] /mnt/c/Program Files/Calibre2/ebook-convert.exe "E:\Documents\Workspace\Sherlock Holmes\The Valley of Fear.epub" "E:\Documents\Workspace\Sherlock Holmes\pdf\The Valley of Fear.pdf"
+[2026-02-07 15:18:17] Dry-run summary: total=11 planned=11 skipped=0 failed=0
+[2026-02-07 15:18:17] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-151817.log

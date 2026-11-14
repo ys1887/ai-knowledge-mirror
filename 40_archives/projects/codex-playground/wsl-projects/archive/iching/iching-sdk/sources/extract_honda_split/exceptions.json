@@ -1,0 +1,12 @@
+[
+  {
+    "number": 21,
+    "name": "火雷噬嗑",
+    "section": "彖伝",
+    "issue": "元 source の彖伝引用末尾に余分な `**` が含まれており、そのまま split 出力へ残る。",
+    "status": "source_artifact",
+    "affected_files": [
+      "21_火雷噬嗑/tanden.md"
+    ]
+  }
+]

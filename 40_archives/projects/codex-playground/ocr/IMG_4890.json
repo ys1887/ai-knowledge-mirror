@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1328,
+            99
+          ],
+          [
+            1328,
+            952
+          ],
+          [
+            1388,
+            99
+          ],
+          [
+            1388,
+            952
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "が仏教だが、 これを以て見ると、 あの洪川和",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1260,
+            88
+          ],
+          [
+            1260,
+            837
+          ],
+          [
+            1316,
+            88
+          ],
+          [
+            1316,
+            837
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "尚はすでに悟道に達しているのだろう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            126
+          ],
+          [
+            1186,
+            954
+          ],
+          [
+            1243,
+            126
+          ],
+          [
+            1243,
+            954
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "上爻に公用て隼を高端の上に射る、之を獲",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1107,
+            83
+          ],
+          [
+            1107,
+            952
+          ],
+          [
+            1162,
+            83
+          ],
+          [
+            1162,
+            952
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "て利ろしからざる无しとあるのが、 その悟り",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1030,
+            85
+          ],
+          [
+            1030,
+            882
+          ],
+          [
+            1081,
+            85
+          ],
+          [
+            1081,
+            882
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "の高さと心魂の俊英さをあらわしている。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            952,
+            124
+          ],
+          [
+            952,
+            953
+          ],
+          [
+            1002,
+            124
+          ],
+          [
+            1002,
+            953
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "高尚な学問と参禅練行の力とで自心の本拠",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            873,
+            86
+          ],
+          [
+            873,
+            529
+          ],
+          [
+            917,
+            86
+          ],
+          [
+            917,
+            529
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "を悟了しているらしい。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            796,
+            133
+          ],
+          [
+            796,
+            973
+          ],
+          [
+            842,
+            133
+          ],
+          [
+            842,
+            973
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "きっと何か得るところがあるにちがいない、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            720,
+            98
+          ],
+          [
+            720,
+            956
+          ],
+          [
+            763,
+            98
+          ],
+          [
+            763,
+            956
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "おそらく和尚は開悟について話してくれるだ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            646,
+            104
+          ],
+          [
+            646,
+            197
+          ],
+          [
+            681,
+            104
+          ],
+          [
+            681,
+            197
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "ろう。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            590,
+            685
+          ],
+          [
+            590,
+            736
+          ],
+          [
+            613,
+            685
+          ],
+          [
+            613,
+            736
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "■",
+        "isTextline": "true",
+        "confidence": 0.468
+      },
+      {
+        "boundingBox": [
+          [
+            565,
+            148
+          ],
+          [
+            565,
+            934
+          ],
+          [
+            611,
+            148
+          ],
+          [
+            611,
+            934
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "また、解の倒卦に水山塞(二)がある。",
+        "isTextline": "true",
+        "confidence": 0.823
+      },
+      {
+        "boundingBox": [
+          [
+            491,
+            116
+          ],
+          [
+            491,
+            961
+          ],
+          [
+            532,
+            116
+          ],
+          [
+            532,
+            961
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "この卦は、下卦の艮を手とし、上卦の坎を耳",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            119
+          ],
+          [
+            416,
+            961
+          ],
+          [
+            458,
+            119
+          ],
+          [
+            458,
+            961
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "とするから、和尚はきっと\"隻手の声\"を聴",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            342,
+            123
+          ],
+          [
+            342,
+            958
+          ],
+          [
+            384,
+            123
+          ],
+          [
+            384,
+            958
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "けという公案を持ち出すだろう。アシナヤム",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            274,
+            128
+          ],
+          [
+            274,
+            470
+          ],
+          [
+            311,
+            128
+          ],
+          [
+            311,
+            470
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "は達磨さんである。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            193,
+            172
+          ],
+          [
+            193,
+            963
+          ],
+          [
+            238,
+            172
+          ],
+          [
+            238,
+            963
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "面壁九年の話も出るだろう。ただ打座ある",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            124,
+            140
+          ],
+          [
+            124,
+            900
+          ],
+          [
+            166,
+            140
+          ],
+          [
+            166,
+            900
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "のみ、といって参禅を奨めもするだろう。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1363,
+            1079
+          ],
+          [
+            1363,
+            1990
+          ],
+          [
+            1417,
+            1079
+          ],
+          [
+            1417,
+            1990
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "……興に乗って一人肯きながら、山門脇の茶",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            1286,
+            1077
+          ],
+          [
+            1286,
+            1362
+          ],
+          [
+            1328,
+            1077
+          ],
+          [
+            1328,
+            1362
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "店に立ち寄り、",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1207,
+            1102
+          ],
+          [
+            1207,
+            2000
+          ],
+          [
+            1261,
+            1102
+          ],
+          [
+            1261,
+            2000
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "「手をのべて音を聞けとや二世達磨、 即卜筮",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            1127,
+            1085
+          ],
+          [
+            1127,
+            1370
+          ],
+          [
+            1172,
+            1085
+          ],
+          [
+            1172,
+            1370
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "の仏なりけり」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1047,
+            1125
+          ],
+          [
+            1047,
+            1509
+          ],
+          [
+            1091,
+            1125
+          ],
+          [
+            1091,
+            1509
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "という歌を認めた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            884,
+            1125
+          ],
+          [
+            884,
+            1995
+          ],
+          [
+            933,
+            1125
+          ],
+          [
+            933,
+            1995
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "洪川和尚は、嘉右衛門のことをよく知って",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            1090
+          ],
+          [
+            805,
+            1781
+          ],
+          [
+            851,
+            1090
+          ],
+          [
+            851,
+            1781
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "いて、自ら茶をたてて勧めながら、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            725,
+            1108
+          ],
+          [
+            725,
+            1992
+          ],
+          [
+            770,
+            1108
+          ],
+          [
+            770,
+            1992
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "「高島さん、貴下は易の名人だと聞いていま",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            1083
+          ],
+          [
+            648,
+            1988
+          ],
+          [
+            691,
+            1083
+          ],
+          [
+            691,
+            1988
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "すが、心易をおやりになりますか、禅では筮",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            569,
+            1083
+          ],
+          [
+            569,
+            1983
+          ],
+          [
+            612,
+            1083
+          ],
+          [
+            612,
+            1983
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "竹は使わず算木だけ置きます。それを心易と",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            491,
+            1093
+          ],
+          [
+            491,
+            1412
+          ],
+          [
+            532,
+            1093
+          ],
+          [
+            532,
+            1412
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "いっていますが」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            415,
+            1131
+          ],
+          [
+            415,
+            1322
+          ],
+          [
+            454,
+            1131
+          ],
+          [
+            454,
+            1322
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "と言った。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            337,
+            1113
+          ],
+          [
+            337,
+            1979
+          ],
+          [
+            378,
+            1113
+          ],
+          [
+            378,
+            1979
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「はい、私も心易は時々試みます。今朝も実",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            260,
+            1089
+          ],
+          [
+            260,
+            1976
+          ],
+          [
+            302,
+            1089
+          ],
+          [
+            302,
+            1976
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "は道傍である僧が、草鞋の紐の解けたのを結",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            184,
+            1091
+          ],
+          [
+            184,
+            1973
+          ],
+          [
+            227,
+            1091
+          ],
+          [
+            227,
+            1973
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "んでいるのを見かけ、雷水解を感得し、貴僧",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            110,
+            1092
+          ],
+          [
+            110,
+            1941
+          ],
+          [
+            153,
+            1092
+          ],
+          [
+            153,
+            1941
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "に急に会いたくなったんですよ、」「ほほう、",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4890.JPEG",
+    "img_name": "IMG_4890.JPEG"
+  }
+}

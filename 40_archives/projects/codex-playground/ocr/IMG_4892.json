@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1363,
+            63
+          ],
+          [
+            1363,
+            913
+          ],
+          [
+            1419,
+            63
+          ],
+          [
+            1419,
+            913
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "のことに関し、若干の苦言を呈すると共に、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1292,
+            24
+          ],
+          [
+            1292,
+            778
+          ],
+          [
+            1347,
+            24
+          ],
+          [
+            1347,
+            778
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "成否についての意見も述べたりした。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            1140,
+            126
+          ],
+          [
+            1140,
+            521
+          ],
+          [
+            1191,
+            126
+          ],
+          [
+            1191,
+            521
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "五政治家と易者",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            975,
+            81
+          ],
+          [
+            975,
+            779
+          ],
+          [
+            1025,
+            81
+          ],
+          [
+            1025,
+            779
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "蹇寔匪躬奚念帰。満天風露湿征衣。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            84
+          ],
+          [
+            894,
+            782
+          ],
+          [
+            943,
+            84
+          ],
+          [
+            943,
+            782
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "秋宵石狩山頭夢。尚尚黒龍江上飛。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            166
+          ],
+          [
+            814,
+            943
+          ],
+          [
+            863,
+            166
+          ],
+          [
+            863,
+            943
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "(蹇々匪躬、奚ぞ帰るを念わん。満天の",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            736,
+            144
+          ],
+          [
+            736,
+            945
+          ],
+          [
+            783,
+            144
+          ],
+          [
+            783,
+            945
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "風露、征衣を湿おす。秋宵石狩、山頭の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            658,
+            151
+          ],
+          [
+            658,
+            832
+          ],
+          [
+            704,
+            151
+          ],
+          [
+            704,
+            832
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "夢。尚お、黒竜江上に向って飛ぶ)",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            583,
+            121
+          ],
+          [
+            583,
+            952
+          ],
+          [
+            629,
+            121
+          ],
+          [
+            629,
+            952
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "この詩は伊藤博文が北海道石狩に旅した折",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            507,
+            85
+          ],
+          [
+            507,
+            485
+          ],
+          [
+            547,
+            85
+          ],
+          [
+            547,
+            485
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "に作ったものである。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            434,
+            132
+          ],
+          [
+            434,
+            951
+          ],
+          [
+            478,
+            132
+          ],
+          [
+            478,
+            951
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "博文は後にその養子博邦の妻に嘉右衛門の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            97
+          ],
+          [
+            361,
+            956
+          ],
+          [
+            406,
+            97
+          ],
+          [
+            406,
+            956
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "娘タマを迎えさせたくらいだから、特に親交",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            290,
+            104
+          ],
+          [
+            290,
+            958
+          ],
+          [
+            332,
+            104
+          ],
+          [
+            332,
+            958
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "があったのだが、 嘉右衛門の易占には相当信",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            219,
+            110
+          ],
+          [
+            219,
+            675
+          ],
+          [
+            258,
+            110
+          ],
+          [
+            258,
+            675
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "頼をもっていたらしい。この、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            151,
+            144
+          ],
+          [
+            151,
+            346
+          ],
+          [
+            188,
+            144
+          ],
+          [
+            188,
+            346
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "「石狩客次」",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1392,
+            1117
+          ],
+          [
+            1392,
+            1990
+          ],
+          [
+            1443,
+            1117
+          ],
+          [
+            1443,
+            1990
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "という詩の最初は言うまでもなく、水山蹇",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1311,
+            1079
+          ],
+          [
+            1311,
+            1484
+          ],
+          [
+            1361,
+            1079
+          ],
+          [
+            1361,
+            1484
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "(一一)の六二の辞、",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            1235,
+            1099
+          ],
+          [
+            1235,
+            1556
+          ],
+          [
+            1284,
+            1099
+          ],
+          [
+            1284,
+            1556
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「王臣蹇蹇、匪躬之故」",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1156,
+            1119
+          ],
+          [
+            1156,
+            2004
+          ],
+          [
+            1206,
+            1119
+          ],
+          [
+            1206,
+            2004
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "を使ったもので、坎難の中に在る剛健中正",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1070,
+            1078
+          ],
+          [
+            1070,
+            2001
+          ],
+          [
+            1122,
+            1078
+          ],
+          [
+            1122,
+            2001
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "の君 (九五) に柔順中正の臣 (六二) が",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            989,
+            1075
+          ],
+          [
+            989,
+            2000
+          ],
+          [
+            1039,
+            1075
+          ],
+          [
+            1039,
+            2000
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "く九五の君を輔けて国難に当り成敗利鈍を顧",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            906,
+            1077
+          ],
+          [
+            906,
+            2015
+          ],
+          [
+            956,
+            1077
+          ],
+          [
+            956,
+            2015
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "みずに力を尽すという志を述べたものである。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            825,
+            1120
+          ],
+          [
+            825,
+            1988
+          ],
+          [
+            874,
+            1120
+          ],
+          [
+            874,
+            1988
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "嘉右衛門が明治二十六年(一八九三)に石",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            747,
+            1075
+          ],
+          [
+            747,
+            1975
+          ],
+          [
+            793,
+            1075
+          ],
+          [
+            793,
+            1975
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "狩・十勝に千五百万坪の農場をもっていたの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            669,
+            1079
+          ],
+          [
+            669,
+            1679
+          ],
+          [
+            713,
+            1079
+          ],
+          [
+            713,
+            1679
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "で、博文はそこに宿を取った。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            593,
+            1121
+          ],
+          [
+            593,
+            1961
+          ],
+          [
+            637,
+            1121
+          ],
+          [
+            637,
+            1961
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "彼は明治四十二年(一九〇九)十月ハルピ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            517,
+            1082
+          ],
+          [
+            517,
+            1961
+          ],
+          [
+            563,
+            1082
+          ],
+          [
+            563,
+            1961
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ンで韓国人安重根に刺されたが(年六九。嘉",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            442,
+            1078
+          ],
+          [
+            442,
+            1693
+          ],
+          [
+            486,
+            1078
+          ],
+          [
+            486,
+            1693
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "右衛門より六、七歳年下だった)",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            369,
+            1102
+          ],
+          [
+            369,
+            1311
+          ],
+          [
+            408,
+            1102
+          ],
+          [
+            408,
+            1311
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "「匪躬之故」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            298,
+            1127
+          ],
+          [
+            298,
+            1938
+          ],
+          [
+            343,
+            1127
+          ],
+          [
+            343,
+            1938
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "の詩句を見れば、干戈の下に身を置いた幕",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            227,
+            1078
+          ],
+          [
+            227,
+            1933
+          ],
+          [
+            271,
+            1078
+          ],
+          [
+            271,
+            1933
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "末以来、政府の要人として身命を常に国に捧",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            158,
+            1080
+          ],
+          [
+            158,
+            1560
+          ],
+          [
+            198,
+            1080
+          ],
+          [
+            198,
+            1560
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "げていた心境が窺われる。",
+        "isTextline": "true",
+        "confidence": 0.952
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4892.JPEG",
+    "img_name": "IMG_4892.JPEG"
+  }
+}

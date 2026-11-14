@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1338,
+            138
+          ],
+          [
+            1338,
+            936
+          ],
+          [
+            1399,
+            138
+          ],
+          [
+            1399,
+            936
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "得た卦の中孚二爻には、「鳴鶴在陰。其子和",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1270,
+            87
+          ],
+          [
+            1270,
+            934
+          ],
+          [
+            1333,
+            87
+          ],
+          [
+            1333,
+            934
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "之。我有好爵。吾与爾靡之」とあり、花嫁候",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1196,
+            79
+          ],
+          [
+            1196,
+            929
+          ],
+          [
+            1255,
+            79
+          ],
+          [
+            1255,
+            929
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "補の名がおつるさん、副島が伯爵なので、こ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1121,
+            81
+          ],
+          [
+            1121,
+            933
+          ],
+          [
+            1178,
+            81
+          ],
+          [
+            1178,
+            933
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "れはいいと判断しただけあって、この夜、お",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1042,
+            80
+          ],
+          [
+            1042,
+            690
+          ],
+          [
+            1094,
+            80
+          ],
+          [
+            1094,
+            690
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "給仕に出したことは成功だった。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            969,
+            81
+          ],
+          [
+            969,
+            935
+          ],
+          [
+            1016,
+            81
+          ],
+          [
+            1016,
+            935
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "-で、間もなく、副島とこのおつるさんと",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            891,
+            93
+          ],
+          [
+            891,
+            937
+          ],
+          [
+            937,
+            93
+          ],
+          [
+            937,
+            937
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "の間に婚約が取り結ばれたが、ある時そうと",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            96
+          ],
+          [
+            814,
+            941
+          ],
+          [
+            861,
+            96
+          ],
+          [
+            861,
+            941
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "は知らぬ某宮様が、伊藤を通じて副島に一婦",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            741,
+            105
+          ],
+          [
+            741,
+            614
+          ],
+          [
+            781,
+            105
+          ],
+          [
+            781,
+            614
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "人を娶らせようとなされた。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            667,
+            156
+          ],
+          [
+            667,
+            745
+          ],
+          [
+            707,
+            156
+          ],
+          [
+            707,
+            745
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "これを聞いた嘉右衛門は驚いて、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            595,
+            141
+          ],
+          [
+            595,
+            962
+          ],
+          [
+            636,
+            141
+          ],
+          [
+            636,
+            962
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "「副島はやむごとないお方のお世話に従うか、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            522,
+            128
+          ],
+          [
+            522,
+            671
+          ],
+          [
+            561,
+            128
+          ],
+          [
+            561,
+            671
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "それともおつるさんを娶るか」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            450,
+            175
+          ],
+          [
+            450,
+            949
+          ],
+          [
+            492,
+            175
+          ],
+          [
+            492,
+            949
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "という占題で一筮し、天沢履(一一)の九",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            386,
+            145
+          ],
+          [
+            386,
+            313
+          ],
+          [
+            421,
+            145
+          ],
+          [
+            421,
+            313
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "五を得た。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            319,
+            195
+          ],
+          [
+            319,
+            396
+          ],
+          [
+            352,
+            195
+          ],
+          [
+            352,
+            396
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "ここで彼は、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            244,
+            178
+          ],
+          [
+            244,
+            972
+          ],
+          [
+            286,
+            178
+          ],
+          [
+            286,
+            972
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「三爻が虎の尾であり、五爻が虎の背である。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            178,
+            173
+          ],
+          [
+            178,
+            969
+          ],
+          [
+            219,
+            173
+          ],
+          [
+            219,
+            969
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "いま副島は虎の背に乗っているところだから、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1373,
+            1061
+          ],
+          [
+            1373,
+            1967
+          ],
+          [
+            1431,
+            1061
+          ],
+          [
+            1431,
+            1967
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "その勢いすでに止めがたい。 ことに五爻には",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1301,
+            1086
+          ],
+          [
+            1301,
+            1953
+          ],
+          [
+            1357,
+            1086
+          ],
+          [
+            1357,
+            1953
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "〝履ムコトラサダム、 位正シク当レバナリ〟",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            1061
+          ],
+          [
+            1224,
+            1897
+          ],
+          [
+            1280,
+            1061
+          ],
+          [
+            1280,
+            1897
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "とあって、約を飜えすようなことはない」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1143,
+            1107
+          ],
+          [
+            1143,
+            1763
+          ],
+          [
+            1195,
+            1107
+          ],
+          [
+            1195,
+            1763
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "と伊藤に言ったところ、伊藤は、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1061,
+            1086
+          ],
+          [
+            1061,
+            1955
+          ],
+          [
+            1117,
+            1086
+          ],
+          [
+            1117,
+            1955
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "「でも、お世話されるのが宮様だから……」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            983,
+            1107
+          ],
+          [
+            983,
+            1977
+          ],
+          [
+            1033,
+            1107
+          ],
+          [
+            1033,
+            1977
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "と、副島に宮様のお声がかりを伝えた。副",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            902,
+            1062
+          ],
+          [
+            902,
+            1964
+          ],
+          [
+            951,
+            1062
+          ],
+          [
+            951,
+            1964
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "島はそれを拝辞して嘉右衛門の世話したおつ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            825,
+            1066
+          ],
+          [
+            825,
+            1437
+          ],
+          [
+            866,
+            1066
+          ],
+          [
+            866,
+            1437
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "るさんと結婚した。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            749,
+            1066
+          ],
+          [
+            749,
+            1961
+          ],
+          [
+            792,
+            1066
+          ],
+          [
+            792,
+            1961
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "……このおつるさんは、貞淑かつ明朗で、陰",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            671,
+            1065
+          ],
+          [
+            671,
+            1950
+          ],
+          [
+            714,
+            1065
+          ],
+          [
+            714,
+            1950
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "気な副島の気を大いに引き立て、充分内助の",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            597,
+            1067
+          ],
+          [
+            597,
+            1947
+          ],
+          [
+            638,
+            1067
+          ],
+          [
+            638,
+            1947
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "功を尽し、九十幾歳の天寿を全うしたのであ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            1077
+          ],
+          [
+            523,
+            1867
+          ],
+          [
+            563,
+            1077
+          ],
+          [
+            563,
+            1867
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "った。(この稿、小玉呑象翁の話による。)",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            378,
+            1112
+          ],
+          [
+            378,
+            1925
+          ],
+          [
+            416,
+            1112
+          ],
+          [
+            416,
+            1925
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "ある時、嘉右衛門が副島を訪問した。その",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            306,
+            1070
+          ],
+          [
+            306,
+            1924
+          ],
+          [
+            346,
+            1070
+          ],
+          [
+            346,
+            1924
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "時、副島に三人ばかりの客があり、副島に書",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            236,
+            1072
+          ],
+          [
+            236,
+            1919
+          ],
+          [
+            275,
+            1072
+          ],
+          [
+            275,
+            1919
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "を求めているらしかった。(副島種臣は、『高",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            167,
+            1072
+          ],
+          [
+            167,
+            1913
+          ],
+          [
+            207,
+            1072
+          ],
+          [
+            207,
+            1913
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "鳥易断』に和歌を寄せている。-本書・表",
+        "isTextline": "true",
+        "confidence": 0.944
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4870.JPEG",
+    "img_name": "IMG_4870.JPEG"
+  }
+}

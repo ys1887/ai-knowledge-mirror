@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1372,
+            111
+          ],
+          [
+            1372,
+            885
+          ],
+          [
+            1414,
+            111
+          ],
+          [
+            1414,
+            885
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "洒落も言いなすった。よく落語家が言う、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1303,
+            129
+          ],
+          [
+            1303,
+            953
+          ],
+          [
+            1347,
+            129
+          ],
+          [
+            1347,
+            953
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "\"何と易者はエライもの、参議(算木)を前",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1231,
+            98
+          ],
+          [
+            1231,
+            320
+          ],
+          [
+            1268,
+            98
+          ],
+          [
+            1268,
+            320
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "に笠をひく\"",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1156,
+            135
+          ],
+          [
+            1156,
+            707
+          ],
+          [
+            1196,
+            135
+          ],
+          [
+            1196,
+            707
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "などと言って笑われたものだ。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1078,
+            134
+          ],
+          [
+            1078,
+            934
+          ],
+          [
+            1118,
+            134
+          ],
+          [
+            1118,
+            934
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "また、一筮二百万円ということも自慢の一",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            999,
+            98
+          ],
+          [
+            999,
+            949
+          ],
+          [
+            1042,
+            98
+          ],
+          [
+            1042,
+            949
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "つだ、 港一帯を見渡し",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            925,
+            94
+          ],
+          [
+            925,
+            230
+          ],
+          [
+            963,
+            94
+          ],
+          [
+            963,
+            230
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "ながら、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            845,
+            119
+          ],
+          [
+            845,
+            949
+          ],
+          [
+            886,
+            119
+          ],
+          [
+            886,
+            949
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "\"山水蒙で二百万円せしめたんだからエライ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            772,
+            96
+          ],
+          [
+            772,
+            319
+          ],
+          [
+            809,
+            96
+          ],
+          [
+            809,
+            319
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "もんだろう\"",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            693,
+            140
+          ],
+          [
+            693,
+            664
+          ],
+          [
+            732,
+            140
+          ],
+          [
+            732,
+            664
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "と自慢して楽しそうでした。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            614,
+            143
+          ],
+          [
+            614,
+            951
+          ],
+          [
+            657,
+            143
+          ],
+          [
+            657,
+            951
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "それは貴方も御存知だろうが、例の築港費",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            538,
+            104
+          ],
+          [
+            538,
+            951
+          ],
+          [
+            581,
+            104
+          ],
+          [
+            581,
+            951
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "用を、アメリカからの返済金で行われた一件",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            473,
+            104
+          ],
+          [
+            473,
+            159
+          ],
+          [
+            508,
+            104
+          ],
+          [
+            508,
+            159
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            385,
+            132
+          ],
+          [
+            385,
+            950
+          ],
+          [
+            433,
+            132
+          ],
+          [
+            433,
+            950
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "『高島易断』の山水蒙のところに、その占例",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            307,
+            110
+          ],
+          [
+            307,
+            963
+          ],
+          [
+            358,
+            110
+          ],
+          [
+            358,
+            963
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "は出ているが、先生が明治十四年(一八八一)",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            234,
+            115
+          ],
+          [
+            234,
+            948
+          ],
+          [
+            283,
+            115
+          ],
+          [
+            283,
+            948
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "の一月、熱海・本陣の今井半太夫の所へ出か",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            158,
+            113
+          ],
+          [
+            158,
+            949
+          ],
+          [
+            210,
+            113
+          ],
+          [
+            210,
+            949
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "けて行ったのは、当時の県令野村靖と意気投",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1382,
+            1076
+          ],
+          [
+            1382,
+            1395
+          ],
+          [
+            1418,
+            1076
+          ],
+          [
+            1418,
+            1395
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "合しての結果だ。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1310,
+            1124
+          ],
+          [
+            1310,
+            1955
+          ],
+          [
+            1350,
+            1124
+          ],
+          [
+            1350,
+            1955
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "この野村はなかなか傑物だが、あれだけに",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1235,
+            1077
+          ],
+          [
+            1235,
+            1960
+          ],
+          [
+            1275,
+            1077
+          ],
+          [
+            1275,
+            1960
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "なるには高島先生に一方ならぬ世話になって",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1160,
+            1082
+          ],
+          [
+            1160,
+            1178
+          ],
+          [
+            1196,
+            1082
+          ],
+          [
+            1196,
+            1178
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "いる。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            1078,
+            1119
+          ],
+          [
+            1078,
+            1963
+          ],
+          [
+            1119,
+            1119
+          ],
+          [
+            1119,
+            1963
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "明治十四年には高島先生の地元の県令にま",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            1079
+          ],
+          [
+            1001,
+            1580
+          ],
+          [
+            1041,
+            1079
+          ],
+          [
+            1041,
+            1580
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "でノシ上ることが出来た。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            920,
+            1118
+          ],
+          [
+            920,
+            1956
+          ],
+          [
+            962,
+            1118
+          ],
+          [
+            962,
+            1956
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "そんな関係で、お二人は特に親しかったの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            1074
+          ],
+          [
+            846,
+            1132
+          ],
+          [
+            882,
+            1074
+          ],
+          [
+            882,
+            1132
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            763,
+            1116
+          ],
+          [
+            763,
+            1951
+          ],
+          [
+            805,
+            1116
+          ],
+          [
+            805,
+            1951
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "嘉右衛門先生は痔が悪く、冬になるとだい",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            1075
+          ],
+          [
+            684,
+            1952
+          ],
+          [
+            728,
+            1075
+          ],
+          [
+            728,
+            1952
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ぶ痛んだから、北に山を背い南に海を控えた",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            1072
+          ],
+          [
+            607,
+            1948
+          ],
+          [
+            652,
+            1072
+          ],
+          [
+            652,
+            1948
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "温暖の熱海に野村さんと一緒に避寒されたの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            539,
+            1072
+          ],
+          [
+            539,
+            1129
+          ],
+          [
+            575,
+            1072
+          ],
+          [
+            575,
+            1129
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.929
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            1115
+          ],
+          [
+            451,
+            1947
+          ],
+          [
+            497,
+            1115
+          ],
+          [
+            497,
+            1947
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "相宿の人は、島津さん、判事の白上直方さ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            373,
+            1076
+          ],
+          [
+            373,
+            1946
+          ],
+          [
+            420,
+            1076
+          ],
+          [
+            420,
+            1946
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ん、領事の小林端一さん、朝野新聞主筆の成",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            297,
+            1071
+          ],
+          [
+            297,
+            1943
+          ],
+          [
+            344,
+            1071
+          ],
+          [
+            344,
+            1943
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "島柳北さん、旧水戸藩家令の長谷川清九郎",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            221,
+            1077
+          ],
+          [
+            221,
+            1941
+          ],
+          [
+            269,
+            1077
+          ],
+          [
+            269,
+            1941
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "(清) さんなど多士済済だ。 この中に判事の白",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            145,
+            1072
+          ],
+          [
+            145,
+            1937
+          ],
+          [
+            193,
+            1072
+          ],
+          [
+            193,
+            1937
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "上さんが入っているが、この人も易の聴講を",
+        "isTextline": "true",
+        "confidence": 0.957
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4900.JPEG",
+    "img_name": "IMG_4900.JPEG"
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1409,
+            112
+          ],
+          [
+            1409,
+            951
+          ],
+          [
+            1448,
+            112
+          ],
+          [
+            1448,
+            951
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "天雷无妄の六二だ。(三)これも古い『高",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            1336,
+            55
+          ],
+          [
+            1336,
+            946
+          ],
+          [
+            1377,
+            55
+          ],
+          [
+            1377,
+            946
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "島易断』に出ているので、貴方は御承知だと",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1263,
+            53
+          ],
+          [
+            1263,
+            202
+          ],
+          [
+            1303,
+            53
+          ],
+          [
+            1303,
+            202
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "思うが。",
+        "isTextline": "true",
+        "confidence": 0.918
+      },
+      {
+        "boundingBox": [
+          [
+            1179,
+            77
+          ],
+          [
+            1179,
+            949
+          ],
+          [
+            1223,
+            77
+          ],
+          [
+            1223,
+            949
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "『高島易断』の天雷无妄の項に次のようにあ",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1107,
+            52
+          ],
+          [
+            1107,
+            108
+          ],
+          [
+            1142,
+            52
+          ],
+          [
+            1142,
+            108
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.914
+      },
+      {
+        "boundingBox": [
+          [
+            1016,
+            140
+          ],
+          [
+            1016,
+            945
+          ],
+          [
+            1061,
+            140
+          ],
+          [
+            1061,
+            945
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "断に曰く、今卦を立つるに支那は隣国な",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            933,
+            103
+          ],
+          [
+            933,
+            947
+          ],
+          [
+            981,
+            103
+          ],
+          [
+            981,
+            947
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "るが故に、之を内卦とし、露国を以て外卦",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            857,
+            105
+          ],
+          [
+            857,
+            943
+          ],
+          [
+            900,
+            105
+          ],
+          [
+            900,
+            943
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "としたり。そもそも无妄は内卦の震は木に",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            779,
+            112
+          ],
+          [
+            779,
+            942
+          ],
+          [
+            822,
+            112
+          ],
+          [
+            822,
+            942
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "して動く者なり、之を物に況すれば木槌の",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            704,
+            119
+          ],
+          [
+            704,
+            946
+          ],
+          [
+            746,
+            119
+          ],
+          [
+            746,
+            946
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "如し、外卦の乾は大にして金なり、之を物",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            629,
+            127
+          ],
+          [
+            629,
+            944
+          ],
+          [
+            671,
+            127
+          ],
+          [
+            671,
+            944
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "に況すれば巨鐘の如し、木槌を以て巨鐘を",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            555,
+            129
+          ],
+          [
+            555,
+            945
+          ],
+          [
+            596,
+            129
+          ],
+          [
+            596,
+            945
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "叩く、巨鐘を傷つくるに至らずして木槌早",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            483,
+            135
+          ],
+          [
+            483,
+            945
+          ],
+          [
+            524,
+            135
+          ],
+          [
+            524,
+            945
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "く摧けんのみ。古来此の六二の爻辞を解す",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            411,
+            143
+          ],
+          [
+            411,
+            958
+          ],
+          [
+            451,
+            143
+          ],
+          [
+            451,
+            958
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "る者二様あり。一は曰く、耕せずして穫り、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            340,
+            161
+          ],
+          [
+            340,
+            944
+          ],
+          [
+            380,
+            161
+          ],
+          [
+            380,
+            944
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一は曰く、耕穫せず、と。二義何れに訓す",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            269,
+            154
+          ],
+          [
+            269,
+            944
+          ],
+          [
+            310,
+            154
+          ],
+          [
+            310,
+            944
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "るも可なり。要するに耕して穫ざると、耕",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            201,
+            159
+          ],
+          [
+            201,
+            942
+          ],
+          [
+            242,
+            159
+          ],
+          [
+            242,
+            942
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "さずして穫ると。共に皆常理に背けり。常",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1399,
+            1121
+          ],
+          [
+            1399,
+            1961
+          ],
+          [
+            1444,
+            1121
+          ],
+          [
+            1444,
+            1961
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "理に背くと雖も、而も此事あり。故に雑卦",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1324,
+            1124
+          ],
+          [
+            1324,
+            1966
+          ],
+          [
+            1371,
+            1124
+          ],
+          [
+            1371,
+            1966
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "に曰く、无妄は災なり、と。夫れ災なる者",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1244,
+            1122
+          ],
+          [
+            1244,
+            1965
+          ],
+          [
+            1294,
+            1122
+          ],
+          [
+            1294,
+            1965
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "は、常理に無き所なり、常理に無き所と雖",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1166,
+            1120
+          ],
+          [
+            1166,
+            1962
+          ],
+          [
+            1214,
+            1120
+          ],
+          [
+            1214,
+            1962
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "も、世に災責なる者あり、是れ即ち時なれ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1085,
+            1118
+          ],
+          [
+            1085,
+            1961
+          ],
+          [
+            1134,
+            1118
+          ],
+          [
+            1134,
+            1961
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "ばなり。今此意を取りて、清露の交渉を察",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1005,
+            1116
+          ],
+          [
+            1005,
+            1953
+          ],
+          [
+            1052,
+            1116
+          ],
+          [
+            1052,
+            1953
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "するに、露国に境界を接して紛擾を醸した",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            926,
+            1117
+          ],
+          [
+            926,
+            1945
+          ],
+          [
+            971,
+            1117
+          ],
+          [
+            971,
+            1945
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "るは、実に是れ清国の災なり。清政府己に",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            850,
+            1112
+          ],
+          [
+            850,
+            1942
+          ],
+          [
+            893,
+            1112
+          ],
+          [
+            893,
+            1942
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "災たる事を知らば、何ぞ自ら進んで災を冒",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            772,
+            1111
+          ],
+          [
+            772,
+            1934
+          ],
+          [
+            815,
+            1111
+          ],
+          [
+            815,
+            1934
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "すの愚を為さんや、故に支那政府は必ず露",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            696,
+            1111
+          ],
+          [
+            696,
+            1928
+          ],
+          [
+            739,
+            1111
+          ],
+          [
+            739,
+            1928
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "国の意に抵抗することをなさず、土地を譲",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            621,
+            1108
+          ],
+          [
+            621,
+            1937
+          ],
+          [
+            665,
+            1108
+          ],
+          [
+            665,
+            1937
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "与するか、或は利を与えて局を平和に結び、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            550,
+            1107
+          ],
+          [
+            550,
+            1913
+          ],
+          [
+            592,
+            1107
+          ],
+          [
+            592,
+            1913
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "決して兵力に訴うるに至らざるべし、と占",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            476,
+            1106
+          ],
+          [
+            476,
+            1906
+          ],
+          [
+            518,
+            1106
+          ],
+          [
+            518,
+            1906
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "断したり。此の時衆座中、手を拍って易占",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            404,
+            1106
+          ],
+          [
+            404,
+            1897
+          ],
+          [
+            445,
+            1106
+          ],
+          [
+            445,
+            1897
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "を賛する者あり、或は之を疑いて服せざる",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            1103
+          ],
+          [
+            334,
+            1892
+          ],
+          [
+            374,
+            1103
+          ],
+          [
+            374,
+            1892
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "者ありたりしが、其後果して此占の如くな",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            273,
+            1103
+          ],
+          [
+            273,
+            1283
+          ],
+          [
+            302,
+            1103
+          ],
+          [
+            302,
+            1283
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "りし。と。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            196,
+            1103
+          ],
+          [
+            196,
+            1878
+          ],
+          [
+            233,
+            1103
+          ],
+          [
+            233,
+            1878
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "そのあとでね。それも占断の結果が判明し",
+        "isTextline": "true",
+        "confidence": 0.943
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4902.JPEG",
+    "img_name": "IMG_4902.JPEG"
+  }
+}

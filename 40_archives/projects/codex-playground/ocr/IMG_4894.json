@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1359,
+            113
+          ],
+          [
+            1359,
+            748
+          ],
+          [
+            1414,
+            113
+          ],
+          [
+            1414,
+            748
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「天下の蹟を極むる者は卦に存す」",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            1294,
+            124
+          ],
+          [
+            1294,
+            268
+          ],
+          [
+            1330,
+            124
+          ],
+          [
+            1330,
+            268
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "とある。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            1216,
+            119
+          ],
+          [
+            1216,
+            920
+          ],
+          [
+            1275,
+            119
+          ],
+          [
+            1275,
+            920
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "嘉右衛門は自身の判断を告げなかったが、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1137,
+            77
+          ],
+          [
+            1137,
+            702
+          ],
+          [
+            1191,
+            77
+          ],
+          [
+            1191,
+            702
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "伊藤もついに聞かずに出かけた。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1059,
+            121
+          ],
+          [
+            1059,
+            927
+          ],
+          [
+            1115,
+            121
+          ],
+          [
+            1115,
+            927
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "伊藤がいざ出発という夜、急に停電した。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            984,
+            130
+          ],
+          [
+            984,
+            953
+          ],
+          [
+            1034,
+            130
+          ],
+          [
+            1034,
+            953
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "ローソクよランプよと騒いだら、一番先に",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            902,
+            85
+          ],
+          [
+            902,
+            951
+          ],
+          [
+            955,
+            85
+          ],
+          [
+            955,
+            951
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "灯を点して来たのは岐阜提灯だった。 凶事の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            827,
+            93
+          ],
+          [
+            827,
+            187
+          ],
+          [
+            863,
+            93
+          ],
+          [
+            863,
+            187
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "あと、",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            749,
+            121
+          ],
+          [
+            749,
+            631
+          ],
+          [
+            795,
+            121
+          ],
+          [
+            795,
+            631
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "「あれが予兆だったらしい」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            676,
+            149
+          ],
+          [
+            676,
+            959
+          ],
+          [
+            724,
+            149
+          ],
+          [
+            724,
+            959
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "などと側近の間で語り合われたが、伊藤は",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            599,
+            113
+          ],
+          [
+            599,
+            964
+          ],
+          [
+            649,
+            113
+          ],
+          [
+            649,
+            964
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "出発の二、三週間前に嘉右衛門から得卦を聞",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            526,
+            124
+          ],
+          [
+            526,
+            965
+          ],
+          [
+            575,
+            124
+          ],
+          [
+            575,
+            965
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "いてい、その夜は池上本門寺のお会式で熱狂",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            125
+          ],
+          [
+            451,
+            811
+          ],
+          [
+            498,
+            125
+          ],
+          [
+            498,
+            811
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "的な法華太鼓が響いてくるのを聞き、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            378,
+            153
+          ],
+          [
+            378,
+            818
+          ],
+          [
+            424,
+            153
+          ],
+          [
+            424,
+            818
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "「法華の太鼓に送られて出かけるか」",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            308,
+            179
+          ],
+          [
+            308,
+            481
+          ],
+          [
+            347,
+            179
+          ],
+          [
+            347,
+            481
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "と呟いたという。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            236,
+            181
+          ],
+          [
+            236,
+            969
+          ],
+          [
+            281,
+            181
+          ],
+          [
+            281,
+            969
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "彼はあるいは死を予感していたのかも知れ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            167,
+            149
+          ],
+          [
+            167,
+            798
+          ],
+          [
+            207,
+            149
+          ],
+          [
+            207,
+            798
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ない。『高島易断』中の艮の九三は、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1392,
+            1097
+          ],
+          [
+            1392,
+            1965
+          ],
+          [
+            1446,
+            1097
+          ],
+          [
+            1446,
+            1965
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「止塞開き難し。 自ら事を設け意の如くなら",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1319,
+            1074
+          ],
+          [
+            1319,
+            1993
+          ],
+          [
+            1376,
+            1074
+          ],
+          [
+            1376,
+            1993
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "ず、心痛の余り背筋凝結して卒倒する象あり。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1241,
+            1076
+          ],
+          [
+            1241,
+            1976
+          ],
+          [
+            1296,
+            1076
+          ],
+          [
+            1296,
+            1976
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "門前にて怪我する象あり。屈伸を得ずして上",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1160,
+            1078
+          ],
+          [
+            1160,
+            1976
+          ],
+          [
+            1217,
+            1078
+          ],
+          [
+            1217,
+            1976
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "下隔絶し、心安からざるの甚しき意あり。此",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1080,
+            1078
+          ],
+          [
+            1080,
+            1976
+          ],
+          [
+            1135,
+            1078
+          ],
+          [
+            1135,
+            1976
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "爻変じて剥となる、将に落んとするの象、助",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1001,
+            1080
+          ],
+          [
+            1001,
+            1974
+          ],
+          [
+            1055,
+            1080
+          ],
+          [
+            1055,
+            1974
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "けなきなり。党類の首長、其心堅固にして手",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            919,
+            1080
+          ],
+          [
+            919,
+            1877
+          ],
+          [
+            975,
+            1080
+          ],
+          [
+            975,
+            1877
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "段を尽し、半途にして腰折るる意あり。」",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            1127
+          ],
+          [
+            846,
+            1965
+          ],
+          [
+            897,
+            1127
+          ],
+          [
+            897,
+            1965
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "とある。嘉右衛門及び博文が、この卦を見",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            767,
+            1085
+          ],
+          [
+            767,
+            1961
+          ],
+          [
+            818,
+            1085
+          ],
+          [
+            818,
+            1961
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "て果してこのままの占判をしたかどうかは不",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            690,
+            1084
+          ],
+          [
+            690,
+            1953
+          ],
+          [
+            740,
+            1084
+          ],
+          [
+            740,
+            1953
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "明だが、兇漢の名が安重根と言い(根は艮と",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            615,
+            1085
+          ],
+          [
+            615,
+            1962
+          ],
+          [
+            665,
+            1085
+          ],
+          [
+            665,
+            1962
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "同音・同義即ち重根は艮為山(三)である。)",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            540,
+            1086
+          ],
+          [
+            540,
+            1949
+          ],
+          [
+            588,
+            1086
+          ],
+          [
+            588,
+            1949
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "凶器を振るって刺殺したのだから、 卦辞爻",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            466,
+            1087
+          ],
+          [
+            466,
+            1747
+          ],
+          [
+            511,
+            1087
+          ],
+          [
+            511,
+            1747
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "辞そのままの状況だったと言える。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            321,
+            1133
+          ],
+          [
+            321,
+            1936
+          ],
+          [
+            367,
+            1133
+          ],
+          [
+            367,
+            1936
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "同じ渡海使節の話でも、明治十六年頃、杉",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            247,
+            1090
+          ],
+          [
+            247,
+            1928
+          ],
+          [
+            295,
+            1090
+          ],
+          [
+            295,
+            1928
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "孫七郎がハワイ国王の即位式に参列した時の",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            178,
+            1091
+          ],
+          [
+            178,
+            1315
+          ],
+          [
+            214,
+            1091
+          ],
+          [
+            214,
+            1315
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "占は明るい。",
+        "isTextline": "true",
+        "confidence": 0.944
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4894.JPEG",
+    "img_name": "IMG_4894.JPEG"
+  }
+}

@@ -1,0 +1,106 @@
+[2026-02-07 15:43:15] Converter: /usr/bin/ebook-convert (native)
+[2026-02-07 15:43:15] Mode: file
+[2026-02-07 15:43:15] Input: /mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub
+[2026-02-07 15:43:15] Output: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test-wsl/The Sign of the Four.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Sign of the Fou
+	Detected chapter: 
+	Detected chapter: Chapter I The Science of Deduction Sherlock Holmes
+	Detected chapter: Chapter I The Science of Deduction
+	Detected chapter: Chapter II The Statement of the Case Miss Morstan 
+	Detected chapter: Chapter II The Statement of the Case
+	Detected chapter: Chapter III In Quest of a Solution It was half-pas
+	Detected chapter: Chapter III In Quest of a Solution
+	Detected chapter: Chapter IV The Story of the Bald-Headed Man We fol
+	Detected chapter: Chapter IV The Story of the Bald-Headed Man
+	Detected chapter: Chapter V The Tragedy of Pondicherry Lodge It was 
+	Detected chapter: Chapter V The Tragedy of Pondicherry Lodge
+	Detected chapter: Chapter VI Sherlock Holmes Gives a Demonstration “
+	Detected chapter: Chapter VI Sherlock Holmes Gives a Demonstration
+	Detected chapter: Chapter VII The Episode of the Barrel The police h
+	Detected chapter: Chapter VII The Episode of the Barrel
+	Detected chapter: Chapter VIII The Baker Street Irregulars “What now
+	Detected chapter: Chapter VIII The Baker Street Irregulars
+	Detected chapter: Chapter IX A Break in the Chain It was late in the
+	Detected chapter: Chapter IX A Break in the Chain
+	Detected chapter: Chapter X The End of the Islander Our meal was a m
+	Detected chapter: Chapter X The End of the Islander
+	Detected chapter: Chapter XI The Great Agra Treasure Our captive sat
+	Detected chapter: Chapter XI The Great Agra Treasure
+	Detected chapter: Chapter XII The Strange Story of Jonathan Small A 
+	Detected chapter: Chapter XII The Strange Story of Jonathan Small
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.xhtml' from manifest
+Trimming 'OEBPS/toc.ncx' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 15 HTML files
+No suitable graphics backend found
+
+Merging 15 PDF render results, this could take a while...
+Merged (1/14) in 0.0 seconds
+Merged (2/14) in 0.0 seconds
+Merged (3/14) in 0.0 seconds
+Merged (4/14) in 0.0 seconds
+Merged (5/14) in 0.0 seconds
+Merged (6/14) in 0.0 seconds
+Merged (7/14) in 0.0 seconds
+Merged (8/14) in 0.0 seconds
+Merged (9/14) in 0.0 seconds
+Merged (10/14) in 0.0 seconds
+Merged (11/14) in 0.0 seconds
+Merged (12/14) in 0.0 seconds
+Merged (13/14) in 0.0 seconds
+Merged (14/14) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 10.5 KB to 9.5 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.4 KB to 20.1 KB
+Merged 26 instances of AAAAAA+LiberationSerif reducing size from 444.7 KB to 39 KB
+Merged 18 instances of BAAAAA+LiberationSerif-Italic reducing size from 87 KB to 24.1 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test-wsl/The Sign of the Four.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test-wsl/The Sign of the Four.pdf
+[2026-02-07 15:43:19] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test-wsl/The Sign of the Four.pdf
+[2026-02-07 15:43:19] Summary: total=1 converted=1 skipped=0 failed=0
+[2026-02-07 15:43:19] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-154315.log

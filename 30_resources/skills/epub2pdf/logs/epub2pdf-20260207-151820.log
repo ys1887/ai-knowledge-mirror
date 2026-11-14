@@ -1,0 +1,74 @@
+[2026-02-07 15:18:20] Converter: /mnt/c/Program Files/Calibre2/ebook-convert.exe (windows)
+[2026-02-07 15:18:20] Mode: file
+[2026-02-07 15:18:20] Input: /mnt/e/Documents/Workspace/Sherlock Holmes/A Study in Scarlet.epub
+[2026-02-07 15:18:20] Output: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test/A Study in Scarlet.pdf
+1% 入力をHTMLに変換中...
+InputFormatPlugin: EPUB Input running
+on E:\Documents\Workspace\Sherlock Holmes\A Study in Scarlet.epub
+Parsing all content...
+34% 電子書籍の変換中...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of A Study in Scarlet
+	Detected chapter: CONTENTS A STUDY IN SCARLET. PART I. CHAPTER I. MR
+	Detected chapter: A STUDY IN SCARLET.
+	Detected chapter: PART I. (Being a reprint from the Reminiscences of
+	Detected chapter: PART I.
+	Detected chapter: CHAPTER I. MR. SHERLOCK HOLMES. In the year 1878 I
+	Detected chapter: CHAPTER I. MR. SHERLOCK HOLMES.
+	Detected chapter: CHAPTER II. THE SCIENCE OF DEDUCTION. We met next 
+	Detected chapter: CHAPTER II. THE SCIENCE OF DEDUCTION.
+	Detected chapter: CHAPTER III. THE LAURISTON GARDENS MYSTERY I confe
+	Detected chapter: CHAPTER III. THE LAURISTON GARDENS MYSTERY
+	Detected chapter: CHAPTER IV. WHAT JOHN RANCE HAD TO TELL. It was on
+	Detected chapter: CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.
+	Detected chapter: CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR. Our
+	Detected chapter: CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.
+	Detected chapter: CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO. T
+	Detected chapter: CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
+	Detected chapter: CHAPTER VII. LIGHT IN THE DARKNESS. The intelligen
+	Detected chapter: CHAPTER VII. LIGHT IN THE DARKNESS.
+	Detected chapter: PART II. The Country of the Saints.
+	Detected chapter: PART II. The Country of the Saints.
+	Detected chapter: CHAPTER I. ON THE GREAT ALKALI PLAIN. In the centr
+	Detected chapter: CHAPTER I. ON THE GREAT ALKALI PLAIN.
+	Detected chapter: CHAPTER II. THE FLOWER OF UTAH. This is not the pl
+	Detected chapter: CHAPTER II. THE FLOWER OF UTAH.
+	Detected chapter: CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET. 
+	Detected chapter: CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.
+	Detected chapter: CHAPTER IV. A FLIGHT FOR LIFE. On the morning whic
+	Detected chapter: CHAPTER IV. A FLIGHT FOR LIFE.
+	Detected chapter: CHAPTER V. THE AVENGING ANGELS. All night their co
+	Detected chapter: CHAPTER V. THE AVENGING ANGELS.
+	Detected chapter: CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF
+	Detected chapter: CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF
+	Detected chapter: CHAPTER VII. THE CONCLUSION. We had all been warne
+	Detected chapter: CHAPTER VII. THE CONCLUSION.
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.xhtml' from manifest
+Trimming 'OEBPS/toc.ncx' from manifest
+Creating PDF Output...
+67% プラグイン PDF Output を実行中
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% マークアップ変換用のすべてのコンテンツを解析しました
+70% マークアップ変更完了
+Rendering 19 HTML files
+90% すべてのHTMLをPDFとして描画
+91% PDFの内容にリンクを追加
+Removed 16 unused fonts
+Merged 2 instances of AAAAAA+TimesNewRomanPS-BoldMT reducing size from 28 KB to 25.8 KB
+Merged 4 instances of BAAAAA+TimesNewRomanPSMT reducing size from 83.2 KB to 54 KB
+Merged 40 instances of AAAAAA+TimesNewRomanPSMT reducing size from 1.4 MB to 90.7 KB
+Merged 4 instances of BAAAAA+TimesNewRomanPS-BoldMT reducing size from 59.4 KB to 36.1 KB
+Merged 18 instances of BAAAAA+TimesNewRomanPS-ItalicMT reducing size from 180.4 KB to 29.3 KB
+100% PDF 内の書誌を更新
+PDF output written to E:\Documents\Workspace\Sherlock Holmes\pdf-test\A Study in Scarlet.pdf
+出力を名前をつけて保存   E:\Documents\Workspace\Sherlock Holmes\pdf-test\A Study in Scarlet.pdf
+[2026-02-07 15:18:26] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/A Study in Scarlet.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-test/A Study in Scarlet.pdf
+[2026-02-07 15:18:26] Summary: total=1 converted=1 skipped=0 failed=0
+[2026-02-07 15:18:26] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-151820.log

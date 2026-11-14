@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1333,
+            98
+          ],
+          [
+            1333,
+            911
+          ],
+          [
+            1386,
+            98
+          ],
+          [
+            1386,
+            911
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "て下さったので、ここに掲載させて頂くこと",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1262,
+            95
+          ],
+          [
+            1262,
+            226
+          ],
+          [
+            1299,
+            95
+          ],
+          [
+            1299,
+            226
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "にする。",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            1117,
+            129
+          ],
+          [
+            1117,
+            914
+          ],
+          [
+            1168,
+            129
+          ],
+          [
+            1168,
+            914
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "明治十六年の秋、自分が東京大学予備門長",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1042,
+            85
+          ],
+          [
+            1042,
+            916
+          ],
+          [
+            1092,
+            85
+          ],
+          [
+            1092,
+            916
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "を勤めていた頃、 突然呑象翁から、 高島易占",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            970,
+            84
+          ],
+          [
+            970,
+            636
+          ],
+          [
+            1015,
+            84
+          ],
+          [
+            1015,
+            636
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "という小冊子を送ってくれた。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            898,
+            124
+          ],
+          [
+            898,
+            912
+          ],
+          [
+            943,
+            124
+          ],
+          [
+            943,
+            912
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "もとより少しも知らぬ人であったが、此の",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            820,
+            81
+          ],
+          [
+            820,
+            912
+          ],
+          [
+            867,
+            81
+          ],
+          [
+            867,
+            912
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "冊子を受けて読んで見ると中々面白かったの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            746,
+            82
+          ],
+          [
+            746,
+            917
+          ],
+          [
+            793,
+            82
+          ],
+          [
+            793,
+            917
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "で、益々御研究の上、東洋の学術に光彩を添",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            672,
+            76
+          ],
+          [
+            672,
+            914
+          ],
+          [
+            716,
+            76
+          ],
+          [
+            716,
+            914
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "えられたしというような意味の手紙を書いて",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            595,
+            74
+          ],
+          [
+            595,
+            335
+          ],
+          [
+            634,
+            74
+          ],
+          [
+            634,
+            335
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "御挨拶をした。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            519,
+            114
+          ],
+          [
+            519,
+            932
+          ],
+          [
+            562,
+            114
+          ],
+          [
+            562,
+            932
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "そこで呑象翁を訪問したいという考が起り、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            441,
+            72
+          ],
+          [
+            441,
+            916
+          ],
+          [
+            482,
+            72
+          ],
+          [
+            482,
+            916
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "明治十六年即ち彼の大学暴動のあった年、そ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            363,
+            72
+          ],
+          [
+            363,
+            913
+          ],
+          [
+            405,
+            72
+          ],
+          [
+            405,
+            913
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "れが稍々静まった天長節の祝日(注。当時の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            284,
+            73
+          ],
+          [
+            284,
+            916
+          ],
+          [
+            328,
+            73
+          ],
+          [
+            328,
+            916
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "天長節は十一月三日)に、自分は始めて翁を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            212,
+            73
+          ],
+          [
+            212,
+            590
+          ],
+          [
+            252,
+            73
+          ],
+          [
+            252,
+            590
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "神奈川の高島山に訪問した。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            134,
+            117
+          ],
+          [
+            134,
+            921
+          ],
+          [
+            178,
+            117
+          ],
+          [
+            178,
+            921
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "午後の一時か二時頃であったと思う。丁度",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1358,
+            1037
+          ],
+          [
+            1358,
+            1913
+          ],
+          [
+            1416,
+            1037
+          ],
+          [
+            1416,
+            1913
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "二三人の来客があって祝宴を張って居られた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1285,
+            1035
+          ],
+          [
+            1285,
+            1739
+          ],
+          [
+            1336,
+            1035
+          ],
+          [
+            1336,
+            1739
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "それでも三時間ばかり話して帰った。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1211,
+            1078
+          ],
+          [
+            1211,
+            1900
+          ],
+          [
+            1264,
+            1078
+          ],
+          [
+            1264,
+            1900
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "その時には如何な話をしたか能く覚えては",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            1042
+          ],
+          [
+            1136,
+            1905
+          ],
+          [
+            1189,
+            1042
+          ],
+          [
+            1189,
+            1905
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "いないが、兎も角も大に感ずべき一談柄を聞",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1060,
+            1036
+          ],
+          [
+            1060,
+            1615
+          ],
+          [
+            1109,
+            1036
+          ],
+          [
+            1109,
+            1615
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "き得た。即ち左の如くである。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            984,
+            1079
+          ],
+          [
+            984,
+            1911
+          ],
+          [
+            1037,
+            1079
+          ],
+          [
+            1037,
+            1911
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "或る時大富豪が来て、何か私共に御忠告下",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            911,
+            1039
+          ],
+          [
+            911,
+            1843
+          ],
+          [
+            959,
+            1039
+          ],
+          [
+            959,
+            1843
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "さることはありますまいかと翁に尋ねた。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            833,
+            1080
+          ],
+          [
+            833,
+            1919
+          ],
+          [
+            881,
+            1080
+          ],
+          [
+            881,
+            1919
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "翁は忽ちこれに答えて、餓死の用心をなさ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            1044
+          ],
+          [
+            757,
+            1923
+          ],
+          [
+            804,
+            1044
+          ],
+          [
+            804,
+            1923
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "いと云った。主人は大に驚いて顔の色を変え",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            679,
+            1039
+          ],
+          [
+            679,
+            1925
+          ],
+          [
+            726,
+            1039
+          ],
+          [
+            726,
+            1925
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "た。私に左様の人相でもあるのでしょうかと",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            603,
+            1039
+          ],
+          [
+            603,
+            1140
+          ],
+          [
+            641,
+            1039
+          ],
+          [
+            641,
+            1140
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "聞く。",
+        "isTextline": "true",
+        "confidence": 0.938
+      },
+      {
+        "boundingBox": [
+          [
+            523,
+            1084
+          ],
+          [
+            523,
+            1935
+          ],
+          [
+            566,
+            1084
+          ],
+          [
+            566,
+            1935
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "翁曰く、いやいや私は人相見ではないから",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            442,
+            1042
+          ],
+          [
+            442,
+            1939
+          ],
+          [
+            486,
+            1042
+          ],
+          [
+            486,
+            1939
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "人相は分らんが道理があるのだ。試にその理",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            363,
+            1042
+          ],
+          [
+            363,
+            1414
+          ],
+          [
+            403,
+            1042
+          ],
+          [
+            403,
+            1414
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "を説明して見よう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            282,
+            1090
+          ],
+          [
+            282,
+            1944
+          ],
+          [
+            325,
+            1090
+          ],
+          [
+            325,
+            1944
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "日本では今まで大抵六十年毎に、一度飢饉",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            205,
+            1044
+          ],
+          [
+            205,
+            1941
+          ],
+          [
+            246,
+            1044
+          ],
+          [
+            246,
+            1941
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "がある。その場合には田舎などでは酒屋とか",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            129,
+            1044
+          ],
+          [
+            129,
+            1938
+          ],
+          [
+            170,
+            1044
+          ],
+          [
+            170,
+            1938
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "米屋とか、重立った家が貧民の攻撃を受ける",
+        "isTextline": "true",
+        "confidence": 0.955
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4919.JPEG",
+    "img_name": "IMG_4919.JPEG"
+  }
+}

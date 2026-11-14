@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1299,
+            107
+          ],
+          [
+            1299,
+            883
+          ],
+          [
+            1372,
+            107
+          ],
+          [
+            1372,
+            883
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「是非読んで貰いたい。わからぬことがあっ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1230,
+            82
+          ],
+          [
+            1230,
+            699
+          ],
+          [
+            1295,
+            82
+          ],
+          [
+            1295,
+            699
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "たらいつでも大綱山へ来て下さい」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1163,
+            116
+          ],
+          [
+            1163,
+            531
+          ],
+          [
+            1213,
+            116
+          ],
+          [
+            1213,
+            531
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "とねんごろに会釈した。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            1088,
+            97
+          ],
+          [
+            1088,
+            894
+          ],
+          [
+            1152,
+            97
+          ],
+          [
+            1152,
+            894
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "(先年、筆者も奈良の春日大社が神易所を開",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1015,
+            68
+          ],
+          [
+            1015,
+            866
+          ],
+          [
+            1078,
+            68
+          ],
+          [
+            1078,
+            866
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "設するに当たり、招かれてその所長となり、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            942,
+            54
+          ],
+          [
+            942,
+            895
+          ],
+          [
+            1002,
+            54
+          ],
+          [
+            1002,
+            895
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "神職達に易を講じてきたが、同社の文庫に明",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            868,
+            53
+          ],
+          [
+            868,
+            910
+          ],
+          [
+            928,
+            53
+          ],
+          [
+            928,
+            910
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "治二十年一月、 彼が献本した初版 『高島易断』",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            794,
+            61
+          ],
+          [
+            794,
+            898
+          ],
+          [
+            850,
+            61
+          ],
+          [
+            850,
+            898
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "があるのを見出した。恐らく伊勢の皇太神宮",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            719,
+            59
+          ],
+          [
+            719,
+            897
+          ],
+          [
+            771,
+            59
+          ],
+          [
+            771,
+            897
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "を初め、全国有名神社には進んで献本したも",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            63
+          ],
+          [
+            644,
+            292
+          ],
+          [
+            685,
+            63
+          ],
+          [
+            685,
+            292
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "のであろう。)",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            568,
+            101
+          ],
+          [
+            568,
+            895
+          ],
+          [
+            616,
+            101
+          ],
+          [
+            616,
+            895
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "明治二十一年(一八八八)六月、彼はセメ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            492,
+            68
+          ],
+          [
+            492,
+            900
+          ],
+          [
+            539,
+            68
+          ],
+          [
+            539,
+            900
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "ント製造所を設立しようとして、坂田、服部",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            418,
+            68
+          ],
+          [
+            418,
+            897
+          ],
+          [
+            460,
+            68
+          ],
+          [
+            460,
+            897
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "などの人々と連れ立って名古屋の熱田に赴い",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            348,
+            76
+          ],
+          [
+            348,
+            126
+          ],
+          [
+            382,
+            76
+          ],
+          [
+            382,
+            126
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.931
+      },
+      {
+        "boundingBox": [
+          [
+            273,
+            123
+          ],
+          [
+            273,
+            900
+          ],
+          [
+            313,
+            123
+          ],
+          [
+            313,
+            900
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "その折熱田神宮に参拝したが神職の主だっ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            204,
+            100
+          ],
+          [
+            204,
+            909
+          ],
+          [
+            246,
+            100
+          ],
+          [
+            246,
+            909
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "た者が、かつて「皇典講究所」で彼の講演を",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            152,
+            111
+          ],
+          [
+            152,
+            435
+          ],
+          [
+            183,
+            111
+          ],
+          [
+            183,
+            435
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "聞いたことがあり、",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            1344,
+            1036
+          ],
+          [
+            1344,
+            1684
+          ],
+          [
+            1408,
+            1036
+          ],
+          [
+            1408,
+            1684
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「ぜひ易の話をしていただきたい」",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1276,
+            1056
+          ],
+          [
+            1276,
+            1892
+          ],
+          [
+            1342,
+            1056
+          ],
+          [
+            1342,
+            1892
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "と申し込まれたので、七月十六日に同社で",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1196,
+            1013
+          ],
+          [
+            1196,
+            1201
+          ],
+          [
+            1240,
+            1013
+          ],
+          [
+            1240,
+            1201
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "講演した。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1122,
+            1056
+          ],
+          [
+            1122,
+            1905
+          ],
+          [
+            1189,
+            1056
+          ],
+          [
+            1189,
+            1905
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "彼が講演している最中、神職が代り代り起",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1025
+          ],
+          [
+            1049,
+            1114
+          ],
+          [
+            1086,
+            1025
+          ],
+          [
+            1086,
+            1114
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "って、",
+        "isTextline": "true",
+        "confidence": 0.93
+      },
+      {
+        "boundingBox": [
+          [
+            968,
+            1039
+          ],
+          [
+            968,
+            1387
+          ],
+          [
+            1020,
+            1039
+          ],
+          [
+            1020,
+            1387
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "「一寸失礼します」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            896,
+            1063
+          ],
+          [
+            896,
+            1922
+          ],
+          [
+            954,
+            1063
+          ],
+          [
+            954,
+            1922
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "と断っては出てゆく。傍の禰宜にその中座",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            816,
+            1024
+          ],
+          [
+            816,
+            1930
+          ],
+          [
+            874,
+            1024
+          ],
+          [
+            874,
+            1930
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "の理由を糺したところ、「このごろひどい旱",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            736,
+            1019
+          ],
+          [
+            736,
+            1932
+          ],
+          [
+            794,
+            1019
+          ],
+          [
+            794,
+            1932
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "魃で近郷の百姓が困っています。それで数百",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            659,
+            1021
+          ],
+          [
+            659,
+            1932
+          ],
+          [
+            712,
+            1021
+          ],
+          [
+            712,
+            1932
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "人が参詣して雨乞いの祈祷を頼んでいるので",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            581,
+            1023
+          ],
+          [
+            581,
+            1082
+          ],
+          [
+            620,
+            1023
+          ],
+          [
+            620,
+            1082
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "す」",
+        "isTextline": "true",
+        "confidence": 0.93
+      },
+      {
+        "boundingBox": [
+          [
+            502,
+            1070
+          ],
+          [
+            502,
+            1263
+          ],
+          [
+            541,
+            1070
+          ],
+          [
+            541,
+            1263
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "と答えた。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            421,
+            1070
+          ],
+          [
+            421,
+            1939
+          ],
+          [
+            466,
+            1070
+          ],
+          [
+            466,
+            1939
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "嘉右衛門はその話を面白そうに聞いていた",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            345,
+            1029
+          ],
+          [
+            345,
+            1938
+          ],
+          [
+            388,
+            1029
+          ],
+          [
+            388,
+            1938
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "が、講演を了えてから祈祷をして来た神職を",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            272,
+            1030
+          ],
+          [
+            272,
+            1129
+          ],
+          [
+            308,
+            1030
+          ],
+          [
+            308,
+            1129
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "集め、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            201,
+            1058
+          ],
+          [
+            201,
+            1902
+          ],
+          [
+            240,
+            1058
+          ],
+          [
+            240,
+            1902
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "「皆さんは大神様に雨乞いをされましたが、",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            140,
+            1037
+          ],
+          [
+            140,
+            1576
+          ],
+          [
+            174,
+            1037
+          ],
+          [
+            174,
+            1576
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "神様は何と言われましたか」",
+        "isTextline": "true",
+        "confidence": 0.942
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4883.JPEG",
+    "img_name": "IMG_4883.JPEG"
+  }
+}

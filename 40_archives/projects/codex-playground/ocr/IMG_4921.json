@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1316,
+            133
+          ],
+          [
+            1316,
+            376
+          ],
+          [
+            1358,
+            133
+          ],
+          [
+            1358,
+            376
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "立って行った。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1248,
+            169
+          ],
+          [
+            1248,
+            916
+          ],
+          [
+            1313,
+            169
+          ],
+          [
+            1313,
+            916
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "色々面白い話のあった末に河上君が例の鋭",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1178,
+            136
+          ],
+          [
+            1178,
+            296
+          ],
+          [
+            1217,
+            136
+          ],
+          [
+            1217,
+            296
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "い論法で、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            150
+          ],
+          [
+            1109,
+            919
+          ],
+          [
+            1169,
+            150
+          ],
+          [
+            1169,
+            919
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "「それ程貴下の易が当るものならば、何故貴",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1038,
+            130
+          ],
+          [
+            1038,
+            857
+          ],
+          [
+            1097,
+            130
+          ],
+          [
+            1097,
+            857
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "下はその易を以て相場をせられませんか」",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            971,
+            166
+          ],
+          [
+            971,
+            694
+          ],
+          [
+            1020,
+            166
+          ],
+          [
+            1020,
+            694
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "と聞いた。面白い質問である。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            898,
+            166
+          ],
+          [
+            898,
+            922
+          ],
+          [
+            953,
+            166
+          ],
+          [
+            953,
+            922
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "翁は何と返事をするだろうかと、自分は片",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            826,
+            126
+          ],
+          [
+            826,
+            773
+          ],
+          [
+            877,
+            126
+          ],
+          [
+            877,
+            773
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "唾を呑んだ。翁は徐ろに説いて曰く、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            754,
+            146
+          ],
+          [
+            754,
+            925
+          ],
+          [
+            809,
+            146
+          ],
+          [
+            809,
+            925
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "「それは無論当る。 自分が非",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            682,
+            123
+          ],
+          [
+            682,
+            923
+          ],
+          [
+            734,
+            123
+          ],
+          [
+            734,
+            923
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "常に勝ったとすれば、他人は負ける。負けた",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            611,
+            124
+          ],
+          [
+            611,
+            926
+          ],
+          [
+            661,
+            124
+          ],
+          [
+            661,
+            926
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "人間は家も倒れる妻子も離散する。これを喜",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            538,
+            125
+          ],
+          [
+            538,
+            923
+          ],
+          [
+            586,
+            125
+          ],
+          [
+            586,
+            923
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "んで平気で見ていることが出来ますか。実に",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            464,
+            121
+          ],
+          [
+            464,
+            927
+          ],
+          [
+            513,
+            121
+          ],
+          [
+            513,
+            927
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "人情に於て忍ぶべからざる所。是れ自分が決",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            391,
+            122
+          ],
+          [
+            391,
+            799
+          ],
+          [
+            433,
+            122
+          ],
+          [
+            433,
+            799
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "して易を以て相場をせぬ理由である」。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            318,
+            160
+          ],
+          [
+            318,
+            930
+          ],
+          [
+            359,
+            160
+          ],
+          [
+            359,
+            930
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "自分は傍にてこれを聞きつつ、さすがに能",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            245,
+            126
+          ],
+          [
+            245,
+            697
+          ],
+          [
+            284,
+            126
+          ],
+          [
+            284,
+            697
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "く答弁せられたものだと感じた。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            173,
+            168
+          ],
+          [
+            173,
+            935
+          ],
+          [
+            212,
+            168
+          ],
+          [
+            212,
+            935
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "その後は度々互に往来して、或は易断を聴",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1357,
+            1030
+          ],
+          [
+            1357,
+            1711
+          ],
+          [
+            1419,
+            1030
+          ],
+          [
+            1419,
+            1711
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "き、或は自分が理学談などを試みた。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1285,
+            1071
+          ],
+          [
+            1285,
+            1868
+          ],
+          [
+            1352,
+            1071
+          ],
+          [
+            1352,
+            1868
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "翁が是非とも易を研究しなさいといわれる",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1212,
+            1036
+          ],
+          [
+            1212,
+            1875
+          ],
+          [
+            1281,
+            1036
+          ],
+          [
+            1281,
+            1875
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ので、明治二十三四年頃、巖谷立太郎、菊池",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1139,
+            1033
+          ],
+          [
+            1139,
+            1893
+          ],
+          [
+            1209,
+            1033
+          ],
+          [
+            1209,
+            1893
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "熊太郎、西松二郎、三君と自分を加えて四人、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1068,
+            1048
+          ],
+          [
+            1068,
+            1883
+          ],
+          [
+            1132,
+            1048
+          ],
+          [
+            1132,
+            1883
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "一週に一度づつ、 東京英語学校の二階で、翁",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            995,
+            1041
+          ],
+          [
+            995,
+            1428
+          ],
+          [
+            1044,
+            1041
+          ],
+          [
+            1044,
+            1428
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "の易の講義を聴いた。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            923,
+            1078
+          ],
+          [
+            923,
+            1890
+          ],
+          [
+            983,
+            1078
+          ],
+          [
+            983,
+            1890
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "講義は大体に於て面白いのみならず、大に",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            849,
+            1038
+          ],
+          [
+            849,
+            1896
+          ],
+          [
+            909,
+            1038
+          ],
+          [
+            909,
+            1896
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "感服したが、唯宗教的の神につきてのみ議論",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            775,
+            1042
+          ],
+          [
+            775,
+            1349
+          ],
+          [
+            819,
+            1042
+          ],
+          [
+            819,
+            1349
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "が合わなかった。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            704,
+            1084
+          ],
+          [
+            704,
+            1904
+          ],
+          [
+            756,
+            1084
+          ],
+          [
+            756,
+            1904
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "それから長い間御交際をして、今に継続し",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            1047
+          ],
+          [
+            628,
+            1911
+          ],
+          [
+            679,
+            1047
+          ],
+          [
+            679,
+            1911
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "ていることであるが、自分を以て見るに、翁",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            551,
+            1046
+          ],
+          [
+            551,
+            1913
+          ],
+          [
+            601,
+            1046
+          ],
+          [
+            601,
+            1913
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "は人情通である。殊にその常識は最高極度に",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            475,
+            1045
+          ],
+          [
+            475,
+            1317
+          ],
+          [
+            516,
+            1045
+          ],
+          [
+            516,
+            1317
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "発達せられた。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            398,
+            1089
+          ],
+          [
+            398,
+            1925
+          ],
+          [
+            445,
+            1089
+          ],
+          [
+            445,
+            1925
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "機を見るには頗る敏、内の事情にも外の形",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            320,
+            1049
+          ],
+          [
+            320,
+            1927
+          ],
+          [
+            367,
+            1049
+          ],
+          [
+            367,
+            1927
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "勢にも通じている。人を使うにもそれぞれ処",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            245,
+            1052
+          ],
+          [
+            245,
+            1632
+          ],
+          [
+            286,
+            1052
+          ],
+          [
+            286,
+            1632
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "を得せしむるようにしてある。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            172,
+            1097
+          ],
+          [
+            172,
+            1926
+          ],
+          [
+            213,
+            1097
+          ],
+          [
+            213,
+            1926
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "それが一家内のものでも、適材を適所に用",
+        "isTextline": "true",
+        "confidence": 0.954
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4921.JPEG",
+    "img_name": "IMG_4921.JPEG"
+  }
+}

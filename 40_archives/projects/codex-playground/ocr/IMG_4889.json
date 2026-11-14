@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1291,
+            140
+          ],
+          [
+            1291,
+            911
+          ],
+          [
+            1360,
+            140
+          ],
+          [
+            1360,
+            911
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "嘉右衛門がいる側の、 生垣の外を通りかか",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1221,
+            107
+          ],
+          [
+            1221,
+            912
+          ],
+          [
+            1286,
+            107
+          ],
+          [
+            1286,
+            912
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "った一行中、先頭に立った僧が、ふと立ち止",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1148,
+            103
+          ],
+          [
+            1148,
+            913
+          ],
+          [
+            1213,
+            103
+          ],
+          [
+            1213,
+            913
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "って錫杖を垣に凭せかけ跼み込んで草鞋の紐",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1076,
+            94
+          ],
+          [
+            1076,
+            675
+          ],
+          [
+            1131,
+            94
+          ],
+          [
+            1131,
+            675
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "の解けかかったのを結び直した。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1004,
+            123
+          ],
+          [
+            1004,
+            913
+          ],
+          [
+            1062,
+            123
+          ],
+          [
+            1062,
+            913
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "結び終って立ち上ろうとした拍子に、編笠",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            930,
+            85
+          ],
+          [
+            930,
+            909
+          ],
+          [
+            985,
+            85
+          ],
+          [
+            985,
+            909
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "の顎紐がゆるんでいたと見え、僧の笠はガク",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            855,
+            79
+          ],
+          [
+            855,
+            757
+          ],
+          [
+            906,
+            79
+          ],
+          [
+            906,
+            757
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "リと横へ傾いた。大きな禿頭だった。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            782,
+            114
+          ],
+          [
+            782,
+            914
+          ],
+          [
+            833,
+            114
+          ],
+          [
+            833,
+            914
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "それを見ていた嘉右衛門は、とっさに雷水",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            701,
+            69
+          ],
+          [
+            701,
+            476
+          ],
+          [
+            749,
+            69
+          ],
+          [
+            749,
+            476
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "解(一)の卦を起し、",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            89
+          ],
+          [
+            628,
+            911
+          ],
+          [
+            676,
+            89
+          ],
+          [
+            676,
+            911
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "「ははあ、あれが洪川和尚だな。よし、今日",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            550,
+            67
+          ],
+          [
+            550,
+            933
+          ],
+          [
+            596,
+            67
+          ],
+          [
+            596,
+            933
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "は一つ円覚寺へ行って、和尚と話してみよう」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            474,
+            104
+          ],
+          [
+            474,
+            365
+          ],
+          [
+            512,
+            104
+          ],
+          [
+            512,
+            365
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "と思いついた。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            393,
+            104
+          ],
+          [
+            393,
+            666
+          ],
+          [
+            437,
+            104
+          ],
+          [
+            437,
+            666
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "小袋坂をのぼりながら考えた。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            312,
+            87
+          ],
+          [
+            312,
+            913
+          ],
+          [
+            360,
+            87
+          ],
+          [
+            360,
+            913
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "「禅と易とは、その極致においては二にして",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            232,
+            83
+          ],
+          [
+            232,
+            916
+          ],
+          [
+            283,
+            83
+          ],
+          [
+            283,
+            916
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一だと思うが、和尚は俺に対してどんな話を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            157,
+            76
+          ],
+          [
+            157,
+            920
+          ],
+          [
+            211,
+            76
+          ],
+          [
+            211,
+            920
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "するだろう?先刻得た解卦からその話の内",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            92,
+            88
+          ],
+          [
+            92,
+            683
+          ],
+          [
+            141,
+            88
+          ],
+          [
+            141,
+            683
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "容を察してみるのも悪くないな」",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1334,
+            1079
+          ],
+          [
+            1334,
+            1856
+          ],
+          [
+            1401,
+            1079
+          ],
+          [
+            1401,
+            1856
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "と、歩きながら解卦をとくことにした。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1257,
+            1077
+          ],
+          [
+            1257,
+            1936
+          ],
+          [
+            1326,
+            1077
+          ],
+          [
+            1326,
+            1936
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "草鞋の紐がホドケたのを見て解と取り、編",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1180,
+            1035
+          ],
+          [
+            1180,
+            1865
+          ],
+          [
+            1247,
+            1035
+          ],
+          [
+            1247,
+            1865
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "笠の傾いたのを見て、その上爻を取った。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1107,
+            1035
+          ],
+          [
+            1107,
+            1945
+          ],
+          [
+            1168,
+            1035
+          ],
+          [
+            1168,
+            1945
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "-人が煩悩の絆から解脱したらそれをホト",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1030,
+            1038
+          ],
+          [
+            1030,
+            1949
+          ],
+          [
+            1090,
+            1038
+          ],
+          [
+            1090,
+            1949
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "ケになったという。 そのホトケがホドケルに",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            953,
+            1038
+          ],
+          [
+            953,
+            1275
+          ],
+          [
+            995,
+            1038
+          ],
+          [
+            995,
+            1275
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "なったのだ。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            874,
+            1039
+          ],
+          [
+            874,
+            1961
+          ],
+          [
+            930,
+            1039
+          ],
+          [
+            930,
+            1961
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "……上卦の震を動くとし、進むとし、至ると",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            796,
+            1039
+          ],
+          [
+            796,
+            1966
+          ],
+          [
+            851,
+            1039
+          ],
+          [
+            851,
+            1966
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "し、岸とする。また、長男とし、善逝丈夫と",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            717,
+            1040
+          ],
+          [
+            717,
+            1421
+          ],
+          [
+            761,
+            1040
+          ],
+          [
+            761,
+            1421
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "し、優れるとする。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            635,
+            1085
+          ],
+          [
+            635,
+            1661
+          ],
+          [
+            681,
+            1085
+          ],
+          [
+            681,
+            1661
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "上卦は彼岸、下卦は此岸だ。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            552,
+            1087
+          ],
+          [
+            552,
+            1975
+          ],
+          [
+            601,
+            1087
+          ],
+          [
+            601,
+            1975
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "下卦の坎を煩悩とし、心病とし、数をとっ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            471,
+            1045
+          ],
+          [
+            471,
+            1572
+          ],
+          [
+            515,
+            1045
+          ],
+          [
+            515,
+            1572
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "て言えば六道輪廻とする。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            387,
+            1089
+          ],
+          [
+            387,
+            1995
+          ],
+          [
+            431,
+            1089
+          ],
+          [
+            431,
+            1995
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "また、水とし、陥るとし、苦しむとし、苦",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            304,
+            1044
+          ],
+          [
+            304,
+            1623
+          ],
+          [
+            349,
+            1044
+          ],
+          [
+            349,
+            1623
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "海に沈淪している象とする。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            219,
+            1092
+          ],
+          [
+            219,
+            1992
+          ],
+          [
+            270,
+            1092
+          ],
+          [
+            270,
+            1992
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "象に、険にして以て動き、動いて険を免る",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            146,
+            1048
+          ],
+          [
+            146,
+            1718
+          ],
+          [
+            190,
+            1048
+          ],
+          [
+            190,
+            1718
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "を解という、とあるのがそれだ。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            66,
+            1095
+          ],
+          [
+            66,
+            1982
+          ],
+          [
+            117,
+            1095
+          ],
+          [
+            117,
+            1982
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "此岸の穢土から彼岸の極楽へという道案内",
+        "isTextline": "true",
+        "confidence": 0.954
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4889.JPEG",
+    "img_name": "IMG_4889.JPEG"
+  }
+}

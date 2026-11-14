@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1248,
+            142
+          ],
+          [
+            1248,
+            918
+          ],
+          [
+            1324,
+            142
+          ],
+          [
+            1324,
+            918
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「じゃ、わしの書はどんな卦が出るか、一つ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1176,
+            119
+          ],
+          [
+            1176,
+            611
+          ],
+          [
+            1238,
+            119
+          ],
+          [
+            1238,
+            611
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "卦を出してみてくれないか」",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            159
+          ],
+          [
+            1108,
+            860
+          ],
+          [
+            1175,
+            159
+          ],
+          [
+            1175,
+            860
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "興に乗った副島が、もう一筮を求めた。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1036,
+            157
+          ],
+          [
+            1036,
+            736
+          ],
+          [
+            1097,
+            157
+          ],
+          [
+            1097,
+            736
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "副島の書には三三夫の不変。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            968,
+            159
+          ],
+          [
+            968,
+            929
+          ],
+          [
+            1028,
+            159
+          ],
+          [
+            1028,
+            929
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "こんな場合の嘉右衛門の辞の引き出し方は",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            114
+          ],
+          [
+            894,
+            246
+          ],
+          [
+            930,
+            114
+          ],
+          [
+            930,
+            246
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "うまい。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            817,
+            135
+          ],
+          [
+            817,
+            933
+          ],
+          [
+            878,
+            135
+          ],
+          [
+            878,
+            933
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "「繁辞伝に、 上古は縄を結びて治まる。 後世",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            118
+          ],
+          [
+            744,
+            933
+          ],
+          [
+            802,
+            118
+          ],
+          [
+            802,
+            933
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "の聖人之に易うるに書契を以てす。蓋し諸を",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            670,
+            113
+          ],
+          [
+            670,
+            937
+          ],
+          [
+            724,
+            113
+          ],
+          [
+            724,
+            937
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "央にとるとあります。この辞から推してみま",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            595,
+            115
+          ],
+          [
+            595,
+            937
+          ],
+          [
+            649,
+            115
+          ],
+          [
+            649,
+            937
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "すに、副島先生の字は一派独特の書体で、そ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            522,
+            117
+          ],
+          [
+            522,
+            938
+          ],
+          [
+            573,
+            117
+          ],
+          [
+            573,
+            938
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "れは字を発明したといわれる蒼頷の再来みた",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            448,
+            123
+          ],
+          [
+            448,
+            940
+          ],
+          [
+            495,
+            123
+          ],
+          [
+            495,
+            940
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "いなものです。 これは巧いとかヘタだとかみ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            374,
+            120
+          ],
+          [
+            374,
+            792
+          ],
+          [
+            417,
+            120
+          ],
+          [
+            417,
+            792
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "だりに論ずるわけにはいきませんね」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            301,
+            166
+          ],
+          [
+            301,
+            418
+          ],
+          [
+            338,
+            166
+          ],
+          [
+            338,
+            418
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "と頭を掻いた。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            231,
+            171
+          ],
+          [
+            231,
+            587
+          ],
+          [
+            266,
+            171
+          ],
+          [
+            266,
+            587
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "副島も笑ってしまった。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            159,
+            181
+          ],
+          [
+            159,
+            954
+          ],
+          [
+            198,
+            181
+          ],
+          [
+            198,
+            954
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "三書家の優劣観も結局、嘉右衛門流の見方",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            96,
+            154
+          ],
+          [
+            96,
+            806
+          ],
+          [
+            134,
+            154
+          ],
+          [
+            134,
+            806
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "が占断の上に働いていることが判る。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1301,
+            1086
+          ],
+          [
+            1301,
+            1916
+          ],
+          [
+            1373,
+            1086
+          ],
+          [
+            1373,
+            1916
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "占者は何事にも造詣が深くなければ正鵠な",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1226,
+            1045
+          ],
+          [
+            1226,
+            1921
+          ],
+          [
+            1295,
+            1045
+          ],
+          [
+            1295,
+            1921
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "占をなし得ないということが、この占からも",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1150,
+            1054
+          ],
+          [
+            1150,
+            1319
+          ],
+          [
+            1197,
+            1054
+          ],
+          [
+            1197,
+            1319
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "いえると思う。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            1075,
+            1090
+          ],
+          [
+            1075,
+            1931
+          ],
+          [
+            1141,
+            1090
+          ],
+          [
+            1141,
+            1931
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "嘉右衛門は商人だから、実用ということを",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            998,
+            1049
+          ],
+          [
+            998,
+            1281
+          ],
+          [
+            1043,
+            1049
+          ],
+          [
+            1043,
+            1281
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "第一とした。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            923,
+            1094
+          ],
+          [
+            923,
+            1638
+          ],
+          [
+            980,
+            1094
+          ],
+          [
+            980,
+            1638
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "従って先刻の客人の一人が、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            845,
+            1077
+          ],
+          [
+            845,
+            1945
+          ],
+          [
+            910,
+            1077
+          ],
+          [
+            910,
+            1945
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "「書は姓名を記しうれば足りるという説があ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            770,
+            1059
+          ],
+          [
+            770,
+            1156
+          ],
+          [
+            810,
+            1059
+          ],
+          [
+            810,
+            1156
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "るが」",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            695,
+            1102
+          ],
+          [
+            695,
+            1945
+          ],
+          [
+            750,
+            1102
+          ],
+          [
+            750,
+            1945
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "と言っていたそういう説を肯定する人だっ",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            617,
+            1062
+          ],
+          [
+            617,
+            1956
+          ],
+          [
+            670,
+            1062
+          ],
+          [
+            670,
+            1956
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ただろう。もっとも、そういう考え方をして",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            538,
+            1069
+          ],
+          [
+            538,
+            1841
+          ],
+          [
+            589,
+            1069
+          ],
+          [
+            589,
+            1841
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "いる彼の書がヘタだというのではない。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            382,
+            1157
+          ],
+          [
+            382,
+            1499
+          ],
+          [
+            429,
+            1157
+          ],
+          [
+            429,
+            1499
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "三神主と易者",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            229,
+            1116
+          ],
+          [
+            229,
+            1941
+          ],
+          [
+            273,
+            1116
+          ],
+          [
+            273,
+            1941
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "嘉右衛門の実用第一主義は徹底していた。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            158,
+            1119
+          ],
+          [
+            158,
+            1963
+          ],
+          [
+            198,
+            1119
+          ],
+          [
+            198,
+            1963
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "それは「神道実用論」という演説の中に特",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            96,
+            1081
+          ],
+          [
+            96,
+            1481
+          ],
+          [
+            127,
+            1081
+          ],
+          [
+            127,
+            1481
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "にはっきり出ている。",
+        "isTextline": "true",
+        "confidence": 0.944
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4873.JPEG",
+    "img_name": "IMG_4873.JPEG"
+  }
+}

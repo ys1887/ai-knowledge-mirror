@@ -1,0 +1,7 @@
+interface:
+  display_name: "Karpathy Coding Guardrails"
+  short_description: "Guardrails for non-trivial coding, review, and debugging tasks."
+  default_prompt: "Use $karpathy-coding-guardrails to handle this non-trivial coding task with explicit assumptions, simple design choices, tight diffs, and targeted verification."
+
+policy:
+  allow_implicit_invocation: true

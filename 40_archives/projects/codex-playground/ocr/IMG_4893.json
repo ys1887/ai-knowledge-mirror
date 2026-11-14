@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1269,
+            167
+          ],
+          [
+            1269,
+            914
+          ],
+          [
+            1330,
+            167
+          ],
+          [
+            1330,
+            914
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "その覚悟はさきに書いた佐久間象山のそれ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            127
+          ],
+          [
+            1200,
+            771
+          ],
+          [
+            1255,
+            127
+          ],
+          [
+            1255,
+            771
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "に近いものだっただろうと思われる。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1130,
+            157
+          ],
+          [
+            1130,
+            915
+          ],
+          [
+            1187,
+            157
+          ],
+          [
+            1187,
+            915
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "博文は春畝と号し書を良くし、嘉右衛門に",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1061,
+            116
+          ],
+          [
+            1061,
+            935
+          ],
+          [
+            1118,
+            116
+          ],
+          [
+            1118,
+            935
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "は易・繋辞伝の辞を特に書いてくれたりした。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            993,
+            154
+          ],
+          [
+            993,
+            912
+          ],
+          [
+            1045,
+            154
+          ],
+          [
+            1045,
+            912
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "いまの政治家にもそれぞれ有能な側近がつ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            920,
+            111
+          ],
+          [
+            920,
+            919
+          ],
+          [
+            972,
+            111
+          ],
+          [
+            972,
+            919
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "いていて(善悪は別として)、その主人公の仕",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            103
+          ],
+          [
+            846,
+            921
+          ],
+          [
+            898,
+            103
+          ],
+          [
+            898,
+            921
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "事を助けているが、博文に対してはやはり嘉",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            773,
+            101
+          ],
+          [
+            773,
+            938
+          ],
+          [
+            825,
+            101
+          ],
+          [
+            825,
+            938
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "右衛門などが最も良いブレーンだっただろう。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            702,
+            144
+          ],
+          [
+            702,
+            919
+          ],
+          [
+            749,
+            144
+          ],
+          [
+            749,
+            919
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "いくたびか出た 『高島易断』 のうち伊藤は",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            626,
+            100
+          ],
+          [
+            626,
+            918
+          ],
+          [
+            672,
+            100
+          ],
+          [
+            672,
+            918
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "諸処に顔を出すが、その身上の占をしたこと",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            103
+          ],
+          [
+            554,
+            519
+          ],
+          [
+            593,
+            103
+          ],
+          [
+            593,
+            519
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "は余り書かれていない。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            480,
+            142
+          ],
+          [
+            480,
+            923
+          ],
+          [
+            523,
+            142
+          ],
+          [
+            523,
+            923
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "伊藤が満州巡察に赴いた頃の嘉右衛門はす",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            407,
+            109
+          ],
+          [
+            407,
+            924
+          ],
+          [
+            447,
+            109
+          ],
+          [
+            447,
+            924
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "でに脚が悪く、その出発も挨拶に来た伊藤を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            335,
+            110
+          ],
+          [
+            335,
+            927
+          ],
+          [
+            374,
+            110
+          ],
+          [
+            374,
+            927
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "寝床の上で見送ったくらいだし、三十九年以",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            267,
+            118
+          ],
+          [
+            267,
+            930
+          ],
+          [
+            303,
+            118
+          ],
+          [
+            303,
+            930
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "後は『高島易断』も増補や改訂を行っていな",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            202,
+            136
+          ],
+          [
+            202,
+            928
+          ],
+          [
+            236,
+            136
+          ],
+          [
+            236,
+            928
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "いから、凶刃に倒れる伊藤の安否を占したこ",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            143,
+            143
+          ],
+          [
+            143,
+            547
+          ],
+          [
+            174,
+            143
+          ],
+          [
+            174,
+            547
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "とは掲載されていない。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            1299,
+            1057
+          ],
+          [
+            1299,
+            1422
+          ],
+          [
+            1346,
+            1057
+          ],
+          [
+            1346,
+            1422
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "「じゃア行ってくる」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1232,
+            1077
+          ],
+          [
+            1232,
+            1549
+          ],
+          [
+            1279,
+            1077
+          ],
+          [
+            1279,
+            1549
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "そう言って立った博文に、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1157,
+            1057
+          ],
+          [
+            1157,
+            1896
+          ],
+          [
+            1220,
+            1057
+          ],
+          [
+            1220,
+            1896
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "「気を付けてお出なせえ、 易は艮為山 (",
+        "isTextline": "true",
+        "confidence": 0.928
+      },
+      {
+        "boundingBox": [
+          [
+            1086,
+            1041
+          ],
+          [
+            1086,
+            1346
+          ],
+          [
+            1131,
+            1041
+          ],
+          [
+            1131,
+            1346
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "の九三でしたよ」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1016,
+            1078
+          ],
+          [
+            1016,
+            1522
+          ],
+          [
+            1061,
+            1078
+          ],
+          [
+            1061,
+            1522
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "と、嘉右衛門は言った。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            940,
+            1079
+          ],
+          [
+            940,
+            1899
+          ],
+          [
+            994,
+            1079
+          ],
+          [
+            994,
+            1899
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "前に見ておいたのだが、あまり良い卦では",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            866,
+            1039
+          ],
+          [
+            866,
+            1903
+          ],
+          [
+            920,
+            1039
+          ],
+          [
+            920,
+            1903
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ないので黙っているつもりだったが、やっぱ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            1040
+          ],
+          [
+            790,
+            1750
+          ],
+          [
+            840,
+            1040
+          ],
+          [
+            840,
+            1750
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "り気に掛るので得卦の名だけ告げた。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            715,
+            1063
+          ],
+          [
+            715,
+            1915
+          ],
+          [
+            765,
+            1063
+          ],
+          [
+            765,
+            1915
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "「ありがとう。其の背に艮まりて其の身を獲",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            640,
+            1040
+          ],
+          [
+            640,
+            1757
+          ],
+          [
+            685,
+            1040
+          ],
+          [
+            685,
+            1757
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ず、其の庭に行きて其の人を見ずか」",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            564,
+            1085
+          ],
+          [
+            564,
+            1889
+          ],
+          [
+            608,
+            1085
+          ],
+          [
+            608,
+            1889
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "伊藤はこの運命的な象辞を軽く口誦んで、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            486,
+            1044
+          ],
+          [
+            486,
+            1537
+          ],
+          [
+            527,
+            1044
+          ],
+          [
+            527,
+            1537
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "嘉右衛門の病床を去った。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            338,
+            1090
+          ],
+          [
+            338,
+            1914
+          ],
+          [
+            379,
+            1090
+          ],
+          [
+            379,
+            1914
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "卦というものは嘉右衛門がいう通り神の語",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            268,
+            1048
+          ],
+          [
+            268,
+            1359
+          ],
+          [
+            304,
+            1048
+          ],
+          [
+            304,
+            1359
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "学だ。繋辞伝に、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            200,
+            1074
+          ],
+          [
+            200,
+            1898
+          ],
+          [
+            239,
+            1074
+          ],
+          [
+            239,
+            1898
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "「其の命を受くるや響の如く、遠近幽深有る",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            143,
+            1056
+          ],
+          [
+            143,
+            1557
+          ],
+          [
+            175,
+            1056
+          ],
+          [
+            175,
+            1557
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "こと无く、遂に来物を知る」",
+        "isTextline": "true",
+        "confidence": 0.938
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4893.JPEG",
+    "img_name": "IMG_4893.JPEG"
+  }
+}

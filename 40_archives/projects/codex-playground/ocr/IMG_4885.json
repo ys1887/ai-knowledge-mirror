@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1299,
+            159
+          ],
+          [
+            1299,
+            527
+          ],
+          [
+            1343,
+            159
+          ],
+          [
+            1343,
+            527
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "と言い、 他の一人は、",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1227,
+            138
+          ],
+          [
+            1227,
+            919
+          ],
+          [
+            1285,
+            138
+          ],
+          [
+            1285,
+            919
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "「ここの神様がそう仰ったのですか。いかに",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1158,
+            112
+          ],
+          [
+            1158,
+            919
+          ],
+          [
+            1213,
+            112
+          ],
+          [
+            1213,
+            919
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "高島先生でも、無稽のことを申されると神に",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1087,
+            107
+          ],
+          [
+            1087,
+            441
+          ],
+          [
+            1132,
+            107
+          ],
+          [
+            1132,
+            441
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "対して不敬ですゾ」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1018,
+            143
+          ],
+          [
+            1018,
+            316
+          ],
+          [
+            1055,
+            143
+          ],
+          [
+            1055,
+            316
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "と叫んだ。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            946,
+            142
+          ],
+          [
+            946,
+            640
+          ],
+          [
+            990,
+            142
+          ],
+          [
+            990,
+            640
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "にっこり笑った嘉右衛門は、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            870,
+            116
+          ],
+          [
+            870,
+            923
+          ],
+          [
+            921,
+            116
+          ],
+          [
+            921,
+            923
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "「上爻は初爻より数えて六日目に当たり、 ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            795,
+            91
+          ],
+          [
+            795,
+            919
+          ],
+          [
+            844,
+            91
+          ],
+          [
+            844,
+            919
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "卦の兌変じて乾となる。乾は雲行き雨施すの",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            721,
+            89
+          ],
+          [
+            721,
+            899
+          ],
+          [
+            767,
+            89
+          ],
+          [
+            767,
+            899
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "卦で、ここに齎咨、涕洟ということになる。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            91
+          ],
+          [
+            648,
+            921
+          ],
+          [
+            693,
+            91
+          ],
+          [
+            693,
+            921
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "これが即ち神勅です。神様は、お前らが雨を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            572,
+            85
+          ],
+          [
+            572,
+            920
+          ],
+          [
+            616,
+            85
+          ],
+          [
+            616,
+            920
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "望んでいるから雨を降らせるが、雨は大雨で",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            84
+          ],
+          [
+            496,
+            925
+          ],
+          [
+            538,
+            84
+          ],
+          [
+            538,
+            925
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "洪水になるぞ、民を苦しめるほどの大雨を降",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            421,
+            87
+          ],
+          [
+            421,
+            920
+          ],
+          [
+            460,
+            87
+          ],
+          [
+            460,
+            920
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "らせなけりゃァならないから、わしゃつらい",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            343,
+            88
+          ],
+          [
+            343,
+            928
+          ],
+          [
+            385,
+            88
+          ],
+          [
+            385,
+            928
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "-と涙ながらいわれたから齎咨涕洟、未安",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            274,
+            96
+          ],
+          [
+            274,
+            438
+          ],
+          [
+            312,
+            96
+          ],
+          [
+            312,
+            438
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "上也という辞です」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            208,
+            146
+          ],
+          [
+            208,
+            318
+          ],
+          [
+            242,
+            146
+          ],
+          [
+            242,
+            318
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "と答えた。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            136,
+            154
+          ],
+          [
+            136,
+            933
+          ],
+          [
+            176,
+            154
+          ],
+          [
+            176,
+            933
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "誰も物を言う者がない。嘉右衛門の顔をま",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1329,
+            1040
+          ],
+          [
+            1329,
+            1562
+          ],
+          [
+            1376,
+            1040
+          ],
+          [
+            1376,
+            1562
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "じまじと眺めるだけだった。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            1184,
+            1085
+          ],
+          [
+            1184,
+            1900
+          ],
+          [
+            1237,
+            1085
+          ],
+          [
+            1237,
+            1900
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "やがて七月二十一日。宿から社務所へ出て",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1109,
+            1041
+          ],
+          [
+            1109,
+            1907
+          ],
+          [
+            1163,
+            1041
+          ],
+          [
+            1163,
+            1907
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "来た嘉右衛門に、待ち構えていた角田大宮司",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1035,
+            1042
+          ],
+          [
+            1035,
+            1914
+          ],
+          [
+            1089,
+            1042
+          ],
+          [
+            1089,
+            1914
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "が、 拭ったように晴れわたった空を見上げな",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            960,
+            1044
+          ],
+          [
+            960,
+            1139
+          ],
+          [
+            998,
+            1044
+          ],
+          [
+            998,
+            1139
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "がら、",
+        "isTextline": "true",
+        "confidence": 0.934
+      },
+      {
+        "boundingBox": [
+          [
+            884,
+            1065
+          ],
+          [
+            884,
+            1920
+          ],
+          [
+            936,
+            1065
+          ],
+          [
+            936,
+            1920
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "「先生今日ですよ。 若い神職たちが騒いでい",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            810,
+            1044
+          ],
+          [
+            810,
+            1948
+          ],
+          [
+            860,
+            1044
+          ],
+          [
+            860,
+            1948
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ますので、講義の時うまくなだめて下さいよ」",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            733,
+            1045
+          ],
+          [
+            733,
+            1812
+          ],
+          [
+            780,
+            1045
+          ],
+          [
+            780,
+            1812
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "と案じ顔で言った。嘉右衛門は平気で、",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            657,
+            1069
+          ],
+          [
+            657,
+            1934
+          ],
+          [
+            702,
+            1069
+          ],
+          [
+            702,
+            1934
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "「わしゃただ神意に感通して人間に通弁する",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            579,
+            1046
+          ],
+          [
+            579,
+            1935
+          ],
+          [
+            621,
+            1046
+          ],
+          [
+            621,
+            1935
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "だけのもんですよ。中るか中らないかわしの",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            499,
+            1047
+          ],
+          [
+            499,
+            1944
+          ],
+          [
+            542,
+            1047
+          ],
+          [
+            542,
+            1944
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "関与するところじゃない。けれども今まで神",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            420,
+            1048
+          ],
+          [
+            420,
+            1926
+          ],
+          [
+            462,
+            1048
+          ],
+          [
+            462,
+            1926
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "明は一回もわしを欺いたことがないから、一",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            343,
+            1051
+          ],
+          [
+            343,
+            1646
+          ],
+          [
+            383,
+            1051
+          ],
+          [
+            383,
+            1646
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "日待ってみたらいいでしょう」",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            266,
+            1095
+          ],
+          [
+            266,
+            1934
+          ],
+          [
+            307,
+            1095
+          ],
+          [
+            307,
+            1934
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "と答えて、平常通り授業し旅館へ立ち戻っ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            199,
+            1054
+          ],
+          [
+            199,
+            1109
+          ],
+          [
+            232,
+            1054
+          ],
+          [
+            232,
+            1109
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            126,
+            1052
+          ],
+          [
+            126,
+            1946
+          ],
+          [
+            163,
+            1052
+          ],
+          [
+            163,
+            1946
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "-すると午後二時頃になって雲湧き風起り、",
+        "isTextline": "true",
+        "confidence": 0.939
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4885.JPEG",
+    "img_name": "IMG_4885.JPEG"
+  }
+}

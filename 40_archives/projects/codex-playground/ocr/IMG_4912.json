@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1287,
+            132
+          ],
+          [
+            1287,
+            957
+          ],
+          [
+            1347,
+            132
+          ],
+          [
+            1347,
+            957
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "瑞穂国を、安国と平けく知食せと事依奉り",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1217,
+            129
+          ],
+          [
+            1217,
+            932
+          ],
+          [
+            1273,
+            129
+          ],
+          [
+            1273,
+            932
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "き。此く依奉りし国中に、荒振神等をば、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1138,
+            126
+          ],
+          [
+            1138,
+            961
+          ],
+          [
+            1195,
+            126
+          ],
+          [
+            1195,
+            961
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "神問はしに問賜ひ、神掃ひに揚賜ひて、語",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1061,
+            127
+          ],
+          [
+            1061,
+            978
+          ],
+          [
+            1115,
+            127
+          ],
+          [
+            1115,
+            978
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "問ひし磐根樹根立、草の片葉をも語止めて、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            982,
+            133
+          ],
+          [
+            982,
+            962
+          ],
+          [
+            1034,
+            133
+          ],
+          [
+            1034,
+            962
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "天の磐座放ち、天の八重雲を伊頭の千別き",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            906,
+            138
+          ],
+          [
+            906,
+            963
+          ],
+          [
+            955,
+            138
+          ],
+          [
+            955,
+            963
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "に千別きて、天降し依奉りき。此く依奉り",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            830,
+            143
+          ],
+          [
+            830,
+            964
+          ],
+          [
+            876,
+            143
+          ],
+          [
+            876,
+            964
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "し四方の国中と、大倭日高見国を、安国と",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            753,
+            146
+          ],
+          [
+            753,
+            966
+          ],
+          [
+            801,
+            146
+          ],
+          [
+            801,
+            966
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "定奉りて、下つ磐根に宮柱太敷立て、高天",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            154
+          ],
+          [
+            678,
+            969
+          ],
+          [
+            725,
+            154
+          ],
+          [
+            725,
+            969
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "原に千木高知りて、皇御孫命の瑞の御殿仕",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            605,
+            160
+          ],
+          [
+            605,
+            971
+          ],
+          [
+            649,
+            160
+          ],
+          [
+            649,
+            971
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "奉りて、天の御蔭日の御蔭と隠坐して、安",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            532,
+            166
+          ],
+          [
+            532,
+            971
+          ],
+          [
+            575,
+            166
+          ],
+          [
+            575,
+            971
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "国と平けく知食さむ。国中に成出でむ、天",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            460,
+            175
+          ],
+          [
+            460,
+            973
+          ],
+          [
+            500,
+            175
+          ],
+          [
+            500,
+            973
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "の益人等か、過犯しけむ種々の罪事は、天",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            387,
+            184
+          ],
+          [
+            387,
+            973
+          ],
+          [
+            428,
+            184
+          ],
+          [
+            428,
+            973
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "つ罪国つ罪、許許太久の罪出でむ。此く出",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            316,
+            185
+          ],
+          [
+            316,
+            976
+          ],
+          [
+            356,
+            185
+          ],
+          [
+            356,
+            976
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "でば、天つ宮事以ちて、天つ金木を本打切",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            245,
+            190
+          ],
+          [
+            245,
+            950
+          ],
+          [
+            285,
+            190
+          ],
+          [
+            285,
+            950
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "り末打断ちて、 千座の置座に置足はして、",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            173,
+            194
+          ],
+          [
+            173,
+            978
+          ],
+          [
+            215,
+            194
+          ],
+          [
+            215,
+            978
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "天つ菅麻を本刈断ち末刈切りて、八針に取",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            105,
+            198
+          ],
+          [
+            105,
+            871
+          ],
+          [
+            146,
+            198
+          ],
+          [
+            146,
+            871
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "辟きて、天つ祝詞の太祝詞事を宣れ。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1315,
+            1117
+          ],
+          [
+            1315,
+            2004
+          ],
+          [
+            1373,
+            1117
+          ],
+          [
+            1373,
+            2004
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "此く宣らば天つ神は、天の磐門を押披きて、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1239,
+            1118
+          ],
+          [
+            1239,
+            1993
+          ],
+          [
+            1296,
+            1118
+          ],
+          [
+            1296,
+            1993
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "天の八重雲を伊頭の千別きに千別きて聞食",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1162,
+            1119
+          ],
+          [
+            1162,
+            1993
+          ],
+          [
+            1216,
+            1119
+          ],
+          [
+            1216,
+            1993
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "さむ。国つ神は高山の末短山の末に上坐し",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1080,
+            1121
+          ],
+          [
+            1080,
+            1992
+          ],
+          [
+            1133,
+            1121
+          ],
+          [
+            1133,
+            1992
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "て、 高山の伊裏理短山の伊褒理を掻別けて",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            999,
+            1119
+          ],
+          [
+            999,
+            1988
+          ],
+          [
+            1052,
+            1119
+          ],
+          [
+            1052,
+            1988
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "聞食さむ。此く聞食してば、罪と云ふ罪は",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            918,
+            1119
+          ],
+          [
+            918,
+            1982
+          ],
+          [
+            972,
+            1119
+          ],
+          [
+            972,
+            1982
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "在らじと、科戸の風の天の八重雲を吹放つ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            1121
+          ],
+          [
+            842,
+            1983
+          ],
+          [
+            894,
+            1121
+          ],
+          [
+            894,
+            1983
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "事の如く、朝の御霧夕の御霧を、朝風夕風",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            765,
+            1125
+          ],
+          [
+            765,
+            1951
+          ],
+          [
+            813,
+            1125
+          ],
+          [
+            813,
+            1951
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "の吹払ふ事の如く、大津辺に居る大船を、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            687,
+            1121
+          ],
+          [
+            687,
+            1972
+          ],
+          [
+            735,
+            1121
+          ],
+          [
+            735,
+            1972
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "舳解放ち艫解放ちて、 大海原に押放つ事の",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            1123
+          ],
+          [
+            612,
+            1970
+          ],
+          [
+            657,
+            1123
+          ],
+          [
+            657,
+            1970
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "如く、彼方の繁木が本を、焼鎌の敏鎌以ち",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            537,
+            1126
+          ],
+          [
+            537,
+            1939
+          ],
+          [
+            580,
+            1126
+          ],
+          [
+            580,
+            1939
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "て、打掃ふ事の如く、遺る罪は在らじと、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            462,
+            1124
+          ],
+          [
+            462,
+            1962
+          ],
+          [
+            505,
+            1124
+          ],
+          [
+            505,
+            1962
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "祓給ひ清給ふ事を、高山の末、短山の末よ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            388,
+            1128
+          ],
+          [
+            388,
+            1977
+          ],
+          [
+            431,
+            1128
+          ],
+          [
+            431,
+            1977
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "り佐久那太理に落、多岐つ速川の瀬に坐す、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            315,
+            1126
+          ],
+          [
+            315,
+            1977
+          ],
+          [
+            356,
+            1126
+          ],
+          [
+            356,
+            1977
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "瀬織津比売と云ふ神、大海原に持出でなむ。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            243,
+            1127
+          ],
+          [
+            243,
+            1952
+          ],
+          [
+            284,
+            1127
+          ],
+          [
+            284,
+            1952
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "此く持出往なば、荒潮の潮の八百道の八潮",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            172,
+            1126
+          ],
+          [
+            172,
+            1948
+          ],
+          [
+            212,
+            1126
+          ],
+          [
+            212,
+            1948
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "道の、 速開部比売と云",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            101,
+            1132
+          ],
+          [
+            101,
+            1960
+          ],
+          [
+            140,
+            1132
+          ],
+          [
+            140,
+            1960
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "ふ神、持加加呑みてむ。此く加加呑みてば、",
+        "isTextline": "true",
+        "confidence": 0.95
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4912.JPEG",
+    "img_name": "IMG_4912.JPEG"
+  }
+}

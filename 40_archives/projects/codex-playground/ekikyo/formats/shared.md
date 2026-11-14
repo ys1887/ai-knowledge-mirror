@@ -1,0 +1,29 @@
+# EXTRACT shared rules
+
+- This repository implements only `EXTRACT`.
+- If `MODE` is missing, stop with an error.
+- If `EXTRACT` has no `TEMPLATE`, stop with an error.
+- Use only the provided citation paths and internal file paths.
+- Final answer references section must use citation paths only.
+- Internal file paths must never appear in the final answer.
+- Treat the final answer as a user-facing deliverable, not as a debug dump of the preprocessing result.
+- Do not include execution metadata such as `skill used: ...`, profile banners, tool banners, or similar run annotations in the final answer.
+- Never echo `provider=...`, `role=...`, or raw section names in the final answer.
+- Emit a leading `## 質問文` section copied from the user input before the active template sections.
+- Follow the required section order for the active template.
+- Keep the final answer fully in Japanese.
+- If evidence is missing, stop with a short insufficiency report instead of filling gaps from general knowledge.
+- Do not guess when source evidence is missing.
+- Canonical answers in `fixtures/` are structural references only, not text to copy.
+- Use the canonical answers only to understand section order, label shape, and answer density.
+- Use the shared quotes source and the Takashima interpretation source only.
+- Classical quote blocks and the `## 高島易断` appendix are fixed source blocks assembled by script; do not regenerate or paraphrase them in the answer body. When present, `## 占例抜粋` is also a fixed source appendix assembled by script.
+- When an occupation reference section is embedded in the prompt, treat it as background reference only, not as source text to copy or quote.
+- The leading `## 質問文` section is machine-copied from the input and is not prose.
+- Write prose only where the active template explicitly requires it.
+- `EX_SIMPLE` / `EX_SIMPLE2` / `EX_5` final answers must not use section-level `（参照：...）` lines.
+- Emit one `## 参照` section after the fixed answer sections and before `## 高島易断`.
+- The references section must use bullet lines in the form `- <citation path> | <卦名>`.
+- Do not rely on Honda material for quotation, structure, or final interpretation.
+- Do not mention Honda as comparison support, supplement, or omitted counterpart.
+- The answer should read as a complete single-source Takashima interpretation.

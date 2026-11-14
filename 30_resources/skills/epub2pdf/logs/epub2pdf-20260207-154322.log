@@ -1,0 +1,1001 @@
+[2026-02-07 15:43:22] Converter: /usr/bin/ebook-convert (native)
+[2026-02-07 15:43:22] Mode: directory
+[2026-02-07 15:43:22] Input dir: /mnt/e/Documents/Workspace/Sherlock Holmes
+[2026-02-07 15:43:22] Output dir: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl
+[2026-02-07 15:43:22] Recursive: 0
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/A Study in Scarlet.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of A Study in Scarlet
+	Detected chapter: CONTENTS A STUDY IN SCARLET. PART I. CHAPTER I. MR
+	Detected chapter: A STUDY IN SCARLET.
+	Detected chapter: PART I. (Being a reprint from the Reminiscences of
+	Detected chapter: PART I.
+	Detected chapter: CHAPTER I. MR. SHERLOCK HOLMES. In the year 1878 I
+	Detected chapter: CHAPTER I. MR. SHERLOCK HOLMES.
+	Detected chapter: CHAPTER II. THE SCIENCE OF DEDUCTION. We met next 
+	Detected chapter: CHAPTER II. THE SCIENCE OF DEDUCTION.
+	Detected chapter: CHAPTER III. THE LAURISTON GARDENS MYSTERY I confe
+	Detected chapter: CHAPTER III. THE LAURISTON GARDENS MYSTERY
+	Detected chapter: CHAPTER IV. WHAT JOHN RANCE HAD TO TELL. It was on
+	Detected chapter: CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.
+	Detected chapter: CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR. Our
+	Detected chapter: CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.
+	Detected chapter: CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO. T
+	Detected chapter: CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
+	Detected chapter: CHAPTER VII. LIGHT IN THE DARKNESS. The intelligen
+	Detected chapter: CHAPTER VII. LIGHT IN THE DARKNESS.
+	Detected chapter: PART II. The Country of the Saints.
+	Detected chapter: PART II. The Country of the Saints.
+	Detected chapter: CHAPTER I. ON THE GREAT ALKALI PLAIN. In the centr
+	Detected chapter: CHAPTER I. ON THE GREAT ALKALI PLAIN.
+	Detected chapter: CHAPTER II. THE FLOWER OF UTAH. This is not the pl
+	Detected chapter: CHAPTER II. THE FLOWER OF UTAH.
+	Detected chapter: CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET. 
+	Detected chapter: CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.
+	Detected chapter: CHAPTER IV. A FLIGHT FOR LIFE. On the morning whic
+	Detected chapter: CHAPTER IV. A FLIGHT FOR LIFE.
+	Detected chapter: CHAPTER V. THE AVENGING ANGELS. All night their co
+	Detected chapter: CHAPTER V. THE AVENGING ANGELS.
+	Detected chapter: CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF
+	Detected chapter: CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF
+	Detected chapter: CHAPTER VII. THE CONCLUSION. We had all been warne
+	Detected chapter: CHAPTER VII. THE CONCLUSION.
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 19 HTML files
+No suitable graphics backend found
+
+Merging 19 PDF render results, this could take a while...
+Merged (1/18) in 0.0 seconds
+Merged (2/18) in 0.0 seconds
+Merged (3/18) in 0.0 seconds
+Merged (4/18) in 0.0 seconds
+Merged (5/18) in 0.0 seconds
+Merged (6/18) in 0.0 seconds
+Merged (7/18) in 0.0 seconds
+Merged (8/18) in 0.0 seconds
+Merged (9/18) in 0.0 seconds
+Merged (10/18) in 0.0 seconds
+Merged (11/18) in 0.0 seconds
+Merged (12/18) in 0.0 seconds
+Merged (13/18) in 0.0 seconds
+Merged (14/18) in 0.0 seconds
+Merged (15/18) in 0.0 seconds
+Merged (16/18) in 0.0 seconds
+Merged (17/18) in 0.0 seconds
+Merged (18/18) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.4 KB to 10.4 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.2 KB to 19.9 KB
+Merged 34 instances of AAAAAA+LiberationSerif reducing size from 533.6 KB to 38.7 KB
+Merged 4 instances of BAAAAA+LiberationSerif-Bold reducing size from 35.8 KB to 27.1 KB
+Merged 18 instances of BAAAAA+LiberationSerif-Italic reducing size from 69.1 KB to 11.9 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/A Study in Scarlet.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/A Study in Scarlet.pdf
+[2026-02-07 15:43:26] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/A Study in Scarlet.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/A Study in Scarlet.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/Adventures of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of Adventures of Sherl
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_1 left margin of: 20%
+Removing level div_1 right margin of: 20%
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 7 HTML files
+No suitable graphics backend found
+
+Merging 7 PDF render results, this could take a while...
+Merged (1/6) in 0.0 seconds
+Merged (2/6) in 0.0 seconds
+Merged (3/6) in 0.0 seconds
+Merged (4/6) in 0.0 seconds
+Merged (5/6) in 0.0 seconds
+Merged (6/6) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 6 instances of AAAAAA+LiberationSerif-Bold reducing size from 74.2 KB to 27.8 KB
+Merged 6 instances of BAAAAA+LiberationSerif reducing size from 112.2 KB to 38.2 KB
+Merged 4 instances of CAAAAA+LiberationSerif-Italic reducing size from 25.6 KB to 14.4 KB
+Merged 4 instances of BAAAAA+LiberationSerif-Bold reducing size from 50.3 KB to 29.5 KB
+Merged 2 instances of CAAAAA+LiberationSerif reducing size from 36.5 KB to 35.1 KB
+Merged 4 instances of DAAAAA+LiberationSerif-Italic reducing size from 41.4 KB to 26.1 KB
+Merged 4 instances of AAAAAA+LiberationSerif reducing size from 73.7 KB to 37.6 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Italic reducing size from 14.6 KB to 13.5 KB
+Merged 2 instances of CAAAAA+LiberationSerif-Bold reducing size from 22.5 KB to 21.3 KB
+Merged 2 instances of CAAAAA+DejaVuSans reducing size from 26 KB to 25 KB
+Removed 36 duplicated Type3 glyphs
+Removed 3 duplicate images
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/Adventures of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/Adventures of Sherlock Holmes.pdf
+[2026-02-07 15:43:30] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/Adventures of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/Adventures of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/His last bow  Some later reminiscences of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of His last bow
+	Detected chapter: The Adventure of Wisteria Lodge The Singular Exper
+	Detected chapter: The Adventure of the Bruce-Partington Plans In the
+	Detected chapter: The Adventure of the Devil’s Foot In recording fro
+	Detected chapter: The Adventure of the Red Circle PART I “Well, Mrs.
+	Detected chapter: PART II As we walked rapidly down Howe Street I gl
+	Detected chapter: The Disappearance of Lady Frances Carfax “But why 
+	Detected chapter: The Adventure of the Dying Detective Mrs. Hudson, 
+	Detected chapter: His Last Bow: The War Service of Sherlock Holmes I
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.xhtml' from manifest
+Trimming 'OEBPS/toc.ncx' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 11 HTML files
+No suitable graphics backend found
+
+Merging 11 PDF render results, this could take a while...
+Merged (1/10) in 0.0 seconds
+Merged (2/10) in 0.0 seconds
+Merged (3/10) in 0.0 seconds
+Merged (4/10) in 0.0 seconds
+Merged (5/10) in 0.0 seconds
+Merged (6/10) in 0.0 seconds
+Merged (7/10) in 0.0 seconds
+Merged (8/10) in 0.0 seconds
+Merged (9/10) in 0.0 seconds
+Merged (10/10) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.2 KB to 10.2 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 32.8 KB to 31.4 KB
+Merged 2 instances of CAAAAA+LiberationSerif-Italic reducing size from 7.3 KB to 6.4 KB
+Merged 18 instances of AAAAAA+LiberationSerif reducing size from 317 KB to 39.6 KB
+Merged 16 instances of BAAAAA+LiberationSerif-Italic reducing size from 87.1 KB to 25.3 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/His last bow  Some later reminiscences of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/His last bow  Some later reminiscences of Sherlock Holmes.pdf
+[2026-02-07 15:43:33] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/His last bow  Some later reminiscences of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/His last bow  Some later reminiscences of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Adventure of the Dying Detective.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Adventure of th
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 3 HTML files
+No suitable graphics backend found
+
+Merging 3 PDF render results, this could take a while...
+Merged (1/2) in 0.0 seconds
+Merged (2/2) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 12 KB to 10.9 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 24 KB to 22.7 KB
+Merged 2 instances of AAAAAA+LiberationSerif reducing size from 37.5 KB to 36.1 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventure of the Dying Detective.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventure of the Dying Detective.pdf
+[2026-02-07 15:43:35] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Adventure of the Dying Detective.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventure of the Dying Detective.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Adventures of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Adventures of S
+	Detected chapter: I. A SCANDAL IN BOHEMIA I. To Sherlock Holmes she 
+	Detected chapter: II. THE RED-HEADED LEAGUE I had called upon my fri
+	Detected chapter: III. A CASE OF IDENTITY “My dear fellow,” said She
+	Detected chapter: IV. THE BOSCOMBE VALLEY MYSTERY We were seated at 
+	Detected chapter: V. THE FIVE ORANGE PIPS When I glance over my note
+	Detected chapter: VI. THE MAN WITH THE TWISTED LIP Isa Whitney, brot
+	Detected chapter: VII. THE ADVENTURE OF THE BLUE CARBUNCLE I had cal
+	Detected chapter: VIII. THE ADVENTURE OF THE SPECKLED BAND On glanci
+	Detected chapter: IX. THE ADVENTURE OF THE ENGINEER’S THUMB Of all t
+	Detected chapter: X. THE ADVENTURE OF THE NOBLE BACHELOR The Lord St
+	Detected chapter: XI. THE ADVENTURE OF THE BERYL CORONET “Holmes,” s
+	Detected chapter: XII. THE ADVENTURE OF THE COPPER BEECHES “To the m
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 15 HTML files
+No suitable graphics backend found
+
+Merging 15 PDF render results, this could take a while...
+Merged (1/14) in 0.0 seconds
+Merged (2/14) in 0.0 seconds
+Merged (3/14) in 0.0 seconds
+Merged (4/14) in 0.0 seconds
+Merged (5/14) in 0.0 seconds
+Merged (6/14) in 0.0 seconds
+Merged (7/14) in 0.0 seconds
+Merged (8/14) in 0.0 seconds
+Merged (9/14) in 0.0 seconds
+Merged (10/14) in 0.0 seconds
+Merged (11/14) in 0.0 seconds
+Merged (12/14) in 0.0 seconds
+Merged (13/14) in 0.0 seconds
+Merged (14/14) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 13 KB to 11.9 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 33.5 KB to 32.1 KB
+Merged 26 instances of AAAAAA+LiberationSerif reducing size from 464.6 KB to 39.1 KB
+Merged 22 instances of BAAAAA+LiberationSerif-Italic reducing size from 127.8 KB to 24.9 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventures of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventures of Sherlock Holmes.pdf
+[2026-02-07 15:43:39] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Adventures of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventures of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The case-book of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The case-book of Sh
+	Detected chapter: THE CASE-BOOK OF SHERLOCK HOLMES
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.xhtml' from manifest
+Trimming 'OEBPS/toc.ncx' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 5 HTML files
+No suitable graphics backend found
+
+Merging 5 PDF render results, this could take a while...
+Merged (1/4) in 0.0 seconds
+Merged (2/4) in 0.0 seconds
+Merged (3/4) in 0.0 seconds
+Merged (4/4) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 4 instances of AAAAAA+LiberationSerif-Bold reducing size from 26.2 KB to 15.1 KB
+Merged 4 instances of BAAAAA+LiberationSerif reducing size from 73.8 KB to 36.9 KB
+Merged 4 instances of CAAAAA+LiberationSerif-Italic reducing size from 23.2 KB to 13.8 KB
+Merged 4 instances of DAAAAA+LiberationMono reducing size from 19 KB to 11.1 KB
+Merged 4 instances of AAAAAA+LiberationSerif reducing size from 73.7 KB to 38.6 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Italic reducing size from 11.7 KB to 10.7 KB
+Merged 2 instances of CAAAAA+LiberationSerif-Bold reducing size from 10 KB to 9 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The case-book of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The case-book of Sherlock Holmes.pdf
+[2026-02-07 15:43:42] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The case-book of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The case-book of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Hound of the Baskervilles.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Hound of the Ba
+	Detected chapter: My dear Robinson, It was to your account of a West
+	Detected chapter: Contents Chapter 1 Mr. Sherlock Holmes Chapter 2 T
+	Detected chapter: Chapter 1. Mr. Sherlock Holmes Mr. Sherlock Holmes
+	Detected chapter: Chapter 1. Mr. Sherlock Holmes
+	Detected chapter: Chapter 2. The Curse of the Baskervilles “I have i
+	Detected chapter: Chapter 2. The Curse of the Baskervilles
+	Detected chapter: Chapter 3. The Problem I confess at these words a 
+	Detected chapter: Chapter 3. The Problem
+	Detected chapter: Chapter 4. Sir Henry Baskerville Our breakfast tab
+	Detected chapter: Chapter 4. Sir Henry Baskerville
+	Detected chapter: Chapter 5. Three Broken Threads Sherlock Holmes ha
+	Detected chapter: Chapter 5. Three Broken Threads
+	Detected chapter: Chapter 6. Baskerville Hall Sir Henry Baskerville 
+	Detected chapter: Chapter 6. Baskerville Hall
+	Detected chapter: Chapter 7. The Stapletons of Merripit House The fr
+	Detected chapter: Chapter 7. The Stapletons of Merripit House
+	Detected chapter: Chapter 8. First Report of Dr. Watson From this po
+	Detected chapter: Chapter 8. First Report of Dr. Watson
+	Detected chapter: Chapter 9. The Light upon the Moor [Second Report 
+	Detected chapter: Chapter 9. The Light upon the Moor [Second Report 
+	Detected chapter: Chapter 10. Extract from the Diary of Dr. Watson S
+	Detected chapter: Chapter 10. Extract from the Diary of Dr. Watson
+	Detected chapter: Chapter 11. The Man on the Tor The extract from my
+	Detected chapter: Chapter 11. The Man on the Tor
+	Detected chapter: Chapter 12. Death on the Moor For a moment or two 
+	Detected chapter: Chapter 12. Death on the Moor
+	Detected chapter: Chapter 13. Fixing the Nets Sir Henry was more ple
+	Detected chapter: Chapter 13. Fixing the Nets
+	Detected chapter: Chapter 14. The Hound of the Baskervilles One of S
+	Detected chapter: Chapter 14. The Hound of the Baskervilles
+	Detected chapter: Chapter 15. A Retrospection It was the end of Nove
+	Detected chapter: Chapter 15. A Retrospection
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 20 HTML files
+No suitable graphics backend found
+
+Merging 20 PDF render results, this could take a while...
+Merged (1/19) in 0.0 seconds
+Merged (2/19) in 0.0 seconds
+Merged (3/19) in 0.0 seconds
+Merged (4/19) in 0.0 seconds
+Merged (5/19) in 0.0 seconds
+Merged (6/19) in 0.0 seconds
+Merged (7/19) in 0.0 seconds
+Merged (8/19) in 0.0 seconds
+Merged (9/19) in 0.0 seconds
+Merged (10/19) in 0.0 seconds
+Merged (11/19) in 0.0 seconds
+Merged (12/19) in 0.0 seconds
+Merged (13/19) in 0.0 seconds
+Merged (14/19) in 0.0 seconds
+Merged (15/19) in 0.0 seconds
+Merged (16/19) in 0.0 seconds
+Merged (17/19) in 0.0 seconds
+Merged (18/19) in 0.0 seconds
+Merged (19/19) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.1 KB to 10.2 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.3 KB to 19.9 KB
+Merged 36 instances of AAAAAA+LiberationSerif reducing size from 574 KB to 39.4 KB
+Merged 26 instances of BAAAAA+LiberationSerif-Italic reducing size from 98 KB to 15.2 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Hound of the Baskervilles.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Hound of the Baskervilles.pdf
+[2026-02-07 15:43:46] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Hound of the Baskervilles.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Hound of the Baskervilles.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Memoirs of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Memoirs of Sher
+	Detected chapter: I. Silver Blaze I am afraid, Watson, that I shall 
+	Detected chapter: II. The Adventure of the Cardboard Box In choosing
+	Detected chapter: III. The Yellow Face In publishing these short ske
+	Detected chapter: IV. The Stockbroker’s Clerk Shortly after my marri
+	Detected chapter: V. The “Gloria Scott” “I have some papers here,” s
+	Detected chapter: VI. The Musgrave Ritual An anomaly which often str
+	Detected chapter: VII. The Reigate Squires It was some time before t
+	Detected chapter: VIII. The Crooked Man One summer night, a few mont
+	Detected chapter: IX. The Resident Patient In glancing over the some
+	Detected chapter: X. The Greek Interpreter During my long and intima
+	Detected chapter: XI. The Naval Treaty The July which immediately su
+	Detected chapter: XII. The Final Problem It is with a heavy heart th
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 15 HTML files
+No suitable graphics backend found
+
+Merging 15 PDF render results, this could take a while...
+Merged (1/14) in 0.0 seconds
+Merged (2/14) in 0.0 seconds
+Merged (3/14) in 0.0 seconds
+Merged (4/14) in 0.0 seconds
+Merged (5/14) in 0.0 seconds
+Merged (6/14) in 0.0 seconds
+Merged (7/14) in 0.0 seconds
+Merged (8/14) in 0.0 seconds
+Merged (9/14) in 0.0 seconds
+Merged (10/14) in 0.0 seconds
+Merged (11/14) in 0.0 seconds
+Merged (12/14) in 0.0 seconds
+Merged (13/14) in 0.0 seconds
+Merged (14/14) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.6 KB to 10.6 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 34.5 KB to 33.2 KB
+Merged 2 instances of CAAAAA+LiberationSerif-Italic reducing size from 7.1 KB to 6.1 KB
+Merged 26 instances of AAAAAA+LiberationSerif reducing size from 455.7 KB to 39.2 KB
+Merged 20 instances of BAAAAA+LiberationSerif-Italic reducing size from 96.4 KB to 17.4 KB
+Merged 2 instances of CAAAAA+LiberationSerif-Bold reducing size from 5 KB to 4.3 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Memoirs of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Memoirs of Sherlock Holmes.pdf
+[2026-02-07 15:43:50] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Memoirs of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Memoirs of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Return of Sherlock Holmes.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Return of Sherl
+	Detected chapter: THE ADVENTURE OF THE EMPTY HOUSE It was in the spr
+	Detected chapter: THE ADVENTURE OF THE NORWOOD BUILDER “From the poi
+	Detected chapter: THE ADVENTURE OF THE DANCING MEN Holmes had been s
+	Detected chapter: THE ADVENTURE OF THE SOLITARY CYCLIST From the yea
+	Detected chapter: THE ADVENTURE OF THE PRIORY SCHOOL We have had som
+	Detected chapter: THE ADVENTURE OF BLACK PETER I have never known my
+	Detected chapter: THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON It is 
+	Detected chapter: THE ADVENTURE OF THE SIX NAPOLEONS It was no very 
+	Detected chapter: THE ADVENTURE OF THE THREE STUDENTS It was in the 
+	Detected chapter: THE ADVENTURE OF THE GOLDEN PINCE-NEZ When I look 
+	Detected chapter: THE ADVENTURE OF THE MISSING THREE-QUARTER We were
+	Detected chapter: THE ADVENTURE OF THE ABBEY GRANGE It was on a bitt
+	Detected chapter: THE ADVENTURE OF THE SECOND STAIN I had intended “
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 16 HTML files
+No suitable graphics backend found
+
+Merging 16 PDF render results, this could take a while...
+Merged (1/15) in 0.0 seconds
+Merged (2/15) in 0.0 seconds
+Merged (3/15) in 0.0 seconds
+Merged (4/15) in 0.0 seconds
+Merged (5/15) in 0.0 seconds
+Merged (6/15) in 0.0 seconds
+Merged (7/15) in 0.0 seconds
+Merged (8/15) in 0.0 seconds
+Merged (9/15) in 0.0 seconds
+Merged (10/15) in 0.0 seconds
+Merged (11/15) in 0.0 seconds
+Merged (12/15) in 0.0 seconds
+Merged (13/15) in 0.0 seconds
+Merged (14/15) in 0.0 seconds
+Merged (15/15) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.2 KB to 10.3 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.9 KB to 20.6 KB
+Merged 28 instances of AAAAAA+LiberationSerif reducing size from 492.8 KB to 39.5 KB
+Merged 26 instances of BAAAAA+LiberationSerif-Italic reducing size from 164.9 KB to 25.2 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Return of Sherlock Holmes.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Return of Sherlock Holmes.pdf
+[2026-02-07 15:43:54] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Return of Sherlock Holmes.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Return of Sherlock Holmes.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Sign of the Fou
+	Detected chapter: 
+	Detected chapter: Chapter I The Science of Deduction Sherlock Holmes
+	Detected chapter: Chapter I The Science of Deduction
+	Detected chapter: Chapter II The Statement of the Case Miss Morstan 
+	Detected chapter: Chapter II The Statement of the Case
+	Detected chapter: Chapter III In Quest of a Solution It was half-pas
+	Detected chapter: Chapter III In Quest of a Solution
+	Detected chapter: Chapter IV The Story of the Bald-Headed Man We fol
+	Detected chapter: Chapter IV The Story of the Bald-Headed Man
+	Detected chapter: Chapter V The Tragedy of Pondicherry Lodge It was 
+	Detected chapter: Chapter V The Tragedy of Pondicherry Lodge
+	Detected chapter: Chapter VI Sherlock Holmes Gives a Demonstration “
+	Detected chapter: Chapter VI Sherlock Holmes Gives a Demonstration
+	Detected chapter: Chapter VII The Episode of the Barrel The police h
+	Detected chapter: Chapter VII The Episode of the Barrel
+	Detected chapter: Chapter VIII The Baker Street Irregulars “What now
+	Detected chapter: Chapter VIII The Baker Street Irregulars
+	Detected chapter: Chapter IX A Break in the Chain It was late in the
+	Detected chapter: Chapter IX A Break in the Chain
+	Detected chapter: Chapter X The End of the Islander Our meal was a m
+	Detected chapter: Chapter X The End of the Islander
+	Detected chapter: Chapter XI The Great Agra Treasure Our captive sat
+	Detected chapter: Chapter XI The Great Agra Treasure
+	Detected chapter: Chapter XII The Strange Story of Jonathan Small A 
+	Detected chapter: Chapter XII The Strange Story of Jonathan Small
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.ncx' from manifest
+Trimming 'OEBPS/toc.xhtml' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 15 HTML files
+No suitable graphics backend found
+
+Merging 15 PDF render results, this could take a while...
+Merged (1/14) in 0.0 seconds
+Merged (2/14) in 0.0 seconds
+Merged (3/14) in 0.0 seconds
+Merged (4/14) in 0.0 seconds
+Merged (5/14) in 0.0 seconds
+Merged (6/14) in 0.0 seconds
+Merged (7/14) in 0.0 seconds
+Merged (8/14) in 0.0 seconds
+Merged (9/14) in 0.0 seconds
+Merged (10/14) in 0.0 seconds
+Merged (11/14) in 0.0 seconds
+Merged (12/14) in 0.0 seconds
+Merged (13/14) in 0.0 seconds
+Merged (14/14) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 10.5 KB to 9.5 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.4 KB to 20.1 KB
+Merged 26 instances of AAAAAA+LiberationSerif reducing size from 444.7 KB to 39 KB
+Merged 18 instances of BAAAAA+LiberationSerif-Italic reducing size from 87 KB to 24.1 KB
+Merged 2 instances of BAAAAA+LiberationSerif-Bold reducing size from 27.1 KB to 26 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Sign of the Four.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Sign of the Four.pdf
+[2026-02-07 15:43:58] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Sign of the Four.pdf
+1% Converting input to HTML...
+QStandardPaths: wrong permissions on runtime directory /mnt/wslg/runtime-dir, 0777 instead of 0700
+qt.webenginecontext: 
+
+GL Type: disabled
+Surface Type: DefaultRenderableType
+Surface Profile: NoProfile
+Surface Version: 2.0
+QSG RHI Backend: OpenGL
+Using Supported QSG Backend: yes
+Using Software Dynamic GL: no
+Using Multithreaded OpenGL: no
+
+Init Parameters:
+  *  application-name ebook-convert 
+  *  browser-subprocess-path /usr/lib/qt6/libexec/QtWebEngineProcess 
+  *  disable-features ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-setuid-sandbox  
+  *  disable-speech-api  
+  *  enable-features NetworkServiceInProcess,TracingServiceInProcess 
+  *  enable-threaded-compositing  
+  *  in-process-gpu  
+  *  use-gl disabled 
+
+InputFormatPlugin: EPUB Input running
+on /mnt/e/Documents/Workspace/Sherlock Holmes/The Valley of Fear.epub
+Parsing all content...
+34% Running transforms on e-book...
+Merging user specified metadata...
+Detecting structure...
+	Detected chapter: The Project Gutenberg eBook of The Valley of Fear
+	Detected chapter: CONTENTS PART I—The Tragedy of Birlstone Chapter I
+	Detected chapter: Illustrations “What’s this, Mr. Holmes? Man, it’s 
+	Detected chapter: PART I The Tragedy of Birlstone
+	Detected chapter: PART I The Tragedy of Birlstone
+	Detected chapter: Chapter I The Warning “I am inclined to think—” sa
+	Detected chapter: Chapter I The Warning
+	Detected chapter: Chapter II Sherlock Holmes Discourses It was one o
+	Detected chapter: Chapter II Sherlock Holmes Discourses
+	Detected chapter: Chapter III The Tragedy of Birlstone Now for a mom
+	Detected chapter: Chapter III The Tragedy of Birlstone
+	Detected chapter: Chapter IV Darkness At three in the morning the ch
+	Detected chapter: Chapter IV Darkness
+	Detected chapter: Chapter V The People of the Drama “Have you seen a
+	Detected chapter: Chapter V The People of the Drama
+	Detected chapter: Chapter VI A Dawning Light The three detectives ha
+	Detected chapter: Chapter VI A Dawning Light
+	Detected chapter: Chapter VII The Solution Next morning, after break
+	Detected chapter: Chapter VII The Solution
+	Detected chapter: PART II The Scowrers
+	Detected chapter: PART II The Scowrers
+	Detected chapter: Chapter I The Man It was the fourth of February in
+	Detected chapter: Chapter I The Man
+	Detected chapter: Chapter II The Bodymaster McMurdo was a man who ma
+	Detected chapter: Chapter II The Bodymaster
+	Detected chapter: Chapter III Lodge 341, Vermissa On the day followi
+	Detected chapter: Chapter III Lodge 341, Vermissa
+	Detected chapter: Chapter IV The Valley of Fear When McMurdo awoke n
+	Detected chapter: Chapter IV The Valley of Fear
+	Detected chapter: Chapter V The Darkest Hour If anything had been ne
+	Detected chapter: Chapter V The Darkest Hour
+	Detected chapter: Chapter VI Danger It was the height of the reign o
+	Detected chapter: Chapter VI Danger
+	Detected chapter: Chapter VII The Trapping of Birdy Edwards As McMur
+	Detected chapter: Chapter VII The Trapping of Birdy Edwards
+	Detected chapter: Epilogue The police trial had passed, in which the
+	Detected chapter: Epilogue
+Flattening CSS and remapping font sizes...
+Source base font size is 12.00000pt
+Removing fake margins...
+Removing level div_2 left margin of: 2em
+Cleaning up manifest...
+Trimming unused files from manifest...
+Trimming 'OEBPS/toc.xhtml' from manifest
+Trimming 'OEBPS/toc.ncx' from manifest
+Creating PDF Output...
+67% Running PDF Output plugin
+The cover image has an id != "cover". Renaming to work around bug in Nook Color
+68% Parsed all content for markup transformation
+70% Completed markup transformation
+Rendering 20 HTML files
+No suitable graphics backend found
+
+Merging 20 PDF render results, this could take a while...
+Merged (1/19) in 0.0 seconds
+Merged (2/19) in 0.0 seconds
+Merged (3/19) in 0.0 seconds
+Merged (4/19) in 0.0 seconds
+Merged (5/19) in 0.0 seconds
+Merged (6/19) in 0.0 seconds
+Merged (7/19) in 0.0 seconds
+Merged (8/19) in 0.0 seconds
+Merged (9/19) in 0.0 seconds
+Merged (10/19) in 0.0 seconds
+Merged (11/19) in 0.0 seconds
+Merged (12/19) in 0.0 seconds
+Merged (13/19) in 0.0 seconds
+Merged (14/19) in 0.0 seconds
+Merged (15/19) in 0.0 seconds
+Merged (16/19) in 0.0 seconds
+Merged (17/19) in 0.0 seconds
+Merged (18/19) in 0.0 seconds
+Merged (19/19) in 0.0 seconds
+90% Rendered all HTML as PDF
+91% Added links to PDF content
+Removed 1 unused fonts
+Merged 2 instances of AAAAAA+LiberationSerif-Bold reducing size from 11.3 KB to 10.2 KB
+Merged 2 instances of BAAAAA+LiberationSerif reducing size from 21.7 KB to 20.3 KB
+Merged 36 instances of AAAAAA+LiberationSerif reducing size from 598.7 KB to 38.3 KB
+Merged 14 instances of BAAAAA+LiberationSerif-Bold reducing size from 149.6 KB to 28.2 KB
+Merged 16 instances of BAAAAA+LiberationSerif-Italic reducing size from 62.5 KB to 19.5 KB
+Merged 4 instances of CAAAAA+LiberationSerif-Bold reducing size from 46.1 KB to 24 KB
+100% Updated metadata in PDF
+PDF output written to /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Valley of Fear.pdf
+Output saved to   /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Valley of Fear.pdf
+[2026-02-07 15:44:02] OK: /mnt/e/Documents/Workspace/Sherlock Holmes/The Valley of Fear.epub -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Valley of Fear.pdf
+[2026-02-07 15:44:02] Summary: total=11 converted=11 skipped=0 failed=0
+[2026-02-07 15:44:02] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-154322.log

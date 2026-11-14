@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1256,
+            128
+          ],
+          [
+            1256,
+            914
+          ],
+          [
+            1324,
+            128
+          ],
+          [
+            1324,
+            914
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "されるのだ。だからわしは笠を探する時に八",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1184,
+            124
+          ],
+          [
+            1184,
+            914
+          ],
+          [
+            1251,
+            124
+          ],
+          [
+            1251,
+            914
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "分の力を使う。易を学んで判断を下すことや",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1113,
+            120
+          ],
+          [
+            1113,
+            933
+          ],
+          [
+            1179,
+            120
+          ],
+          [
+            1179,
+            933
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "勉強にはほんの二分ぐらいの力しか使わない。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1044,
+            116
+          ],
+          [
+            1044,
+            918
+          ],
+          [
+            1103,
+            116
+          ],
+          [
+            1103,
+            918
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "判断の巧拙ではなく、神人間の道交如何を問",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            974,
+            114
+          ],
+          [
+            974,
+            912
+          ],
+          [
+            1029,
+            114
+          ],
+          [
+            1029,
+            912
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "題として貰いたいのに、人は憶測に長じてい",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            903,
+            112
+          ],
+          [
+            903,
+            917
+          ],
+          [
+            956,
+            112
+          ],
+          [
+            956,
+            917
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "るとか言い廻しがうまいとか評し、この妙境",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            829,
+            108
+          ],
+          [
+            829,
+            916
+          ],
+          [
+            880,
+            108
+          ],
+          [
+            880,
+            916
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "を理解しようともしない。日常俗事に煩わさ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            107
+          ],
+          [
+            757,
+            916
+          ],
+          [
+            805,
+            107
+          ],
+          [
+            805,
+            916
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "れがちのわしにしてこの通り。況んや神明に",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            683,
+            104
+          ],
+          [
+            683,
+            918
+          ],
+          [
+            731,
+            104
+          ],
+          [
+            731,
+            918
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "近く侍って、日々これ奉仕の諸君が、神に感",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            608,
+            104
+          ],
+          [
+            608,
+            919
+          ],
+          [
+            654,
+            104
+          ],
+          [
+            654,
+            919
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "到することはより易々たるものがあろう。諸",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            534,
+            104
+          ],
+          [
+            534,
+            919
+          ],
+          [
+            578,
+            104
+          ],
+          [
+            578,
+            919
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "君、現下ヤソ教浸透に処する法如何。今にし",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            459,
+            108
+          ],
+          [
+            459,
+            919
+          ],
+          [
+            501,
+            108
+          ],
+          [
+            501,
+            919
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "て人民の尊敬と信頼を得ておかねば、悔いを",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            384,
+            108
+          ],
+          [
+            384,
+            919
+          ],
+          [
+            427,
+            108
+          ],
+          [
+            427,
+            919
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "千載に残すだろう。諸君が神明の行事の中に",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            309,
+            113
+          ],
+          [
+            309,
+            925
+          ],
+          [
+            353,
+            113
+          ],
+          [
+            353,
+            925
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "易占を取入れ、毎朝齋戒沐浴心身を潔めて神",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            239,
+            120
+          ],
+          [
+            239,
+            918
+          ],
+          [
+            285,
+            120
+          ],
+          [
+            285,
+            918
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "前に勤仕するなら、そこへ氏子のうちで困っ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            173,
+            135
+          ],
+          [
+            173,
+            905
+          ],
+          [
+            218,
+            135
+          ],
+          [
+            218,
+            905
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ている者がやって来、一筮を求めるだろう。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            108,
+            147
+          ],
+          [
+            108,
+            936
+          ],
+          [
+            157,
+            147
+          ],
+          [
+            157,
+            936
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ト占は不売である。金銀の謝礼を受けず親切",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1294,
+            1036
+          ],
+          [
+            1294,
+            1922
+          ],
+          [
+            1366,
+            1036
+          ],
+          [
+            1366,
+            1922
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "に教示してこそ、初めて神官の名に値いする。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1223,
+            1035
+          ],
+          [
+            1223,
+            1906
+          ],
+          [
+            1289,
+            1035
+          ],
+          [
+            1289,
+            1906
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "前途の禍福に迷っている人は多い。それ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            1034
+          ],
+          [
+            1147,
+            1915
+          ],
+          [
+            1213,
+            1034
+          ],
+          [
+            1213,
+            1915
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "が誰に相談しようもない所から、 至って下劣",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1074,
+            1035
+          ],
+          [
+            1074,
+            1915
+          ],
+          [
+            1136,
+            1035
+          ],
+          [
+            1136,
+            1915
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "なうらない者にうらない者でさえあれば悩み",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1000,
+            1035
+          ],
+          [
+            1000,
+            1920
+          ],
+          [
+            1056,
+            1035
+          ],
+          [
+            1056,
+            1920
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "をといてくれると迷い込んで、いよいよ苦し",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            924,
+            1036
+          ],
+          [
+            924,
+            1927
+          ],
+          [
+            981,
+            1036
+          ],
+          [
+            981,
+            1927
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "むという悪循環があるのに気付くべきだ。国",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            1037
+          ],
+          [
+            846,
+            1901
+          ],
+          [
+            902,
+            1037
+          ],
+          [
+            902,
+            1901
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "民尊崇の対象ともいうべき神社を背景にし、",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            771,
+            1039
+          ],
+          [
+            771,
+            1935
+          ],
+          [
+            821,
+            1039
+          ],
+          [
+            821,
+            1935
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "日常行事も明々白々、その心映え着ている白",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            693,
+            1039
+          ],
+          [
+            693,
+            1939
+          ],
+          [
+            742,
+            1039
+          ],
+          [
+            742,
+            1939
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "衣に象徴されている神官こそ、最も適格な開",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            616,
+            1039
+          ],
+          [
+            616,
+            1939
+          ],
+          [
+            662,
+            1039
+          ],
+          [
+            662,
+            1939
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "運指導者ではないか。若し易占をしてくれる",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            537,
+            1039
+          ],
+          [
+            537,
+            1939
+          ],
+          [
+            582,
+            1039
+          ],
+          [
+            582,
+            1939
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "神官が病気で寝込んだときなどは郵便電信の",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            459,
+            1041
+          ],
+          [
+            459,
+            1946
+          ],
+          [
+            503,
+            1041
+          ],
+          [
+            503,
+            1946
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "通じない事と同じ不便さから、皆が心配し快",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            380,
+            1043
+          ],
+          [
+            380,
+            1947
+          ],
+          [
+            423,
+            1043
+          ],
+          [
+            423,
+            1947
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "癒の一日も早きを祈ってくれるだろう。世情",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            301,
+            1047
+          ],
+          [
+            301,
+            1945
+          ],
+          [
+            346,
+            1047
+          ],
+          [
+            346,
+            1945
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "は必ずしも純ではない。いや、至る所譎詐百",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            225,
+            1045
+          ],
+          [
+            225,
+            1943
+          ],
+          [
+            271,
+            1045
+          ],
+          [
+            271,
+            1943
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "端真に信頼出来るものが少ない今こそ、日本",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            154,
+            1055
+          ],
+          [
+            154,
+            1935
+          ],
+          [
+            199,
+            1055
+          ],
+          [
+            199,
+            1935
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "の神官のみ決して偽言なしという好評を得た",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            89,
+            1054
+          ],
+          [
+            89,
+            1927
+          ],
+          [
+            133,
+            1054
+          ],
+          [
+            133,
+            1927
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "なら、世界独歩の宗教として、神道の興隆は",
+        "isTextline": "true",
+        "confidence": 0.952
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4881.JPEG",
+    "img_name": "IMG_4881.JPEG"
+  }
+}

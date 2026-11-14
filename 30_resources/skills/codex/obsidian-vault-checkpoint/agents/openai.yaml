@@ -1,0 +1,3 @@
+display_name: Obsidian Vault Checkpoint
+short_description: Create a protective local Git checkpoint before AI edits Markdown in an Obsidian vault.
+default_prompt: Run the Obsidian vault checkpoint workflow from the current directory before making Markdown edits.

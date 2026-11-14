@@ -1,0 +1,40 @@
+# EX_5 output skeleton
+
+- Order: `**核心・結論**` -> `**本卦（<卦名>）**` -> `**変爻**` -> auxiliary hexagrams in input order -> interpretation section(s).
+- In `legacy`, the interpretation section(s) must be exactly `**本田解釈**` then `**高島解釈**`.
+- In single-source profiles, output exactly one interpretation section with the profile label only.
+- The main hexagram remains the governing frame for the reading; state the overall situation there before using any auxiliary material.
+- Main hexagram uses `kaji`, `tanden`, `taisho`, and required `yao_n`.
+- In `legacy`, within `**本卦（<卦名>）**`, keep the order `序卦伝` -> `卦辞` -> `彖伝` -> `大象伝` when those sections are available from the selected material.
+- In `legacy`, within `**本卦（<卦名>）**`, emit explicit subsection headings as `### 序卦伝`, `### 卦辞`, `### 彖伝`, and `### 大象伝` whenever those sections are present.
+- In `honda` and `takashima`, within `**本卦（<卦名>）**`, keep the order `卦辞` -> `彖伝` -> `大象伝`.
+- In `honda` and `takashima`, within `**本卦（<卦名>）**`, emit explicit subsection headings as `### 卦辞`, `### 彖伝`, and `### 大象伝`.
+- In each main-hexagram subsection, quote the original text first, then include its reading immediately after the quote, then one short explanatory paragraph.
+- Each quoted main-hexagram subsection must end with exactly one citation line in the form `（参照：<citation path>|<卦名> - <項目名>）`.
+- Auxiliary hexagrams use `kaji`, `tanden`, and `taisho` only.
+- For each auxiliary hexagram, keep the order `卦辞` -> `彖伝` -> `大象伝`.
+- For each auxiliary hexagram, emit explicit subsection headings as `### 卦辞`, `### 彖伝`, and `### 大象伝`.
+- In each auxiliary-hexagram subsection, quote the original text first, then include its reading immediately after the quote, then one short explanatory paragraph.
+- Each quoted auxiliary-hexagram subsection must end with exactly one citation line in the form `（参照：<citation path>|<卦名> - <項目名>）`.
+- Do not read or cite auxiliary changing lines.
+- If `変爻：なし`, keep the `**変爻**` section and explain that the main hexagram governs the reading.
+- If `変爻` exists, output one `**変爻（<変爻>）**` block per changing line in input order.
+- Within each `**変爻（<変爻>）**` block, do not emit `### 爻辞` or `### 小象伝` headings.
+- Present the changing-line evidence as one unified block: `爻辞`, optional `小象伝`, their readings, then one interpretation paragraph that synthesizes both.
+- Each changing-line block must end with exactly one citation line in the form `（参照：<citation path>|<卦名> - <項目名>）`.
+- If `之卦：なし`, do not fabricate a `之卦` section.
+- The changing line(s) on the main hexagram are the strongest evidence for case-specific conditions, warnings, or corrections.
+- Auxiliary hexagrams are supporting structure only; do not let them overtake the main hexagram or changing line(s) as the decision-making center.
+- In single-source profiles for this template, the answer must contain only that profile's interpretation label and citation family.
+- In single-source profiles, do not output any other profile-labeled interpretation section.
+- Outside `**核心・結論**` and the final interpretation section(s), do not restate the user's concrete question, options, or domain terms; keep subsection prose focused only on hexagram logic, governing conditions, and supporting structure.
+- Interpretation should synthesize the main hexagram first, then auxiliary hexagrams as supporting structure.
+- Only the interpretation section(s) may reconnect the reading to the user's concrete scenario.
+- In `honda`, never emit standalone `### 序卦伝` or `### 文言伝`.
+- In `honda`, `序卦伝` may be used only inside `**本田解釈**` to explain the flow across `本卦` and the auxiliary hexagrams actually present in the input.
+- In `honda`, if any involved hexagram is `乾為天` or `坤為地`, `文言伝` may be used only as optional support inside `**本田解釈**`.
+- Do not append profile notes, evidence-scope notes, implementation notes, or other meta commentary after the interpretation section(s).
+- Do not prepend any execution metadata line before `**核心・結論**`.
+- Use one citation line per actually used hexagram in interpretation sections, and never cite section paths.
+- Interpretation citation lines must use the form `（参照：<citation path>|<卦名>）`.
+- Do not replace per-section citation lines with `引用:` blocks, bullet lists, or backticked path lists.

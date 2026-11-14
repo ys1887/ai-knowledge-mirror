@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1344,
+            133
+          ],
+          [
+            1344,
+            964
+          ],
+          [
+            1395,
+            133
+          ],
+          [
+            1395,
+            964
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "期して待つべきものがあるだろう。仏教とヤ",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1280,
+            126
+          ],
+          [
+            1280,
+            963
+          ],
+          [
+            1329,
+            126
+          ],
+          [
+            1329,
+            963
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ソ教とは人の心魂を支配し、天国・地獄・極",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1207,
+            113
+          ],
+          [
+            1207,
+            962
+          ],
+          [
+            1254,
+            113
+          ],
+          [
+            1254,
+            962
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "楽を説いて、来世の道しるべとなっている未",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1131,
+            111
+          ],
+          [
+            1131,
+            958
+          ],
+          [
+            1176,
+            111
+          ],
+          [
+            1176,
+            958
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "来教だ。そこへゆくと易は現在日常の実事に",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            117
+          ],
+          [
+            1055,
+            960
+          ],
+          [
+            1097,
+            117
+          ],
+          [
+            1097,
+            960
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "ついて指導する教えだからいわば現世教であ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            975,
+            113
+          ],
+          [
+            975,
+            960
+          ],
+          [
+            1019,
+            113
+          ],
+          [
+            1019,
+            960
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "る。仏・基両教を湯屋とすれば易教は散髪屋",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            899,
+            112
+          ],
+          [
+            899,
+            959
+          ],
+          [
+            942,
+            112
+          ],
+          [
+            942,
+            959
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "だ。隣どうし仲良く業を営んでいったならお",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            823,
+            117
+          ],
+          [
+            823,
+            959
+          ],
+          [
+            865,
+            117
+          ],
+          [
+            865,
+            959
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "互いに便利で人に好まれるだろう。いたずら",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            747,
+            127
+          ],
+          [
+            747,
+            962
+          ],
+          [
+            789,
+            127
+          ],
+          [
+            789,
+            962
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "に目に角立ててヤソ教到来を案じるより、実",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            671,
+            130
+          ],
+          [
+            671,
+            977
+          ],
+          [
+            715,
+            130
+          ],
+          [
+            715,
+            977
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "用の易占を駆使して、遂には外国宣教師をも、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            596,
+            135
+          ],
+          [
+            596,
+            962
+          ],
+          [
+            642,
+            135
+          ],
+          [
+            642,
+            962
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "あのお宮の神主さんのところで此の問題を解",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            525,
+            148
+          ],
+          [
+            525,
+            962
+          ],
+          [
+            572,
+            148
+          ],
+          [
+            572,
+            962
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "いてもらおう、という風に言わせるようにな",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            453,
+            150
+          ],
+          [
+            453,
+            939
+          ],
+          [
+            502,
+            150
+          ],
+          [
+            502,
+            939
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "れば、神道の興隆は自ら成るにちがいない。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            380,
+            152
+          ],
+          [
+            380,
+            960
+          ],
+          [
+            433,
+            152
+          ],
+          [
+            433,
+            960
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "諸君はわしの易占的中をきき知って、あれは",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            311,
+            158
+          ],
+          [
+            311,
+            957
+          ],
+          [
+            363,
+            158
+          ],
+          [
+            363,
+            957
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "高島だから出来るんだろう。誰でもがそうい",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            241,
+            164
+          ],
+          [
+            241,
+            962
+          ],
+          [
+            293,
+            164
+          ],
+          [
+            293,
+            962
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "うわけにはまいらんと思うか知れないが、そ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            171,
+            174
+          ],
+          [
+            171,
+            964
+          ],
+          [
+            227,
+            174
+          ],
+          [
+            227,
+            964
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "んな心配は無用のことである。前にここの講",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1365,
+            1089
+          ],
+          [
+            1365,
+            1997
+          ],
+          [
+            1413,
+            1089
+          ],
+          [
+            1413,
+            1997
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "究所から高山(後に伏見稲荷宮司となる)鈴",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1292,
+            1088
+          ],
+          [
+            1292,
+            2000
+          ],
+          [
+            1337,
+            1088
+          ],
+          [
+            1337,
+            2000
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "木等がわしの洋学校へ派遣されわしの易をき",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1215,
+            1093
+          ],
+          [
+            1215,
+            1997
+          ],
+          [
+            1260,
+            1093
+          ],
+          [
+            1260,
+            1997
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "いて帰った。 彼らは僅々数ケ月の学習でだい",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            1087
+          ],
+          [
+            1136,
+            2003
+          ],
+          [
+            1179,
+            1087
+          ],
+          [
+            1179,
+            2003
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "たいの所は掴んだ筈である。わしとしても特",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            1086
+          ],
+          [
+            1055,
+            1997
+          ],
+          [
+            1098,
+            1086
+          ],
+          [
+            1098,
+            1997
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "別の教育をうけたわけではなく、牢屋に入れ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            974,
+            1087
+          ],
+          [
+            974,
+            1995
+          ],
+          [
+            1017,
+            1087
+          ],
+          [
+            1017,
+            1995
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "られていた時少暇をぬすんで自習したにすぎ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            893,
+            1084
+          ],
+          [
+            893,
+            1989
+          ],
+          [
+            938,
+            1084
+          ],
+          [
+            938,
+            1989
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ない者だ。諸君はわしなどよりずっと教養も",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            1083
+          ],
+          [
+            814,
+            1982
+          ],
+          [
+            859,
+            1083
+          ],
+          [
+            859,
+            1982
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ある、資質も上等である。したがって、易を",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            736,
+            1082
+          ],
+          [
+            736,
+            1976
+          ],
+          [
+            783,
+            1082
+          ],
+          [
+            783,
+            1976
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "学んで筮する時一毫の私欲妄念を起しさえし",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            657,
+            1083
+          ],
+          [
+            657,
+            1973
+          ],
+          [
+            706,
+            1083
+          ],
+          [
+            706,
+            1973
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "なければ、より以上すぐれた占断が出来る筈",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            580,
+            1085
+          ],
+          [
+            580,
+            1966
+          ],
+          [
+            631,
+            1085
+          ],
+          [
+            631,
+            1966
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "である。 諸君が此の有",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            505,
+            1082
+          ],
+          [
+            505,
+            1957
+          ],
+          [
+            556,
+            1082
+          ],
+          [
+            556,
+            1957
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "為な学術を身につけ、世のため人のため役立",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            434,
+            1082
+          ],
+          [
+            434,
+            1950
+          ],
+          [
+            483,
+            1082
+          ],
+          [
+            483,
+            1950
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "たせ神官としてのよりよい奉仕をなされるよ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            372,
+            1081
+          ],
+          [
+            372,
+            1180
+          ],
+          [
+            408,
+            1081
+          ],
+          [
+            408,
+            1180
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "うに」",
+        "isTextline": "true",
+        "confidence": 0.928
+      },
+      {
+        "boundingBox": [
+          [
+            285,
+            1123
+          ],
+          [
+            285,
+            1941
+          ],
+          [
+            336,
+            1123
+          ],
+          [
+            336,
+            1941
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "と、嘉右衛門は、用意して来ていた『高島",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            213,
+            1080
+          ],
+          [
+            213,
+            1934
+          ],
+          [
+            267,
+            1080
+          ],
+          [
+            267,
+            1934
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "易占』 (明治十三年版)を一組宛て来会の神官",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            156,
+            1084
+          ],
+          [
+            156,
+            1512
+          ],
+          [
+            198,
+            1084
+          ],
+          [
+            198,
+            1512
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "に頒けて、一人一人に、",
+        "isTextline": "true",
+        "confidence": 0.944
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4882.JPEG",
+    "img_name": "IMG_4882.JPEG"
+  }
+}

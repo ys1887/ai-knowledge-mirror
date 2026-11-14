@@ -1,0 +1,737 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1279,
+            149
+          ],
+          [
+            1279,
+            846
+          ],
+          [
+            1336,
+            149
+          ],
+          [
+            1336,
+            846
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "第四章易者・高島嘉右衛門",
+        "isTextline": "true",
+        "confidence": 0.84
+      },
+      {
+        "boundingBox": [
+          [
+            978,
+            186
+          ],
+          [
+            978,
+            494
+          ],
+          [
+            1023,
+            186
+          ],
+          [
+            1023,
+            494
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "一学者と易者",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            815,
+            130
+          ],
+          [
+            815,
+            943
+          ],
+          [
+            864,
+            130
+          ],
+          [
+            864,
+            943
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "明治九年(一八七六)、彼は実業界から引退",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            744,
+            91
+          ],
+          [
+            744,
+            610
+          ],
+          [
+            787,
+            91
+          ],
+          [
+            787,
+            610
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "することを世間に発表した。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            660,
+            134
+          ],
+          [
+            660,
+            940
+          ],
+          [
+            712,
+            134
+          ],
+          [
+            712,
+            940
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "横浜ガス会社を始めて三年目である。彼が",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            95
+          ],
+          [
+            585,
+            939
+          ],
+          [
+            638,
+            95
+          ],
+          [
+            638,
+            939
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "事業を横浜市に譲渡した時、さきに記したよ",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            508,
+            99
+          ],
+          [
+            508,
+            939
+          ],
+          [
+            561,
+            99
+          ],
+          [
+            561,
+            939
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "うな前渡金の問題で、市民と区戸長との間に",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            430,
+            101
+          ],
+          [
+            430,
+            941
+          ],
+          [
+            488,
+            101
+          ],
+          [
+            488,
+            941
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "悶着が起り、収拾のつかぬ疑獄事件にまで発",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            361,
+            103
+          ],
+          [
+            361,
+            743
+          ],
+          [
+            414,
+            103
+          ],
+          [
+            414,
+            743
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "展してしまったから彼は自責した。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            279,
+            148
+          ],
+          [
+            279,
+            940
+          ],
+          [
+            339,
+            148
+          ],
+          [
+            339,
+            940
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "それで町の有力者に頼んで和解の方法を講",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            208,
+            110
+          ],
+          [
+            208,
+            915
+          ],
+          [
+            268,
+            110
+          ],
+          [
+            268,
+            915
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "じ、実業界からの引退を声明したのである。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            133,
+            116
+          ],
+          [
+            133,
+            937
+          ],
+          [
+            196,
+            116
+          ],
+          [
+            196,
+            937
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "(といっても実業界ではまだまだ彼を必要と",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            1363,
+            1080
+          ],
+          [
+            1363,
+            1963
+          ],
+          [
+            1410,
+            1080
+          ],
+          [
+            1410,
+            1963
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "していたから、それからの三十年間の方が、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1290,
+            1078
+          ],
+          [
+            1290,
+            1991
+          ],
+          [
+            1336,
+            1078
+          ],
+          [
+            1336,
+            1991
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "かえって多くの事業に関係せざるを得なかっ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1213,
+            1075
+          ],
+          [
+            1213,
+            2005
+          ],
+          [
+            1257,
+            1075
+          ],
+          [
+            1257,
+            2005
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "た。北海道炭礦も、愛知セメントも、東京市",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1132,
+            1072
+          ],
+          [
+            1132,
+            2005
+          ],
+          [
+            1177,
+            1072
+          ],
+          [
+            1177,
+            2005
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "街鉄道も、皆彼の五十代の仕事である。実業",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1072
+          ],
+          [
+            1049,
+            1974
+          ],
+          [
+            1095,
+            1072
+          ],
+          [
+            1095,
+            1974
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "界から引退することを声明した彼としては、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            965,
+            1071
+          ],
+          [
+            965,
+            2001
+          ],
+          [
+            1015,
+            1071
+          ],
+          [
+            1015,
+            2001
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "不本意なことだったが、 人間の最も働き盛り",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            883,
+            1074
+          ],
+          [
+            883,
+            1998
+          ],
+          [
+            933,
+            1074
+          ],
+          [
+            933,
+            1998
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の四十代、五十代から円熟の七十代まで、使",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            802,
+            1068
+          ],
+          [
+            802,
+            1842
+          ],
+          [
+            852,
+            1068
+          ],
+          [
+            852,
+            1842
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "える人を世間が放っておく筈はない。)",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            721,
+            1113
+          ],
+          [
+            721,
+            1983
+          ],
+          [
+            772,
+            1113
+          ],
+          [
+            772,
+            1983
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "それはともかく、明治九年以来、彼は易に",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            640,
+            1065
+          ],
+          [
+            640,
+            1980
+          ],
+          [
+            695,
+            1065
+          ],
+          [
+            695,
+            1980
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "精魂を打ち込んだが、その研究をはじめて公",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            560,
+            1068
+          ],
+          [
+            560,
+            1979
+          ],
+          [
+            616,
+            1068
+          ],
+          [
+            616,
+            1979
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "にしたのは明治十三年(一八八〇)の『高島",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            498,
+            1064
+          ],
+          [
+            498,
+            1348
+          ],
+          [
+            539,
+            1064
+          ],
+          [
+            539,
+            1348
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "易占』である。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            400,
+            1110
+          ],
+          [
+            400,
+            1987
+          ],
+          [
+            461,
+            1110
+          ],
+          [
+            461,
+            1987
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "三年後の十六年に第二編、十八年に第三編、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            322,
+            1067
+          ],
+          [
+            322,
+            1964
+          ],
+          [
+            385,
+            1067
+          ],
+          [
+            385,
+            1964
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "二十一年に第四編が出ている。しかし十九年",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            246,
+            1065
+          ],
+          [
+            246,
+            1956
+          ],
+          [
+            308,
+            1065
+          ],
+          [
+            308,
+            1956
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "には、『高島易断』が出、以後『高島易占』は",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            167,
+            1061
+          ],
+          [
+            167,
+            1954
+          ],
+          [
+            234,
+            1061
+          ],
+          [
+            234,
+            1954
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "易断の方に昇華してしまって重版は二十一年",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            91,
+            1060
+          ],
+          [
+            91,
+            1933
+          ],
+          [
+            159,
+            1060
+          ],
+          [
+            159,
+            1933
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "を最後に行われなくなっている。『高島易断』",
+        "isTextline": "true",
+        "confidence": 0.96
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4858.JPEG",
+    "img_name": "IMG_4858.JPEG"
+  }
+}

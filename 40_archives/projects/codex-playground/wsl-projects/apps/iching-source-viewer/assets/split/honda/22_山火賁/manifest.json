@@ -1,0 +1,20 @@
+{
+  "number": 22,
+  "name": "山火賁",
+  "yomi": "さんかひ",
+  "source": "honda_wataru",
+  "source_file": "honda_wataru/22_山火賁.md",
+  "sections": {
+    "keywords": "keywords.md",
+    "jokaden": "jokaden.md",
+    "kaji": "kaji.md",
+    "tanden": "tanden.md",
+    "taisho": "taisho.md",
+    "yao_1": "yao_1.md",
+    "yao_2": "yao_2.md",
+    "yao_3": "yao_3.md",
+    "yao_4": "yao_4.md",
+    "yao_5": "yao_5.md",
+    "yao_6": "yao_6.md"
+  }
+}

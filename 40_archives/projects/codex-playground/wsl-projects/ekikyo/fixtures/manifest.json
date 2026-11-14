@@ -1,0 +1,67 @@
+{
+  "cases": [
+    {
+      "id": "extract-standard-test-simple",
+      "kind": "standard",
+      "template": "EX_SIMPLE",
+      "input": "fixtures/test_simple.md",
+      "expected_answer": "fixtures/test_simple_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["本卦", "変爻"],
+      "recommended_elements": ["彖伝", "大象伝", "高島解釈"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-ex5-noline",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "fixtures/test_ex5_noline.md",
+      "expected_answer": "fixtures/test_ex5_noline_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-ex5",
+      "kind": "complex",
+      "template": "EX_5",
+      "input": "fixtures/test_ex5.md",
+      "expected_answer": "fixtures/test_ex5_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["本卦", "変爻", "補助卦"],
+      "recommended_elements": ["之卦", "互卦", "錯卦", "綜卦", "高島解釈"],
+      "has_auxiliary_hexagrams": true,
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-standard-test-simple2",
+      "kind": "standard",
+      "template": "EX_SIMPLE2",
+      "input": "fixtures/test_simple2.md",
+      "expected_answer": "fixtures/test_simple2_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["本卦", "変爻", "之卦"],
+      "recommended_elements": ["之卦", "古典引用ブロック", "高島解釈"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-compare-test-compare",
+      "kind": "compare",
+      "template": "EX_COMPARE",
+      "input": "fixtures/test_compare.md",
+      "expected_answer": "fixtures/test_compare_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "吉凶順位", "まとめ"],
+      "minimum_candidate_details": 2,
+      "recommended_elements": ["候補別詳細", "推薦候補の明示"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[2026-02-07 15:44:05] Converter: /usr/bin/ebook-convert (native)
+[2026-02-07 15:44:05] Mode: directory
+[2026-02-07 15:44:05] Input dir: /mnt/e/Documents/Workspace/Sherlock Holmes
+[2026-02-07 15:44:05] Output dir: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl
+[2026-02-07 15:44:05] Recursive: 0
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/A Study in Scarlet.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/Adventures of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/His last bow  Some later reminiscences of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventure of the Dying Detective.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Adventures of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The case-book of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Hound of the Baskervilles.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Memoirs of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Return of Sherlock Holmes.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Sign of the Four.pdf
+[2026-02-07 15:44:05] SKIP: output exists -> /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-batch-wsl/The Valley of Fear.pdf
+[2026-02-07 15:44:05] Summary: total=11 converted=0 skipped=11 failed=0
+[2026-02-07 15:44:05] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-154405.log

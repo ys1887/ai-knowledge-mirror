@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1329,
+            154
+          ],
+          [
+            1329,
+            972
+          ],
+          [
+            1373,
+            154
+          ],
+          [
+            1373,
+            972
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "だから地元の人の眼には、話好きな威張ら",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1254,
+            106
+          ],
+          [
+            1254,
+            973
+          ],
+          [
+            1298,
+            106
+          ],
+          [
+            1298,
+            973
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ない旦那として映ったことだろう。その頃は",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1177,
+            107
+          ],
+          [
+            1177,
+            975
+          ],
+          [
+            1222,
+            107
+          ],
+          [
+            1222,
+            975
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "二十人ぐらいも若い人たちが邸内にいて、学",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1098,
+            104
+          ],
+          [
+            1098,
+            974
+          ],
+          [
+            1144,
+            104
+          ],
+          [
+            1144,
+            974
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "校へ行く者、仕事の見習いに行く者さまざま",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1022,
+            106
+          ],
+          [
+            1022,
+            977
+          ],
+          [
+            1064,
+            106
+          ],
+          [
+            1064,
+            977
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "あって、それらの人々が夜は一室に集って彼",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            943,
+            112
+          ],
+          [
+            943,
+            776
+          ],
+          [
+            985,
+            112
+          ],
+          [
+            985,
+            776
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "の「易話」を聞くことにしていた。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            868,
+            153
+          ],
+          [
+            868,
+            995
+          ],
+          [
+            908,
+            153
+          ],
+          [
+            908,
+            995
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "また、週一度外から通って来る者もあった。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            790,
+            158
+          ],
+          [
+            790,
+            977
+          ],
+          [
+            832,
+            158
+          ],
+          [
+            832,
+            977
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "その中には現職の判検事から警察官まであ",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            713,
+            119
+          ],
+          [
+            713,
+            978
+          ],
+          [
+            755,
+            119
+          ],
+          [
+            755,
+            978
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "り、神官・僧侶・学校教員も混っていた。当",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            637,
+            121
+          ],
+          [
+            637,
+            976
+          ],
+          [
+            679,
+            121
+          ],
+          [
+            679,
+            976
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "時は、「高島姓」をキャッチ・フレーズにする",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            563,
+            117
+          ],
+          [
+            563,
+            977
+          ],
+          [
+            604,
+            117
+          ],
+          [
+            604,
+            977
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "者もなく、普通の易者さんでも志ある者はど",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            489,
+            131
+          ],
+          [
+            489,
+            567
+          ],
+          [
+            526,
+            131
+          ],
+          [
+            526,
+            567
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "んどんやってきたのだ。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            413,
+            175
+          ],
+          [
+            413,
+            977
+          ],
+          [
+            453,
+            175
+          ],
+          [
+            453,
+            977
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "根本通明門下の九鬼盛隆も尋ねたと言って",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            342,
+            142
+          ],
+          [
+            342,
+            233
+          ],
+          [
+            377,
+            142
+          ],
+          [
+            377,
+            233
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "いる。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            265,
+            136
+          ],
+          [
+            265,
+            981
+          ],
+          [
+            304,
+            136
+          ],
+          [
+            304,
+            981
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "--誰とでも気軽にお喋りしたから、利用す",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            144
+          ],
+          [
+            192,
+            978
+          ],
+          [
+            230,
+            144
+          ],
+          [
+            230,
+            978
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "るつもりの人間は、後に弟子だとか直門だと",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            119,
+            144
+          ],
+          [
+            119,
+            1000
+          ],
+          [
+            157,
+            144
+          ],
+          [
+            157,
+            1000
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "か触れ廻るようになったのも不思議ではない。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1336,
+            1096
+          ],
+          [
+            1336,
+            1962
+          ],
+          [
+            1376,
+            1096
+          ],
+          [
+            1376,
+            1962
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "-二、三年前ナニガシ週刊誌の対談で、某",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1260,
+            1098
+          ],
+          [
+            1260,
+            1849
+          ],
+          [
+            1300,
+            1098
+          ],
+          [
+            1300,
+            1849
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "漫画家と対談したナニガシという男は、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            1122
+          ],
+          [
+            1182,
+            1940
+          ],
+          [
+            1223,
+            1122
+          ],
+          [
+            1223,
+            1940
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "「ワシは易聖嘉右衛門の宗家を継いでいる。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1103,
+            1099
+          ],
+          [
+            1103,
+            1960
+          ],
+          [
+            1146,
+            1099
+          ],
+          [
+            1146,
+            1960
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "嘉右衛門は財産は実子に継がせるが易の方は",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1026,
+            1101
+          ],
+          [
+            1026,
+            1959
+          ],
+          [
+            1068,
+            1101
+          ],
+          [
+            1068,
+            1959
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "お前に継がせると約束した。それにもかかわ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            949,
+            1101
+          ],
+          [
+            949,
+            1955
+          ],
+          [
+            990,
+            1101
+          ],
+          [
+            990,
+            1955
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "らず、財産を継いだ方(注。嗣子長政氏のこ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            871,
+            1099
+          ],
+          [
+            871,
+            1957
+          ],
+          [
+            913,
+            1099
+          ],
+          [
+            913,
+            1957
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "と)がひどい奴で、線香を上げにいったらワ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            794,
+            1101
+          ],
+          [
+            794,
+            1505
+          ],
+          [
+            835,
+            1101
+          ],
+          [
+            835,
+            1505
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "シを外へ放り出した」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            719,
+            1143
+          ],
+          [
+            719,
+            1957
+          ],
+          [
+            760,
+            1143
+          ],
+          [
+            760,
+            1957
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "などぬけぬけ言っているが、事実は誰も易",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            642,
+            1103
+          ],
+          [
+            642,
+            1973
+          ],
+          [
+            684,
+            1103
+          ],
+          [
+            684,
+            1973
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "の名跡を継いでいる者はないのだから呆れる。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            566,
+            1143
+          ],
+          [
+            566,
+            1884
+          ],
+          [
+            607,
+            1143
+          ],
+          [
+            607,
+            1884
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "その男は十歳も年上の長政氏を捉えて、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            490,
+            1123
+          ],
+          [
+            490,
+            1798
+          ],
+          [
+            532,
+            1123
+          ],
+          [
+            532,
+            1798
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "「あんたは幼かったから知るまいが」",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            417,
+            1144
+          ],
+          [
+            417,
+            1544
+          ],
+          [
+            454,
+            1144
+          ],
+          [
+            454,
+            1544
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "などと言ったそうだ。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            340,
+            1145
+          ],
+          [
+            340,
+            1948
+          ],
+          [
+            384,
+            1145
+          ],
+          [
+            384,
+            1948
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "とんだ年寄り天一坊ですぐ化けの皮が剥げ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            266,
+            1104
+          ],
+          [
+            266,
+            1944
+          ],
+          [
+            307,
+            1104
+          ],
+          [
+            307,
+            1944
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "てしまい、東西の易占業者から猛烈な吊し上",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            194,
+            1100
+          ],
+          [
+            194,
+            1453
+          ],
+          [
+            230,
+            1100
+          ],
+          [
+            230,
+            1453
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "げをくったという。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            121,
+            1143
+          ],
+          [
+            121,
+            1936
+          ],
+          [
+            160,
+            1143
+          ],
+          [
+            160,
+            1936
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "もっともその男の目的は充分達しられてい",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4926.JPEG",
+    "img_name": "IMG_4926.JPEG"
+  }
+}

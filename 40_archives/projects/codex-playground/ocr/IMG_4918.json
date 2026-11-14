@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1349,
+            100
+          ],
+          [
+            1349,
+            971
+          ],
+          [
+            1409,
+            100
+          ],
+          [
+            1409,
+            971
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "竹を分つ。是れ此の卦(沢山咸)の初爻に其",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1276,
+            100
+          ],
+          [
+            1276,
+            971
+          ],
+          [
+            1336,
+            100
+          ],
+          [
+            1336,
+            971
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ノ拇ニ咸ズ、とある是れなり。又鬼神の往来",
+        "isTextline": "true",
+        "confidence": 0.963
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            95
+          ],
+          [
+            1198,
+            971
+          ],
+          [
+            1257,
+            95
+          ],
+          [
+            1257,
+            971
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "絶えざることは、四爻に(初の応爻)憧々ト",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1122,
+            101
+          ],
+          [
+            1122,
+            973
+          ],
+          [
+            1179,
+            101
+          ],
+          [
+            1179,
+            973
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "シテ往来ス、朋爾ノ思ヒニ従フ、とある是れ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1044,
+            102
+          ],
+          [
+            1044,
+            975
+          ],
+          [
+            1099,
+            102
+          ],
+          [
+            1099,
+            975
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "なり。此の両爻、一般の例に依り、其の拇を",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            964,
+            106
+          ],
+          [
+            964,
+            976
+          ],
+          [
+            1019,
+            106
+          ],
+          [
+            1019,
+            976
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "足の拇指として其の往来を初四の応に取ると",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            886,
+            112
+          ],
+          [
+            886,
+            982
+          ],
+          [
+            941,
+            112
+          ],
+          [
+            941,
+            982
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "雖も、卜筮感通の理、隠然其の中に寓す、易",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            810,
+            123
+          ],
+          [
+            810,
+            544
+          ],
+          [
+            858,
+            123
+          ],
+          [
+            858,
+            544
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "の微妙なる此の如し。」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            736,
+            170
+          ],
+          [
+            736,
+            439
+          ],
+          [
+            777,
+            170
+          ],
+          [
+            777,
+            439
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "と言っている。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            659,
+            175
+          ],
+          [
+            659,
+            981
+          ],
+          [
+            713,
+            175
+          ],
+          [
+            713,
+            981
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "威卦に取象して筮儀を説いたところに、い",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            142
+          ],
+          [
+            585,
+            1005
+          ],
+          [
+            640,
+            142
+          ],
+          [
+            640,
+            1005
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "わゆる\"高島易\"の大秘伝があるものと思う。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            511,
+            188
+          ],
+          [
+            511,
+            990
+          ],
+          [
+            563,
+            188
+          ],
+          [
+            563,
+            990
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "寝ころんでやっても、握りキンでやっても",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            441,
+            157
+          ],
+          [
+            441,
+            991
+          ],
+          [
+            493,
+            157
+          ],
+          [
+            493,
+            991
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "アタルから、厳粛荘重などこけオドシを真似",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            368,
+            161
+          ],
+          [
+            368,
+            842
+          ],
+          [
+            416,
+            161
+          ],
+          [
+            416,
+            842
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "なくてもいいという人は論外である。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            297,
+            206
+          ],
+          [
+            297,
+            995
+          ],
+          [
+            348,
+            206
+          ],
+          [
+            348,
+            995
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "筆者は、未熟のため「津々として指頭に感",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            225,
+            171
+          ],
+          [
+            225,
+            988
+          ],
+          [
+            275,
+            171
+          ],
+          [
+            275,
+            988
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "動するもの」を受ける境地は、一度も味わっ",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            157,
+            178
+          ],
+          [
+            157,
+            996
+          ],
+          [
+            203,
+            178
+          ],
+          [
+            203,
+            996
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "たことがないが、それを感じるようになった",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1377,
+            1094
+          ],
+          [
+            1377,
+            1960
+          ],
+          [
+            1430,
+            1094
+          ],
+          [
+            1430,
+            1960
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "ら「百占違わず」になりうるのではないかと",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1302,
+            1096
+          ],
+          [
+            1302,
+            1196
+          ],
+          [
+            1341,
+            1096
+          ],
+          [
+            1341,
+            1196
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "思う。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            1225,
+            1143
+          ],
+          [
+            1225,
+            1960
+          ],
+          [
+            1276,
+            1143
+          ],
+          [
+            1276,
+            1960
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "ただし、津々と指頭に感動するものによっ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1145,
+            1103
+          ],
+          [
+            1145,
+            1964
+          ],
+          [
+            1197,
+            1103
+          ],
+          [
+            1197,
+            1964
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "て、卦を正しく受け取ることが出来るように",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1066,
+            1101
+          ],
+          [
+            1066,
+            1595
+          ],
+          [
+            1114,
+            1101
+          ],
+          [
+            1114,
+            1595
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "なると思えるからである。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            988,
+            1152
+          ],
+          [
+            988,
+            1963
+          ],
+          [
+            1043,
+            1152
+          ],
+          [
+            1043,
+            1963
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "つまり、その感動によって清明の心が得ら",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            909,
+            1104
+          ],
+          [
+            909,
+            1959
+          ],
+          [
+            964,
+            1104
+          ],
+          [
+            964,
+            1959
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "れ、読卦観象が的確になるのだと思う。この",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            833,
+            1103
+          ],
+          [
+            833,
+            1722
+          ],
+          [
+            884,
+            1103
+          ],
+          [
+            884,
+            1722
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "間の消息はなかなかむずかしい。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            1147
+          ],
+          [
+            757,
+            1957
+          ],
+          [
+            811,
+            1147
+          ],
+          [
+            811,
+            1957
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "嘉右衛門から直接口授をうけ、あるいはそ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            1110
+          ],
+          [
+            681,
+            1953
+          ],
+          [
+            737,
+            1110
+          ],
+          [
+            737,
+            1953
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "の探益を目のあたりした人は、 その点幸せで",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            608,
+            1108
+          ],
+          [
+            608,
+            1206
+          ],
+          [
+            645,
+            1108
+          ],
+          [
+            645,
+            1206
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "ある。",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            462,
+            1198
+          ],
+          [
+            462,
+            1614
+          ],
+          [
+            509,
+            1198
+          ],
+          [
+            509,
+            1614
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "八杉浦重剛と呑象",
+        "isTextline": "true",
+        "confidence": 0.964
+      },
+      {
+        "boundingBox": [
+          [
+            314,
+            1156
+          ],
+          [
+            314,
+            1944
+          ],
+          [
+            370,
+            1156
+          ],
+          [
+            370,
+            1944
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "本稿の整稿中、小玉呑象先生から、天台道",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            242,
+            1114
+          ],
+          [
+            242,
+            1941
+          ],
+          [
+            297,
+            1114
+          ],
+          [
+            297,
+            1941
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "士杉浦重剛と呑象・高島嘉右衛門の交友ぶり",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            174,
+            1119
+          ],
+          [
+            174,
+            1930
+          ],
+          [
+            226,
+            1119
+          ],
+          [
+            226,
+            1930
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "について、杉浦先生自ら書かれた文章を送っ",
+        "isTextline": "true",
+        "confidence": 0.957
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4918.JPEG",
+    "img_name": "IMG_4918.JPEG"
+  }
+}

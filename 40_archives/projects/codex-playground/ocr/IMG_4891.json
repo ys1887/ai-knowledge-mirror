@@ -1,0 +1,837 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1270,
+            164
+          ],
+          [
+            1270,
+            992
+          ],
+          [
+            1335,
+            164
+          ],
+          [
+            1335,
+            992
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "あの生垣の内側におられた人は貴方でしたか。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1201,
+            159
+          ],
+          [
+            1201,
+            974
+          ],
+          [
+            1262,
+            159
+          ],
+          [
+            1262,
+            974
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "納はあの時往来足なやむという蹇の状態でし",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1132,
+            155
+          ],
+          [
+            1132,
+            978
+          ],
+          [
+            1193,
+            155
+          ],
+          [
+            1193,
+            978
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "た。実は僧堂の雲水たちと二手に別れて托鉢",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1061,
+            150
+          ],
+          [
+            1061,
+            979
+          ],
+          [
+            1119,
+            150
+          ],
+          [
+            1119,
+            979
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "することになっていて、一方は戸塚の方へ行",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            992,
+            144
+          ],
+          [
+            992,
+            971
+          ],
+          [
+            1048,
+            144
+          ],
+          [
+            1048,
+            971
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "きました。もし衲が鎌倉を廻らず戸塚の方へ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            915,
+            139
+          ],
+          [
+            915,
+            976
+          ],
+          [
+            973,
+            139
+          ],
+          [
+            973,
+            976
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "行っていたら、せっかくこうしてお訪ね頂い",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            140
+          ],
+          [
+            842,
+            979
+          ],
+          [
+            899,
+            140
+          ],
+          [
+            899,
+            979
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "ても不在でした。 易の辞はなかなか味の",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            768,
+            134
+          ],
+          [
+            768,
+            701
+          ],
+          [
+            817,
+            134
+          ],
+          [
+            817,
+            701
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "あるところを衝いていますな」",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            692,
+            173
+          ],
+          [
+            692,
+            985
+          ],
+          [
+            748,
+            173
+          ],
+          [
+            748,
+            985
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "と笑った。(寔。利西南。不利東北。利見大",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            616,
+            130
+          ],
+          [
+            616,
+            610
+          ],
+          [
+            662,
+            130
+          ],
+          [
+            662,
+            610
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "人。をさしたものらしい)",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            538,
+            176
+          ],
+          [
+            538,
+            990
+          ],
+          [
+            593,
+            176
+          ],
+          [
+            593,
+            990
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "二人は、禅と易について語った。話柄は嘉",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            458,
+            129
+          ],
+          [
+            458,
+            989
+          ],
+          [
+            515,
+            129
+          ],
+          [
+            515,
+            989
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "右衛門があらかじめ想像していたように、達",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            382,
+            130
+          ],
+          [
+            382,
+            988
+          ],
+          [
+            435,
+            130
+          ],
+          [
+            435,
+            988
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "磨の面壁九年に及び、また、公案\"隻手の声\"",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            310,
+            137
+          ],
+          [
+            310,
+            994
+          ],
+          [
+            357,
+            137
+          ],
+          [
+            357,
+            994
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "にもわたった。そこで彼はふところから、先",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            236,
+            145
+          ],
+          [
+            236,
+            705
+          ],
+          [
+            275,
+            145
+          ],
+          [
+            275,
+            705
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "に認めておいた道歌を出して、",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            165,
+            172
+          ],
+          [
+            165,
+            996
+          ],
+          [
+            208,
+            172
+          ],
+          [
+            208,
+            996
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "「実は、ここへ来る道すがら貴僧との間でど",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            103,
+            164
+          ],
+          [
+            103,
+            999
+          ],
+          [
+            140,
+            164
+          ],
+          [
+            140,
+            999
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ういう話が出るか、解の占意を解きながら来",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1305,
+            1093
+          ],
+          [
+            1305,
+            1930
+          ],
+          [
+            1363,
+            1093
+          ],
+          [
+            1363,
+            1930
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "たのですが、やっぱり易の示していた通りに",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            1236,
+            1094
+          ],
+          [
+            1236,
+            1361
+          ],
+          [
+            1278,
+            1094
+          ],
+          [
+            1278,
+            1361
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "なりましたな」",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1165,
+            1138
+          ],
+          [
+            1165,
+            1363
+          ],
+          [
+            1205,
+            1138
+          ],
+          [
+            1205,
+            1363
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "と大笑した。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            1016,
+            1141
+          ],
+          [
+            1016,
+            1961
+          ],
+          [
+            1073,
+            1141
+          ],
+          [
+            1073,
+            1961
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "嘉右衛門に易を聴いた小倉正恒翁は、山岡",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            939,
+            1100
+          ],
+          [
+            939,
+            1966
+          ],
+          [
+            1000,
+            1100
+          ],
+          [
+            1000,
+            1966
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "鉄舟の剣禅一如を体現する人で、大阪の旧道",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            865,
+            1102
+          ],
+          [
+            865,
+            1973
+          ],
+          [
+            921,
+            1102
+          ],
+          [
+            921,
+            1973
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "場をいま禅堂にしつつあるが、嘉右衛門もま",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            791,
+            1105
+          ],
+          [
+            791,
+            1975
+          ],
+          [
+            846,
+            1105
+          ],
+          [
+            846,
+            1975
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "た禅に傾倒し折々に禅話をした。 洪川和尚の",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            713,
+            1106
+          ],
+          [
+            713,
+            1563
+          ],
+          [
+            761,
+            1106
+          ],
+          [
+            761,
+            1563
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "影響もあったのだろう。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            638,
+            1152
+          ],
+          [
+            638,
+            2008
+          ],
+          [
+            693,
+            1152
+          ],
+          [
+            693,
+            2008
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "明治初年の、 日本仏教史最大の危機に際し、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            557,
+            1112
+          ],
+          [
+            557,
+            2012
+          ],
+          [
+            614,
+            1112
+          ],
+          [
+            614,
+            2012
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "無勢よく孤塁を守った僧たちの先頭にあって、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            478,
+            1116
+          ],
+          [
+            478,
+            1975
+          ],
+          [
+            534,
+            1116
+          ],
+          [
+            534,
+            1975
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "その頽勢を挽回するに力あった一代の傑僧、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            399,
+            1115
+          ],
+          [
+            399,
+            2005
+          ],
+          [
+            454,
+            1115
+          ],
+          [
+            454,
+            2005
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "芝増上寺の福田行誠上人とは、その耳も遠く",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            323,
+            1119
+          ],
+          [
+            323,
+            2007
+          ],
+          [
+            375,
+            1119
+          ],
+          [
+            375,
+            2007
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "なった晩年に会っているのだが、老上人を前",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            248,
+            1124
+          ],
+          [
+            248,
+            1264
+          ],
+          [
+            284,
+            1124
+          ],
+          [
+            284,
+            1264
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "にして、",
+        "isTextline": "true",
+        "confidence": 0.931
+      },
+      {
+        "boundingBox": [
+          [
+            174,
+            1147
+          ],
+          [
+            174,
+            1487
+          ],
+          [
+            215,
+            1147
+          ],
+          [
+            215,
+            1487
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "「易から見た仏教」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            108,
+            1166
+          ],
+          [
+            108,
+            1994
+          ],
+          [
+            151,
+            1166
+          ],
+          [
+            151,
+            1994
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "を語り、特にその宿願としていた仏殿再建",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4891.JPEG",
+    "img_name": "IMG_4891.JPEG"
+  }
+}

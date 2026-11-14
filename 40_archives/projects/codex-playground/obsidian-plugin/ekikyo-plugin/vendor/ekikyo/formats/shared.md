@@ -1,0 +1,44 @@
+# EXTRACT shared rules
+
+- This repository implements only `EXTRACT`.
+- If `MODE` is missing, stop with an error.
+- If `EXTRACT` has no `TEMPLATE`, stop with an error.
+- Use only the provided citation paths and internal file paths.
+- Final answer references section must use citation paths only.
+- Internal file paths must never appear in the final answer.
+- Treat the final answer as a user-facing deliverable, not as a debug dump of the preprocessing result.
+- Do not include execution metadata such as `skill used: ...`, profile banners, tool banners, or similar run annotations in the final answer.
+- Never echo `provider=...`, `role=...`, or raw section names in the final answer.
+- Emit a leading `## 質問文` section copied from the user input before the active template sections.
+- Follow the required section order for the active template.
+- Keep the final answer fully in Japanese.
+- If evidence is missing, stop with a short insufficiency report instead of filling gaps from general knowledge.
+- Do not guess when source evidence is missing.
+- Canonical answers in `fixtures/` are structural references only, not text to copy.
+- Use the canonical answers only to understand section order, label shape, and answer density.
+- Use the shared quotes source and the Takashima interpretation source only.
+- Use the script-extracted source evidence embedded in the prompt when writing interpretation prose.
+- Classical quote blocks and the `## 高島易断` appendix are fixed source blocks assembled by script; do not regenerate or paraphrase them in the answer body. When present, `## 占例抜粋` is also a fixed source appendix assembled by script.
+- When an occupation reference section is embedded in the prompt, treat it as a model for interpretation flow and conclusion structure, not as source text to copy or quote.
+- The leading `## 質問文` section is machine-copied from the input and is not prose.
+- Write prose only in template-required auxiliary interpretation headings, `**核心・結論**` when the active template requires it, and `## 総合解釈`.
+- `EX_SIMPLE` / `EX_SIMPLE2` / `EX_5` final answers must not use section-level `（参照：...）` lines.
+- Emit one `## 参照` section after `## 総合解釈` and before `## 高島易断`.
+- The references section must use bullet lines in the form `- <citation path> | <卦名>`.
+- Short inline quotations or close paraphrases from the Takashima evidence are allowed in interpretation prose when they support the reading.
+- Final interpretation section: `高島解釈` only.
+- In `## 総合解釈`, apply the quoted honka and changing-line evidence directly to the user's concrete question instead of merely repeating the earlier item sections.
+- Let the final judgment emerge after applying the established readings to the present case; do not make paragraph 1 a bare verdict.
+- Do not answer the question with general moral principles or attitudes alone; connect the reading to the question's specific elements before judging.
+- Do not state a trajectory or verdict before showing the reasoning path that leads to it in this case.
+- Let trajectory and verdict lead; keep guidance subordinate and restrained.
+- When the evidence supports guidance, keep it at the level of posture, timing, cautions, or what to avoid, rather than step-by-step practical advice.
+- `## 総合解釈` may draw on the honka quote block, changing-line quote block, and Takashima passages, and may use short inline quotations or close paraphrases when they materially support the judgment.
+- `## 総合解釈` may also use any embedded `## 占例参考` as a model for how the reading is carried into judgment flow, especially when the matching line has a case excerpt.
+- Make `## 総合解釈` thick enough to carry the whole reading now that `### 本卦解釈` and `### 変爻解釈` are absent, but do not add length for its own sake.
+- Allowed guidance examples include `焦って押し通すべきではない`, `通る筋を見極めるべき時である`, and `すぐに結果を求めず、受け止められる形を待つ`.
+- Avoid turning `## 総合解釈` into a practical advice memo. Do not list real-world tactics such as `別窓口に照会する`, `必要書類を整える`, `複線化する`, or `今日明日の資金繰りを最優先にする` unless the evidence itself directly requires that exact condition.
+- Long blockquotes are forbidden in `## 総合解釈`; use only short inline quotations or close paraphrases when needed.
+- Do not rely on Honda material for quotation, structure, or final interpretation.
+- Do not mention Honda as comparison support, supplement, or omitted counterpart.
+- The answer should read as a complete single-source Takashima interpretation.

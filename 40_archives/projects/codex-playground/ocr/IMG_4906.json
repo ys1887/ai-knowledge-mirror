@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1348,
+            80
+          ],
+          [
+            1348,
+            641
+          ],
+          [
+            1401,
+            80
+          ],
+          [
+            1401,
+            641
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "て横浜築港が出来たッてわけ」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1281,
+            107
+          ],
+          [
+            1281,
+            946
+          ],
+          [
+            1341,
+            107
+          ],
+          [
+            1341,
+            946
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "このいきさつも世間に余り知られていない。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1201,
+            60
+          ],
+          [
+            1201,
+            927
+          ],
+          [
+            1262,
+            60
+          ],
+          [
+            1262,
+            927
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "井伊直弼が開港の恩人なら、高島嘉右衛門も",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1124,
+            60
+          ],
+          [
+            1124,
+            930
+          ],
+          [
+            1183,
+            60
+          ],
+          [
+            1183,
+            930
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "恩人なのだから、横浜はもっと嘉右衛門を篤",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1047,
+            64
+          ],
+          [
+            1047,
+            332
+          ],
+          [
+            1090,
+            64
+          ],
+          [
+            1090,
+            332
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "く遇すべきだ。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            894,
+            159
+          ],
+          [
+            894,
+            485
+          ],
+          [
+            941,
+            159
+          ],
+          [
+            941,
+            485
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "六易者と易者",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            741,
+            131
+          ],
+          [
+            741,
+            937
+          ],
+          [
+            788,
+            131
+          ],
+          [
+            788,
+            937
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "明治三十年(一八九七)、嘉右衛門はすで",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            666,
+            99
+          ],
+          [
+            666,
+            940
+          ],
+          [
+            711,
+            99
+          ],
+          [
+            711,
+            940
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "に六十六歳になっていた。十九年に刊行した",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            591,
+            106
+          ],
+          [
+            591,
+            943
+          ],
+          [
+            638,
+            106
+          ],
+          [
+            638,
+            943
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "『高島易断』の初版は全十巻だったが、以後新",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            520,
+            111
+          ],
+          [
+            520,
+            944
+          ],
+          [
+            564,
+            111
+          ],
+          [
+            564,
+            944
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "しい占例が出来てくる上に、辞の解釈も一層",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            446,
+            115
+          ],
+          [
+            446,
+            946
+          ],
+          [
+            490,
+            115
+          ],
+          [
+            490,
+            946
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "精緻さを増して来たので、日清戦争中の二十",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            376,
+            123
+          ],
+          [
+            376,
+            948
+          ],
+          [
+            416,
+            123
+          ],
+          [
+            416,
+            948
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "七年に全十七冊に増補して公にし、間もなく",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            305,
+            128
+          ],
+          [
+            305,
+            949
+          ],
+          [
+            345,
+            128
+          ],
+          [
+            345,
+            949
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "上下二巻にまとめ、計二千頁以上の大冊とな",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            237,
+            141
+          ],
+          [
+            237,
+            227
+          ],
+          [
+            270,
+            141
+          ],
+          [
+            270,
+            227
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "った。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            166,
+            180
+          ],
+          [
+            166,
+            951
+          ],
+          [
+            204,
+            180
+          ],
+          [
+            204,
+            951
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "その字数は百万字以上になっている。彼は",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1385,
+            1057
+          ],
+          [
+            1385,
+            1955
+          ],
+          [
+            1440,
+            1057
+          ],
+          [
+            1440,
+            1955
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "これを漢訳して、清国朝野の賢士に贈ろうと",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1308,
+            1053
+          ],
+          [
+            1308,
+            1964
+          ],
+          [
+            1370,
+            1053
+          ],
+          [
+            1370,
+            1964
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "思い立ち、 槐蔭・斎藤真男に依頼して翻訳を",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1229,
+            1053
+          ],
+          [
+            1229,
+            1966
+          ],
+          [
+            1288,
+            1053
+          ],
+          [
+            1288,
+            1966
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "進めていたが、(これはその後三年かかって",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            1054
+          ],
+          [
+            1147,
+            1915
+          ],
+          [
+            1207,
+            1054
+          ],
+          [
+            1207,
+            1915
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "彼の古稀の年に完訳を贈ることが出来た。)",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1067,
+            1101
+          ],
+          [
+            1067,
+            1386
+          ],
+          [
+            1114,
+            1101
+          ],
+          [
+            1114,
+            1386
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "啓蒙はもっと、",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            987,
+            1082
+          ],
+          [
+            987,
+            1573
+          ],
+          [
+            1038,
+            1082
+          ],
+          [
+            1038,
+            1573
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "「近きより遠きに及ぼす」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            909,
+            1104
+          ],
+          [
+            909,
+            1960
+          ],
+          [
+            963,
+            1104
+          ],
+          [
+            963,
+            1960
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "要があると考え、東京中の易者を一堂に集",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            830,
+            1062
+          ],
+          [
+            830,
+            1704
+          ],
+          [
+            879,
+            1062
+          ],
+          [
+            879,
+            1704
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "め一席の講演を行うことにした。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            754,
+            1106
+          ],
+          [
+            754,
+            1948
+          ],
+          [
+            804,
+            1106
+          ],
+          [
+            804,
+            1948
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "客観的に見れば一種の\"旦那の義太夫\"で",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            1062
+          ],
+          [
+            678,
+            1943
+          ],
+          [
+            725,
+            1062
+          ],
+          [
+            725,
+            1943
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "あるが、 彼の同学同好に注いだ愛情は極め",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            603,
+            1067
+          ],
+          [
+            603,
+            1944
+          ],
+          [
+            649,
+            1067
+          ],
+          [
+            649,
+            1944
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "て深いものだった。(この時彼は出席者全員",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            527,
+            1069
+          ],
+          [
+            527,
+            1580
+          ],
+          [
+            569,
+            1069
+          ],
+          [
+            569,
+            1580
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "に『高島易断』を贈った。)",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            453,
+            1090
+          ],
+          [
+            453,
+            1935
+          ],
+          [
+            497,
+            1090
+          ],
+          [
+            497,
+            1935
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "「今日此堂に会せられたる諸君は、皆余と同",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            381,
+            1069
+          ],
+          [
+            381,
+            1947
+          ],
+          [
+            425,
+            1069
+          ],
+          [
+            425,
+            1947
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "じく易道を好み、天命を楽しむの君子なれば、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            308,
+            1068
+          ],
+          [
+            308,
+            1923
+          ],
+          [
+            351,
+            1068
+          ],
+          [
+            351,
+            1923
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "世間通常の士と同視すべからず。 蓋し易道は",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            237,
+            1070
+          ],
+          [
+            237,
+            1893
+          ],
+          [
+            278,
+            1070
+          ],
+          [
+            278,
+            1893
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "神聖深奥の学、占筮は至誠感通の術にして、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            166,
+            1071
+          ],
+          [
+            166,
+            1914
+          ],
+          [
+            206,
+            1071
+          ],
+          [
+            206,
+            1914
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "骨肉の子孫と雖も之を伝えんとして伝う可ら",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4906.JPEG",
+    "img_name": "IMG_4906.JPEG"
+  }
+}

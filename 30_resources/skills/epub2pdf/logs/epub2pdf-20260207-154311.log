@@ -1,0 +1,29 @@
+[2026-02-07 15:43:11] Converter: /usr/bin/ebook-convert (native)
+[2026-02-07 15:43:11] Mode: directory
+[2026-02-07 15:43:11] Input dir: /mnt/e/Documents/Workspace/Sherlock Holmes
+[2026-02-07 15:43:12] Output dir: /mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl
+[2026-02-07 15:43:12] Recursive: 0
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/A Study in Scarlet.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/A Study in Scarlet.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/Adventures of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/Adventures of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/His last bow  Some later reminiscences of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/His last bow  Some later reminiscences of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Adventure of the Dying Detective.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Adventure of the Dying Detective.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Adventures of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Adventures of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The case-book of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The case-book of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Hound of the Baskervilles.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Hound of the Baskervilles.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Memoirs of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Memoirs of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Return of Sherlock Holmes.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Return of Sherlock Holmes.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Sign of the Four.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Sign of the Four.pdf"
+[2026-02-07 15:43:12] [DRY] mkdir -p "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl"
+[2026-02-07 15:43:12] [DRY] /usr/bin/ebook-convert "/mnt/e/Documents/Workspace/Sherlock Holmes/The Valley of Fear.epub" "/mnt/e/Documents/Workspace/Sherlock Holmes/pdf-wsl/The Valley of Fear.pdf"
+[2026-02-07 15:43:12] Dry-run summary: total=11 planned=11 skipped=0 failed=0
+[2026-02-07 15:43:12] Log file: /mnt/e/Documents/Workspace/lib-skills/codex/epub2pdf/logs/epub2pdf-20260207-154311.log

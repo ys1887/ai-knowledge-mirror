@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1383,
+            134
+          ],
+          [
+            1383,
+            942
+          ],
+          [
+            1436,
+            134
+          ],
+          [
+            1436,
+            942
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "儒斎なので、そこまでやかましくは律してい",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1314,
+            133
+          ],
+          [
+            1314,
+            224
+          ],
+          [
+            1350,
+            133
+          ],
+          [
+            1350,
+            224
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ない。",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            1241,
+            169
+          ],
+          [
+            1241,
+            943
+          ],
+          [
+            1291,
+            169
+          ],
+          [
+            1291,
+            943
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "我々は心構えと姿勢の上だけで形ばかりの",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1168,
+            124
+          ],
+          [
+            1168,
+            949
+          ],
+          [
+            1218,
+            124
+          ],
+          [
+            1218,
+            949
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "斎戒を行っている程度であるが、それさえ無",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1097,
+            125
+          ],
+          [
+            1097,
+            924
+          ],
+          [
+            1143,
+            125
+          ],
+          [
+            1143,
+            924
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "用だというのは少し極論ではないかと思う。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1023,
+            162
+          ],
+          [
+            1023,
+            945
+          ],
+          [
+            1068,
+            162
+          ],
+          [
+            1068,
+            945
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "呑象は、さすがに筮儀に一家の見を持って",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            952,
+            125
+          ],
+          [
+            952,
+            213
+          ],
+          [
+            987,
+            125
+          ],
+          [
+            987,
+            213
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "いた。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            876,
+            137
+          ],
+          [
+            876,
+            966
+          ],
+          [
+            919,
+            137
+          ],
+          [
+            919,
+            966
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "「占笠たる、感応の如何に依りて中不中あり。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            801,
+            113
+          ],
+          [
+            801,
+            946
+          ],
+          [
+            843,
+            113
+          ],
+          [
+            843,
+            946
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "其の方を知らざれば妄りに弄すべからず…そ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            727,
+            116
+          ],
+          [
+            727,
+            880
+          ],
+          [
+            768,
+            116
+          ],
+          [
+            768,
+            880
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "の方とは何ぞ。筮の時の心の工夫是なり」",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            653,
+            148
+          ],
+          [
+            653,
+            282
+          ],
+          [
+            690,
+            148
+          ],
+          [
+            690,
+            282
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "と言い、",
+        "isTextline": "true",
+        "confidence": 0.935
+      },
+      {
+        "boundingBox": [
+          [
+            573,
+            129
+          ],
+          [
+            573,
+            920
+          ],
+          [
+            616,
+            129
+          ],
+          [
+            616,
+            920
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "「感応の如何は、誠に此の心の一点に存す。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            103
+          ],
+          [
+            496,
+            942
+          ],
+          [
+            540,
+            103
+          ],
+          [
+            540,
+            942
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "繋辞伝に曰く、易ハ思フ无キナリ、為ス无キ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            103
+          ],
+          [
+            416,
+            944
+          ],
+          [
+            463,
+            103
+          ],
+          [
+            463,
+            944
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "ナリ、 寂然動カズ、 感ジテ遂ニ天下ノ故ニ通",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            336,
+            102
+          ],
+          [
+            336,
+            945
+          ],
+          [
+            387,
+            102
+          ],
+          [
+            387,
+            945
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "ズ、と。寂然不動とは、湛然虚明、明鏡の朗",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            260,
+            106
+          ],
+          [
+            260,
+            928
+          ],
+          [
+            312,
+            106
+          ],
+          [
+            312,
+            928
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "らかなる如く、止水の明らかなるが如く、一",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            186,
+            108
+          ],
+          [
+            186,
+            943
+          ],
+          [
+            239,
+            108
+          ],
+          [
+            239,
+            943
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "毫の邪思妄想なきを云う。是れ何の為なりや",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            1406,
+            1067
+          ],
+          [
+            1406,
+            1934
+          ],
+          [
+            1462,
+            1067
+          ],
+          [
+            1462,
+            1934
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "と云わんに、心ここにあらざれば、視て見え",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1332,
+            1066
+          ],
+          [
+            1332,
+            1911
+          ],
+          [
+            1387,
+            1066
+          ],
+          [
+            1387,
+            1911
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "ず、聴いて聞えず、食うて其の味を知らず、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1257,
+            1068
+          ],
+          [
+            1257,
+            1940
+          ],
+          [
+            1310,
+            1068
+          ],
+          [
+            1310,
+            1940
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "邪思妄想ありては、其心形雑にして純一なら",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            1066
+          ],
+          [
+            1183,
+            1942
+          ],
+          [
+            1237,
+            1066
+          ],
+          [
+            1237,
+            1942
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "ず、 心徳の霊明奪われて、 感応を得られざる",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1110,
+            1067
+          ],
+          [
+            1110,
+            1945
+          ],
+          [
+            1160,
+            1067
+          ],
+          [
+            1160,
+            1945
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "なり。 然れども此の方 (法) たるや心を練る",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1034,
+            1071
+          ],
+          [
+            1034,
+            1948
+          ],
+          [
+            1083,
+            1071
+          ],
+          [
+            1083,
+            1948
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "の上乗にして、 容易に為し得らるべきの事に",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            958,
+            1068
+          ],
+          [
+            958,
+            1234
+          ],
+          [
+            998,
+            1068
+          ],
+          [
+            998,
+            1234
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "あらず。」",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            882,
+            1111
+          ],
+          [
+            882,
+            1862
+          ],
+          [
+            926,
+            1111
+          ],
+          [
+            926,
+            1862
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "と諭し、その一方(法)を説いている。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            1091
+          ],
+          [
+            805,
+            1963
+          ],
+          [
+            849,
+            1091
+          ],
+          [
+            849,
+            1963
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "「瞑目して、気息を殺し、其占はんとする事",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            727,
+            1067
+          ],
+          [
+            727,
+            1965
+          ],
+          [
+            770,
+            1067
+          ],
+          [
+            770,
+            1965
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "を一心専念する。是なり。此の如くするとき",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            648,
+            1069
+          ],
+          [
+            648,
+            1966
+          ],
+          [
+            691,
+            1069
+          ],
+          [
+            691,
+            1966
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "は、邪思妄想自ら去り、寂然として動くこと",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            569,
+            1068
+          ],
+          [
+            569,
+            1968
+          ],
+          [
+            613,
+            1068
+          ],
+          [
+            613,
+            1968
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "なし。是れ予が積年経験する所にして、此の",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            486,
+            1068
+          ],
+          [
+            486,
+            1976
+          ],
+          [
+            534,
+            1068
+          ],
+          [
+            534,
+            1976
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "如くせば、鬼神の感応ある疑うべからず。所",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            404,
+            1068
+          ],
+          [
+            404,
+            1979
+          ],
+          [
+            454,
+            1068
+          ],
+          [
+            454,
+            1979
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "謂陽気の発する所、 金石亦透る。 精神一到何",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            325,
+            1067
+          ],
+          [
+            325,
+            1975
+          ],
+          [
+            375,
+            1067
+          ],
+          [
+            375,
+            1975
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "事か成らざらん。一心専念の力、能く鬼神に",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            247,
+            1068
+          ],
+          [
+            247,
+            1949
+          ],
+          [
+            296,
+            1068
+          ],
+          [
+            296,
+            1949
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "貫徹するを得べし。 而して其の気息を殺し、",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            169,
+            1069
+          ],
+          [
+            169,
+            1971
+          ],
+          [
+            220,
+            1069
+          ],
+          [
+            220,
+            1971
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "次息の将に継んとする瞬間に、拇指を以て筮",
+        "isTextline": "true",
+        "confidence": 0.955
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4917.JPEG",
+    "img_name": "IMG_4917.JPEG"
+  }
+}

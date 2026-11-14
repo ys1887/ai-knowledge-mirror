@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1324,
+            119
+          ],
+          [
+            1324,
+            918
+          ],
+          [
+            1393,
+            119
+          ],
+          [
+            1393,
+            918
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "は明治二十七年(一八九四)に重版されたし、",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            1254,
+            114
+          ],
+          [
+            1254,
+            902
+          ],
+          [
+            1320,
+            114
+          ],
+          [
+            1320,
+            902
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "以後たびたび出たが、明治三十九年がいわゆ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            112
+          ],
+          [
+            1186,
+            592
+          ],
+          [
+            1237,
+            112
+          ],
+          [
+            1237,
+            592
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "る\"決定版\"になっている。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1115,
+            143
+          ],
+          [
+            1115,
+            904
+          ],
+          [
+            1176,
+            143
+          ],
+          [
+            1176,
+            904
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "内容、ことに収載の 「占例」が少しずつ新",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1046,
+            104
+          ],
+          [
+            1046,
+            902
+          ],
+          [
+            1104,
+            104
+          ],
+          [
+            1104,
+            902
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "しいものに代っていて、好学者の間で何年版",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            973,
+            103
+          ],
+          [
+            973,
+            900
+          ],
+          [
+            1029,
+            103
+          ],
+          [
+            1029,
+            900
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "のがいいとか、 何年版のは面白いとか言われ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            901,
+            101
+          ],
+          [
+            901,
+            903
+          ],
+          [
+            953,
+            101
+          ],
+          [
+            953,
+            903
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "ているのは\"占例\"がそれぞれの時代・社会",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            828,
+            93
+          ],
+          [
+            828,
+            902
+          ],
+          [
+            878,
+            93
+          ],
+          [
+            878,
+            902
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "を如実に物語っていて、明治史の好資料にな",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            757,
+            93
+          ],
+          [
+            757,
+            417
+          ],
+          [
+            796,
+            93
+          ],
+          [
+            796,
+            417
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "るからでもあろう。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            681,
+            126
+          ],
+          [
+            681,
+            902
+          ],
+          [
+            726,
+            126
+          ],
+          [
+            726,
+            902
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "嘉右衛門には前記二著のほかに、周易活断",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            607,
+            84
+          ],
+          [
+            607,
+            901
+          ],
+          [
+            651,
+            84
+          ],
+          [
+            651,
+            901
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "と袖珍本の易学字典とがあるが、共に柳田幾",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            531,
+            83
+          ],
+          [
+            531,
+            749
+          ],
+          [
+            572,
+            83
+          ],
+          [
+            572,
+            749
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "作との合著で懇切なよいものである。",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            453,
+            127
+          ],
+          [
+            453,
+            900
+          ],
+          [
+            496,
+            127
+          ],
+          [
+            496,
+            900
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "いまの世の風当りは、\"易占\"に対し必ずし",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            382,
+            85
+          ],
+          [
+            382,
+            538
+          ],
+          [
+            422,
+            85
+          ],
+          [
+            422,
+            538
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "も柔軟には当って来ない。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            300,
+            128
+          ],
+          [
+            300,
+            905
+          ],
+          [
+            346,
+            128
+          ],
+          [
+            346,
+            905
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "インテリまたは識者と呼ばれる人たちの間",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            225,
+            98
+          ],
+          [
+            225,
+            906
+          ],
+          [
+            279,
+            98
+          ],
+          [
+            279,
+            906
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ではそれがことにひどい。ところが、明治時",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            157,
+            105
+          ],
+          [
+            157,
+            907
+          ],
+          [
+            211,
+            105
+          ],
+          [
+            211,
+            907
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "代はどうだったか。嘉右衛門自体が当代その",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1367,
+            1021
+          ],
+          [
+            1367,
+            1898
+          ],
+          [
+            1442,
+            1021
+          ],
+          [
+            1442,
+            1898
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "比を見ない卓越した一人物であったからとい",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1297,
+            1021
+          ],
+          [
+            1297,
+            1907
+          ],
+          [
+            1369,
+            1021
+          ],
+          [
+            1369,
+            1907
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "うだけでなく、当時の指導的立場にあった人",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1221,
+            1024
+          ],
+          [
+            1221,
+            1909
+          ],
+          [
+            1289,
+            1024
+          ],
+          [
+            1289,
+            1909
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "たちが皆\"易\"を教養として身につけていた",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1147,
+            1023
+          ],
+          [
+            1147,
+            1913
+          ],
+          [
+            1212,
+            1023
+          ],
+          [
+            1212,
+            1913
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "から、占に対しても多少の理解はもっていた",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1072,
+            1027
+          ],
+          [
+            1072,
+            1208
+          ],
+          [
+            1113,
+            1027
+          ],
+          [
+            1113,
+            1208
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "のである。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            998,
+            1065
+          ],
+          [
+            998,
+            1925
+          ],
+          [
+            1057,
+            1065
+          ],
+          [
+            1057,
+            1925
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "だから彼の『高島易占』の刊行に際し、著",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            920,
+            1022
+          ],
+          [
+            920,
+            1927
+          ],
+          [
+            977,
+            1022
+          ],
+          [
+            977,
+            1927
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "名な人たちが喜んで序・跋を寄せ、その行を",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            1023
+          ],
+          [
+            842,
+            1577
+          ],
+          [
+            892,
+            1023
+          ],
+          [
+            892,
+            1577
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "盛んならしめたのであった。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            768,
+            1067
+          ],
+          [
+            768,
+            1939
+          ],
+          [
+            818,
+            1067
+          ],
+          [
+            818,
+            1939
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "此の際、二三の序及び跋を掲げ、以て嘉右",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            688,
+            1024
+          ],
+          [
+            688,
+            1940
+          ],
+          [
+            737,
+            1024
+          ],
+          [
+            737,
+            1940
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "衛門の偉大さを当時の学者たちに実証させる",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            610,
+            1029
+          ],
+          [
+            610,
+            1538
+          ],
+          [
+            653,
+            1029
+          ],
+          [
+            653,
+            1538
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "のも徒事ではないだろう。",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            528,
+            1067
+          ],
+          [
+            528,
+            1949
+          ],
+          [
+            573,
+            1067
+          ],
+          [
+            573,
+            1949
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "施庵・栗本鯤(この人は幕臣で函館奉行も",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            446,
+            1028
+          ],
+          [
+            446,
+            1949
+          ],
+          [
+            492,
+            1028
+          ],
+          [
+            492,
+            1949
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "やり、慶応二年福沢諭吉が米国に派遣された",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            363,
+            1031
+          ],
+          [
+            363,
+            1970
+          ],
+          [
+            412,
+            1031
+          ],
+          [
+            412,
+            1970
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "のと前後して、仏国へ派遣された人材である)",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            283,
+            1029
+          ],
+          [
+            283,
+            1948
+          ],
+          [
+            334,
+            1029
+          ],
+          [
+            334,
+            1948
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "は、『高島易占』初編に次のような序を寄せて",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            223,
+            1037
+          ],
+          [
+            223,
+            1133
+          ],
+          [
+            256,
+            1037
+          ],
+          [
+            256,
+            1133
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "いる。",
+        "isTextline": "true",
+        "confidence": 0.936
+      },
+      {
+        "boundingBox": [
+          [
+            132,
+            1120
+          ],
+          [
+            132,
+            1941
+          ],
+          [
+            184,
+            1120
+          ],
+          [
+            184,
+            1941
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "文王之易。文王之易也。高島嘉右衛門之",
+        "isTextline": "true",
+        "confidence": 0.942
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4859.JPEG",
+    "img_name": "IMG_4859.JPEG"
+  }
+}

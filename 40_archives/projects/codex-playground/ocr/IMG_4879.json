@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1301,
+            128
+          ],
+          [
+            1301,
+            920
+          ],
+          [
+            1369,
+            128
+          ],
+          [
+            1369,
+            920
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "「諸君は、わしが易占を学べというと、自分",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1230,
+            108
+          ],
+          [
+            1230,
+            919
+          ],
+          [
+            1297,
+            108
+          ],
+          [
+            1297,
+            919
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "の好むところに引込もうとすると批判するか",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1159,
+            101
+          ],
+          [
+            1159,
+            937
+          ],
+          [
+            1223,
+            101
+          ],
+          [
+            1223,
+            937
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "も知れない。我田引水だと譏るかも知れない。",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1088,
+            98
+          ],
+          [
+            1088,
+            919
+          ],
+          [
+            1149,
+            98
+          ],
+          [
+            1149,
+            919
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "しかし凡そ事を成すには、利器を持たなけれ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1015,
+            94
+          ],
+          [
+            1015,
+            918
+          ],
+          [
+            1072,
+            94
+          ],
+          [
+            1072,
+            918
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "ばならない。 諸君、 このごろ入って来たあの",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            940,
+            90
+          ],
+          [
+            940,
+            921
+          ],
+          [
+            998,
+            90
+          ],
+          [
+            998,
+            921
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "蒸汽を見られい。百馬力なお引く能わぬ重量",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            868,
+            92
+          ],
+          [
+            868,
+            914
+          ],
+          [
+            921,
+            92
+          ],
+          [
+            921,
+            914
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "のものを、 僅かな水を蒸気化することによっ",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            792,
+            89
+          ],
+          [
+            792,
+            923
+          ],
+          [
+            846,
+            89
+          ],
+          [
+            846,
+            923
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "て軽々と引いて走るではないか。電信機を見",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            717,
+            84
+          ],
+          [
+            717,
+            926
+          ],
+          [
+            769,
+            84
+          ],
+          [
+            769,
+            926
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "られい。千万里の遠きを瞬時に往復し用を弁",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            83
+          ],
+          [
+            644,
+            925
+          ],
+          [
+            693,
+            83
+          ],
+          [
+            693,
+            925
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "じうるではないか。これはいずれも優秀な機",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            564,
+            81
+          ],
+          [
+            564,
+            924
+          ],
+          [
+            613,
+            81
+          ],
+          [
+            613,
+            924
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "械のおかげだ。諸君は未だ易占の何たるかを",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            488,
+            83
+          ],
+          [
+            488,
+            925
+          ],
+          [
+            534,
+            83
+          ],
+          [
+            534,
+            925
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "知らないが、譬えていえば、これは神と人を",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            411,
+            90
+          ],
+          [
+            411,
+            928
+          ],
+          [
+            455,
+            90
+          ],
+          [
+            455,
+            928
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "つなぐ電信線だ。易経に其ノ命ヲ受クルヤ響",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            336,
+            88
+          ],
+          [
+            336,
+            928
+          ],
+          [
+            376,
+            88
+          ],
+          [
+            376,
+            928
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "ノ如ク、遠近幽深有ルコト无シ天下ノ至精ナ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            261,
+            95
+          ],
+          [
+            261,
+            932
+          ],
+          [
+            301,
+            95
+          ],
+          [
+            301,
+            932
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "リとある。又、神と人とのあだぷとを、神明",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            188,
+            104
+          ],
+          [
+            188,
+            934
+          ],
+          [
+            231,
+            104
+          ],
+          [
+            231,
+            934
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "に酬酢ということばで示している。 諸君は神",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            121,
+            112
+          ],
+          [
+            121,
+            937
+          ],
+          [
+            164,
+            112
+          ],
+          [
+            164,
+            937
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "前に畏ってノリトを奏し、国家安泰、万民楽",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1338,
+            1038
+          ],
+          [
+            1338,
+            1910
+          ],
+          [
+            1404,
+            1038
+          ],
+          [
+            1404,
+            1910
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "業を祈念されるが、人の吉凶禍福を質ね、そ",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1265,
+            1044
+          ],
+          [
+            1265,
+            1899
+          ],
+          [
+            1330,
+            1044
+          ],
+          [
+            1330,
+            1899
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "の応答を得られたことがありますか。幻想・",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1190,
+            1040
+          ],
+          [
+            1190,
+            1922
+          ],
+          [
+            1256,
+            1040
+          ],
+          [
+            1256,
+            1922
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "幻覚・幻聴の虜になっている人は兎も角、健",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1116,
+            1041
+          ],
+          [
+            1116,
+            1923
+          ],
+          [
+            1177,
+            1041
+          ],
+          [
+            1177,
+            1923
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "全な神官は、片便りに終っていることを身に",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1040,
+            1042
+          ],
+          [
+            1040,
+            1932
+          ],
+          [
+            1101,
+            1042
+          ],
+          [
+            1101,
+            1932
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "沁みて御存知だろう。 真の神示をききうる者",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            966,
+            1046
+          ],
+          [
+            966,
+            1594
+          ],
+          [
+            1017,
+            1046
+          ],
+          [
+            1017,
+            1594
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "は、恐らく甚だ寡いと思う」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            887,
+            1087
+          ],
+          [
+            887,
+            1937
+          ],
+          [
+            945,
+            1087
+          ],
+          [
+            945,
+            1937
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "嘉右衛門のたたみかけたことばに、神官の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            812,
+            1062
+          ],
+          [
+            812,
+            1736
+          ],
+          [
+            863,
+            1062
+          ],
+          [
+            863,
+            1736
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "一部から異を唱える者も出て来た。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            733,
+            1071
+          ],
+          [
+            733,
+            1639
+          ],
+          [
+            782,
+            1071
+          ],
+          [
+            782,
+            1639
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "「いや、私は神の声をきいた」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            655,
+            1071
+          ],
+          [
+            655,
+            1958
+          ],
+          [
+            707,
+            1071
+          ],
+          [
+            707,
+            1958
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "「私は霊感があって、 その翌日まさしく教導",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            576,
+            1049
+          ],
+          [
+            576,
+            1426
+          ],
+          [
+            619,
+            1049
+          ],
+          [
+            619,
+            1426
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "職の辞令を戴いた」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            1077
+          ],
+          [
+            496,
+            1939
+          ],
+          [
+            545,
+            1077
+          ],
+          [
+            545,
+            1939
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "「わしは、事ある前に必ずお知らせがある」",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            416,
+            1078
+          ],
+          [
+            416,
+            1968
+          ],
+          [
+            462,
+            1078
+          ],
+          [
+            462,
+            1968
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "「易はわが朝で始められたものでなく、異国",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            336,
+            1058
+          ],
+          [
+            336,
+            1965
+          ],
+          [
+            380,
+            1058
+          ],
+          [
+            380,
+            1965
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "で発祥したものである。易占で質ねたことに",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            259,
+            1055
+          ],
+          [
+            259,
+            1961
+          ],
+          [
+            301,
+            1055
+          ],
+          [
+            301,
+            1961
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "答える神がありとすれば、それは異国の神々",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            186,
+            1061
+          ],
+          [
+            186,
+            1294
+          ],
+          [
+            224,
+            1061
+          ],
+          [
+            224,
+            1294
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "ではないか」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            115,
+            1084
+          ],
+          [
+            115,
+            1952
+          ],
+          [
+            155,
+            1084
+          ],
+          [
+            155,
+            1952
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "「五十本の筮竹と六箇の算木に神示が乗って",
+        "isTextline": "true",
+        "confidence": 0.949
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4879.JPEG",
+    "img_name": "IMG_4879.JPEG"
+  }
+}

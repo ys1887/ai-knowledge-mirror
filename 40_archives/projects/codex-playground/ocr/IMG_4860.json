@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1304,
+            135
+          ],
+          [
+            1304,
+            927
+          ],
+          [
+            1374,
+            135
+          ],
+          [
+            1374,
+            927
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "易。高島嘉右衛門之易也。人固不能無才性",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1236,
+            126
+          ],
+          [
+            1236,
+            902
+          ],
+          [
+            1307,
+            126
+          ],
+          [
+            1307,
+            902
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "高下之殊。而易従其人各為見解。不得言。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1162,
+            120
+          ],
+          [
+            1162,
+            910
+          ],
+          [
+            1235,
+            120
+          ],
+          [
+            1235,
+            910
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "管窺之天。非彼蒼々者。譬猶不亀手楽。一",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1090,
+            123
+          ],
+          [
+            1090,
+            930
+          ],
+          [
+            1157,
+            123
+          ],
+          [
+            1157,
+            930
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "以湃群統。一以水戦制勝。自人見之。則其",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1013,
+            125
+          ],
+          [
+            1013,
+            932
+          ],
+          [
+            1078,
+            125
+          ],
+          [
+            1078,
+            932
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "用難殊。自楽見之。則斉為善用者。抑高島",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            935,
+            128
+          ],
+          [
+            935,
+            915
+          ],
+          [
+            998,
+            128
+          ],
+          [
+            998,
+            915
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "氏繋在園囲。幽鬱七年之久。所親唯周易一",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            860,
+            135
+          ],
+          [
+            860,
+            911
+          ],
+          [
+            921,
+            135
+          ],
+          [
+            921,
+            911
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "巻。反覆玩読。験之自家経歴。大有所感。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            786,
+            141
+          ],
+          [
+            786,
+            922
+          ],
+          [
+            842,
+            141
+          ],
+          [
+            842,
+            922
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "爾来毎事。必与易謀。而決趨避。終至為一",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            711,
+            150
+          ],
+          [
+            711,
+            942
+          ],
+          [
+            767,
+            150
+          ],
+          [
+            767,
+            942
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "家占断。此書即是也。夫煤燈鉄路。煌耀于",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            638,
+            159
+          ],
+          [
+            638,
+            946
+          ],
+          [
+            692,
+            159
+          ],
+          [
+            692,
+            946
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "横浜之衢。而蜿蜒于東東之道者。雖不過取",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            567,
+            167
+          ],
+          [
+            567,
+            966
+          ],
+          [
+            618,
+            167
+          ],
+          [
+            618,
+            966
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "於彼而施於我之事。創為之業。得喪不可判。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            175
+          ],
+          [
+            496,
+            953
+          ],
+          [
+            545,
+            175
+          ],
+          [
+            545,
+            953
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "衆方在逡巡疑懼中。而高島氏独奮当之。其",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            426,
+            183
+          ],
+          [
+            426,
+            597
+          ],
+          [
+            467,
+            183
+          ],
+          [
+            467,
+            597
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "胆勇非易鼓之。而誰居。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            357,
+            230
+          ],
+          [
+            357,
+            952
+          ],
+          [
+            401,
+            230
+          ],
+          [
+            401,
+            952
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "栗本は第二編にも、次のように書いてい",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            291,
+            198
+          ],
+          [
+            291,
+            246
+          ],
+          [
+            321,
+            198
+          ],
+          [
+            321,
+            246
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.923
+      },
+      {
+        "boundingBox": [
+          [
+            218,
+            240
+          ],
+          [
+            218,
+            964
+          ],
+          [
+            261,
+            240
+          ],
+          [
+            261,
+            964
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "曩者高島易占第一篇出矣。四方伝観。莫",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            149,
+            208
+          ],
+          [
+            149,
+            967
+          ],
+          [
+            192,
+            208
+          ],
+          [
+            192,
+            967
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "不詫為奇。於是信者倍加。乃至難極疑。前",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1351,
+            1092
+          ],
+          [
+            1351,
+            1946
+          ],
+          [
+            1417,
+            1092
+          ],
+          [
+            1417,
+            1946
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "途茫々。不知所帰者。皆来取決。而氏之占",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1280,
+            1094
+          ],
+          [
+            1280,
+            1941
+          ],
+          [
+            1351,
+            1094
+          ],
+          [
+            1351,
+            1941
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "境漸広。非復前日之比。余甞序之。意謂一",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1205,
+            1095
+          ],
+          [
+            1205,
+            1969
+          ],
+          [
+            1278,
+            1095
+          ],
+          [
+            1278,
+            1969
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "家之活断。非尋常拘局之見。逮観二編。益",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1126,
+            1097
+          ],
+          [
+            1126,
+            1975
+          ],
+          [
+            1199,
+            1097
+          ],
+          [
+            1199,
+            1975
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "信其言不謬。若於千家教正。述易居神人之",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1048,
+            1100
+          ],
+          [
+            1048,
+            1996
+          ],
+          [
+            1119,
+            1100
+          ],
+          [
+            1119,
+            1996
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "間為象胥訳司。於福田教正。説三世諸菩薩。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            967,
+            1101
+          ],
+          [
+            967,
+            1980
+          ],
+          [
+            1035,
+            1101
+          ],
+          [
+            1035,
+            1980
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "躍然于三百八十四爻之類。愈出而愈新愈新",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            888,
+            1103
+          ],
+          [
+            888,
+            1996
+          ],
+          [
+            954,
+            1103
+          ],
+          [
+            954,
+            1996
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "而愈不窮。非別有所得而誰能為此等語者乎。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            811,
+            1104
+          ],
+          [
+            811,
+            1805
+          ],
+          [
+            867,
+            1104
+          ],
+          [
+            867,
+            1805
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "手民告成。因聊顕前言。而跋其後。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            734,
+            1107
+          ],
+          [
+            734,
+            1968
+          ],
+          [
+            791,
+            1107
+          ],
+          [
+            791,
+            1968
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "栗本鉋庵老は、嘉右衛門と、よほど親しか",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            1076
+          ],
+          [
+            661,
+            1344
+          ],
+          [
+            700,
+            1076
+          ],
+          [
+            700,
+            1344
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "ったのだろう。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            584,
+            1111
+          ],
+          [
+            584,
+            1960
+          ],
+          [
+            634,
+            1111
+          ],
+          [
+            634,
+            1960
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "自分が褒めるだけで足らず、千家尊福(出",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            509,
+            1071
+          ],
+          [
+            509,
+            1956
+          ],
+          [
+            557,
+            1071
+          ],
+          [
+            557,
+            1956
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "雲大社)や福田行誠(増上寺)の評言まで引",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            438,
+            1080
+          ],
+          [
+            438,
+            1953
+          ],
+          [
+            482,
+            1080
+          ],
+          [
+            482,
+            1953
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "いて褒めちぎっている。そんな彼だから、明",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            364,
+            1075
+          ],
+          [
+            364,
+            1946
+          ],
+          [
+            409,
+            1075
+          ],
+          [
+            409,
+            1946
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "治十九年に 『高島易断』 の初版が発行された",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            295,
+            1079
+          ],
+          [
+            295,
+            1944
+          ],
+          [
+            335,
+            1079
+          ],
+          [
+            335,
+            1944
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "ときにも、自分が二十年ほど前フランスから",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            224,
+            1080
+          ],
+          [
+            224,
+            1936
+          ],
+          [
+            264,
+            1080
+          ],
+          [
+            264,
+            1936
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "帰る時の、船上の偶見を語る序文を寄せたの",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            159,
+            1086
+          ],
+          [
+            159,
+            1263
+          ],
+          [
+            192,
+            1086
+          ],
+          [
+            192,
+            1263
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "であった。",
+        "isTextline": "true",
+        "confidence": 0.939
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4860.JPEG",
+    "img_name": "IMG_4860.JPEG"
+  }
+}

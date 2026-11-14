@@ -1,0 +1,10 @@
+description: レーベル — 公用文や公式文書の作成と推敲を行う執筆Bot
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar
+    imageKind: photo
+    title: レーベル/記録係
+    created: 1793865051695
+_ui_meta_revisions:
+  hermes-bots: 2

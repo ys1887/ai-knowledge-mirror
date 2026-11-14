@@ -1,0 +1,80 @@
+{
+  "cases": [
+    {
+      "id": "extract-standard-test-1",
+      "kind": "standard",
+      "input": "tests/fixtures/extract_cases/test_1.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_1_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-2",
+      "kind": "complex",
+      "input": "tests/fixtures/extract_cases/test_2.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_2_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-test-3",
+      "kind": "complex",
+      "input": "tests/fixtures/extract_cases/test_3.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_3_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-standard-1",
+      "kind": "standard",
+      "input": "tests/fixtures/extract_cases/standard_1.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-standard-2",
+      "kind": "standard",
+      "input": "tests/fixtures/extract_cases/standard_2.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-1",
+      "kind": "complex",
+      "input": "tests/fixtures/extract_cases/complex_1.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-complex-2",
+      "kind": "complex",
+      "input": "tests/fixtures/extract_cases/complex_2.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "本卦", "変爻", "補助卦"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    },
+    {
+      "id": "extract-compare-test-4",
+      "kind": "compare",
+      "input": "tests/fixtures/extract_cases/test_4.md",
+      "expected_answer": "tests/fixtures/extract_cases/test_4_answer_canonical.md",
+      "expected_mode": "extract",
+      "required_sections": ["核心・結論", "吉凶順位", "まとめ"],
+      "citation_style": "validator",
+      "missing_data_policy": "report_without_guessing"
+    }
+  ]
+}

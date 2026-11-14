@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1234,
+            162
+          ],
+          [
+            1234,
+            908
+          ],
+          [
+            1303,
+            162
+          ],
+          [
+            1303,
+            908
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "るに四時惑わず。聖人神道を以て教を設け、",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1164,
+            157
+          ],
+          [
+            1164,
+            435
+          ],
+          [
+            1213,
+            157
+          ],
+          [
+            1213,
+            435
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "而して天下服す」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            1099,
+            191
+          ],
+          [
+            1099,
+            709
+          ],
+          [
+            1154,
+            191
+          ],
+          [
+            1154,
+            709
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "を引いてお説教したのである。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1027,
+            171
+          ],
+          [
+            1027,
+            937
+          ],
+          [
+            1092,
+            171
+          ],
+          [
+            1092,
+            937
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "「そもそも人は万物の霊と称すと雖も、利己",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            958,
+            151
+          ],
+          [
+            958,
+            934
+          ],
+          [
+            1017,
+            151
+          ],
+          [
+            1017,
+            934
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "の情欲は人々これ有らざるはなし。 若し上に",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            888,
+            144
+          ],
+          [
+            888,
+            936
+          ],
+          [
+            944,
+            144
+          ],
+          [
+            944,
+            936
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "政府ありて裁判するにあらざれば、弱の肉は",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            817,
+            141
+          ],
+          [
+            817,
+            940
+          ],
+          [
+            873,
+            141
+          ],
+          [
+            873,
+            940
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "強の食、禽獣と何ぞ異るあらんや。然るに今",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            746,
+            140
+          ],
+          [
+            746,
+            954
+          ],
+          [
+            799,
+            140
+          ],
+          [
+            799,
+            954
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "日、斯く晏然枕を高うして眠る事を得る者は、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            673,
+            138
+          ],
+          [
+            673,
+            938
+          ],
+          [
+            723,
+            138
+          ],
+          [
+            723,
+            938
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "聖天子世を治め玉い、人民各その堵に安んじ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            601,
+            140
+          ],
+          [
+            601,
+            940
+          ],
+          [
+            649,
+            140
+          ],
+          [
+            649,
+            940
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "て、能く上下の分を守るが故なり。試みに他",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            528,
+            141
+          ],
+          [
+            528,
+            942
+          ],
+          [
+            574,
+            141
+          ],
+          [
+            574,
+            942
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "の各国を見よ。一系連綿たる国王天子ある事",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            454,
+            137
+          ],
+          [
+            454,
+            941
+          ],
+          [
+            496,
+            137
+          ],
+          [
+            496,
+            941
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "なし。故に一朝革命ある毎に、幾許の生霊を",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            379,
+            138
+          ],
+          [
+            379,
+            944
+          ],
+          [
+            421,
+            138
+          ],
+          [
+            421,
+            944
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "残害するや知るべからず、我国皇統一系の天",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            305,
+            142
+          ],
+          [
+            305,
+            961
+          ],
+          [
+            348,
+            142
+          ],
+          [
+            348,
+            961
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "子上に在ますが故に、少しく乱世ありと雖も、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            231,
+            148
+          ],
+          [
+            231,
+            949
+          ],
+          [
+            277,
+            148
+          ],
+          [
+            277,
+            949
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "只将軍宰相の地位を争うのみ。未だ王位を窺",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            162,
+            156
+          ],
+          [
+            162,
+            952
+          ],
+          [
+            210,
+            156
+          ],
+          [
+            210,
+            952
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "観し、彼の海外諸国の人波を打って人類を屠",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            100,
+            170
+          ],
+          [
+            100,
+            953
+          ],
+          [
+            145,
+            170
+          ],
+          [
+            145,
+            953
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "り尽し、一国の黎民子遺なきが如きの惨況を",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1278,
+            1049
+          ],
+          [
+            1278,
+            1907
+          ],
+          [
+            1353,
+            1049
+          ],
+          [
+            1353,
+            1907
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "見ず。苟も我国人民たる者、豈其恩を思わざ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1206,
+            1053
+          ],
+          [
+            1206,
+            1915
+          ],
+          [
+            1276,
+            1053
+          ],
+          [
+            1276,
+            1915
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "るべけんや。 又顧みて祖先の事を思うに、 ",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1136,
+            1053
+          ],
+          [
+            1136,
+            1916
+          ],
+          [
+            1202,
+            1053
+          ],
+          [
+            1202,
+            1916
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "じく其の恩沢を蒙りたる者なり。然るに今や",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1062,
+            1053
+          ],
+          [
+            1062,
+            1923
+          ],
+          [
+            1127,
+            1053
+          ],
+          [
+            1127,
+            1923
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "国を開て外国と交際し、 実に国歩艱難の秋な",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            988,
+            1055
+          ],
+          [
+            988,
+            1924
+          ],
+          [
+            1049,
+            1055
+          ],
+          [
+            1049,
+            1924
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "れば、志ある徒は祖先の恩をも一身に担うて",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            913,
+            1054
+          ],
+          [
+            913,
+            1907
+          ],
+          [
+            974,
+            1054
+          ],
+          [
+            974,
+            1907
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "之に対する義務を尽さざるべからざるなり。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            839,
+            1055
+          ],
+          [
+            839,
+            1939
+          ],
+          [
+            897,
+            1055
+          ],
+          [
+            897,
+            1939
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "此一段に至りては我々商民も、神官諸君も同",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            764,
+            1068
+          ],
+          [
+            764,
+            1915
+          ],
+          [
+            820,
+            1068
+          ],
+          [
+            820,
+            1915
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "一の事なるべし。 独り商民神官のみならず、",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            689,
+            1060
+          ],
+          [
+            689,
+            1834
+          ],
+          [
+            741,
+            1060
+          ],
+          [
+            741,
+            1834
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "日本全国の人民皆是れ同一の事ならん」",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            1107
+          ],
+          [
+            612,
+            1949
+          ],
+          [
+            660,
+            1107
+          ],
+          [
+            660,
+            1949
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "この演説は、彼が日頃親しく往き来してい",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            534,
+            1062
+          ],
+          [
+            534,
+            1957
+          ],
+          [
+            580,
+            1062
+          ],
+          [
+            580,
+            1957
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "た千家尊福の要請に依ったもので、約一月ほ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            457,
+            1062
+          ],
+          [
+            457,
+            1700
+          ],
+          [
+            500,
+            1062
+          ],
+          [
+            500,
+            1700
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "ど前に遊びに来た千家大教正が、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            378,
+            1088
+          ],
+          [
+            378,
+            1964
+          ],
+          [
+            421,
+            1088
+          ],
+          [
+            421,
+            1964
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "「近頃政府では国教を定めようという意向ら",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            301,
+            1068
+          ],
+          [
+            301,
+            1964
+          ],
+          [
+            343,
+            1068
+          ],
+          [
+            343,
+            1964
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "しいが、神道にするか仏教にするのかなかな",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            225,
+            1069
+          ],
+          [
+            225,
+            1961
+          ],
+          [
+            268,
+            1069
+          ],
+          [
+            268,
+            1961
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "か判らない。 いずれにせよ陛下が決められる",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            153,
+            1075
+          ],
+          [
+            153,
+            1957
+          ],
+          [
+            195,
+            1075
+          ],
+          [
+            195,
+            1957
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "ことだからかれこれ言うべきではないが、あ",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            86,
+            1074
+          ],
+          [
+            86,
+            1926
+          ],
+          [
+            128,
+            1074
+          ],
+          [
+            128,
+            1926
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "らかじめその帰趨が判ると万事都合がいい。",
+        "isTextline": "true",
+        "confidence": 0.946
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4875.JPEG",
+    "img_name": "IMG_4875.JPEG"
+  }
+}

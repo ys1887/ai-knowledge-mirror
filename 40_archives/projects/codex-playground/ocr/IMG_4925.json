@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1336,
+            93
+          ],
+          [
+            1336,
+            915
+          ],
+          [
+            1404,
+            93
+          ],
+          [
+            1404,
+            915
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "近江国膳所に生れた人。字は斐章、焦亭、天",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1265,
+            93
+          ],
+          [
+            1265,
+            313
+          ],
+          [
+            1308,
+            93
+          ],
+          [
+            1308,
+            313
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "台と号した。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1194,
+            133
+          ],
+          [
+            1194,
+            919
+          ],
+          [
+            1258,
+            133
+          ],
+          [
+            1258,
+            919
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "字の斐章は坤為地。重剛は乾為天で、共に",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1119,
+            92
+          ],
+          [
+            1119,
+            648
+          ],
+          [
+            1176,
+            92
+          ],
+          [
+            1176,
+            648
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "易辞に拠った命名と見られる。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1047,
+            131
+          ],
+          [
+            1047,
+            926
+          ],
+          [
+            1114,
+            131
+          ],
+          [
+            1114,
+            926
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "彼が嘉右衛門に初めて会ったときは二十九",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            973,
+            92
+          ],
+          [
+            973,
+            920
+          ],
+          [
+            1037,
+            92
+          ],
+          [
+            1037,
+            920
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "歳で、嘉右衛門はこの時すでに五十二歳だっ",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            901,
+            94
+          ],
+          [
+            901,
+            148
+          ],
+          [
+            936,
+            94
+          ],
+          [
+            936,
+            148
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "た。",
+        "isTextline": "true",
+        "confidence": 0.933
+      },
+      {
+        "boundingBox": [
+          [
+            828,
+            133
+          ],
+          [
+            828,
+            933
+          ],
+          [
+            889,
+            133
+          ],
+          [
+            889,
+            933
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "だから親子のような心の行き通いがあった",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            751,
+            97
+          ],
+          [
+            751,
+            936
+          ],
+          [
+            817,
+            97
+          ],
+          [
+            817,
+            936
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "のも肯ける。語中の東京英語学校は、杉浦が",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            675,
+            93
+          ],
+          [
+            675,
+            938
+          ],
+          [
+            741,
+            93
+          ],
+          [
+            741,
+            938
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "明治十八年に創立したもの。(後日本中学と",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            598,
+            92
+          ],
+          [
+            598,
+            291
+          ],
+          [
+            642,
+            92
+          ],
+          [
+            642,
+            291
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "改称した。)",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            526,
+            134
+          ],
+          [
+            526,
+            945
+          ],
+          [
+            590,
+            134
+          ],
+          [
+            590,
+            945
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "また、高島邸に滞在静養した明治三十八年",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            443,
+            98
+          ],
+          [
+            443,
+            944
+          ],
+          [
+            508,
+            98
+          ],
+          [
+            508,
+            944
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "(一九〇五)は、東亜同文書院長を罷めたあと",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            371,
+            92
+          ],
+          [
+            371,
+            148
+          ],
+          [
+            407,
+            92
+          ],
+          [
+            407,
+            148
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "だ。",
+        "isTextline": "true",
+        "confidence": 0.939
+      },
+      {
+        "boundingBox": [
+          [
+            293,
+            139
+          ],
+          [
+            293,
+            952
+          ],
+          [
+            355,
+            139
+          ],
+          [
+            355,
+            952
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "その後彼は大正三年に東宮(今上天皇)御",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            216,
+            99
+          ],
+          [
+            216,
+            956
+          ],
+          [
+            276,
+            99
+          ],
+          [
+            276,
+            956
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "学問所御用掛を仰せ付けられ、皇太子様に倫",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            143,
+            105
+          ],
+          [
+            143,
+            972
+          ],
+          [
+            203,
+            105
+          ],
+          [
+            203,
+            972
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "理学を御進講申し上げ、大正七年(一九一八)",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1376,
+            1037
+          ],
+          [
+            1376,
+            1675
+          ],
+          [
+            1436,
+            1037
+          ],
+          [
+            1436,
+            1675
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "には現皇后様の御教育も担任した。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1234,
+            1123
+          ],
+          [
+            1234,
+            1488
+          ],
+          [
+            1286,
+            1123
+          ],
+          [
+            1286,
+            1488
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "九呑象門の人々",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1084,
+            1086
+          ],
+          [
+            1084,
+            1891
+          ],
+          [
+            1151,
+            1086
+          ],
+          [
+            1151,
+            1891
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "嘉右衛門は本来頑健なたちだったが、明治",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1008,
+            1048
+          ],
+          [
+            1008,
+            1658
+          ],
+          [
+            1070,
+            1048
+          ],
+          [
+            1070,
+            1658
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "十年代には、痔と鼻疣で悩んだ。",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            937,
+            1093
+          ],
+          [
+            937,
+            1901
+          ],
+          [
+            1003,
+            1093
+          ],
+          [
+            1003,
+            1901
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "それからはずっと丈夫だったが、 日露戦争",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            860,
+            1054
+          ],
+          [
+            860,
+            1907
+          ],
+          [
+            929,
+            1054
+          ],
+          [
+            929,
+            1907
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "が終った翌年から脚が悪くなり、 歩行が困難",
+        "isTextline": "true",
+        "confidence": 0.962
+      },
+      {
+        "boundingBox": [
+          [
+            788,
+            1060
+          ],
+          [
+            788,
+            1240
+          ],
+          [
+            828,
+            1060
+          ],
+          [
+            828,
+            1240
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "になった。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            712,
+            1103
+          ],
+          [
+            712,
+            1920
+          ],
+          [
+            777,
+            1103
+          ],
+          [
+            777,
+            1920
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "以来大正三年十月十六日に亡くなるまでず",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            635,
+            1071
+          ],
+          [
+            635,
+            1926
+          ],
+          [
+            699,
+            1071
+          ],
+          [
+            699,
+            1926
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "っと寝たきりで暮した。 しかし口の方は不自",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            559,
+            1067
+          ],
+          [
+            559,
+            1932
+          ],
+          [
+            621,
+            1067
+          ],
+          [
+            621,
+            1932
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "由なかったから易話を聞きにくる者には、自",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            479,
+            1069
+          ],
+          [
+            479,
+            1867
+          ],
+          [
+            543,
+            1069
+          ],
+          [
+            543,
+            1867
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "分から引き止めるようにしてよく喋った。",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            401,
+            1116
+          ],
+          [
+            401,
+            1941
+          ],
+          [
+            469,
+            1116
+          ],
+          [
+            469,
+            1941
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "天気のいい春の日などには、女中たちのか",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            322,
+            1082
+          ],
+          [
+            322,
+            1944
+          ],
+          [
+            389,
+            1082
+          ],
+          [
+            389,
+            1944
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "つぐ輿に載って高台から降り、青木橋の袂に",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            244,
+            1077
+          ],
+          [
+            244,
+            1947
+          ],
+          [
+            312,
+            1077
+          ],
+          [
+            312,
+            1947
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "陣取って土地の人たちを相手によく話し込ん",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            172,
+            1079
+          ],
+          [
+            172,
+            1312
+          ],
+          [
+            213,
+            1079
+          ],
+          [
+            213,
+            1312
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "だりもした。",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4925.JPEG",
+    "img_name": "IMG_4925.JPEG"
+  }
+}

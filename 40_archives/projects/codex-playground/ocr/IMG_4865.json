@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1278,
+            161
+          ],
+          [
+            1278,
+            921
+          ],
+          [
+            1355,
+            161
+          ],
+          [
+            1355,
+            921
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "得た卦は三水雷屯の上六。之卦は益とな",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            1210,
+            125
+          ],
+          [
+            1210,
+            172
+          ],
+          [
+            1243,
+            125
+          ],
+          [
+            1243,
+            172
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            1143,
+            157
+          ],
+          [
+            1143,
+            923
+          ],
+          [
+            1211,
+            157
+          ],
+          [
+            1211,
+            923
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "どちらを主にしてみたかというと、彼は清",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1066,
+            117
+          ],
+          [
+            1066,
+            920
+          ],
+          [
+            1136,
+            117
+          ],
+          [
+            1136,
+            920
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "が隣国にあるからという理由で、清を内卦に",
+        "isTextline": "true",
+        "confidence": 0.961
+      },
+      {
+        "boundingBox": [
+          [
+            993,
+            112
+          ],
+          [
+            993,
+            563
+          ],
+          [
+            1048,
+            112
+          ],
+          [
+            1048,
+            563
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "取り、 仏を外卦に取った。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            924,
+            154
+          ],
+          [
+            924,
+            909
+          ],
+          [
+            985,
+            154
+          ],
+          [
+            985,
+            909
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "この取り方は任意のようでありながら、一",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            848,
+            116
+          ],
+          [
+            848,
+            922
+          ],
+          [
+            908,
+            116
+          ],
+          [
+            908,
+            922
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "つまちがうと占に決定的なあやまりを来すの",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            776,
+            112
+          ],
+          [
+            776,
+            927
+          ],
+          [
+            831,
+            112
+          ],
+          [
+            831,
+            927
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "で、いずれを内卦とし、いずれを外卦とする",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            702,
+            111
+          ],
+          [
+            702,
+            932
+          ],
+          [
+            758,
+            111
+          ],
+          [
+            758,
+            932
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "かはしっかり決めなければならない。(立卦",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            627,
+            110
+          ],
+          [
+            627,
+            930
+          ],
+          [
+            678,
+            110
+          ],
+          [
+            678,
+            930
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "法で昔は上卦から先に置き、下卦を後にする",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            554,
+            113
+          ],
+          [
+            554,
+            934
+          ],
+          [
+            601,
+            113
+          ],
+          [
+            601,
+            934
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "という方法もあったが、この先後にも若干問",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            480,
+            116
+          ],
+          [
+            480,
+            567
+          ],
+          [
+            520,
+            116
+          ],
+          [
+            520,
+            567
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "題がある。今は触れない)",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            405,
+            162
+          ],
+          [
+            405,
+            938
+          ],
+          [
+            448,
+            162
+          ],
+          [
+            448,
+            938
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "さきに独仏戦争を占した時は、同じ水雷屯",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            332,
+            132
+          ],
+          [
+            332,
+            941
+          ],
+          [
+            373,
+            132
+          ],
+          [
+            373,
+            941
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "の卦で、内卦の震を仏に取り、外卦の坎を普",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            270,
+            141
+          ],
+          [
+            270,
+            305
+          ],
+          [
+            302,
+            141
+          ],
+          [
+            302,
+            305
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "に取った。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            194,
+            188
+          ],
+          [
+            194,
+            946
+          ],
+          [
+            238,
+            188
+          ],
+          [
+            238,
+            946
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "今度は清仏だから、清を内卦の震に、仏を",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            143,
+            164
+          ],
+          [
+            143,
+            562
+          ],
+          [
+            177,
+            164
+          ],
+          [
+            177,
+            562
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "外卦の坎に取っている。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            1333,
+            1081
+          ],
+          [
+            1333,
+            1930
+          ],
+          [
+            1414,
+            1081
+          ],
+          [
+            1414,
+            1930
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "先頃筆者の門人が、ボクシング・フライ級",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1257,
+            1041
+          ],
+          [
+            1257,
+            1934
+          ],
+          [
+            1335,
+            1041
+          ],
+          [
+            1335,
+            1934
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "世界選手権試合を筮し、同じ水雷屯の初九を",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1182,
+            1042
+          ],
+          [
+            1182,
+            1864
+          ],
+          [
+            1256,
+            1042
+          ],
+          [
+            1256,
+            1864
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "得て、これを占して下さいと持って来た。",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            1086
+          ],
+          [
+            1108,
+            1942
+          ],
+          [
+            1176,
+            1086
+          ],
+          [
+            1176,
+            1942
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "内卦の震を白井とし、外卦の坎をペレスと",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1033,
+            1047
+          ],
+          [
+            1033,
+            1950
+          ],
+          [
+            1103,
+            1047
+          ],
+          [
+            1103,
+            1950
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "し、坎の苦しみ、険しい、危い等の象意は取",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            955,
+            1048
+          ],
+          [
+            955,
+            1953
+          ],
+          [
+            1023,
+            1048
+          ],
+          [
+            1023,
+            1953
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "らず、外卦の坎が不変であり、九五の王座は",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            875,
+            1048
+          ],
+          [
+            875,
+            1959
+          ],
+          [
+            942,
+            1048
+          ],
+          [
+            942,
+            1959
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "動かぬと見、 内卦の震の主爻の一陽が陰変し",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            800,
+            1054
+          ],
+          [
+            800,
+            1964
+          ],
+          [
+            862,
+            1054
+          ],
+          [
+            862,
+            1964
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "て坤になるのを、白井壮図挫折しマットに這",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            722,
+            1051
+          ],
+          [
+            722,
+            1288
+          ],
+          [
+            765,
+            1051
+          ],
+          [
+            765,
+            1288
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "う象と見た。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            1096
+          ],
+          [
+            644,
+            1973
+          ],
+          [
+            700,
+            1096
+          ],
+          [
+            700,
+            1973
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "結果はその通りになったが、このように卦",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            565,
+            1061
+          ],
+          [
+            565,
+            1972
+          ],
+          [
+            616,
+            1061
+          ],
+          [
+            616,
+            1972
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "の内外上下を正しく取ることは、占のはじめ",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            1061
+          ],
+          [
+            487,
+            1970
+          ],
+          [
+            536,
+            1061
+          ],
+          [
+            536,
+            1970
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "において最も大切なことである。(閑話休題)",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            409,
+            1106
+          ],
+          [
+            409,
+            1340
+          ],
+          [
+            450,
+            1106
+          ],
+          [
+            450,
+            1340
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "上六の辞は、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            330,
+            1087
+          ],
+          [
+            330,
+            1856
+          ],
+          [
+            373,
+            1087
+          ],
+          [
+            373,
+            1856
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "「馬ニ乗ッテ班如タリ、泣血漣如タリ」",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            255,
+            1114
+          ],
+          [
+            255,
+            1972
+          ],
+          [
+            296,
+            1114
+          ],
+          [
+            296,
+            1972
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "である。下卦の清は震の長男、上卦の仏は",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            184,
+            1068
+          ],
+          [
+            184,
+            1967
+          ],
+          [
+            225,
+            1068
+          ],
+          [
+            225,
+            1967
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "坎の中男である。清はフランスに比べ、国が",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            120,
+            1072
+          ],
+          [
+            120,
+            1842
+          ],
+          [
+            159,
+            1072
+          ],
+          [
+            159,
+            1842
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "広くかつ長大でこの象に合致している。",
+        "isTextline": "true",
+        "confidence": 0.947
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4865.JPEG",
+    "img_name": "IMG_4865.JPEG"
+  }
+}

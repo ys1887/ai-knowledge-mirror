@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1313,
+            114
+          ],
+          [
+            1313,
+            894
+          ],
+          [
+            1394,
+            114
+          ],
+          [
+            1394,
+            894
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "船発亜丁。東駿三日。海天無風。波平如鏡。",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1243,
+            111
+          ],
+          [
+            1243,
+            877
+          ],
+          [
+            1320,
+            111
+          ],
+          [
+            1320,
+            877
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "舟子暇適。除舵師看舵外。絶無一事焉。于",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1173,
+            109
+          ],
+          [
+            1173,
+            899
+          ],
+          [
+            1249,
+            109
+          ],
+          [
+            1249,
+            899
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "時黒奴六七作伴。踞甲板上。為擲蔑賭菓戯。",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1100,
+            107
+          ],
+          [
+            1100,
+            899
+          ],
+          [
+            1174,
+            107
+          ],
+          [
+            1174,
+            899
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "蔑僅管大。割分両片。人持三片。当額哺祝。",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            1028,
+            105
+          ],
+          [
+            1028,
+            882
+          ],
+          [
+            1096,
+            105
+          ],
+          [
+            1096,
+            882
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "仰天郷地而検之。検畢復拾。仰者為藉。俯",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            956,
+            103
+          ],
+          [
+            956,
+            859
+          ],
+          [
+            1020,
+            103
+          ],
+          [
+            1020,
+            859
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "者為奇。一奇二藕。二奇一藕。各有差異。",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            884,
+            102
+          ],
+          [
+            884,
+            885
+          ],
+          [
+            944,
+            102
+          ],
+          [
+            944,
+            885
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "豈山沢通気雷風相薄之類歟。而三片皆奇為",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            808,
+            103
+          ],
+          [
+            808,
+            861
+          ],
+          [
+            868,
+            103
+          ],
+          [
+            868,
+            861
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "優。三片皆偶為更優。殆若既伏羲氏所画。",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            734,
+            103
+          ],
+          [
+            734,
+            888
+          ],
+          [
+            791,
+            103
+          ],
+          [
+            791,
+            888
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "而寓婦人貴於男子之習者。是戊辰四月。予",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            660,
+            103
+          ],
+          [
+            660,
+            890
+          ],
+          [
+            716,
+            103
+          ],
+          [
+            716,
+            890
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "奉使法国。事畢帰途日。所親賭者也。抑黒",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            106
+          ],
+          [
+            585,
+            908
+          ],
+          [
+            639,
+            106
+          ],
+          [
+            639,
+            908
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "奴於今知識未開。書契未造。独在渾穆世界。",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            512,
+            109
+          ],
+          [
+            512,
+            894
+          ],
+          [
+            561,
+            109
+          ],
+          [
+            561,
+            894
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "而業己解有聴天決疑之妙。可謂天地間無不",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            439,
+            113
+          ],
+          [
+            439,
+            573
+          ],
+          [
+            478,
+            113
+          ],
+          [
+            478,
+            573
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "有易之地矣。(以下略)と",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            366,
+            122
+          ],
+          [
+            366,
+            899
+          ],
+          [
+            407,
+            122
+          ],
+          [
+            407,
+            899
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "彼が開設した、高島学校出身の人々が教育",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            296,
+            94
+          ],
+          [
+            296,
+            902
+          ],
+          [
+            335,
+            94
+          ],
+          [
+            335,
+            902
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "界をはじめ各方面で喜び迎えられ、明治中期",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            228,
+            111
+          ],
+          [
+            228,
+            907
+          ],
+          [
+            269,
+            111
+          ],
+          [
+            269,
+            907
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "の躍進日本を背負っていっただろうことは想",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            166,
+            123
+          ],
+          [
+            166,
+            909
+          ],
+          [
+            208,
+            123
+          ],
+          [
+            208,
+            909
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "像に難くないが、大綱山に引退してから始め",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            1366,
+            998
+          ],
+          [
+            1366,
+            1878
+          ],
+          [
+            1444,
+            998
+          ],
+          [
+            1444,
+            1878
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "た易の講義には、当代の碩学天台道土杉浦重",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1292,
+            999
+          ],
+          [
+            1292,
+            1901
+          ],
+          [
+            1372,
+            999
+          ],
+          [
+            1372,
+            1901
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "剛なども出席して、嘉右衛門の講義を受けた。",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1218,
+            1043
+          ],
+          [
+            1218,
+            1891
+          ],
+          [
+            1294,
+            1043
+          ],
+          [
+            1294,
+            1891
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "杉浦の称好塾に学んだ河野一郎などが現代",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1142,
+            1004
+          ],
+          [
+            1142,
+            1894
+          ],
+          [
+            1215,
+            1004
+          ],
+          [
+            1215,
+            1894
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "日本の政界を動かしているとき、この大綱山",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1065,
+            1004
+          ],
+          [
+            1065,
+            1732
+          ],
+          [
+            1132,
+            1004
+          ],
+          [
+            1132,
+            1732
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "私塾の影響は見逃すことが出来ない。",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            989,
+            1048
+          ],
+          [
+            989,
+            1919
+          ],
+          [
+            1061,
+            1048
+          ],
+          [
+            1061,
+            1919
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "杉浦重剛が、『高島易断』に跋を書いたのは、",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            912,
+            1007
+          ],
+          [
+            912,
+            1910
+          ],
+          [
+            981,
+            1007
+          ],
+          [
+            981,
+            1910
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "現今知名士が出版屋から頼まれて八百長書評",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            836,
+            1010
+          ],
+          [
+            836,
+            1911
+          ],
+          [
+            899,
+            1010
+          ],
+          [
+            899,
+            1911
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "や推奨の辞をものするのとは、趣きを異にし",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            760,
+            1015
+          ],
+          [
+            760,
+            1154
+          ],
+          [
+            800,
+            1015
+          ],
+          [
+            800,
+            1154
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "ている。",
+        "isTextline": "true",
+        "confidence": 0.945
+      },
+      {
+        "boundingBox": [
+          [
+            682,
+            1009
+          ],
+          [
+            682,
+            1922
+          ],
+          [
+            740,
+            1009
+          ],
+          [
+            740,
+            1922
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "-彼は、英国へ留学して理学を勉強し、科",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            603,
+            1013
+          ],
+          [
+            603,
+            1919
+          ],
+          [
+            657,
+            1013
+          ],
+          [
+            657,
+            1919
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "学者としても明治初年における最も輝かしい",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            524,
+            1014
+          ],
+          [
+            524,
+            1928
+          ],
+          [
+            577,
+            1014
+          ],
+          [
+            577,
+            1928
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "存在だったが、嘉右衛門との親交、講義を聴",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            448,
+            1018
+          ],
+          [
+            448,
+            1920
+          ],
+          [
+            495,
+            1018
+          ],
+          [
+            495,
+            1920
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "くようになったいきさつを、次のように言っ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            373,
+            1024
+          ],
+          [
+            373,
+            1166
+          ],
+          [
+            409,
+            1024
+          ],
+          [
+            409,
+            1166
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ている。",
+        "isTextline": "true",
+        "confidence": 0.937
+      },
+      {
+        "boundingBox": [
+          [
+            294,
+            1048
+          ],
+          [
+            294,
+            1928
+          ],
+          [
+            337,
+            1048
+          ],
+          [
+            337,
+            1928
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "「予嘗つて欧洲留学中に理学宗という事を思",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            223,
+            1034
+          ],
+          [
+            223,
+            1923
+          ],
+          [
+            262,
+            1034
+          ],
+          [
+            262,
+            1923
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "いついていろいろと思考を廻らした。其時理",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            156,
+            1030
+          ],
+          [
+            156,
+            1916
+          ],
+          [
+            195,
+            1030
+          ],
+          [
+            195,
+            1916
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "学の教える波動説は独り理学のみならず、之",
+        "isTextline": "true",
+        "confidence": 0.952
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4861.JPEG",
+    "img_name": "IMG_4861.JPEG"
+  }
+}

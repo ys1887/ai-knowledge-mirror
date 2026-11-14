@@ -1,0 +1,11 @@
+description: PCの設定、ファイルやフォルダの整理整頓を行うエンジニアBot
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar
+    imageKind: photo
+    title: マナ/エンジニア
+    created: 1793623460172
+    custom: true
+_ui_meta_revisions:
+  hermes-bots: 6

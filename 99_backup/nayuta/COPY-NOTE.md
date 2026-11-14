@@ -1,0 +1,10 @@
+# ナユタのプロフィール写し
+
+コピー日：2026-11-13。正本は C 側の Hermes プロフィール（`C:/Users/nekol/AppData/Local/hermes/profiles/nayuta/`）であり、このフォルダの3ファイルは復旧・再構成用の全文写しです。
+
+対象：`SOUL.md`、`config.yaml`、`profile.yaml`。正本を変更したときは、秘密情報の値を含まないことを再確認して自分の写しを更新します。`memories/`、`.env`、`auth.json` は置きません。
+
+2026-11-13：自己写し更新規則をSOUL正本に追加した後、SOUL全文写しを更新しました。
+
+config.yaml の写し更新日：2026-11-13。ユーザー指定のC側正本から再コピーし、バイト一致を確認しました。SOUL.md と profile.yaml のコピー日は従来どおりです。
+2026-11-14：本人承認による現行閲覧範囲の修正後、C側正本のSOUL.mdを再コピーしました。config.yamlとprofile.yamlの正本は今回変更していません。

@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1324,
+            105
+          ],
+          [
+            1324,
+            938
+          ],
+          [
+            1378,
+            105
+          ],
+          [
+            1378,
+            938
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ず、唯器量其人を得て能く之を継続せしむる",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1250,
+            108
+          ],
+          [
+            1250,
+            941
+          ],
+          [
+            1306,
+            108
+          ],
+          [
+            1306,
+            941
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "の外、 他の方法無し。 世に学者尠からずと雖",
+        "isTextline": "true",
+        "confidence": 0.96
+      },
+      {
+        "boundingBox": [
+          [
+            1179,
+            104
+          ],
+          [
+            1179,
+            940
+          ],
+          [
+            1230,
+            104
+          ],
+          [
+            1230,
+            940
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "も、能く斯の道を嗜み、其の妙味を知る者に",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            1102,
+            103
+          ],
+          [
+            1102,
+            942
+          ],
+          [
+            1157,
+            103
+          ],
+          [
+            1157,
+            942
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "至りては未だ其の多きを見ざるなり。是を以",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1029,
+            105
+          ],
+          [
+            1029,
+            942
+          ],
+          [
+            1080,
+            105
+          ],
+          [
+            1080,
+            942
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "て余は常に天性禀賦の余と其の趣向を同一に",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            954,
+            99
+          ],
+          [
+            954,
+            943
+          ],
+          [
+            1003,
+            99
+          ],
+          [
+            1003,
+            943
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "する人あらば、すなわち斯の道を伝えんこと",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            879,
+            99
+          ],
+          [
+            879,
+            302
+          ],
+          [
+            920,
+            99
+          ],
+          [
+            920,
+            302
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "を欲せり。」",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            805,
+            139
+          ],
+          [
+            805,
+            944
+          ],
+          [
+            854,
+            139
+          ],
+          [
+            854,
+            944
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "と呼びかけ、 易が万古に傑出した四聖人の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            728,
+            98
+          ],
+          [
+            728,
+            946
+          ],
+          [
+            779,
+            98
+          ],
+          [
+            779,
+            946
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "手によって大成した学術で、卜筮を経験せぬ",
+        "isTextline": "true",
+        "confidence": 0.959
+      },
+      {
+        "boundingBox": [
+          [
+            650,
+            97
+          ],
+          [
+            650,
+            950
+          ],
+          [
+            702,
+            97
+          ],
+          [
+            702,
+            950
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "学者は語るに足りないと痛論し、卜筮を行う",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            574,
+            95
+          ],
+          [
+            574,
+            952
+          ],
+          [
+            626,
+            95
+          ],
+          [
+            626,
+            952
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "諸君こそ我が後継者であるから、この『高島",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            497,
+            97
+          ],
+          [
+            497,
+            949
+          ],
+          [
+            546,
+            97
+          ],
+          [
+            546,
+            949
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "易断』を贈るのだが、それについては二つの",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            420,
+            95
+          ],
+          [
+            420,
+            924
+          ],
+          [
+            468,
+            95
+          ],
+          [
+            468,
+            924
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "注文がある。 その一つには易経二冊 (上下)",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            343,
+            96
+          ],
+          [
+            343,
+            953
+          ],
+          [
+            390,
+            96
+          ],
+          [
+            390,
+            953
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "を暗誦記憶して貰いたい、 二つにはこの書を",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            267,
+            99
+          ],
+          [
+            267,
+            954
+          ],
+          [
+            310,
+            99
+          ],
+          [
+            310,
+            954
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "読んで易学の深奥をきわめ、占筮の的中した",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            193,
+            105
+          ],
+          [
+            193,
+            954
+          ],
+          [
+            234,
+            105
+          ],
+          [
+            234,
+            954
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "ものがあったらこれを筆記しておいて、私の",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            120,
+            109
+          ],
+          [
+            120,
+            546
+          ],
+          [
+            159,
+            109
+          ],
+          [
+            159,
+            546
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "所まで送って貰いたい。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1349,
+            1103
+          ],
+          [
+            1349,
+            1915
+          ],
+          [
+            1405,
+            1103
+          ],
+          [
+            1405,
+            1915
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "そうすれば自分はそれを編集し、一種の天",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1273,
+            1060
+          ],
+          [
+            1273,
+            1920
+          ],
+          [
+            1333,
+            1060
+          ],
+          [
+            1333,
+            1920
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "命学とも称うべきものを大成し、斯の道の光",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            1062
+          ],
+          [
+            1198,
+            1678
+          ],
+          [
+            1251,
+            1062
+          ],
+          [
+            1251,
+            1678
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "輝を全世界に煥発したいと思う。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            1128,
+            1062
+          ],
+          [
+            1128,
+            1928
+          ],
+          [
+            1181,
+            1062
+          ],
+          [
+            1181,
+            1928
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "-このようにして成功すれば、あまねく世",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1065
+          ],
+          [
+            1049,
+            1931
+          ],
+          [
+            1104,
+            1065
+          ],
+          [
+            1104,
+            1931
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "人をして天命の畏るべきと、 道徳の基本とを",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            973,
+            1067
+          ],
+          [
+            973,
+            1936
+          ],
+          [
+            1029,
+            1067
+          ],
+          [
+            1029,
+            1936
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "知らしめ、凶を避け吉に赴かしめることが出",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            897,
+            1067
+          ],
+          [
+            897,
+            1298
+          ],
+          [
+            939,
+            1067
+          ],
+          [
+            939,
+            1298
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "来ると思う。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            821,
+            1113
+          ],
+          [
+            821,
+            1939
+          ],
+          [
+            874,
+            1113
+          ],
+          [
+            874,
+            1939
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "と期待を述べ、広い心を以て\"売卜\"につ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            746,
+            1077
+          ],
+          [
+            746,
+            1346
+          ],
+          [
+            787,
+            1077
+          ],
+          [
+            787,
+            1346
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "いても触れた。",
+        "isTextline": "true",
+        "confidence": 0.943
+      },
+      {
+        "boundingBox": [
+          [
+            668,
+            1095
+          ],
+          [
+            668,
+            1951
+          ],
+          [
+            719,
+            1095
+          ],
+          [
+            719,
+            1951
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "「そもそも易は未然を知り、 天命を楽しむの",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            590,
+            1072
+          ],
+          [
+            590,
+            1958
+          ],
+          [
+            640,
+            1072
+          ],
+          [
+            640,
+            1958
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "道なれば、その学術に於ける、義を精しくし",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            510,
+            1075
+          ],
+          [
+            510,
+            1964
+          ],
+          [
+            561,
+            1075
+          ],
+          [
+            561,
+            1964
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "神に通ずるの妙境に到達するときは、所謂",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            432,
+            1103
+          ],
+          [
+            432,
+            1966
+          ],
+          [
+            480,
+            1103
+          ],
+          [
+            480,
+            1966
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "\"学ぶや禄其中に在(学也禄在其中)る\"も",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            354,
+            1084
+          ],
+          [
+            354,
+            1969
+          ],
+          [
+            404,
+            1084
+          ],
+          [
+            404,
+            1969
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "のにして、一家の生計の如きは復た念頭に掛",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            276,
+            1081
+          ],
+          [
+            276,
+            1968
+          ],
+          [
+            324,
+            1081
+          ],
+          [
+            324,
+            1968
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "くるを要せざるなり。然りと雖も学術修業中",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            197,
+            1084
+          ],
+          [
+            197,
+            1965
+          ],
+          [
+            247,
+            1084
+          ],
+          [
+            247,
+            1965
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "は聊か売トして其の生計を営むも、亦やむを",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            127,
+            1082
+          ],
+          [
+            127,
+            1936
+          ],
+          [
+            174,
+            1082
+          ],
+          [
+            174,
+            1936
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "得ざる権道なり、敢て不可なきのみならず」",
+        "isTextline": "true",
+        "confidence": 0.951
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4907.JPEG",
+    "img_name": "IMG_4907.JPEG"
+  }
+}

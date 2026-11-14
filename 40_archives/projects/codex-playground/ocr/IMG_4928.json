@@ -1,0 +1,862 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1323,
+            123
+          ],
+          [
+            1323,
+            948
+          ],
+          [
+            1382,
+            123
+          ],
+          [
+            1382,
+            948
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "が、まもなく辞めて住友入りをした(明治",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1243,
+            80
+          ],
+          [
+            1243,
+            947
+          ],
+          [
+            1304,
+            80
+          ],
+          [
+            1304,
+            947
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "三十二年・一八九九)。官界から実業界へ転進",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1167,
+            81
+          ],
+          [
+            1167,
+            938
+          ],
+          [
+            1221,
+            81
+          ],
+          [
+            1221,
+            938
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "したことについては、嘉右衛門の慫慂があっ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            1086,
+            84
+          ],
+          [
+            1086,
+            946
+          ],
+          [
+            1137,
+            84
+          ],
+          [
+            1137,
+            946
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "たかどうか、 いつか御本人に伺ってみたいと",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1008,
+            90
+          ],
+          [
+            1008,
+            950
+          ],
+          [
+            1058,
+            90
+          ],
+          [
+            1058,
+            950
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "思っているが、この人が、昭和五年、住友総",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            930,
+            95
+          ],
+          [
+            930,
+            951
+          ],
+          [
+            977,
+            95
+          ],
+          [
+            977,
+            951
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "理事の湯川寛吉の停年退職のあと、湯川の推",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            854,
+            102
+          ],
+          [
+            854,
+            952
+          ],
+          [
+            898,
+            102
+          ],
+          [
+            898,
+            952
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "薦によって住友の総理事になった小倉正恒氏",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            781,
+            113
+          ],
+          [
+            781,
+            244
+          ],
+          [
+            817,
+            113
+          ],
+          [
+            817,
+            244
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "である。",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            703,
+            158
+          ],
+          [
+            703,
+            953
+          ],
+          [
+            744,
+            158
+          ],
+          [
+            744,
+            953
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "小倉正恒氏は、山岡鉄舟の剣と禅を学んだ",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            628,
+            124
+          ],
+          [
+            628,
+            957
+          ],
+          [
+            670,
+            124
+          ],
+          [
+            670,
+            957
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "生きた古武士で、住友を総攬しながら大阪帝",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            555,
+            131
+          ],
+          [
+            555,
+            974
+          ],
+          [
+            597,
+            131
+          ],
+          [
+            597,
+            974
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "塚山に青少年錬成の無刀流道場を開き、また、",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            480,
+            135
+          ],
+          [
+            480,
+            961
+          ],
+          [
+            526,
+            135
+          ],
+          [
+            526,
+            961
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "東の昌平黌と並び称された大阪懐徳堂を復興",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            410,
+            144
+          ],
+          [
+            410,
+            682
+          ],
+          [
+            454,
+            144
+          ],
+          [
+            454,
+            682
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "し、 文武両道の鼓吹に努めた。",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            334,
+            190
+          ],
+          [
+            334,
+            961
+          ],
+          [
+            383,
+            190
+          ],
+          [
+            383,
+            961
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "昭和十六年停年で住友の総理事を辞めた直",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            265,
+            154
+          ],
+          [
+            265,
+            960
+          ],
+          [
+            315,
+            154
+          ],
+          [
+            315,
+            960
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "後、乞われて第二次近衛内閣に国務大臣とし",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            192,
+            163
+          ],
+          [
+            192,
+            961
+          ],
+          [
+            245,
+            163
+          ],
+          [
+            245,
+            961
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "て入閣、次いで第三次内閣に大蔵大臣として",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            121,
+            165
+          ],
+          [
+            121,
+            966
+          ],
+          [
+            176,
+            165
+          ],
+          [
+            176,
+            966
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "入閣し日本の財政を握った人である。(筆者",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            1349,
+            1076
+          ],
+          [
+            1349,
+            2013
+          ],
+          [
+            1408,
+            1076
+          ],
+          [
+            1408,
+            2013
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "は先頃、 氏が八十歳になられたのを記念して",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1266,
+            1076
+          ],
+          [
+            1266,
+            2038
+          ],
+          [
+            1326,
+            1076
+          ],
+          [
+            1326,
+            2038
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "書かれた「小倉正恒談叢」の恵贈を受けたが、",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1183,
+            1075
+          ],
+          [
+            1183,
+            2013
+          ],
+          [
+            1240,
+            1075
+          ],
+          [
+            1240,
+            2013
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "簡斎と号して漢詩をよくされる翁の面目躍如",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1102,
+            1077
+          ],
+          [
+            1102,
+            1341
+          ],
+          [
+            1147,
+            1077
+          ],
+          [
+            1147,
+            1341
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "たるものだ。)",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            1021,
+            1125
+          ],
+          [
+            1021,
+            2003
+          ],
+          [
+            1071,
+            1125
+          ],
+          [
+            1071,
+            2003
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "これはずっと後年―嘉右衛門の最晩年で",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            940,
+            1077
+          ],
+          [
+            940,
+            2002
+          ],
+          [
+            988,
+            1077
+          ],
+          [
+            988,
+            2002
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "あるが、西医学を創始した西勝造氏も一夕嘉",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            858,
+            1077
+          ],
+          [
+            858,
+            1978
+          ],
+          [
+            905,
+            1077
+          ],
+          [
+            905,
+            1978
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "右衛門邸に参じ、嘉右衛門の謦咳に接した一",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            783,
+            1079
+          ],
+          [
+            783,
+            1270
+          ],
+          [
+            821,
+            1079
+          ],
+          [
+            821,
+            1270
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "人らしい。",
+        "isTextline": "true",
+        "confidence": 0.94
+      },
+      {
+        "boundingBox": [
+          [
+            703,
+            1122
+          ],
+          [
+            703,
+            1986
+          ],
+          [
+            745,
+            1122
+          ],
+          [
+            745,
+            1986
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "年少より神童の誉高かった氏は、大山阿夫",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            624,
+            1078
+          ],
+          [
+            624,
+            1949
+          ],
+          [
+            667,
+            1078
+          ],
+          [
+            667,
+            1949
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "利神社の権田翁 (明治二十年・一八八七没)",
+        "isTextline": "true",
+        "confidence": 0.949
+      },
+      {
+        "boundingBox": [
+          [
+            547,
+            1084
+          ],
+          [
+            547,
+            1975
+          ],
+          [
+            591,
+            1084
+          ],
+          [
+            591,
+            1975
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "の遺教を受けられたそうだが、同じ頃に嘉右",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            470,
+            1080
+          ],
+          [
+            470,
+            1971
+          ],
+          [
+            516,
+            1080
+          ],
+          [
+            516,
+            1971
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "衛門をその邸に訪ねた……これは阪神間在住",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            396,
+            1085
+          ],
+          [
+            396,
+            1963
+          ],
+          [
+            441,
+            1085
+          ],
+          [
+            441,
+            1963
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "の西会の先生方が筆者に語ってくれたことだ",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            324,
+            1082
+          ],
+          [
+            324,
+            1531
+          ],
+          [
+            369,
+            1082
+          ],
+          [
+            369,
+            1531
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "が、 氏は嘉右衛門から、",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            247,
+            1105
+          ],
+          [
+            247,
+            1796
+          ],
+          [
+            295,
+            1105
+          ],
+          [
+            295,
+            1796
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "「至誠無息不息則久。久則徴。……」",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            173,
+            1125
+          ],
+          [
+            173,
+            1924
+          ],
+          [
+            219,
+            1125
+          ],
+          [
+            219,
+            1924
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "という中庸の一節を引いた探筮法を聴き、",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            106,
+            1082
+          ],
+          [
+            106,
+            1697
+          ],
+          [
+            152,
+            1082
+          ],
+          [
+            152,
+            1697
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "後年西式健康法考案のときこの、",
+        "isTextline": "true",
+        "confidence": 0.952
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4928.JPEG",
+    "img_name": "IMG_4928.JPEG"
+  }
+}

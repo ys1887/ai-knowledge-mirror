@@ -1,0 +1,3 @@
+display_name: LLM Wiki Ingest
+short_description: Ingest source registry entries into a wiki root from the current working directory.
+default_prompt: Start from the current working directory, resolve the wiki root by walking upward, read its AGENTS.md and source registry, and ingest the listed sources into wiki/, index.md, and log.md.

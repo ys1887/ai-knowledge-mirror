@@ -1,0 +1,10 @@
+description: ファントム — 小説などの創作物語を書く執筆Bot
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar
+    imageKind: photo
+    title: ファントム/小説家
+    created: 1793865130717
+_ui_meta_revisions:
+  hermes-bots: 2

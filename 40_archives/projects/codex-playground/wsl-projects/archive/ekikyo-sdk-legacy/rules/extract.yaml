@@ -1,0 +1,4 @@
+# rules/ex.yaml（該当部分だけ）
+sources:
+  root: sources/extract
+  index_md: sources/index.md

@@ -1,0 +1,787 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1339,
+            124
+          ],
+          [
+            1339,
+            180
+          ],
+          [
+            1368,
+            124
+          ],
+          [
+            1368,
+            180
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.913
+      },
+      {
+        "boundingBox": [
+          [
+            1269,
+            150
+          ],
+          [
+            1269,
+            961
+          ],
+          [
+            1326,
+            150
+          ],
+          [
+            1326,
+            961
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "彼の占を目にし、 象は見ず辞だけで判断し",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            1198,
+            108
+          ],
+          [
+            1198,
+            961
+          ],
+          [
+            1252,
+            108
+          ],
+          [
+            1252,
+            961
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "て来たと思う者は結果だけを見ているのであ",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            1124,
+            102
+          ],
+          [
+            1124,
+            156
+          ],
+          [
+            1159,
+            102
+          ],
+          [
+            1159,
+            156
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "る。",
+        "isTextline": "true",
+        "confidence": 0.921
+      },
+      {
+        "boundingBox": [
+          [
+            1044,
+            140
+          ],
+          [
+            1044,
+            958
+          ],
+          [
+            1092,
+            140
+          ],
+          [
+            1092,
+            958
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "彼は占の巧者というだけでなくあらゆるこ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            968,
+            100
+          ],
+          [
+            968,
+            961
+          ],
+          [
+            1016,
+            100
+          ],
+          [
+            1016,
+            961
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "とに通暁していたから、適切な推理占考が可",
+        "isTextline": "true",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          [
+            890,
+            102
+          ],
+          [
+            890,
+            453
+          ],
+          [
+            931,
+            102
+          ],
+          [
+            931,
+            453
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "能だったのである。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            814,
+            152
+          ],
+          [
+            814,
+            963
+          ],
+          [
+            857,
+            152
+          ],
+          [
+            857,
+            963
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "この占なども種を割ってみれば別に特異な",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            737,
+            110
+          ],
+          [
+            737,
+            965
+          ],
+          [
+            780,
+            110
+          ],
+          [
+            780,
+            965
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "占ではなく、安南事件がその前年に起った直",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            661,
+            115
+          ],
+          [
+            661,
+            967
+          ],
+          [
+            703,
+            115
+          ],
+          [
+            703,
+            967
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "後にひそかにその進退如何を筮し、水風井",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            583,
+            128
+          ],
+          [
+            583,
+            966
+          ],
+          [
+            627,
+            128
+          ],
+          [
+            627,
+            966
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "(三)の四爻変というのを得て、深い関心",
+        "isTextline": "true",
+        "confidence": 0.941
+      },
+      {
+        "boundingBox": [
+          [
+            510,
+            126
+          ],
+          [
+            510,
+            969
+          ],
+          [
+            551,
+            126
+          ],
+          [
+            551,
+            969
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "を持ち続けそこから清仏の新しい事変を凝視",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            441,
+            131
+          ],
+          [
+            441,
+            389
+          ],
+          [
+            475,
+            131
+          ],
+          [
+            475,
+            389
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "したのである。",
+        "isTextline": "true",
+        "confidence": 0.947
+      },
+      {
+        "boundingBox": [
+          [
+            291,
+            223
+          ],
+          [
+            291,
+            537
+          ],
+          [
+            334,
+            223
+          ],
+          [
+            334,
+            537
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "二書家と易者",
+        "isTextline": "true",
+        "confidence": 0.957
+      },
+      {
+        "boundingBox": [
+          [
+            140,
+            185
+          ],
+          [
+            140,
+            973
+          ],
+          [
+            186,
+            185
+          ],
+          [
+            186,
+            973
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "すでに一部は前に記したが、彼の交友関係",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            1366,
+            1088
+          ],
+          [
+            1366,
+            1986
+          ],
+          [
+            1420,
+            1088
+          ],
+          [
+            1420,
+            1986
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "はすこぶる広い範囲にわたっていたが、 それ",
+        "isTextline": "true",
+        "confidence": 0.95
+      },
+      {
+        "boundingBox": [
+          [
+            1297,
+            1089
+          ],
+          [
+            1297,
+            1877
+          ],
+          [
+            1347,
+            1089
+          ],
+          [
+            1347,
+            1877
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "らの人々のうちでも、自ら親疎はある。",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            1139,
+            1133
+          ],
+          [
+            1139,
+            1975
+          ],
+          [
+            1191,
+            1133
+          ],
+          [
+            1191,
+            1975
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "佐賀出身の副島種臣とは嘉右衛門が陽気、",
+        "isTextline": "true",
+        "confidence": 0.955
+      },
+      {
+        "boundingBox": [
+          [
+            1058,
+            1090
+          ],
+          [
+            1058,
+            2024
+          ],
+          [
+            1110,
+            1090
+          ],
+          [
+            1110,
+            2024
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "副島が陰気で、性格相反したせいもあってか、",
+        "isTextline": "true",
+        "confidence": 0.951
+      },
+      {
+        "boundingBox": [
+          [
+            977,
+            1088
+          ],
+          [
+            977,
+            1514
+          ],
+          [
+            1024,
+            1088
+          ],
+          [
+            1024,
+            1514
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "特に親しく往来した。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            899,
+            1134
+          ],
+          [
+            899,
+            2020
+          ],
+          [
+            947,
+            1134
+          ],
+          [
+            947,
+            2020
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "副島は家庭的にははなはだ恵まれない人で、",
+        "isTextline": "true",
+        "confidence": 0.948
+      },
+      {
+        "boundingBox": [
+          [
+            819,
+            1089
+          ],
+          [
+            819,
+            1995
+          ],
+          [
+            865,
+            1089
+          ],
+          [
+            865,
+            1995
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "夫人を何度も失ったし、子が出来ても次々と",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            742,
+            1090
+          ],
+          [
+            742,
+            1993
+          ],
+          [
+            784,
+            1090
+          ],
+          [
+            784,
+            1993
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "亡くしてしまい、その号蒼海が物語っている",
+        "isTextline": "true",
+        "confidence": 0.954
+      },
+      {
+        "boundingBox": [
+          [
+            664,
+            1092
+          ],
+          [
+            664,
+            1918
+          ],
+          [
+            705,
+            1092
+          ],
+          [
+            705,
+            1918
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ように、だんだん陰気さを募していった。",
+        "isTextline": "true",
+        "confidence": 0.952
+      },
+      {
+        "boundingBox": [
+          [
+            585,
+            1139
+          ],
+          [
+            585,
+            1988
+          ],
+          [
+            627,
+            1139
+          ],
+          [
+            627,
+            1988
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "これを憂慮した嘉右衛門は、伊藤博文を語",
+        "isTextline": "true",
+        "confidence": 0.953
+      },
+      {
+        "boundingBox": [
+          [
+            508,
+            1092
+          ],
+          [
+            508,
+            1980
+          ],
+          [
+            549,
+            1092
+          ],
+          [
+            549,
+            1980
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "らって、彼に丈夫な美しい夫人を持たせるこ",
+        "isTextline": "true",
+        "confidence": 0.956
+      },
+      {
+        "boundingBox": [
+          [
+            434,
+            1092
+          ],
+          [
+            434,
+            1461
+          ],
+          [
+            472,
+            1092
+          ],
+          [
+            472,
+            1461
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "とを計ったりした。",
+        "isTextline": "true",
+        "confidence": 0.946
+      },
+      {
+        "boundingBox": [
+          [
+            351,
+            1137
+          ],
+          [
+            351,
+            1972
+          ],
+          [
+            399,
+            1137
+          ],
+          [
+            399,
+            1972
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "それは『高島易断』の風沢中孚(三)の",
+        "isTextline": "true",
+        "confidence": 0.914
+      },
+      {
+        "boundingBox": [
+          [
+            279,
+            1093
+          ],
+          [
+            279,
+            1970
+          ],
+          [
+            322,
+            1093
+          ],
+          [
+            322,
+            1970
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "項に出ている「某貴顕の縁婚を占う」がそれ",
+        "isTextline": "true",
+        "confidence": 0.944
+      },
+      {
+        "boundingBox": [
+          [
+            212,
+            1098
+          ],
+          [
+            212,
+            1236
+          ],
+          [
+            247,
+            1098
+          ],
+          [
+            247,
+            1236
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "である。",
+        "isTextline": "true",
+        "confidence": 0.942
+      },
+      {
+        "boundingBox": [
+          [
+            130,
+            1136
+          ],
+          [
+            130,
+            1965
+          ],
+          [
+            173,
+            1136
+          ],
+          [
+            173,
+            1965
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "世話好きな彼のことだから媒酌は数多く引",
+        "isTextline": "true",
+        "confidence": 0.949
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 1536,
+    "img_height": 2048,
+    "img_path": "E:\\Documents\\archives\\IMG_4868.JPEG",
+    "img_name": "IMG_4868.JPEG"
+  }
+}
