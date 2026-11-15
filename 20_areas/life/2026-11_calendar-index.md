@@ -26,3 +26,11 @@
 | 2026-11-13 | chatGPT、ナレッジ | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-13 | ✓ 汐入図書館、返却・再貸出 | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-14 | 秘書、経理 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-14 | 秘書、経理 | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | Muse、todoist、試す | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | サブエージェント、研究 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | ハーネス、勉強 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | 易経ナレッジ、感想削除？ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | エイダとナユタたちをやりとりさせるには？ Xではファイルを読ませてた、たぶんコピペでよいになる | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | ゼルダ音楽、探す | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | Codex、アーカイブ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |

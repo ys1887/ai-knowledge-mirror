@@ -154,3 +154,53 @@
 - 本人の指示により、巡回の実行記録と状態の要約を AI_knowledge 内へ移した。Hermes 側でも、Muse が集めたコンテキストを同じ粒度で読めるようにするため。
 - 実行記録はこのファイル（移行前の VM 内メモの全文を含む）。状態の要約は `20_areas/ai-operations/context-patrol-state.md` に置き、巡回のたびに更新する。
 - 収集自体は引き続き Muse が担う。作業用の詳細な状態（AI_knowledge 全体の一覧スナップショットを含む）は Muse 側に残る。
+
+## 2026-11-15 00:00 巡回（実施 2026-11-14 23:56〜2026-11-15 00:14 JST）
+
+### Gmail（eniacpod）
+- 前回成功（2026-11-14 11:57:37 JST）以降の新規は2件、全て運用系。個人的な内容はなし。対応要否はいずれも不要。振り分けで落としたものは0件。
+- 内訳：Amazon.co.jp の配達中（15:22）と配達済み（16:02）の通知各1件（いずれも前回までに索引した注文確認・発送済みへの続報で、化粧水1点の配送完了まで）。
+- 索引は 20_areas/life/2026-11_mail-index.md へ2行で追記し、Drive へ反映後に読み戻して一致を確認した。新規2件はいずれも索引時点でアーカイブ済みのため状態は「処理済み」。
+- 状態の追跡：未完了だった4行（Amazon.co.jp の注文確認、東京都水道局の水道・下水道料金口座振替済のお知らせ、ドコモSMTBネット銀行の臨時システムメンテナンスのお知らせ、Amazon.co.jp の発送済み通知）が受信トレイから消えたため、いずれも対応不要のものとして「読み済み（2026-11-15確認）」へ更新した。未完了の2行（Notion アカウント削除開始の通知＝要確認のまま、げん玉のポイント交換申請完了3件）はどちらも受信トレイに残存し、遷移なし。受信トレイは全10件。
+- 未完了一覧 20_areas/life/open-loops.md を作り直した（未完了は計2件。Drive へ反映後に読み戻して一致を確認）。
+
+### Google Calendar（eniacpod）
+- プライマリと日本の祝日は変化なし。Todoist 連携カレンダーで1件の削除（2026-11-14 18:08、「秘書、経理」。12:00 の巡回で追加を記録したタスク）。
+- 20_areas/life/2026-11_calendar-index.md へタイトルと変更種別だけを1行追記し、Drive へ反映後に読み戻して一致を確認した。
+
+### AI_knowledge 全体
+- 前回スナップショット（2,539項目）との比較で、新規13件・更新24件・消滅1件。スナップショットは2,551項目になった（lib-skills の一括対象と x-archive、codex-playground、outputs はフォルダ単位、易経KBは全件列挙）。
+- 変化の本体は 2026-11-14 午後の作業。要点は次のとおり。
+  - 秘書Bot eve（イヴ）の新設（ナユタ）：agents/eve フォルダと profile、avatar.png と avatar-full.png が新規追加され、99_backup/eve に SOUL・config・profile の全文写しと COPY-NOTE が配置された。AI_knowledge 全体を閲覧可、書き込みは自己領域に限定、Gmail・Calendar・Todoist の連携は未設定。新規CLIと Bot Chat の初回応答、共有スキル yomiyasu の読み込みは確認済みで、Desktop 画面からの対話は未確認（profile の記載）。
+  - 削除予定の旧作業フォルダの現行閲覧許可の除去（ナユタ）：5 Bot の SOUL 変更に伴い、99_backup の label／mana／nayuta／phantom／arcana の SOUL と COPY-NOTE が更新され、各 Bot の profile（arcana、hermes、label、mana、nayuta、phantom）と agents/index が追随更新された。
+  - アルカナの ekikyo スキル参照規則の整備（ナユタ）：通常の新しい易占では過去記録を自動検索せず、過去の易占への質問は易経KBの索引から、典拠・書籍・研究への質問は KB の README から関連資料だけを参照する規則が入り、30_resources/skills/ekikyo/SKILL.md（E側保管コピー）と arcana の profile、99_backup/arcana の SOUL と COPY-NOTE が更新された。新規CLIでの規則確認と索引・README の読み取り試験は成功し、Desktop／Bot Chat での動作と実際の占断・保存は未確認（changelog の記載）。
+  - コンテキスト巡回の記録先の移行（本人の指示）：実行記録がこのファイル（20_areas/ai-operations/logs/ada/context-patrol-log.md）として新規配置され、状態の要約 20_areas/ai-operations/context-patrol-state.md が新設された。手順書 context-patrol-runbook.md と ai-operations/index.md が追随更新された。
+  - AI_knowledge 内の git 全外し（エイダ）：入れ子 git 12件の .git を削除し、Drive 内の skills は git のない配布・保管エリアになった（この巡回の一覧では 30_resources/skills/.git フォルダの消滅1件として確認）。logs/ada に実施記録 2026-11-14_git-removal.md が新規追加され、logs/ada/index、ルート changelog、skills/index が更新された。その後の git 調節でリポジトリの実体は GitHub のみになり、Drive 外コピーも削除済み（実施記録の追記）。
+  - GitHub ミラー同期スクリプトの追加：20_areas/ai-operations/scripts/ai-knowledge-mirror-sync.ps1 が新規追加された（AI_knowledge を正本として GitHub の Private リポジトリ ai-knowledge-mirror へ日次で一方向に写す。スクリプト冒頭の説明による）。scripts/index.md の更新は E:\Documents\AI フォルダ削除の反映が主で、同索引の表にこのスクリプトの行はまだ無い（ずれとして記録する）。
+  - 確認したテキストファイル（changelog、eve の profile と SOUL、git 全外しの実施記録、scripts と skills の各索引、ekikyo の SKILL.md、ai-operations/index 等）に秘密情報の値は含まれていなかった。99_backup/eve/config.yaml と他の config.yaml は従来どおり中身を読んでいない（mirror-sync.ps1 内の Git の noreply メールアドレスは公開形式のもので、秘密情報ではない）。
+- 手順8（易占記録の統合）：0:00 の回のため実施しない（手順書の指定どおり。対象の有無は 12:00 の回で扱う）。
+- 20_areas/life/ の未決事項：Notion アカウント削除開始の通知の要確認フラグ（受信トレイに残存）と、未完了2件（上記 Gmail の項）。
+- スペース「AI_knowledge」は表示を更新した（最終確認日 2026-11-15、エイダの記録数 4 → 5、目録へ git 全外しの実施記録を追加しスクリプト正本の記録へミラー同期スクリプトを追記、変更履歴へ4件追記）。読み戻して反映を確認した。
+
+## 2026-11-15 12:00 巡回（実施 2026-11-15 11:56〜12:05 JST）
+
+### Gmail（eniacpod）
+- 前回成功（2026-11-14 23:59:02 JST）以降の新規は0件。振り分けで落としたものも0件。
+- 索引への追加はなし。
+- 状態の追跡：未完了の2行（Notion アカウント削除開始の通知＝要確認のまま、げん玉のポイント交換申請完了3件）はどちらも受信トレイに残存し、遷移なし。受信トレイは全10件で前回から不変。
+- 未完了一覧 20_areas/life/open-loops.md を作り直した（未完了は計2件で前回から不変のため、内容に変更なし）。
+
+### Google Calendar（eniacpod）
+- プライマリと日本の祝日は変化なし。Todoist 連携カレンダーで7件の追加（いずれも 2026-11-15 が期日、2026-11-15 03:08〜03:40 作成）。
+  - Muse、todoist、試す／サブエージェント、研究／ハーネス、勉強／易経ナレッジ、感想削除？／エイダとナユタたちをやりとりさせるには？ Xではファイルを読ませてた、たぶんコピペでよいになる／ゼルダ音楽、探す／Codex、アーカイブ。
+- 20_areas/life/2026-11_calendar-index.md へタイトルと変更種別だけを7行追記し、Drive へ反映後に読み戻して一致を確認した。
+
+### AI_knowledge 全体
+- 前回スナップショット（2,551項目）との比較で、新規6件・更新7件・消滅0件。スナップショットは2,557項目になった（lib-skills の一括対象と x-archive、codex-playground、outputs はフォルダ単位、易経KBは全件列挙）。
+- 変化の本体は 2026-11-15 未明の易占2件と ekikyo スキルの改訂。要点は次のとおり。
+  - 易占の新規記録2件（いずれも 2026-11-15 付け、records/2026 に各3ファイル）：「Google AI Proを契約して良いか？」と「Google AI Proを契約するアカウントで、Google Cloudの300ドル無料も試してみて良いか？」。いずれも _q／_ada／_arcana が揃っている。
+  - ekikyo スキルが v2.1.1／v2.1.2 へ更新された（ナユタ）：v2.1.1 で記録ファイルの stem から通し番号を外し日付と質問文だけにし、v2.1.2 で stem の日付を原則として読みを行った当日と定義した。30_resources/skills/ekikyo の SKILL.md と CHANGELOG、skills/index、20_areas/ekikyo/README（命名規則と記録#42の stem 付け替え）、arcana の profile、agents/index、ルート changelog が追随更新された。
+  - 確認したテキストファイル（changelog、ekikyo の SKILL.md と CHANGELOG、README、各索引、arcana の profile）に秘密情報の値は含まれていなかった。
+- 手順8（易占記録の統合）：対象は0件。前日以前の日付の _q.md は無く、今回の2件はいずれも当日（2026-11-15）付けのため統合対象外（翌日の巡回で扱う）。遅れて出た回答ファイルも無し。
+- 20_areas/life/ の未決事項：Notion アカウント削除開始の通知の要確認フラグ（受信トレイに残存）と、未完了2件（上記 Gmail の項）。
+- スペース「AI_knowledge」は表示を更新した（易経KBのファイル数 2,154 → 2,160、ekikyo スキルの目録を v2.1.2 へ更新、変更履歴へ1件追記。最終確認日は既に 2026-11-15 のため不変）。読み戻して反映を確認した。

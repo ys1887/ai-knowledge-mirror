@@ -1,4 +1,4 @@
-<!-- Converted mechanically from linux-and-the-unix-philosophy.pdf (CHM-to-PDF) on 2026-11-13. Text is extracted as-is; headings and paragraphs are reconstructed from the source layout. -->
+<!-- Converted mechanically from linux-and-the-unix-philosophy.pdf (CHM-to-PDF) on 2026-11-13. Text is extracted as-is; headings and paragraphs are reconstructed from the source layout. At the user's instruction (2026-11-15), the About the Author sections were removed from this copy. -->
 
 .**Linux and the Unix Philosophy** ISBN:1555582737by Mike Gancarz Digital Press© 2003 (220 pages) Unlike so many books that focus on how to use Linux, this text explores why Linux is a superior implementation of Unix's highly capable operating system.
 
@@ -43,10 +43,6 @@ This book is a revision and expansion of a computer science classic. Every chapt
 *Linux and the Unix Philosophy* falls squarely between the softer texts on iterative software design and project management and the “how to” technical texts. Thus far, no one has come out with a book that addresses this topic, either in the Unix space or the Linux space. *Linux and the Unix Philosophy* covers the same ground as the first edition, while it also presents bold new ideas about Linux and Open Source.
 
 Concise list of philosophy tenets makes it a handy quick reference Anecdotal examples personalize the book for the reader Conversational style makes it easy and joyful to read
-
-**About the Author **
-
-Mike Gancarz is an applications and programming consultant in Atlanta, Georgia. Using Linux, Unix, and Java tools, his team develops award-winning imaging solutions for the financial services industry. An expert in Unix application design, Mike has been an advocate of the Unix approach for more than twenty years. As a member of the team that gave birth to the X Window System, he pioneered usability concepts still found in modern window managers running on Linux today. While working at digital Equipment Corporation’s Unix Engineering Group in Nashua, New Hampshire, Mike led the port of the Unix commands and utilities to the 64-bit Alpha processor. His first book, *The Unix Philosophy* (Digital Press, 1995) has sold over 15,000 copies worldwide.
 
 # Linux and the Unix Philosophy
 
@@ -97,18 +93,6 @@ Printed in the United States of America
 *This book is dedicated to the early adopters of Linux everywhere. You go, gang!* *—MG*
 
 ```
-***About the Author***
-```
-
-Mike Gancarz is an applications and programming consultant in Atlanta, Georgia. Using Linux, Unix, and Java tools, his team develops award-winning imaging solutions for the financial services industry.
-
-An expert in Unix application design, Mike has been an advocate of the Unix approach for more than twenty years. As a member of the team that gave birth to the X Window System, he wrote *uwm*, the first customizable window manager for X. Although *uwm* has long been put out to pasture, the usability concepts he pioneered are still found in modern window managers running on Linux today.
-
-While working at Digital Equipment Corporation's Unix Engineering Group in Nashua, New Hampshire, Mike became intimately familiar with the Unix command set in leading the port of the Unix commands and utilities to the 64-bit Alpha processor. His other efforts at Digital led to the development of COMET, a high-performance text retrieval system. Written in the Unix shell language, COMET revolutionized technical support at Digital by indexing most of the company's internal documentation and source code, making instant answers available to Digital's support staff around the world.
-
-Later Mike turned to independent consulting on web development projects in the Atlanta area. His clients have included IBM, Sprint, Worldcom, and various financial services firms.
-
-Mike resides in a northern Atlanta suburb with his wife, two children, and the world's most adorable chihuahua. When he's not tinkering with Linux, he enjoys long games of *Civilization* and an occasional game of chess.
 
 ```
 ***Acknowledgments***
