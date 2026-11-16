@@ -34,3 +34,9 @@
 | 2026-11-15 | エイダとナユタたちをやりとりさせるには？ Xではファイルを読ませてた、たぶんコピペでよいになる | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-15 | ゼルダ音楽、探す | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-15 | Codex、アーカイブ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-15 | 相棒 | 追加（Todoist連携タスク、定期） | Google Calendar（eniacpod） |
+| 2026-11-16 | 区役所TEL | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | 松月、通販？ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | ハーミーズ、スキン | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | 電機大図書館 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | クラウン、翻訳家 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |

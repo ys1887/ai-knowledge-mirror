@@ -1,0 +1,42 @@
+[
+  {
+    "source": "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\arcana\\SOUL.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\0_SOUL.md",
+    "sha256": "e157a584aaca623c3a395fef6f65272b8c69f87249103751e536ca59ab3c6ecb"
+  },
+  {
+    "source": "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\arcana\\skills\\ekikyo\\SKILL.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\1_SKILL.md",
+    "sha256": "c4777e9ad6fa0c84ffb0983cbbc6a8e6cb36de7d909191a8d02edf02f2816285"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\30_resources\\skills\\ekikyo\\SKILL.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\2_SKILL.md",
+    "sha256": "5c256841ed364b9b41a249f2071799044725ffc9d015d60fd3c6caf665a6f90b"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\agents\\arcana\\profile.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\3_profile.md",
+    "sha256": "eac50f66e9c13d711e9995b65e849c6a02d4783fd321c621bf2abc00aa05d6a6"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\agents\\index.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\4_index.md",
+    "sha256": "dbbf4eb6ff8bf7a678d0a34676ad265c3b78e2bbb3df3a1653e42b2ff3aada12"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\99_backup\\arcana\\SOUL.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\5_SOUL.md",
+    "sha256": "e157a584aaca623c3a395fef6f65272b8c69f87249103751e536ca59ab3c6ecb"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\99_backup\\arcana\\COPY-NOTE.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\6_COPY-NOTE.md",
+    "sha256": "f1894c9324a78fa19c1564ec81569a12132145033256a9e0974fa0a0e0bc7017"
+  },
+  {
+    "source": "E:\\Documents\\Google Drive\\AI_knowledge\\changelog.md",
+    "backup": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\nayuta\\2026-11-16_010031_arcana-year-storage\\7_changelog.md",
+    "sha256": "9837de4c3c99274bc284a5fc41083dc6e8581ce726d8f07f1b85eef1e627a1f3"
+  }
+]

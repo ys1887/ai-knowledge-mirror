@@ -13,8 +13,9 @@ PDF the user submitted (a calibre-converted PDF, 497 pages), using pdftohtml
 - The table-of-contents pages are kept as plain text lines.
 For internal use in the user's private knowledge base only.
 - At the user's instruction (2026-11-15), the publisher sales-contact
-  paragraphs, the Send Us Feedback section, and the dedication line were
-  removed from this copy.
+  paragraphs, the Send Us Feedback section, the dedication line, and the
+  front-matter endorsements (Praise for the second edition), and the
+  Second Edition Acknowledgments were removed from this copy.
 Original PDF: held by Muse at
 workspace/user/files/The_Pragmatic_Programmer__20th_Anniversary_Edition.pdf
 -->
@@ -177,42 +178,6 @@ ISBN-13: 978-0-13-595705-9 ISBN-10: 0-13-595705-2
 
 15. A2. Possible Answers to the Exercises
 
-# Praise for the second edition of The Pragmatic Programmer
-
-Some say that with *The Pragmatic Programmer*, Andy and Dave captured lightning in a bottle; that it’s unlikely anyone will soon write a book that can move an entire industry as it did. Sometimes, though, lightning does strike twice, and this book is proof. The updated content ensures that it will stay at the top of “best books in software development” lists for another 20 years, right where it belongs.
-
-— VM (Vicky) Brasseur
-
-*Director of Open Source Strategy, Juniper Networks*
-
-If you want your software to be easy to modernize and maintain, keep a copy of *The Pragmatic Programmer* close. It’s filled with practical advice, both technical and professional, that will serve you and your projects well for years to come.
-
-— Andrea Goulet
-
-*CEO, Corgibytes; Founder, LegacyCode.Rocks The Pragmatic Programmer* is the one book I can point to that completely dislodged the existing trajectory of my career in software and pointed me in the direction of success. Reading it opened my mind to the possibilities of being a craftsman, not just a cog in a big machine. One of the most significant books in my life.
-
-— Obie Fernandez
-
-*Author, The Rails Way*
-
-First-time readers can look forward to an enthralling induction into the modern world of software practice, a world that the first edition played a major role in shaping. Readers of the first edition will rediscover here the insights and practical wisdom that made the book so significant in the first place, expertly curated and updated, along with much that’s new.
-
-— David A. Black
-
-*Author, The Well-Grounded Rubyist*
-
-I have an old paper copy of the original *Pragmatic Programmer* on my bookshelf. It has been read and re-read and a long time ago it changed everything about how I approached my job as a programmer. In the new edition everything and nothing has changed: I now read it on my iPad and the code examples use modern programming languages—but the underlying concepts, ideas, and attitudes are timeless and universally applicable. Twenty years later, the book is as relevant as ever. It makes me happy to know that current and future developers will have the same opportunity to learn from Andy and Dave’s profound insights as I did back in the day.
-
-— Sandy Mamoli
-
-*Agile coach, author of How Self-Selection Lets People Excel*
-
-Twenty years ago, the first edition of *The Pragmatic Programmer* completely changed the trajectory of my career. This new edition could do the same for yours.
-
-— Mike Cohn
-
-*Author of Succeeding with Agile, Agile Estimating and Planning, and User Stories Applied*
-
 # Foreword
 
 I remember when Dave and Andy first tweeted about the new edition of this book. It was big news. I watched as the coding community responded with excitement. My feed buzzed with anticipation. After twenty years, *The Pragmatic Programmer* is just as relevant today as it was back then.
@@ -286,28 +251,6 @@ Having said all this, we decided to get revenge against the computer scientists.
 Most of the code shown in this book is extracted from compilable source files, available for download from our website.[2]
 
 There you’ll also find links to resources we find useful, along with updates to the book and news of other Pragmatic Programmer developments.
-
-## Second Edition Acknowledgments
-
-We have enjoyed literally thousands of interesting conversations about programming over the last 20 years, meeting people at conferences, at courses, and sometimes even on the plane. Each one of these has added to our understanding of the development process, and has contributed to the updates in this edition. Thank you all (and keep telling us when we’re wrong).
-
-Thanks to the participants in the book’s beta process. Your questions and comments helped us explain things better.
-
-Before we went beta, we shared the book with a few folks for comments. Thanks to VM (Vicky) Brasseur, Jeff Langr, and Kim Shrier for your detailed comments, and to José Valim and Nick Cuthbert for your technical reviews.
-
-Thanks to Ron Jeffries for letting us use the Sudoku example.
-
-Much gratitude to the folks at Pearson who agreed to let us create this book our way.
-
-A special thanks to the indispensable Janet Furlow, who masters whatever she takes on and keeps us in line.
-
-And, finally, a shout out to all the Pragmatic Programmers out there who have been making programming better for everyone for the last twenty years. Here’s to twenty more.
-
-**Footnotes**
-
-[1] If, over the years, every component of a ship is replaced as it fails, is the resulting vessel the same ship?
-
-[2] https://pragprog.com/titles/tpp20
 
 # From the Preface to the First Edition
 

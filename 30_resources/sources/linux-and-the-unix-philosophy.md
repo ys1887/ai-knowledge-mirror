@@ -1,4 +1,4 @@
-<!-- Converted mechanically from linux-and-the-unix-philosophy.pdf (CHM-to-PDF) on 2026-11-13. Text is extracted as-is; headings and paragraphs are reconstructed from the source layout. At the user's instruction (2026-11-15), the About the Author sections were removed from this copy. -->
+<!-- Converted mechanically from linux-and-the-unix-philosophy.pdf (CHM-to-PDF) on 2026-11-13. Text is extracted as-is; headings and paragraphs are reconstructed from the source layout. At the user's instruction (2026-11-15), the About the Author sections and the Acknowledgments were removed from this copy. -->
 
 .**Linux and the Unix Philosophy** ISBN:1555582737by Mike Gancarz Digital Press© 2003 (220 pages) Unlike so many books that focus on how to use Linux, this text explores why Linux is a superior implementation of Unix's highly capable operating system.
 
@@ -93,24 +93,6 @@ Printed in the United States of America
 *This book is dedicated to the early adopters of Linux everywhere. You go, gang!* *—MG*
 
 ```
-
-```
-***Acknowledgments***
-```
-
-The birth of a book is like the birth of a child: every one is different. The writing and publication of my first book, *The * *UNIX Philosophy*, had gone fairly smoothly as books go. Had I known that I would have faced so much personal turmoil during the writing of this second book, I would not likely have signed the publishing contract. I would have thought twice before getting involved in this project.
-
-Having endured the personal turmoil amidst the writing and publishing process, I admit that this book is a sort of catharsis then, both personally and philosophically. So I must give credit to the great God Almighty for getting me through this process once again. He first and foremost deserves the credit for creating me to do such a work as this.
-
-Kudos go to Pam Chester, acquisitions editor at Digital Press, an imprint of Butterworth-Heinemann, for selling me on the need to do this new edition and then persevering when it had every appearance of becoming another prepublication casualty. Thanks also go to her boss, Theron Shreve, for having the patience to allow the book to come to its full fruition.
-
-I was fortunate to have an awesome crew of developmental reviewers for this edition. Thanks go to Jim Lieb, Scott Morris, Rob Lembree, and Jes Sorensen for their thoughtful insights. Their responses helped me see things in different ways and added much interesting depth to the book. They also provided much-needed encouragement on the home stretch.
-
-Not only does Jon "maddog" Hall deserve special mention for providing an insightful foreword to this book, his efforts at Unix and Linux advocacy are a model for all of us. Few can match his tireless efforts at bringing the message of the Unix way to so many people.
-
-Thanks also go to Phil Sutherland, formerly of Digital Press, for the email exchanges we'd had on the original book idea. Even though it didn't turn out quite the way that either of us expected, he can take heart that his efforts to convince me to write this were not in vain. Some things just take a little longer than others.
-
-Having an author in a household means that everyone learns what it's like to live with a writer. Thank you, Sarah, for all that typing, as boring as it must have been for you. Adam, it's paintball time. I am deeply grateful for the sacrifice you made. And, most importantly, thanks go to my wife Viv for supporting me throughout the writing of this book. Your "Honey-Do" list must be a mile long by now.
 
 # Foreword
 

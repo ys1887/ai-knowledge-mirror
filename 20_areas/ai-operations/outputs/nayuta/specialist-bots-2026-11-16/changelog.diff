@@ -1,0 +1,9 @@
+--- changelog.before.md
++++ changelog.md
+@@ -83,3 +83,6 @@
+ - 2026-11-16 易経 KB の今後の記録の保存先を、種類を問わず（週筮・月筮・年筮、社会向けを含む）`records/` の年フォルダに統一。`periodic/`・`society/` は移行時点までの記録の置き場とする。README の該当箇所は改訂済み。きっかけは記録#45（週筮）で、旧指定どおりアルカナが periodic へ保存し、エイダが年フォルダへ保存して行き違ったこと。アルカナ側のスキル・基本指示の改訂は、文面を用意してナユタ経由の承認手続きに回す
+ - 2026-11-16 易経の参考読みの席を Gemini（Antigravity、Hydrogen）に置くことを決定。Gemini も、頼まれた場合は同じ規則で `_gemini.md` を年フォルダへ直接作る形とし、KB の README と巡回手順書の手順8（統合対象への `_gemini` 追加）を改訂した。規則の文面（判断の規律・出力形式・保存）はエイダが用意し、Antigravity 側のフォルダ（`E:\Documents\Antigravity`）の AGENTS.md に置く（KB フォルダには置かない）。実保存の確認は、最初の実地の回で行う
+ - 2026-11-16、エイダ：英語教材（Essential Grammar in Use 第4版、English Grammar in Use 第5版、The Oxford 3000 の PDF 原典と索引）を `30_resources/sources/english-textbooks/` に新設して配置しました（本人の決定。Google Drive をメイン管理とし、バックアップも兼ねる）。sources の索引にも1行追加済み。他者への影響：Hermes の語学担当 Bot も同じ教材を参照できます。原本は編集・削除・移動しないでください。BBC 6 Minute English（Spotify）はファイルではなく索引に URL を記載
++- 2026-11-16、ナユタ：本人承認で専門Bot takina を新規作成（経理・家計照合、gpt-6.1-sol／openai-codex）。自己領域限定・他Bot編集例外なしのSOUL、最小道具、登録簿・成果物先・安全な自己全文写しを設定し、CLI規則確認と共有yomiyasu実読込（終了0）、Desktop一覧表示、正本３ファイルの写しとのバイト一致を確認しました。他者への影響：Bot一覧にtakinaが増えます。既存Bot・共通skill・サービス接続・バックアップ処理は未変更。専門業務・Desktop対話・日次ZIP収録は未確認。
++- 2026-11-16、ナユタ：本人承認で専門Bot raven を新規作成（公開Web調査、gpt-6.1-sol／openai-codex）。自己領域限定・他Bot編集例外なしのSOUL、最小道具、登録簿・成果物先・安全な自己全文写しを設定し、CLI規則確認と共有yomiyasu実読込（終了0）、Desktop一覧表示、正本３ファイルの写しとのバイト一致を確認しました。他者への影響：Bot一覧にravenが増えます。既存Bot・共通skill・サービス接続・バックアップ処理は未変更。専門業務・Desktop対話・日次ZIP収録は未確認。
++- 2026-11-16、ナユタ：本人承認で専門Bot crown を新規作成（英国英語学習・翻訳、gpt-6.1-sol／openai-codex）。自己領域限定・他Bot編集例外なしのSOUL、最小道具、登録簿・成果物先・安全な自己全文写しを設定し、CLI規則確認と共有yomiyasu実読込（終了0）、Desktop一覧表示、正本３ファイルの写しとのバイト一致を確認しました。他者への影響：Bot一覧にcrownが増えます。既存Bot・共通skill・サービス接続・バックアップ処理は未変更。専門業務・Desktop対話・日次ZIP収録は未確認。

@@ -1,0 +1,64 @@
+{
+  "profiles": [
+    {
+      "name": "takina",
+      "model": "gpt-6.1-sol",
+      "cli_exit_code": 0,
+      "actual_tool_names": [
+        "read_file",
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "copies_equal": {
+        "SOUL.md": true,
+        "config.yaml": true,
+        "profile.yaml": true
+      },
+      "desktop_roster": true,
+      "desktop_dialogue": "unverified",
+      "daily_zip_coverage": "unverified"
+    },
+    {
+      "name": "raven",
+      "model": "gpt-6.1-sol",
+      "cli_exit_code": 0,
+      "actual_tool_names": [
+        "read_file",
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "copies_equal": {
+        "SOUL.md": true,
+        "config.yaml": true,
+        "profile.yaml": true
+      },
+      "desktop_roster": true,
+      "desktop_dialogue": "unverified",
+      "daily_zip_coverage": "unverified"
+    },
+    {
+      "name": "crown",
+      "model": "gpt-6.1-sol",
+      "cli_exit_code": 0,
+      "actual_tool_names": [
+        "read_file",
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "copies_equal": {
+        "SOUL.md": true,
+        "config.yaml": true,
+        "profile.yaml": true
+      },
+      "desktop_roster": true,
+      "desktop_dialogue": "unverified",
+      "daily_zip_coverage": "unverified"
+    }
+  ],
+  "verified_profile_count": 3,
+  "verified_full_copy_count": 9,
+  "changelog_previous_bytes_preserved": true
+}

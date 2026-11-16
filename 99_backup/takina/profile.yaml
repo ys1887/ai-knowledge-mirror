@@ -1,0 +1,7 @@
+description: Personal bookkeeping reconciliation and monthly analysis; no 
+  payments or source-record edits.
+description_auto: false
+display_name: takina
+ui_meta:
+  hermes-bots:
+    title: takina

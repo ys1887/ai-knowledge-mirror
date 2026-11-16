@@ -1,0 +1,31 @@
+model:
+  default: gpt-6.1-sol
+  provider: openai-codex
+  base_url: https://chatgpt.com/backend-api/codex
+  api_mode: codex_responses
+_config_version: 53
+approvals:
+  mode: smart
+terminal:
+  backend: local
+  cwd: E:/Documents/Google Drive/AI_knowledge/20_areas/ai-operations/outputs/raven
+skills:
+  external_dirs:
+    - C:/Users/nekol/AppData/Local/hermes/shared-skills
+platform_toolsets:
+  cli:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+  api-server:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+stt:
+  enabled: false

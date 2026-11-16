@@ -12,7 +12,7 @@ Hermes秘書Botの実行前提と権限の要約です。正本は `C:\Users\nek
 - 出典：`profiles/eve/SOUL.md`、`config.yaml`、`profile.yaml`、`hermes profile show eve`、`hermes -p eve auth status openai-codex`
 
 ## モデルと実行
-- モデル／プロバイダ：`gpt-6-sol`／`openai-codex`（既存ログインを利用。認証値は記録しない）
+- モデル／プロバイダ：`gpt-6.1-sol`／`openai-codex`（API方式 `codex_responses`。既存の Codex ログインを利用。認証値は記録しない）
 - 承認方式：`approvals.mode=smart`（ファイル単位の承認を強制しない）
 - ターミナルのバックエンド：`local`（Windows ACLによるBot間分離ではない）
 - 使える道具：同梱スキル44件を保持。ツールセットとDesktopでの実効状態は未監査
@@ -45,3 +45,4 @@ Hermes秘書Botの実行前提と権限の要約です。正本は `C:\Users\nek
 
 ## 変更履歴
 - 2026-11-14：ユーザー承認により独立Fresh profileとして作成。本人の自己領域限定と共通ルール参照、既存OpenAI Codexログイン利用、yomiyasu参照を設定。CLI初回対話と共有スキルのロード、CLIからのBot Chat応答を確認
+- 2026-11-16：モデル表記を実設定（gpt-6.1-sol／openai-codex／codex_responses）に合わせて修正。本人の指示による。

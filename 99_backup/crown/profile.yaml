@@ -1,0 +1,7 @@
+description: British English study support and Japanese-English translation; 
+  text-first, no voice or service integrations.
+description_auto: false
+display_name: crown
+ui_meta:
+  hermes-bots:
+    title: crown

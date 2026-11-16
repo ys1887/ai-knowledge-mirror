@@ -1,0 +1,43 @@
+--- agents-index.before.md
++++ index.md
+@@ -1,4 +1,6 @@
+ # agents（Bot・AI 登録簿、置き場所は 20_areas/ai-operations/agents）
++
++今回の最終更新：2026-11-16、本人承認で専門Bot takina・raven・crownを追加。新３件の設定・新規CLI読取試験（各終了0）・共有yomiyasu実読込・Desktop一覧表示・自己全文写し３ファイルずつのコピー時点バイト一致を確認。専門業務・Desktopからの対話・日次ZIP収録は未確認。既存Botの再監査やイヴの旧モデル表記修正はこの作業に含めていない。
+ 
+ 利用者が運用してきた Bot と AI 全般について、**実際に動かすうえでの前提と権限**を確認するための登録簿です。対象は Hermes Agent の各 Bot と、AI_knowledge の参加者である AI（エイダ、Codex、Claude、Gemini）です。各 AI のフォルダには、登録側から見た要約である `profile.md` と、その AI 自身が書く現行設定の要約 `settings.md` を置きます。Hermes の Bot は profile.md が要約を担うため、原則として settings.md は持ちません。マナは参加者としての settings.md も持ちます。
+ 
+@@ -30,6 +32,9 @@
+ | ファントム | `phantom` | 小説など創作物語の執筆 | 作成済み・運用前 | `openai/gpt-6-sol`（nous） | 自己プロフィールのみ通常編集可 | 2026-11-09 |
+ | ナユタ | `nayuta` | Bot作成・調整（新規・既存Botの権限設計と承認後の反映） | 作成済み・CLI初回対話確認 | `openai/gpt-6-sol`（nous） | 自己プロフィール・自分のフォルダ（`nayuta/`）と共通索引・雛形の小規模更新を担当。他Botプロフィール・登録簿の反映、新Bot作成は対象と操作ごとの事前承認。雛形もナユタ主担当 | 2026-11-11（索引担当とSOUL。モデル・道具は従前値） |
+ | eve | `eve` | 秘書・AI_knowledge横断の整理と要約 | 作成済み・CLI初回対話確認（Desktop一覧表示確認） | `gpt-6-sol`（openai-codex） | AI_knowledge全体を閲覧可。通常の書き込みは自己プロフィール・`agents/eve/`・`outputs/eve/`・安全な自己写しに限定。サービス連携は未設定 | 2026-11-14（新プロフィール・SOUL・モデル・認証・共有スキル実効ロード） |
++| takina | `takina` | 経理・家計照合と月次集計 | 作成済み・新規CLI初回確認、Desktop一覧表示確認 | `gpt-6.1-sol`（openai-codex） | 自己領域のみ。元明細は読取専用、他Bot編集は例外なし。Web・金融接続なし | 2026-11-16（規則・設定・共有skill実読込） |
++| raven | `raven` | 公開Web調査・原典確認と報告 | 作成済み・新規CLI初回確認、Desktop一覧表示確認 | `gpt-6.1-sol`（openai-codex） | 自己領域のみ。他Bot編集は例外なし。ログイン・外部発信なし、terminalはyomiyasu検査限定 | 2026-11-16（規則・設定・共有skill実読込） |
++| crown | `crown` | 英国英語学習・日英英日翻訳 | 作成済み・新規CLI初回確認、Desktop一覧表示確認 | `gpt-6.1-sol`（openai-codex） | 自己領域のみ。他Bot編集は例外なし。教材連携・音声なし、terminalはyomiyasu検査限定 | 2026-11-16（規則・設定・共有skill実読込） |
+ 
+ | エイダ | `ada` | Muse 側のアシスタント（AI_knowledge の運用も担当） | 稼働中 | Muse Wonder／Muse Power | 自分のフォルダ（`20_areas/ai-operations/agents/ada/`、`20_areas/ai-operations/logs/ada/`、`99_backup/ada/`）のみ通常編集 | 2026-11-12 |
+ | Codex | `codex` | コーディング支援 AI（AI_knowledge 参加者） | 受け皿のみ（未記入） | 未記入 | 自分のフォルダのみ | 未確認 |
+@@ -37,6 +42,8 @@
+ | Gemini | `gemini` | Google の AI（AI_knowledge 参加者） | 受け皿のみ（未記入） | 未記入 | 自分のフォルダのみ | 未確認 |
+ 
+ ## 全Bot共通と担当の違い（権限ルール：2026-11-11確認）
++
++新規専門Bot３件の個別条件（2026-11-16）：以下の既存Bot向けの全域閲覧・個別承認時の他Bot編集例外は、takina・raven・crownには適用しない。新３件は本人提示資料・自己管理領域・共通rules.md・使用skillと、raven/crownの許可された公開Webのみ参照し、他Bot編集例外は設けない。通常の書き込みは自己プロフィール・自己登録簿・自己成果物と安全な自己全文写しに限る。新３件も共有yomiyasu v3.0.0をC側から実読込できたが、推敲品質試験ではない。terminalの用途制限はSOUL上の行動ルールでOS強制隔離ではない。新規３件の詳細は各profile.mdを参照する。
+ 
+ - Hermes Agent v0.22.5（2026-11-09確認時点。更新案内あり）
+ - 全プロフィールの承認方式は `approvals.mode=smart`、`skills.write_approval=false`、ターミナルのバックエンドは `local`
+@@ -60,6 +67,9 @@
+ | ファントム | `phantom/` | `SOUL.md`、`config.yaml`、`profile.yaml`、`COPY-NOTE.md` を配置済み（2026-11-13、正本とのバイト一致を確認） |
+ | ナユタ | `nayuta/` | `SOUL.md`、`config.yaml`、`profile.yaml`、`COPY-NOTE.md` を配置済み（2026-11-13、正本とのバイト一致を確認） |
+ | eve | `eve/` | `SOUL.md`、`config.yaml`、`profile.yaml`、`COPY-NOTE.md` を配置済み（2026-11-14、3ファイルは正本とのバイト一致を確認） |
++| takina | `takina/` | 同名３ファイルとCOPY-NOTE.mdを配置済み（2026-11-16、秘密情報の値を検査し、コピー時点の正本とのバイト一致を確認） |
++| raven | `raven/` | 同名３ファイルとCOPY-NOTE.mdを配置済み（2026-11-16、秘密情報の値を検査し、コピー時点の正本とのバイト一致を確認） |
++| crown | `crown/` | 同名３ファイルとCOPY-NOTE.mdを配置済み（2026-11-16、秘密情報の値を検査し、コピー時点の正本とのバイト一致を確認） |
+ 
+ - 写しの照合状況（2026-11-13、再確認・更新）：上表の「正本とのバイト一致」は初回配置時点の確認結果です。その後マナ・アルカナ・ナユタの `config.yaml` にC側正本とE側写しの差（項目名：`default`、`provider`、`base_url`、`api_mode`）が生じましたが、原因は未確認でありBot起動のたびに変化すると断定しません。ユーザーの指定により、この3 BotのE側 `config.yaml` 写しをC側正本から更新し、現在のバイト一致を確認しました。C側設定、他の写し、権限は変更していません。写しは配置・更新時点のスナップショットであり、今後の常時一致を意味しません。意図して設定を変更する作業では秘密情報の値がないことを確認し、そのBot自身の承認済み範囲で写しを更新します。
+ 
+@@ -102,3 +112,4 @@
+ - 2026-11-15：本人承認でアルカナのekikyoスキルC側使用版・E側保管コピーをv2.1.1に更新。stemは占った日と貼られた「易経への質問」の原文（長さによる切り詰めなし）で、番号と対応する `_q.md` の確認・エイダの出力待ちは不要。同名は上書きしない。SOUL・モデル・道具・KBの既存記録は未変更。読み戻しは実施、Desktop／Bot Chatと実保存は未確認。
+ - 2026-11-15：本人承認でアルカナのekikyo v2.1.2のstem日付規則を追加。原則は読みを行う当日、本人から別の日を明示された場合のみ指定日。C側使用版とE側保管コピーを読み戻し確認。SOUL・モデル・道具・KB既存記録は未変更、実保存・Desktop／Bot Chatは未確認。
+ - 2026-11-16：本人承認でアルカナのSOULとekikyo v2.1.3のC側使用版・E側保管版の保存先を、通常・週筮・月筮・年筮・社会向けともrecordsの年フォルダへ統一し、SOUL写し・注記・個別登録簿を整合。periodic・societyは2026-11-14の移行時点までの記録専用。新規作成限定・同名上書き禁止とstem規則は維持。モデル・道具・既存記録は変更せず、改訂後のCLI・Desktop／Bot Chat・実保存は未確認。
++- 2026-11-16：本人承認で専門Bot takina・raven・crownを独立作成。gpt-6.1-sol／openai-codex、最小の道具、自己領域限定と他Bot編集例外なしを設定し、自己登録簿・成果物先・全文写しを新設。新規CLIの規則と共有yomiyasu実読込は３件とも終了0、Desktop一覧表示と写しのバイト一致を確認。専門業務・Desktop対話・日次ZIP収録は未確認。既存Botの設定やイヴの旧モデル表記は未変更。
