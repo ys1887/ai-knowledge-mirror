@@ -8,7 +8,7 @@ Hermes秘書Botの実行前提と権限の要約です。正本は `C:\Users\nek
 - 最終確認日：2026-11-14（作成直後のSOUL・モデル・認証状態・共通スキル参照設定。実地試験は別項目）
 - 最終稼働日：2026-11-14（新規CLIと既存の `Bot Chat` で読み取りのみの対話）
 - 実地確認の状態：CLIで自己プロフィール名、E側の2書き込み先、共通rules.md、未接続の3サービスを正答（終了コード0）。`Bot Chat` のCLI応答でも役割と未連携を確認（終了コード0）。Desktopでは一覧表示を確認、Desktop画面からの対話自体は未確認
-- 最終更新日：2026-11-14
+- 最終更新日：2026-11-17（write_approval設定と、AutoRAG導入試行の停止結果を反映。他の項目の再監査ではない）
 - 出典：`profiles/eve/SOUL.md`、`config.yaml`、`profile.yaml`、`hermes profile show eve`、`hermes -p eve auth status openai-codex`
 
 ## モデルと実行
@@ -46,3 +46,22 @@ Hermes秘書Botの実行前提と権限の要約です。正本は `C:\Users\nek
 ## 変更履歴
 - 2026-11-14：ユーザー承認により独立Fresh profileとして作成。本人の自己領域限定と共通ルール参照、既存OpenAI Codexログイン利用、yomiyasu参照を設定。CLI初回対話と共有スキルのロード、CLIからのBot Chat応答を確認
 - 2026-11-16：モデル表記を実設定（gpt-6.1-sol／openai-codex／codex_responses）に合わせて修正。本人の指示による。
+
+## write_approval の確認（2026-11-17）
+
+- 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。
+- 設定差分は上記2キーのみ。モデル・approvals.mode・道具・SOUL・認証は今回変更していない。
+- スキル管理と組み込み記憶ツールに対する関所。無人・バックグラウンドの書き込みは保留、対話CLIの記憶にはその場承認の分岐がある。直接のファイル／ターミナル編集は対象外で、従来の承認条件を維持する。
+- 実地確認：新規CLI・Desktopの動作試験は今回の対象外。設定値と写しのみ確認。
+- `99_backup/eve/config.yaml` とCOPY-NOTE.mdを更新し、秘密の値を含まない全文コピーのバイト一致を確認。SOUL.md・profile.yamlの写しは今回未変更。
+- 戻し方：2キーをfalseへ変更し、読み戻し・写しと記録を追随。既存保留は自動承認・一括削除しない。
+- 登録簿の今回の最終更新日：2026-11-17。過去の確認日はそれぞれ当時の範囲を示す。専門業務の品質試験ではない。
+
+## AutoRAG MCP導入試行（2026-11-17、停止・未登録）
+
+- 実物最終確認日・本節の最終更新日：2026-11-17。本人承認で `C:\Users\nekol\.autorag\config.json` と `workspace\` を作成したが、MCP登録時の接続が既定30秒でタイムアウト。保存確認にはnと回答し、イヴのconfigは変更していない。
+- `@autorag/librarian@2.13.12`、`jikji=false`。検索rootはAI_knowledgeのみ、outputsを含め、指定のバックアップ・codex-sessions・メール/カレンダー・生成物・作業データを除外する設定を作成。詳細と正確な設定は報告書を参照。
+- MCP予定はreadonlyのstatus/searchのみだが、実登録・tools/list・新規CLIのツール試験は未完了。refresh未実行、索引・モデル未作成。共有基盤はまだ利用できない。
+- KB全体17,867ファイルの前後比較は追加0・変更0・削除0、新規 `.jikji_agent_map.md` 0。読取エラー0。比較後に報告書・台帳・changelogを意図して更新。
+- 全10 Botのconfigハッシュ不変。イヴのconfig全文写しも正本とのバイト一致を確認し、原本未変更のため99_backupとCOPY-NOTEは更新していない。SOUL・認証・既存スキル・定期実行は変更なし。
+- 報告書：`../../outputs/nayuta/eve-autorag-introduction.md`。共通設定の記録は `../settings-index.md`。再開は本人との相談後。現在Bot側で外す登録はなく、`.autorag` やnpmキャッシュの削除は別途判断する。

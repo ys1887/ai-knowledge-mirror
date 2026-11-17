@@ -1,5 +1,5 @@
 model:
-  default: gpt-6-sol
+  default: gpt-6.1-sol
   provider: openai-codex
   base_url: https://chatgpt.com/backend-api/codex
   api_mode: codex_responses
@@ -7,3 +7,24 @@ _config_version: 53
 skills:
   external_dirs:
     - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+memory:
+  write_approval: true
+mcp_servers:
+  autorag:
+    command: npx
+    args:
+      - -y
+      - -p
+      - '@autorag/librarian@2.13.12'
+      - autorag-mcp
+    env:
+      AUTORAG_CONFIG: C:/Users/nekol/.autorag/config.json
+      AUTORAG_MCP_READ_ONLY: "true"
+      AUTORAG_MCP_TOOLS: autorag.status,autorag.search
+      AUTORAG_AUTH_MODE: environment
+      PI_CODING_AGENT_DIR: C:/Users/nekol/.autorag/model-runtime
+      npm_config_allow_remote: all
+      npm_config_ignore_scripts: "true"
+    connect_timeout: 180.0
+    enabled: true

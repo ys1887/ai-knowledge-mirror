@@ -1,11 +1,12 @@
 model:
-  default: gpt-6-sol
+  default: gpt-6.1-sol
   provider: openai-codex
   base_url: https://chatgpt.com/backend-api/codex
   api_mode: codex_responses
 _config_version: 53
 display:
   personality: concise
+  skin: dark-obsidian
 telemetry:
   shared_metrics:
     enabled: false
@@ -14,3 +15,6 @@ telemetry:
 skills:
   external_dirs:
     - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+memory:
+  write_approval: true

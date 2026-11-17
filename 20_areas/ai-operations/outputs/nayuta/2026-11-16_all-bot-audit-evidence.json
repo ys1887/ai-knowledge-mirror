@@ -1,0 +1,424 @@
+{
+  "created_at": "2026-11-16T20:23:06.353898+09:00",
+  "scope": "Read-only CLI audit; no transcript bodies or secret values included; not Desktop or filesystem isolation test",
+  "profile_count": 10,
+  "default_runtime_pass_count": 8,
+  "fallback_pass_count": 2,
+  "shared_yomiyasu": {
+    "runtime": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+    "archive": "E:\\Documents\\Google Drive\\AI_knowledge\\30_resources\\skills\\yomiyasu",
+    "runtime_count": 43,
+    "archive_count": 43,
+    "different_paths": []
+  },
+  "profiles": [
+    {
+      "profile": "default",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-32548a76e81c537e555e18de10a5eafdd610b888bed4b1d28917f8ccf834186d",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "default",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "different",
+        "profile.yaml": "different"
+      }
+    },
+    {
+      "profile": "arcana",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-b511cc619dfc63f1f2fdb45b5a8aba08da4adee872afd32e0732e202e6d6475e",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "arcana",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\arcana\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        },
+        {
+          "success": true,
+          "name": "ekikyo",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\arcana\\skills\\ekikyo",
+          "version3": false,
+          "version213": true
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "different",
+        "profile.yaml": "equal"
+      }
+    },
+    {
+      "profile": "crown",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-f8df6f308d1ae852f71d8015c44c2275b4519e085264bdee8ecbba55adce25ad",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "crown",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "E:/Documents/Google Drive/AI_knowledge/rules.md",
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\crown\\SOUL.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "equal",
+        "profile.yaml": "different"
+      }
+    },
+    {
+      "profile": "eve",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-45798d9dbdd04782f63b9faf946c7a02ef3070771468659b031ae35d56f861df",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "eve",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\eve\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "different",
+        "profile.yaml": "different"
+      }
+    },
+    {
+      "profile": "label",
+      "configured_model": {
+        "default": "openai/gpt-6-sol",
+        "provider": "nous",
+        "base_url": "https://inference-api.nousresearch.com/v1",
+        "api_mode": "chat_completions"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 1,
+      "session_only_fallback_used": true,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-591116eab636969531912da369768c540718d8280a39d8dc2fca79bcd8bbf244",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "label",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\label\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "equal",
+        "profile.yaml": "equal"
+      }
+    },
+    {
+      "profile": "mana",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-afc9bb2eedebdd0e43d0ca2359a594c1bf0689e1404d15712cf14fe19bd57488",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "mana",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\mana\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "different",
+        "profile.yaml": "equal"
+      }
+    },
+    {
+      "profile": "nayuta",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-164b3eedda3b809277125bcdf048d56a7fa2fb11ad25f219d1e63c337e76a831",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "nayuta",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\nayuta\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "different",
+        "profile.yaml": "different"
+      }
+    },
+    {
+      "profile": "phantom",
+      "configured_model": {
+        "default": "openai/gpt-6-sol",
+        "provider": "nous",
+        "base_url": "https://inference-api.nousresearch.com/v1",
+        "api_mode": "chat_completions"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 1,
+      "session_only_fallback_used": true,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-f45f9b290ee6fae64ab1df480c4d235e8f92fe69e298153ab473791c6596cc80",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "phantom",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\phantom\\SOUL.md",
+        "E:/Documents/Google Drive/AI_knowledge/rules.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "equal",
+        "profile.yaml": "equal"
+      }
+    },
+    {
+      "profile": "raven",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-7ab9ae20d78521d4c159186883ad4d80b705c3d99be5fe6d4dd2fec8a3ae7582",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "raven",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "E:/Documents/Google Drive/AI_knowledge/rules.md",
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\raven\\SOUL.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "equal",
+        "profile.yaml": "different"
+      }
+    },
+    {
+      "profile": "takina",
+      "configured_model": {
+        "default": "gpt-6.1-sol",
+        "provider": "openai-codex",
+        "base_url": "https://chatgpt.com/backend-api/codex",
+        "api_mode": "codex_responses"
+      },
+      "config_check_exit": 0,
+      "tools_list_exit": 0,
+      "default_runtime_exit": 0,
+      "session_only_fallback_used": false,
+      "successful_test_exit": 0,
+      "verified_test_session_id": "local-c471ae1d4382b71413d68bd6f0d938f7e8452426d7054369e18fedbdede15b52",
+      "recorded_test_model": "gpt-6.1-sol",
+      "recorded_test_profile": "takina",
+      "observed_tools": [
+        "read_file",
+        "read_file",
+        "skill_view"
+      ],
+      "actual_read_paths": [
+        "E:/Documents/Google Drive/AI_knowledge/rules.md",
+        "C:\\Users\\nekol\\AppData\\Local\\hermes\\profiles\\takina\\SOUL.md"
+      ],
+      "skill_loads": [
+        {
+          "success": true,
+          "name": "yomiyasu",
+          "skill_dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+          "version3": true,
+          "version213": false
+        }
+      ],
+      "backup_current_comparison": {
+        "SOUL.md": "equal",
+        "config.yaml": "equal",
+        "profile.yaml": "different"
+      }
+    }
+  ]
+}

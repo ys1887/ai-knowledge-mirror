@@ -9,12 +9,12 @@ HermesのBot作成・調整担当の要約です。正本は `C:\Users\nekol\App
 - 従前の確認記録：2026-11-13（SOULの現行参照先とrules.mdを新規CLIセッションで確認。profile.yaml、承認方式・道具の再監査とDesktop試験は未実施）
 - 最終稼働日：2026-11-13（Botの新規CLIで読み取り専用の確認を実施）
 - 実地確認の状態：新規CLIセッションでルートrules.mdの読み取りと自己登録簿・出力先の応答を確認。Bot Chat／Desktopでの改訂後指示の読み込み、権限制限の強制、新Bot作成は未試験
-- 最終更新日：2026-11-14（現行の閲覧範囲を更新。モデル・道具は再監査せず）
+- 最終更新日：2026-11-17（write_approval設定と今回の確認結果を反映。他の項目の再監査ではない）
 - 出典：Hermes CLIの作成時の実測、`profiles/nayuta/SOUL.md`・`profile.yaml`・`config.yaml`、Bot Chatでの確認、今回ユーザーから伝えられた決定
 
 ## モデルと実行
 - モデル／プロバイダ：`openai/gpt-6-sol`（nous）
-- 承認方式：`approvals.mode=smart`、`skills.write_approval=false`。この設定はファイル編集ごとのユーザー承認を強制しない
+- 承認方式：`approvals.mode=smart`、`skills.write_approval=true`、`memory.write_approval=true`。この設定はファイル編集ごとのユーザー承認を強制しない
 - ターミナルのバックエンド：`local`
 - 使える道具：CLIで17/27ツールセット、マナと同数・同項目を確認。Desktop／Bot Chatの実効状態は未監査
 - スキル：作成時に組み込みスキルが導入された。`hermes-agent` は有効。`skills.external_dirs` で `C:\Users\nekol\AppData\Local\hermes\shared-skills\` の `yomiyasu` v3.0.0を参照（E側は保管用）。`skill_view` でC側の実体を確認済み。保管用コピーは `E:\Documents\Google Drive\AI_knowledge\30_resources\skills\yomiyasu\`。新規会話での推敲は未試験
@@ -67,3 +67,13 @@ HermesのBot作成・調整担当の要約です。正本は `C:\Users\nekol\App
 - 2026-11-13：本人承認で現行パス・自己成果物先と共通rules.md参照の要約を更新。SOUL実物と照合、変更前の控えを保存。新規セッションでの読み込みは未確認。
 - 2026-11-13：新規CLIセッションでrules.md・自己登録簿先を確認し、監査・試行レポートの所在を登録。本文・Desktop／Bot Chatの検証は未実施。
 - 2026-11-14：本人承認で削除予定フォルダの現行閲覧許可を除去。履歴・他のアクセス条件は維持。
+
+## write_approval の確認（2026-11-17）
+
+- 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。
+- 設定差分は上記2キーのみ。モデル・approvals.mode・道具・SOUL・認証は今回変更していない。
+- スキル管理と組み込み記憶ツールに対する関所。無人・バックグラウンドの書き込みは保留、対話CLIの記憶にはその場承認の分岐がある。直接のファイル／ターミナル編集は対象外で、従来の承認条件を維持する。
+- 実地確認：新規CLI・Desktopの動作試験は今回の対象外。設定値と写しのみ確認。
+- `99_backup/nayuta/config.yaml` とCOPY-NOTE.mdを更新し、秘密の値を含まない全文コピーのバイト一致を確認。SOUL.md・profile.yamlの写しは今回未変更。
+- 戻し方：2キーをfalseへ変更し、読み戻し・写しと記録を追随。既存保留は自動承認・一括削除しない。
+- 登録簿の今回の最終更新日：2026-11-17。過去の確認日はそれぞれ当時の範囲を示す。専門業務の品質試験ではない。

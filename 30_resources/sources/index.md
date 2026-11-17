@@ -10,6 +10,7 @@
 | The Pragmatic Programmer（David Thomas／Andrew Hunt、2019、第2版） | `the-pragmatic-programmer.md`（同フォルダ） | 作法・運用の層として、道具の習慣や仕事の進め方を考えるときに参照する。本人が 2026-11-15 に提示した資料 | 確定資料 | ここ | エイダ | 2026-11-15 |
 | X アーカイブ（本人の投稿テキストと自投稿メディア） | `x-archive/`（同フォルダ内） | 本人の過去の発言と関心を、話題が出たときに検索して原文を引く。全AIが参照する | 現行資料 | 本人の PC `E:\Documents\archives` の公式アーカイブ ZIP | エイダ | 2026-11-13 |
 | 英語教材（Essential Grammar in Use、English Grammar in Use、The Oxford 3000） | `english-textbooks/`（同フォルダ内、索引は `english-textbooks/index.md`） | イギリス英語学習の教材。エイダ（🇬🇧 English）と Hermes の語学担当 Bot が参照する。原本は編集・削除・移動しないこと | 現行資料 | ここ（本人の決定で原典 PDF もここに置く。エイダ側 `workspace/user/files/` にも控えあり） | エイダ | 2026-11-16 |
+| シャーロック・ホームズ全作品 原文（Arthur Conan Doyle） | `sherlock-holmes/`（同フォルダ内、索引は `sherlock-holmes/index.md`） | ホームズ正典60作（長編4・短編56）の英語原文コーパス。1作1ファイルで、索引から必要な作品だけを読む。エイダ（🔍 Sherlock Holmes）と Hermes のホームズ専門 Bot（作成予定）が参照する。原本は編集・削除・移動しないこと | 確定資料 | Project Gutenberg（各作品の ID は `sherlock-holmes/index.md` と各ファイル先頭に記載）。エイダ側 `workspace/sherlock-holmes/` に巻単位ファイルを含む控えあり | エイダ | 2026-11-17 |
 
 - 現行資料：内容が変わり得る資料。更新担当を決め、実物を確認した日を最終確認日にします。
 - 確定資料：過去の記録や成果物のように、内容を差し替えない資料。

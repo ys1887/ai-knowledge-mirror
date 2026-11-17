@@ -19,6 +19,7 @@
 
 ルート直下には、全体を統治するファイルだけがあります（README.md、guide.md、rules.md、changelog.md、work-log.md）。自分の変更に付随する追記だけができます（changelog.md への自分の変更行）。
 
+- `00_inbox/` … 行き先が決まらない情報の仮置き。振り分け先が決まったら移して消します
 - `10_projects/` … 終わりのある取り組み。原則ページ単位で、更新はそのプロジェクトの担当AIが行います。完了したら `40_archives/projects/` へ移ります
 - `20_areas/ai-operations/agents/` … Bot と AI 全般の人格・設定・資料。自分のフォルダだけ編集できます。自分の `settings.md` はここに置きます
 - `20_areas/ai-operations/logs/` … 参加者ごとの記録。自分のフォルダだけに書きます
@@ -33,6 +34,52 @@
 - `30_resources/templates/` … 記録やメモの雛形
 - `40_archives/` … もう動いていないものの保管庫。完了したプロジェクト、閉じた月の索引、過去の成果物を置きます
 - `99_backup/` … 設定ファイルの復旧用の全文コピー。自分のフォルダだけに置きます
+
+## 目的別の読み始め
+
+用件の種類によって、最初に開く場所が決まっています。
+
+- 未完了の用事、最近のメール → `20_areas/life/` の当月のメール索引と `open-loops.md`
+- 予定の変化 → `20_areas/life/` のカレンダー索引
+- 過去の決定や経緯 → ルートの `work-log.md` と `changelog.md`、それと主題のページ
+- 易占の過去の記録 → `20_areas/ekikyo/index.md` で当たりを付け、記録本体で確かめる
+- Bot と AI の状態、設定 → `20_areas/ai-operations/agents/index.md` と `settings-index.md`
+- 巡回の手順と状態 → `20_areas/ai-operations/context-patrol-runbook.md` と `context-patrol-state.md`
+- プロジェクトの状況 → `10_projects/index.md`
+- スキル → `30_resources/skills/index.md`
+- 原資料 → `30_resources/sources/index.md`
+
+## 主要ファイルの ID 表
+
+コネクタ経由では、名前の検索が当てにならないことがあります。主要なファイルとフォルダは、この ID で直接開けます（2026-11-16 作成）。
+
+| パス | ID |
+|---|---|
+| README.md | 1rkKiH6pmN85e5xrDUjqhYEj99wsVsnli |
+| guide.md | 1w-jUbeR1196fzBGgti6vUOiQUpUoYooV |
+| rules.md | 1KOs-kfd-misiYuP4Reps3ZWHSFvkFLOK |
+| changelog.md | 1VlzqEr_XDgByjpdXVJ-RHkmxouJy-vun |
+| work-log.md | 1MqSZbYs8bI_o8C4_Z-Ibi8seUm03LiyZ |
+| 00_inbox/ | 1dGtLo646OED498FQLvGhWdz6tq38ZQGS |
+| 10_projects/ | 117FieSZMRP5WQbdJB_sCEIV91OZQyyjf |
+| 10_projects/index.md | 1mLbdM3LuvKyjQjZTYj_ss2muoXXXFIAH |
+| 20_areas/ | 1ZJXaRyEVQ89BZx1DqDl2bRxZMDWmF1O8 |
+| 20_areas/ai-operations/agents/index.md | 1hctyqwoHRYJL1nlZJ-e1o1mM5sQda_8I |
+| 20_areas/ai-operations/agents/settings-index.md | 18FoRTQdDKXRaAxwIm6qtTDS3tqtME_Gc |
+| 20_areas/ai-operations/context-patrol-runbook.md | 1jvYnbw2A2tx2jIAyuxxtlZPUVmr19DdW |
+| 20_areas/ai-operations/context-patrol-state.md | 1lpNCAXpqyVF2Ya83mMHLxXr4aHYOUXvK |
+| 20_areas/ai-operations/evals.md | 1io2GOIsbnVLOM_QYyBtDCR6FWlACWOd9 |
+| 20_areas/life/index.md | 15JvjggLCtnrBQIelbHESMLdDWNPc8eMV |
+| 20_areas/life/open-loops.md | 1K8CnQ7loS8sDgK-Ydn7P1qQs0IIXWSeJ |
+| 20_areas/ekikyo/README.md | 1oeZGOCdL17ULyLkVlk4YLABzeQbLia1d |
+| 20_areas/ekikyo/index.md | 12-XhaiBbwvPRmwSYhNLagQHBEzEdPmcs |
+| 30_resources/ | 1yEeqweTg9Zqkw6Z1FJFKU5fnzdOmDoa4 |
+| 30_resources/knowledge/index.md | 1WMD8YGUWF8NMhtN-MlWzbNy98gGsV0Hu |
+| 30_resources/sources/index.md | 1auOE1SLcUI1ne2ZFAYWuH8O3DY45q8d7 |
+| 30_resources/skills/index.md | 1eLfzuDUZUvlUH3lQRNVgCDoLxAHAT7rZ |
+| 20_areas/ai-operations/scripts/index.md | 1bc2rs3B1dk9RMZivd2Q7KY4o0yzZ5A1W |
+| 40_archives/ | 1iKW0HXlcegj1VFlkAYlDpnVq05yWerGe |
+| 99_backup/ | 1hNP_WEVw1BUVprwnUQK36YJdUhtOz_AA |
 
 ## 最初にすること
 

@@ -12,6 +12,7 @@ terminal:
 skills:
   external_dirs:
     - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
 platform_toolsets:
   cli:
     - file
@@ -27,3 +28,5 @@ platform_toolsets:
     - clarify
 stt:
   enabled: false
+memory:
+  write_approval: true

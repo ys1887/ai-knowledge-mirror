@@ -40,3 +40,10 @@
 | 2026-11-16 | ハーミーズ、スキン | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-16 | 電機大図書館 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-16 | クラウン、翻訳家 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | 松月、通販？ | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | 区役所TEL | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | 電機大図書館 | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | クラウン、翻訳家 | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | ハーミーズ、スキン | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-16 | ソニー銀行、3,000 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-17 | サッカー日本代表 vs パラグアイ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
