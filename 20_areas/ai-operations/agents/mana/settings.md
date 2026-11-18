@@ -4,6 +4,7 @@
 
 - 状態：記入済み（確認範囲は下記。全権限の監査ではありません）
 - 最終確認日：2026-11-13（SOUL・記憶・スキル参照先・成果物先の実物と照合。モデル・道具・承認方式の再監査および新規セッション試験は未実施）
+- 最終確認日（2026-11-18に照合した分）：使用モデル・プロバイダ／契約、バージョン、承認方式（`approvals.mode`・`skills.write_approval`・`terminal.backend`）のみ、10プロフィールの実設定と照合した。上記2026-11-13の確認範囲、表の道具数・役割・スキル欄は再監査していない。
 - 記入者：マナ（Hermes Agent）
 - 正本の場所：`C:\Users\nekol\AppData\Local\hermes\` と各 `profiles\<名前>\`、共通スキルの実働コピーは `C:\Users\nekol\AppData\Local\hermes\shared-skills\`、保管用原本は `E:\Documents\Google Drive\AI_knowledge\30_resources\skills\yomiyasu\`
 - 対象範囲：この文書の詳細表はマナ、デフォルトHermes、アルカナ、レーベル、ファントムの作成当初の記録。2026-11-11に `nayuta` を新設した。ナユタの現行設定は `20_areas/ai-operations/agents/nayuta/profile.md` と実際の `profiles/nayuta/` を参照（下記の追加記録）。ユーザーによれば、主に使用中なのはマナ・アルカナ・デフォルトHermes。レーベルとファントムは作成済みで運用前。
@@ -14,21 +15,23 @@
 
 - 実行場所・入口：このWindows PCのHermes Agent Desktop／Bot ChatおよびHermes CLI。CLIでは `hermes -p <プロフィール名> ...` と指定できる。Botごとの設定・会話・記憶・スキルはプロフィール別に管理される。
 - 役割：マナはPCの設定確認・調査・トラブル切り分け・許可範囲でのファイル作業と開発。ほかの役割は下表と各 `SOUL.md` を参照。
-- 使用モデル：確認時点で全プロフィール `openai/gpt-6-sol`。
-- プロバイダ・契約：`hermes profile show` では全プロフィールのプロバイダが `nous`。契約条件や請求先の実態はこの確認では検証していない。
-- バージョン：`hermes --version` の表示は `Hermes Agent v0.22.5 (2026.9.24) · stable · local bf0203a794a0`。表示時点で更新案内があったが、この記録のための更新は行っていない。
+- 使用モデル：2026-11-18時点で全10プロフィール `deepseek-v4.1-flash`（API方式 `chat_completions`）。本人が OpenCode Go を契約して一律に切り替えた暫定の設定で、今後 Bot ごとに差し替える可能性がある。フォールバックや推論・高速・補助モデルの指定は未確認（既定値のまま）。
+- プロバイダ・契約：`hermes -p <名前> config get model.provider` で全10プロフィールが `opencode-go`、`model.base_url` は `https://opencode.ai/zen/go/v1`（2026-11-18確認）。契約条件・請求先・利用上限の実態はこの確認では検証していない。
+- バージョン：2026-11-18の `hermes --version` 表示は `Hermes Agent v0.23.2 (2026.9.24) · stable · local ae2a81ccc00e`。以前の記録は v0.22.5 で、その後の更新の実施者・日時はこの確認では特定していない。
 
 ## プロフィール別
 
 | プロフィール | モデル | 役割 | スキル | 道具 | 承認方式 | 最終確認日 |
 |---|---|---|---|---|---|---|
-| default | `openai/gpt-6-sol` (`nous`) | 汎用Hermes Agent | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
-| mana | `openai/gpt-6-sol` (`nous`) | Windows PC担当のエンジニアBot | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
-| arcana | `openai/gpt-6-sol` (`nous`) | 易経・高島易断の読み解き | 固有スキルと共通 `yomiyasu` | 有効3/27：ファイル操作・スキル・ターミナル | `smart` | 2026-11-09 |
-| label | `openai/gpt-6-sol` (`nous`) | 公用文・公式文書の作成と推敲 | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
-| phantom | `openai/gpt-6-sol` (`nous`) | 小説など創作物語の執筆 | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
+| default | `deepseek-v4.1-flash` (`opencode-go`) | 汎用Hermes Agent | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
+| mana | `deepseek-v4.1-flash` (`opencode-go`) | Windows PC担当のエンジニアBot | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
+| arcana | `deepseek-v4.1-flash` (`opencode-go`) | 易経・高島易断の読み解き | 固有スキルと共通 `yomiyasu` | 有効3/27：ファイル操作・スキル・ターミナル | `smart` | 2026-11-09 |
+| label | `deepseek-v4.1-flash` (`opencode-go`) | 公用文・公式文書の作成と推敲 | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
+| phantom | `deepseek-v4.1-flash` (`opencode-go`) | 小説など創作物語の執筆 | 固有スキルと共通 `yomiyasu` | 有効17/27ツールセット。詳細は `tools list` | `smart` | 2026-11-09 |
 
 表の道具数は `hermes -p <名前> tools --summary` のCLI欄。Desktop、Bot Chatなどの実効権限や接続状況を一括で示すものではない。レーベルとファントムの共通スキル利用は一覧上の有効表示を確認したが、各Botでの文章推敲の実行試験はまだ行っていない。
+
+表の対象は作成当初の5プロフィールのままで、表の行の最終確認日「2026-11-09」はモデル以外の欄（役割・スキル・道具）の確認日です。モデル欄だけは2026-11-18に実設定と照合し直しました（CLIの `hermes -p <名前> config get model.default`／`model.provider`／`model.base_url`／`model.api_mode` で、default・mana・arcana・label・phantom に加え nayuta・crown・eve・raven・takina の全10プロフィールが一致）。
 
 ## スキルと道具
 
@@ -40,7 +43,7 @@
 ## 権限と承認
 
 - アクセス範囲：BotごとのSOUL、適用される上位指示、ユーザーの個別承認に依存する。マナは `C:\Users\nekol\Obsidian` を個別許可なく閲覧・存在確認しない。Cドライブは原則閲覧のみ。`C:\Users\nekol\AppData\Local\hermes` 内では、マナは自己プロフィールの通常の小規模で可逆な編集ができる。他Botのプロフィールは必要に応じて調査できるが、通常の横断編集は行わない。調整Botが対応できない等の例外時は、対象と操作ごとのユーザーの事前承認を得て対応する。Hermes（デフォルト）も他Botのプロフィールを通常編集せず、対象と操作ごとの個別事前承認が必要。arcana・label・phantom も自己プロフィールのみ通常編集できる。全Botとも役割・アクセス範囲・承認条件の変更、アプリ設定（config.yaml等）、認証情報、大量移動・削除、復旧困難な操作は事前承認が必要。Eドライブではマナの `E:\Documents\Google Drive\AI_knowledge\20_areas\ai-operations\outputs\mana` を成果物の原則保存先・通常の小規模な作業範囲とし、`E:\Documents\Muse` と `E:\Documents\Playground` は閲覧のみ。`E:\Documents\Google Drive\AI_knowledge` は閲覧可。マナが通常編集できるのは `20_areas/ai-operations/logs/mana`、`20_areas/ai-operations/agents/mana` 内と、`20_areas/ai-operations/agents/_template.md`（ナユタが対応できない場合のみ代行）を対象とする。`20_areas/ai-operations/agents/index.md` はナユタが主担当で、ナユタが対応できない場合に限りマナが代行する。他Botの登録簿フォルダは閲覧のみ。各Botは自分の登録簿フォルダのみ通常編集できる。登録簿への記載自体は権限変更の承認にならない。`C:\Users\nekol\scripts`（実行用）・`E:\Documents\Google Drive\AI_knowledge\20_areas\ai-operations\scripts`（保管用）・`E:\Documents\Google Drive\AI_knowledge\30_resources\skills`（スキル原本）、およびバックアップ先へのアクセスは作業ごとの許可に従い、その他のEの場所は事前確認する。旧 `E:\Documents\Hermes Agent` は今後の作業範囲・出力先ではない。新Botは作成時に自己領域と自己登録簿フォルダの規則を個別に設定・確認する。これは行動上のルールでありOS権限の分離ではない。
-- 承認方式：確認時点で全5プロフィールの `approvals.mode=smart`、`skills.write_approval=false`、`terminal.backend=local`。この値だけで全操作の許可を表すわけではない。マナはPC・アプリ設定変更、依存関係の導入・削除、重大な削除・移動、外部公開などについて内容・影響・戻し方を示して事前承認を得る。指示上のアクセス制限はWindowsのアクセス制御（ACL）と同一ではない。
+- 承認方式：2026-11-18時点で全10プロフィールの `approvals.mode=smart`、`skills.write_approval=true`、`terminal.backend=local`（`hermes -p <名前> config get` で確認）。この値だけで全操作の許可を表すわけではない。マナはPC・アプリ設定変更、依存関係の導入・削除、重大な削除・移動、外部公開などについて内容・影響・戻し方を示して事前承認を得る。指示上のアクセス制限はWindowsのアクセス制御（ACL）と同一ではない。以前の記録の `skills.write_approval=false` は実設定と一致していなかった（2026-11-18に修正）。
 - データの扱い：認証情報の値はこの共有フォルダに記載しない。`yomiyasu_check.py` の記録には原文・最終稿の写しが残り得るため、実行時に保存先と機密性を確認する。AI_knowledgeの記載は情報共有であり、設定変更の許可にならない。
 
 ## 設定ファイル
@@ -69,6 +72,7 @@ hermes -p mana config get approvals.mode
 
 ## 変更履歴
 
+- 2026-11-18：本人の指示により、モデル欄だけを実設定に合わせて更新。使用モデル・プロバイダ／契約の行と、プロフィール別表5行のモデル欄を `deepseek-v4.1-flash`／`opencode-go`（base_url `https://opencode.ai/zen/go/v1`、API方式 `chat_completions`）に修正し、モデル分の確認日を2026-11-18として他の確認日と分けて記載。同じ回に実設定で確認できたバージョン（v0.22.5→v0.23.2）と `skills.write_approval`（false→true）も修正。設定そのものは変更しておらず、モデル変更に伴う挙動の比較試験は行っていない。
 - 2026-11-11：Bot作成・調整担当 `nayuta` を新設。承認後の新Bot作成・既存Botの権限調整をSOULに設定し、CLI対話で承認条件を試験。登録簿に記録。既存5プロフィールや共通索引担当は変更していない。
 - 2026-11-11：後続の本人決定に合わせて現行アクセス範囲を修正。マナとデフォルトHermesの通常の横断編集を外し、マナは例外時のみ個別事前承認で対応。各Botの自己登録簿フォルダ編集と、マナによる共通索引・雛形の暫定担当を反映。旧決定は下記に履歴として残す。SOULと登録簿の権限記述を照合し、モデル・道具は再検証していない。
 - 2026-11-11：利用者の承認で一律事前承認の編集規則を変更。arcana・label・phantom は自己プロフィールの通常の小規模で可逆な編集のみを自律的に実施し、Hermes（デフォルト）とマナは他Botプロフィールを横断して通常編集できる。役割・アクセス範囲・承認条件、アプリ設定、認証情報、大量移動・削除、復旧困難な操作は全Botで事前承認。新規Botには作成時に自己領域限定ルールを個別に適用・確認する必要があり、自動継承はしない。各SOULとマナのUSER.md・MEMORY.mdを更新。Windows ACLやHermesの承認設定は変更していない。

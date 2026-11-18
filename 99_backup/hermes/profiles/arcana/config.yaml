@@ -1,0 +1,34 @@
+model:
+  default: gemini-4-argon
+  provider: opencode-go
+  base_url: https://opencode.ai/zen/go/v1
+  api_mode: chat_completions
+_config_version: 53
+platform_toolsets:
+  cli:
+    - file
+    - terminal
+    - skills
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  write_approval: true
+display:
+  personality: teacher
+skills:
+  external_dirs:
+    - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+telemetry:
+  shared_metrics:
+    enabled: false
+    send: false
+    offer_version: 2
+browser:
+  use_real_profile: true
+delegation:
+  model: deepseek-v4.1-flash
+  provider: opencode-go
+  reasoning_effort: medium
+  max_concurrent_children: 2
+  child_timeout_seconds: 900

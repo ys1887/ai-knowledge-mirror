@@ -1,0 +1,40 @@
+model:
+  default: glm-5.3-flash
+  provider: opencode-go
+  base_url: https://opencode.ai/zen/go/v1
+  api_mode: chat_completions
+_config_version: 53
+approvals:
+  mode: smart
+terminal:
+  backend: local
+  cwd: E:/Documents/Google Drive/AI_knowledge/20_areas/ai-operations/outputs/crown
+skills:
+  external_dirs:
+    - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+platform_toolsets:
+  cli:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+  api-server:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+stt:
+  enabled: false
+memory:
+  write_approval: true
+delegation:
+  model: deepseek-v4.1-flash
+  provider: opencode-go
+  reasoning_effort: medium
+  max_concurrent_children: 2
+  child_timeout_seconds: 900

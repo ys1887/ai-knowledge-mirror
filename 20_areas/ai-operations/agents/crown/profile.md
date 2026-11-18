@@ -9,11 +9,11 @@
 - 最終確認日：2026-11-16（作成・SOUL・CLI設定値・認証状態）
 - 最終稼働日：2026-11-16（新規CLIの読み取り専用確認）
 - 実地確認の状態：新規CLIで自己SOUL・rules.md・自己登録簿を実読込し、役割・保存先・禁止事項を回答（終了コード0）。実際のtool結果でも共有yomiyasu v3.0.0読込を確認。Desktop一覧のcrown表示を確認。Desktopからの対話・翻訳学習品質・実保存・yomiyasu推敲は未試験
-- 最終更新日：2026-11-17（write_approval設定と今回の確認結果を反映。他の項目の再監査ではない）
+- 最終更新日：2026-11-18（個別のモデル設定と委譲設定を反映。他の項目の再監査ではない）
 - 出典：自己SOUL、config.yaml、profile.yaml、CLI設定読み戻し、auth status
 
 ## モデルと実行
-- モデル／プロバイダ：`gpt-6.1-sol`／`openai-codex`（API方式 `codex_responses`）
+- モデル／プロバイダ：`glm-5.3-flash`／`opencode-go`（API方式 `chat_completions`。2026-11-18に個別設定へ移行。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示）
 - 認証：既存Codexログイン。Fresh profileで他Botの記憶・固有連携はクローンしない
 - 承認方式：`approvals.mode=smart`（ファイル単位の強制承認・OS隔離ではない）
 - ターミナルのバックエンド：`local`（自己成果物先でyomiyasuの検査用途だけに使用）
@@ -57,6 +57,8 @@
 - 2026-11-16：本人承認でFresh profile・SOUL・最小道具・登録簿・成果物先・自己全文写しを作成。CLI規則確認と共有skill読込は終了0、Desktop一覧表示と全文写し３ファイルのバイト一致を確認
 - 2026-11-16：登録簿の書式を既存Botの雛形に合わせて整形（見出し・項目名・セクション構成の統一）。日本語表示名（クラウン/翻訳家）を設定。事実関係の変更なし。本人の指示によりエイダが実施
 
+- 2026-11-18：本人が OpenCode Go を契約し、全 Bot のモデルを一律で `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）へ切り替えた。暫定の設定で、今後 Bot ごとに差し替える可能性がある。フォールバック、推論・高速・補助モデルの指定は未設定（既定値）。根拠はハーミーズが各プロファイルの設定読み取りと status で照合した一覧（2026-11-18 01:15時点）で、本人がエイダへ報告した。この台帳への反映は本人の指示でエイダが行った
+- 2026-11-18（個別設定への移行）：メインのモデルを `glm-5.3-flash`／`opencode-go`（API方式 `chat_completions`）へ変更した。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示。委譲の上限は `max_concurrent_children=2`、`child_timeout_seconds=900`、`prefix_stagger_seconds=0`、`delegation.reasoning_effort=medium`。単発応答の疎通は確認済みで、実タスクでの検証はこれから。根拠はハーミーズが適用し読み戻した報告で、本人がエイダへ共有した。この台帳への反映は本人の指示でエイダが行った
 ## write_approval の確認（2026-11-17）
 
 - 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。

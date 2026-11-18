@@ -72,7 +72,7 @@ plugins:
 model:
   # Default model to use (can be overridden with --model flag)
   # Both "default" and "model" work as the key name here.
-  default: "gpt-6.1-sol"
+  default: "gpt-6-luna"
 
   # Inference provider selection:
   #   "auto"         - Auto-detect from credentials (default)
@@ -105,11 +105,11 @@ model:
   #   It works with both no-auth and auth-enabled server modes.
   #
   # Can also be overridden for a single invocation with the --provider flag.
-  provider: "openai-codex"
+  provider: "opencode-go"
 
   # API configuration (falls back to OPENROUTER_API_KEY env var)
   # api_key: "your-key-here"  # Uncomment to set here instead of .env
-  base_url: "https://chatgpt.com/backend-api/codex"
+  base_url: "https://opencode.ai/zen/go/v1"
 
   # Stream API responses from the provider (default: true). The agent core
   # prefers streaming for every turn — subagents included — for liveness
@@ -1863,6 +1863,12 @@ delegation:
 # =============================================================================
 # Display
 # =============================================================================
+  reasoning_effort: medium
+  model: deepseek-v4.1-flash
+  provider: opencode-go
+  max_concurrent_children: 5
+  child_timeout_seconds: 900
+  prefix_stagger_seconds: 2
 display:
   # Use compact banner mode (hides the ASCII-art banner, shows a single line).
   #   true:  Compact single-line banner
@@ -2358,3 +2364,71 @@ onboarding:
 local_runtime:
   enabled: true
   backend: cpu
+approvals:
+  deny:
+    - '*profiles/arcana*'
+    - '*profiles\arcana*'
+    - '*profiles/crown*'
+    - '*profiles\crown*'
+    - '*profiles/eve*'
+    - '*profiles\eve*'
+    - '*profiles/label*'
+    - '*profiles\label*'
+    - '*profiles/nayuta*'
+    - '*profiles\nayuta*'
+    - '*profiles/phantom*'
+    - '*profiles\phantom*'
+    - '*profiles/raven*'
+    - '*profiles\raven*'
+    - '*profiles/takina*'
+    - '*profiles\takina*'
+    - '*hermes/auth.json*'
+    - '*hermes\auth.json*'
+    - '*hermes/.env*'
+    - '*hermes\.env*'
+    - '*profiles/*/auth.json*'
+    - '*profiles\*\auth.json*'
+    - '*profiles/*/.env*'
+    - '*profiles\*\.env*'
+    - '*99_backup*'
+    - '*diskpart*'
+    - '*format.com*'
+    - '*format c:*'
+    - '*format d:*'
+    - '*format e:*'
+    - '*format /fs*'
+    - '*format /q*'
+    - '*format-volume*'
+    - '*clear-disk*'
+    - '*initialize-disk*'
+    - '*set-disk*'
+    - '*new-partition*'
+    - '*remove-partition*'
+    - '*resize-partition*'
+    - '*repair-volume*'
+    - '*dd if=*'
+    - '*dd of=*'
+    - '*mkfs*'
+    - '*mke2fs*'
+    - '*fdisk*'
+    - '*bcdedit*'
+    - '*bootrec*'
+    - '*bootsect*'
+    - '*physicaldrive*'
+    - '*sdelete*'
+    - '*cipher /w*'
+    - '*wmic diskdrive*'
+    - '*wmic partition*'
+    - '*fsutil*'
+    - '*vssadmin delete*'
+    - '*wbadmin delete*'
+    - '*schtasks*/create*/ru*system*'
+    - '*schtasks*/create*/ru *system*'
+    - '*register-scheduledtask*-user*system*'
+    - '*register-scheduledtask*-user*nt authority*'
+hooks:
+  pre_tool_call:
+    - matcher: terminal|execute_code|computer_use|write_file|patch
+      command: C:/Users/nekol/AppData/Local/hermes/profiles/mana/agent-hooks/mana_policy.py
+      timeout: 10
+      fail_closed: true

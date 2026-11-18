@@ -9,11 +9,11 @@ HermesのBot作成・調整担当の要約です。正本は `C:\Users\nekol\App
 - 従前の確認記録：2026-11-13（SOULの現行参照先とrules.mdを新規CLIセッションで確認。profile.yaml、承認方式・道具の再監査とDesktop試験は未実施）
 - 最終稼働日：2026-11-13（Botの新規CLIで読み取り専用の確認を実施）
 - 実地確認の状態：新規CLIセッションでルートrules.mdの読み取りと自己登録簿・出力先の応答を確認。Bot Chat／Desktopでの改訂後指示の読み込み、権限制限の強制、新Bot作成は未試験
-- 最終更新日：2026-11-17（write_approval設定と今回の確認結果を反映。他の項目の再監査ではない）
+- 最終更新日：2026-11-18（個別のモデル設定と委譲設定を反映。他の項目の再監査ではない）
 - 出典：Hermes CLIの作成時の実測、`profiles/nayuta/SOUL.md`・`profile.yaml`・`config.yaml`、Bot Chatでの確認、今回ユーザーから伝えられた決定
 
 ## モデルと実行
-- モデル／プロバイダ：`openai/gpt-6-sol`（nous）
+- モデル／プロバイダ：`deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`。2026-11-18に個別設定へ移行。サブエージェントも `deepseek-v4.1-flash`／`opencode-go` を明示）
 - 承認方式：`approvals.mode=smart`、`skills.write_approval=true`、`memory.write_approval=true`。この設定はファイル編集ごとのユーザー承認を強制しない
 - ターミナルのバックエンド：`local`
 - 使える道具：CLIで17/27ツールセット、マナと同数・同項目を確認。Desktop／Bot Chatの実効状態は未監査
@@ -68,6 +68,8 @@ HermesのBot作成・調整担当の要約です。正本は `C:\Users\nekol\App
 - 2026-11-13：新規CLIセッションでrules.md・自己登録簿先を確認し、監査・試行レポートの所在を登録。本文・Desktop／Bot Chatの検証は未実施。
 - 2026-11-14：本人承認で削除予定フォルダの現行閲覧許可を除去。履歴・他のアクセス条件は維持。
 
+- 2026-11-18：本人が OpenCode Go を契約し、全 Bot のモデルを一律で `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）へ切り替えた。暫定の設定で、今後 Bot ごとに差し替える可能性がある。フォールバック、推論・高速・補助モデルの指定は未設定（既定値）。根拠はハーミーズが各プロファイルの設定読み取りと status で照合した一覧（2026-11-18 01:15時点）で、本人がエイダへ報告した。この台帳への反映は本人の指示でエイダが行った
+- 2026-11-18（個別設定への移行）：同日中にメインを `claude-haiku-5-5`、次いで `gpt-6-luna` で試した後、最終的に `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）に戻して確定した。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示済み。委譲の上限は `max_concurrent_children=3`、`child_timeout_seconds=900`、`prefix_stagger_seconds=2`、`delegation.reasoning_effort=medium`。根拠はハーミーズが適用し読み戻した報告で、本人がエイダへ共有した。この台帳への反映は本人の指示でエイダが行った
 ## write_approval の確認（2026-11-17）
 
 - 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。

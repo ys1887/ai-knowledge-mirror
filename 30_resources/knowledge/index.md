@@ -9,5 +9,6 @@
 |---|---|
 | `2026-11-08_yomiyasu-consultation.md` | yomiyasu スキルについての相談の記録 |
 | `2026-11-09_x-activity-knowledge.md` | X の活動から蒸留した知識 |
+| `2026-11-18_efficient-skill-paper.md` | EfficientSkill 論文（arXiv:2611.19823）の要点。スキルの自動改善は「先に正確さ、後で正確さを守って刈り込み」の2段階にする、という方法と、Hermes の学習ループへの関係 |
 
 メール移行の状態記録（`2026-11-08_mail-migration-status.md`）は、プロジェクトの記録として 2026-11-13 に `40_archives/projects` へ移しました。

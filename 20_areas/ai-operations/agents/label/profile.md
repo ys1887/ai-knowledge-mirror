@@ -7,12 +7,12 @@
 - 状態：作成済み・運用前
 - 最終確認日：2026-11-14（現行の閲覧範囲を照合。モデル・道具は再監査せず）
 - 従前の確認記録：2026-11-11（E:の閲覧範囲、登録簿の編集範囲と資料・成果物先をSOULと照合。共通スキルの参照設定をCLIで照合。資料・成果物フォルダの実体は従前の確認値。モデル・道具は2026-11-09確認値）
-- 最終更新日：2026-11-17（write_approval設定と今回の確認結果を反映。他の項目の再監査ではない）
+- 最終更新日：2026-11-18（個別のモデル設定と委譲設定を反映。他の項目の再監査ではない）
 - 出典：`20_areas/ai-operations/agents/mana/settings.md`（マナ記入）、`profiles/label/SOUL.md`、ユーザーとの決定
 
 ## モデルと実行
 
-- モデル／プロバイダ：`openai/gpt-6-sol`（nous）。推論の強さは中（medium）
+- モデル／プロバイダ：`deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`。2026-11-18に個別設定へ移行。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示）
 - 承認方式：`approvals.mode=smart`、`skills.write_approval=true`、`memory.write_approval=true`
 - ターミナルのバックエンド：`local`
 - 使える道具：有効17/27ツールセット（CLI欄の確認値。Desktop／Bot Chat の実効状態は個別監査していない）
@@ -60,6 +60,8 @@
 - 2026-11-13：本人承認でPARA再編後の参照先とrules.mdの案内を実物に合わせて更新。新規セッションでの読み込みは未確認。
 - 2026-11-14：本人承認で削除予定フォルダの現行閲覧許可を除去。履歴・他のアクセス条件は維持。
 
+- 2026-11-18：本人が OpenCode Go を契約し、全 Bot のモデルを一律で `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）へ切り替えた。暫定の設定で、今後 Bot ごとに差し替える可能性がある。フォールバック、推論・高速・補助モデルの指定は未設定（既定値）。根拠はハーミーズが各プロファイルの設定読み取りと status で照合した一覧（2026-11-18 01:15時点）で、本人がエイダへ報告した。この台帳への反映は本人の指示でエイダが行った
+- 2026-11-18（個別設定への移行）：メインのモデルは `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）のままで、全 Bot の個別設定化に合わせて委譲設定を新たに入れた。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示。委譲の上限は `max_concurrent_children=2`、`child_timeout_seconds=900`、`prefix_stagger_seconds=0`、`delegation.reasoning_effort=medium`。根拠はハーミーズが適用し読み戻した報告で、本人がエイダへ共有した。この台帳への反映は本人の指示でエイダが行った
 ## write_approval の確認（2026-11-17）
 
 - 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。

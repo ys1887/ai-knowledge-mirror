@@ -1,4 +1,134 @@
-# イヴへの AutoRAG MCP 導入結果：初回接続タイムアウトで停止
+# イヴへのAutoRAG導入結果：MCP登録済み・モデル取得中断で索引未完成
+
+## 最新の結果：プロセス限定PATH修復後、本人指定で中断（2026-11-17）
+
+実施・実物確認・本節更新：ナユタ、2026-11-17。**Windows標準tarによるMinSync導入は成功しました。ただしKURE-Sparse-nanoの取得が低速で、本人が「中断し、KB後比較と停止記録まで行う」を選択。今回のrefreshと子プロセスを停止しました。索引完成・検索運用成功とは扱いません。** 新規イヴCLIのstatus/searchは未実施です。以下の旧停止節は履歴であり、現況は本節を優先します。
+
+### 今回の実施範囲と不変確認
+
+- refresh子プロセスの環境辞書だけを変更し、管理npm → 管理Node → `C:/Windows/System32` → 元PATHの残部、の順で起動。Windows標準 `tar.exe` を選ぶ修復です。GNU tarがWindowsドライブ表記をリモートと誤解釈すること、Windows標準tarではZIP展開が通ることを事前の小規模試験で確認済みです。
+- PC共通のユーザー/マシンPATHはレジストリ値の前後一致。親プロセスPATHも不変。イヴを含む全10 Botのconfig・イヴSOUL・profile.yaml・AutoRAG configの計13ファイルはSHA-256前後一致。MCP登録・固定版2.13.12・既存設定は変更していません。
+- `protoc`導入、追加修復、AutoRAGコード変更、再登録、定期実行、Marketplace一式・setupスキルの導入は行っていません。今回の設定変更がないため、既存のイヴconfig全文写しと注記は更新不要。正本と写しは今回もバイト一致を確認しました。
+
+### 実測結果（いずれも中断時点）
+
+| 項目 | 結果 |
+|---|---|
+| refresh本体 | 19:46:24.935開始 → 20:18:33.616中断（日本時間）。1,928.681秒＝32分8.681秒。本人指定による停止後の終了コード1であり、自然な失敗終了や成功構築時間ではない |
+| MinSync | workspace/.autorag/bin/minsync.exeを取得。`--version`は終了0、`minsync 0.7.3`。225,686,528バイト |
+| workspace配下.autorag全体 | 12,041ファイル・390,185,799バイト（372.11 MiB）。補助実行ファイル・解析済み文書・進捗等を含む未完成領域であり、完成した検索索引の容量ではない |
+| 内訳の主要部分 | parsed領域164,311,025バイト、minsync領域180,690バイト。MinSync工程で中断し、完成したベクトル索引は未確認 |
+| モデル全体 | Windows既定C:/Users/nekol/AppData/Local/minsync/models、16ファイル・1,242,780,021バイト。Qwen領域1,203,010,888バイト、KURE領域39,769,133バイト |
+| 未完了の取得物 | KURE-Sparse-nanoのmodel重みの.partが39,037,678バイト。削除・移動・手動導入はせず残置。Qwen側には.partを検出せず |
+| KB全体の前後比較 | 除外部分も含む17,868ファイル・363,618,330バイト。追加/変更/削除0、ディレクトリ追加削除0、リンク差分なし、読取エラー0、新規.jikji_agent_map.md 0 |
+| 停止確認 | refresh本体と子を終了。対象のrefresh用node/MinSync残存プロセスは検出なし。比較ラッパーもKB後比較後に終了1 |
+| 未確認 | 索引の完成・完成時容量・成功refresh時間、新規イヴCLIのstatus/出典付きsearch、本人の横断実質問。いずれも成功扱いにしない |
+
+全通常ファイルの相対パス・サイズ・SHA-256、ディレクトリ、リンクを比較しました。最終状態の比較であり、一時的な書込みを完全に否定する監視ではありません。報告書・イヴ台帳・共通台帳・changelogの4件の意図した記録更新は、このKB比較の後に分離して行います。
+
+### 再開・戻し方・PC復旧時の注意
+
+- 中断時のrefresh-progress.jsonはstate=running、phase=minsync、pid=24204のまま残っています。そのPIDの処理は停止済みです。進捗ファイルを手修正せず残したため、表示だけで現在も処理中と判断しないでください。
+- 取得遅延の原因は未特定です。追加のネットワーク修復、モデル差替え、別保存先への誘導、生成物削除は行いません。再開は別途相談・承認後に、同じ固定設定とKB全体の新しい前後比較を伴って行います。モデル取得・索引構築が完了するまでは検索運用を開始しません。
+- 実行コマンドは履歴節と同じ `npx -y -p @autorag/librarian@2.13.12 autorag lite refresh --config C:/Users/nekol/.autorag/config.json --method parsed,minsync`。再試行時もrefresh環境内だけで管理npm/NodeとWindows標準tarを選び、PC共通PATHや登録済みMCPを変更しない方針です。
+- 今回のPATH修復はプロセス終了で消滅するため永続PATHの復元操作は不要。Bot側の取消しは別途承認でイヴのautorag登録だけを外します。.autorag・モデル・隔離npmキャッシュ・部分ファイルの削除は別途判断します。
+- PC復旧時はイヴの正本/安全な全文写しと、下の履歴にあるAutoRAG設定全文・固定版・除外条件を使って復旧します。homeはC:/Users/nekol/.autorag、workspaceはそのworkspace、モデルはWindows既定のLocal/minsync/modelsです。索引・モデルはHermes日次バックアップの対象外で、再取得・再構築が必要です。今回の部分成果を完成済みバックアップと扱わず、初回同様のKB比較と新規イヴCLI試験を伴わせます。
+
+今回の変更前控え・証拠：`C:/Users/nekol/AppData/Local/hermes/profiles/nayuta/backups/eve-autorag-native-tar-20261117-1941`。before-state.json、registry-path-before.json、refresh-wrapper.before.py、refresh-start.json、refresh-result.json、refresh-stdout.log、refresh-stderr.log、minsync-version.json、user-requested-stop.json、protected-after.json、stop-verification.json、interrupted-progress-fields.json、kb-before-refresh.json、kb-after-refresh.json、kb-refresh-comparison.json、stop-records-beforeを保存。既定保存先・固定設定・登録コマンドの全文は以下の履歴から引き継ぎます。秘密情報の値・会話本文は共有記録に載せません。
+
+---
+
+## 18:53時点の結果（履歴：初回refresh失敗）
+
+**当時はイヴのMCP登録と2ツール検出に成功し、初回refreshはMinSync導入時に失敗。** 以下はその時点の保存先・未取得表記を含む履歴であり、現在の取得状況は冒頭の最新節を参照してください。
+
+### 実測とKB比較
+
+| 項目 | 今回の実測・結果 |
+|---|---|
+| 再取得を伴う起動 | 初期化79.232秒。その後の計測コードのSDK項目名不一致で一覧計測前に終了。計測側だけを修正 |
+| 完成キャッシュでの単体起動 | 初期化14.487秒、ツール一覧14.492秒。autorag-lite 2.13.12、プロトコル2025-11-25 |
+| ツール | autorag.status / autorag.searchの2件のみ、read-only hintあり、説明文検査指摘0 |
+| イヴ登録 | --connect-timeout 180を追加して成功、2/2有効、終了0。config読み戻し確認 |
+| 初回refresh | 18:47:23.914開始、18:53:53.189終了（日本時間）。389.275秒＝6分29.275秒、終了1。失敗までの時間であり成功構築時間ではない |
+| 索引予定領域 | workspace配下の.autoragは3ファイル・309バイト。失敗進捗309バイトと空Cargo管理ファイル2件だけで、利用可能な索引ではない |
+| AutoRAG home全体 | 4ファイル・1,175バイト（設定866バイトを含む） |
+| モデル | Windows既定予定先は未作成・未取得 |
+| refresh前後KB | 17,868ファイル・363,604,483バイト。追加/変更/削除0、ディレクトリ追加削除0、読取エラー0、リンク0、新規.jikji_agent_map.md 0 |
+| 設定差分 | イヴのmcp_servers.autorag追加だけ。既存項目値不変。他9 Botのconfigハッシュ不変 |
+| 新規イヴCLIのstatus/search | refresh失敗で停止したため未実施。本人の横断質問も未提供・未試行 |
+| 全文写し | 秘密値確認後に99_backup/eve/config.yamlを追随、正本バイト一致。COPY-NOTE追記。SOUL/profile写しは無変更 |
+
+KB比較は除外部分を含む全通常ファイルの相対パス・サイズ・SHA-256とディレクトリを対象に、記録更新前に完了。最終状態の比較であり、一時的な書込みを完全に否定する監視ではありません。報告書・台帳・写し・changelogの意図した更新は比較後に分けて行います。
+
+### 今回の停止理由
+
+```text
+error: MinSync is required but installing the `minsync` binary failed:
+tar: Cannot connect to C: resolve failed
+. Install it manually with `cargo install minsync`.
+```
+
+refresh-progress.jsonもstate=failed、phase=parsed、Refresh failed: MinSyncRequiredError。実プロセスではCargo/rustcのビルド動作を確認し、その後のフォールバックのアーカイブ展開で上記エラーになりました。先行するCargo経路の失敗理由自体は未確定です。
+
+refresh環境で選ばれるtarは `C:\Users\nekol\AppData\Local\hermes\tools\git-2.56.1+1-win32-x64\usr\bin\tar.exe`（GNU tar 1.35）。`C:\Windows\System32\tar.exe` も存在しますが、選択変更・代替tarによる再試験はしていません。C:表記との解釈不整合は疑いであり、修正確認済みとは扱いません。PATH変更、補助ツール手動導入、AutoRAGコード変更、refresh再実行は行わず停止しました。
+
+### 現在の保存先と生成物
+
+- 設定正本：`C:\Users\nekol\.autorag\config.json`。workspace：`C:\Users\nekol\.autorag\workspace`（明示設定）。
+- 索引予定領域：`C:\Users\nekol\.autorag\workspace\.autorag`。現在あるのはrefresh-progress.json 309バイト、minsync-cargo/.crates.toml 0バイト、minsync-cargo/.crates2.json 0バイト。
+- モデル予定先：`C:\Users\nekol\AppData\Local\minsync\models`。本人がWindows既定を受諾、上書き環境変数は設けず、現時点で未作成。
+- 完成したnpm実行キャッシュ：`C:\Users\nekol\AppData\Local\npm-cache\_npx\8e5b5d15c05af942`。46,601ファイル・923,103,512バイト。索引容量ではない。
+- 旧キャッシュの隔離先1：`C:\Users\nekol\AppData\Local\npm-cache\_npx-quarantine\8e5b5d15c05af942-20261117`（15,690ファイル・322,484,073バイト）。
+- 隔離先2：同quarantine配下の `8e5b5d15c05af942-20261117-retry2`（3,258ファイル・30,430,120バイト）。どちらも削除ではなく移動で、全ファイルの前後SHA-256一致。現在も残置。
+- AutoRAG設定・workspace・モデルはHermes homeやGoogle Driveに置かない。npmキャッシュ、Rust取得/ビルド用データ、Hermesの接続ログ/検査キャッシュは別に生じる。全PCの書込み全量監査はしていない。日次バックアップ処理は変更なし。
+
+### 承認された警告の例外と検査
+
+本人が `npm warn deprecated` だけを記録付き継続の例外にしました。再取得で出た2件は `lodash.isequal@4.5.0`（node:utilのisDeepStrictEqual推奨）と `node-domexception@1.0.0`（プラットフォーム標準DOMException推奨）。警告抑制・ignore_scripts解除はしていません。セキュリティ/監査、設定検査、ツール異常、KB差分等の停止条件は維持。
+
+- 設定バリデータ警告なしで登録成功。保存後 `hermes -p eve config check` 終了0。
+- Hermes OSV検査：eve/cache/osv_check.jsonに `npm|@autorag/librarian|2.13.12`、result=nullの記録を確認・証拠保存。トップレベルパッケージのMAL指摘なしであり、依存全体の脆弱性監査や安全保証ではない。
+- 返った2ツールの説明文検査は指摘0。Marketplaceプラグイン一式の導入スキャンはこの経路では実施しない。
+- 管理Nodeは `C:\Users\nekol\AppData\Local\hermes\tools\node-26.12.1-win32-x64\node.exe`。起動解決だけでなくrefreshの実node子プロセスでも確認。npm/npxはnpm-12.2.2-win32-x64配下。
+- 起動シェルのalias解釈エラー表示はありましたが、CLIは登録成功しました。シェル設定の修正は対象外として行っていません。
+
+### 成功した登録と固定設定
+
+```bash
+hermes -p eve mcp add autorag --connect-timeout 180 --command npx --env 'AUTORAG_CONFIG=C:/Users/nekol/.autorag/config.json' 'AUTORAG_MCP_READ_ONLY=true' 'AUTORAG_MCP_TOOLS=autorag.status,autorag.search' 'AUTORAG_AUTH_MODE=environment' 'PI_CODING_AGENT_DIR=C:/Users/nekol/.autorag/model-runtime' 'npm_config_allow_remote=all' 'npm_config_ignore_scripts=true' --args -y -p @autorag/librarian@2.13.12 autorag-mcp
+```
+
+イヴconfigにはcommand/args/上記7環境変数、connect_timeout=180.0、enabled=trueを保存。既存model/skills/memory等は不変。新規セッションまたは/reload-mcpが反映経路です。認証値の参照・コピー・変更はしていません。
+
+AutoRAG configの全文・除外パターンは下の履歴内の「作成した設定の全文」と同じままです。現在もjikji=false、everything=false、fsearch=false、datasources={}、AI_knowledgeのみ、outputsを含め、指定の99_backup/codex-sessions/メール・カレンダー形式/生成物/過去work/スキルreceived・workを除外。26件の除外関数事前試験は失敗0ですが、完成索引での反映は未確認。トップレベル2.13.12固定だけで依存全体は固定されません。
+
+Marketplace一式、付属setupスキル、Desktop検索ペイン、外部サービス接続、定期実行は導入していません。マナには登録していません。npm_config_allow_remote=allはSheetJS tarball取得用ですがSheetJS限定の許可ではなく、子プロセスだけに適用。ignore_scripts=trueを維持します。
+
+### refreshの手順と証拠
+
+実行したのは、上記と同じ管理版npx・環境設定による次のコマンドです。
+
+```text
+npx -y -p @autorag/librarian@2.13.12 autorag lite refresh --config C:/Users/nekol/.autorag/config.json --method parsed,minsync
+```
+
+設定読み戻し→KB全体の前状態取得→parsed/minsyncのみのCLI実行と時間測定→失敗後のKB全体後比較→記録更新の順。以後は不具合の原因・変更対象・戻し方を本人に提示し、修復承認後に新しい前後比較付きで再実行します。新規イヴCLIでstatusと出典付きsearchが返るまでは運用可能と記録しません。本人の横断実質問がなければ検索応答確認までに留めます。
+
+現回の変更前控え・証拠：`C:\Users\nekol\AppData\Local\hermes\profiles\nayuta\backups\eve-autorag-resume-20261117-1837`。主要ファイルはrecords-before、cache-quarantine.json、quarantined-cache-hashes.json、cold-standalone-result.json、standalone-result.json、standalone-stderr.log、osv-verdict.json、eve-config.registered.yaml、refresh-start.json、refresh-stdout.log、refresh-stderr.log、refresh-result.json、refresh-tool-resolution.json、kb-before-refresh.json、kb-after-refresh.json、kb-refresh-comparison.json、final-inventory-before-records.json、backup-copy-verification.json。前回の報告書全文も控え済みです。共有先へ秘密値や会話本文は置きません。
+
+### 現在の戻し方・PC復旧
+
+- Bot側を戻す場合は本人承認のうえで `hermes -p eve mcp remove autorag` により当該登録だけを外し、新規セッション等で反映。古いconfig全体を戻して他の設定まで巻き戻さない。写し・COPY-NOTE・台帳を追随する。
+- `.autorag`、モデル、npmキャッシュ、隔離物、Rust取得/ビルド用データは別途判断。今回は手動削除なし。隔離物を戻す場合も現在の同名キャッシュを上書きしない。changelogの過去行は戻さず、訂正は後続追記。
+- PC復旧時は日次Hermesバックアップまたは安全なイヴ全文写しからプロフィール正本を承認のうえで復旧し、この報告のAutoRAG configを既定homeへ再作成。現在は登録済みでも索引未完成である点を引き継ぐ。
+- AutoRAG homeとモデルはHermes日次バックアップ対象外の配置。索引・モデル・npm取得物は再取得/再構築を前提とし、Google Driveへ実体を写していない。Windows既定モデル先を別OSの~/.cacheと取り違えない。
+- 未解決のMinSync導入について、Cargo経路の失敗理由とtar解決を調査し、変更対象・影響・戻し方を示して別途承認後に修復する。PC共通PATHやHermes本体を勝手に変更しない。
+- 将来のマナ利用は同じ設定・索引への登録を別途承認して追加。共通台帳への記載自体は権限や登録を変更しない。
+
+---
+
+## 前回停止時点の記録（履歴。以下の未登録・未実行表記は当時の状態）
 
 - 実施日・実物確認日：2026-11-17（日本時間）。実施者：ナユタ。本人が承認した設定案・コマンド・対象・検証手順に基づく今回限りの作業。
 - **導入は未完了。イヴのMCP登録は保存していない。refresh・索引作成・新規イヴCLIのstatus/search試験は未実施。**

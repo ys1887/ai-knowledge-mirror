@@ -1,8 +1,8 @@
 model:
-  default: gpt-6.1-sol
-  provider: openai-codex
-  base_url: https://chatgpt.com/backend-api/codex
-  api_mode: codex_responses
+  default: deepseek-v4.1-flash
+  provider: opencode-go
+  base_url: https://opencode.ai/zen/go/v1
+  api_mode: chat_completions
 _config_version: 53
 display:
   personality: concise

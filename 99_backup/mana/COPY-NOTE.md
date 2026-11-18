@@ -11,3 +11,18 @@ config.yaml の写し更新日：2026-11-13。ユーザー指定のC側正本か
 - 正本：`C:\Users\nekol\AppData\Local\hermes\profiles\mana\config.yaml`。C側が正本で、このE側ファイルは今回の全文写しです。
 - 本人承認で skills.write_approval・memory.write_approval を true に変更。秘密情報の値を検査し、config.yaml のコピー時点バイト一致を確認。
 - この追記の更新対象は config.yaml のみです。SOUL.md・profile.yaml の写しの確認日は上の従来記録のままで、今回の確認日へ置き換えません。
+
+## config.yaml 更新確認（2026-11-18）
+
+- コピー日時：2026-11-18T01:30:00+09:00
+- 正本：`C:\Users\nekol\AppData\Local\hermes\profiles\mana\config.yaml`。C側が正本で、このE側ファイルは今回の全文写しです。
+- 本人が OpenCode Go を契約し、全 Bot のモデルを `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）へ切り替えたことに伴う追随。差分は `model` の4キー（default・provider・base_url・api_mode） のみ。
+- 秘密情報の値の混入を検査し（APIキー・トークン等の実値なし）、コピー時点のバイト一致（SHA-256 先頭16桁 `9b909e68e2d12c9b`、128933バイト）を確認。更新前の写しは `20_areas/ai-operations/outputs/nayuta/2026-11-18T0130_backup-config-prechange/` に保存。
+## SOUL.md / config.yaml 写し更新（2026-11-18）
+
+- コピー日時：2026-11-18T16:41:45+09:00
+- 正本：`C:\Users\nekol\AppData\Local\hermes\profiles\mana\`。`SOUL.md` と `config.yaml` はC側正本の全文写し。
+- `config.yaml`：モデル（`gpt-6-luna`／`codex_responses`）、委譲設定、`approvals.deny` と `pre_tool_call` フックを現行正本に合わせて反映。ファイル道具で読み戻し、正本・写しの行数（2434）とサイズ（130870 bytes）が一致すること、変更箇所の値を確認。バイト単位のハッシュ照合はしていない。
+- `SOUL.md`：99_backupへのターミナルからの直接操作を恒常禁止とし、写し更新はファイル操作道具で行う改訂を反映。ファイル道具で読み戻し、正本・写しの行数（51）とサイズ（10911 bytes）が一致すること、改訂箇所を確認。バイト単位のハッシュ照合はしていない。
+- `config.yaml` の認証情報系の有効設定値を点検し、実値は見つからなかった（検出されたトークン関連の設定名は数値の上限値）。認証ファイルは含めていない。
+- `profile.yaml` は今回の対象外で、未変更。

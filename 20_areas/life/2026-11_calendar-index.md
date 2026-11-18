@@ -47,3 +47,8 @@
 | 2026-11-16 | ハーミーズ、スキン | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-16 | ソニー銀行、3,000 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-17 | サッカー日本代表 vs パラグアイ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-17 | ドメイン取得 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ✓ サッカー日本代表 vs パラグアイ | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ボット、ホームズ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | 怪盗、指揮官？ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | サブでds | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |

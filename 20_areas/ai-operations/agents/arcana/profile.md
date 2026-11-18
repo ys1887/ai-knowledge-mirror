@@ -7,12 +7,12 @@
 - 状態：主に使用中
 - 最終確認日：2026-11-16（SOULと固有ekikyo v2.1.3の年フォルダ保存規則を実物確認。モデル・道具は再監査せず。改訂後のDesktop／Bot Chat・実保存は未確認）
 - 従前の確認記録：2026-11-14（SOULと固有スキルの保存規則、現行の閲覧範囲を実物確認。モデル・道具は再監査せず）
-- 最終更新日：2026-11-17（write_approval設定と今回の確認結果を反映。他の項目の再監査ではない）
+- 最終更新日：2026-11-18（アルカナの本体モデルを `glm-5.3` へ切り替えたことを反映。他の項目の再監査ではない）
 - 出典：`20_areas/ai-operations/agents/mana/settings.md`（マナ記入）
 
 ## モデルと実行
 
-- モデル／プロバイダ：`openai/gpt-6-sol`（nous）。推論の強さは中（medium）
+- モデル／プロバイダ：`glm-5.3`／`opencode-go`（API方式 `chat_completions`。2026-11-18に個別設定で `gemini-4-argon` を試行したのち、同日、Argon の消費の重さから本体を `glm-5.3` へ切り替え。暫定。サブエージェントは `deepseek-v4.1-flash`／`opencode-go` を明示）
 - 承認方式：`approvals.mode=smart`、`skills.write_approval=true`、`memory.write_approval=true`
 - ターミナルのバックエンド：`local`
 - 使える道具：有効3/27ツールセット（ファイル操作・スキル・ターミナル。CLI欄の確認値）。ウェブや MCP の Desktop／Bot Chat での実効状態は個別監査していない
@@ -70,6 +70,9 @@
 - 2026-11-15：本人承認でekikyo v2.1.2にstemの日付の決め方を追加。原則は読みを行う当日、本人が別の日を明示した場合のみ指定日。SOUL・モデル・道具・保存範囲は変更なし。
 - 2026-11-16：本人承認でSOULとekikyo v2.1.3のC側使用版・E側保管版の保存先を、占いの種類を問わずrecordsの年フォルダへ統一。periodic・societyは2026-11-14の移行時点までの記録専用とし、新規保存には使わない。SOUL写しと注記も更新。新規作成限定・同名上書き禁止・stem規則は維持。モデル・道具・KB既存記録は変更せず、改訂後のCLI・Desktop／Bot Chat・実保存は未確認。
 
+- 2026-11-18：本人が OpenCode Go を契約し、全 Bot のモデルを一律で `deepseek-v4.1-flash`／`opencode-go`（API方式 `chat_completions`）へ切り替えた。暫定の設定で、今後 Bot ごとに差し替える可能性がある。フォールバック、推論・高速・補助モデルの指定は未設定（既定値）。根拠はハーミーズが各プロファイルの設定読み取りと status で照合した一覧（2026-11-18 01:15時点）で、本人がエイダへ報告した。この台帳への反映は本人の指示でエイダが行った
+- 2026-11-18：Argon の消費の重さ（1占いで約$0.12、割引終了後は約$0.24となり月間枠の約0.8%）から、本人の決定でアルカナの本体モデルを `gemini-4-argon` から `glm-5.3` へ切り替えた。`hermes config set` 経由で実差分は `default:` の1行のみ、疎通確認済み。戻し用に `config.yaml.bak-20261118-171431` を保存。暫定の措置で、Google AI Pro の Gemini が Hermes で使えるようになれば再切替の前提。ファントムは `gemini-4-argon` のまま変更なし。この台帳への反映は本人の指示でエイダが行った
+- 2026-11-18（個別設定への移行）：メインのモデルを `gemini-4-argon`／`opencode-go`（API方式 `chat_completions`）へ変更し、試行を開始した（暫定）。あわせてサブエージェントの `delegation.model` を `deepseek-v4.1-flash` に固定し、子が Argon で動くことを防いだ。委譲の上限は `max_concurrent_children=2`、`child_timeout_seconds=900`、`prefix_stagger_seconds=0`、`delegation.reasoning_effort=medium`。単発応答の疎通は確認済みで、実タスクでの検証はこれから。根拠はハーミーズが適用し読み戻した報告で、本人がエイダへ共有した。この台帳への反映は本人の指示でエイダが行った
 ## write_approval の確認（2026-11-17）
 
 - 設定の実物最終確認日：2026-11-17。`skills.write_approval=true`、`memory.write_approval=true`。正本読み戻し・CLI解決値・config check（終了0）を確認。実行版はv0.23.2。

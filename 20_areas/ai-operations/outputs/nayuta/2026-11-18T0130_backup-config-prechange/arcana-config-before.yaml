@@ -1,0 +1,28 @@
+model:
+  default: gpt-6.1-sol
+  provider: openai-codex
+  base_url: https://chatgpt.com/backend-api/codex
+  api_mode: codex_responses
+_config_version: 53
+platform_toolsets:
+  cli:
+    - file
+    - terminal
+    - skills
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  write_approval: true
+display:
+  personality: teacher
+skills:
+  external_dirs:
+    - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+telemetry:
+  shared_metrics:
+    enabled: false
+    send: false
+    offer_version: 2
+browser:
+  use_real_profile: true

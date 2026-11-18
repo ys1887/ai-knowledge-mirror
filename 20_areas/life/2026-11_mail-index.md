@@ -86,3 +86,6 @@
 | 2026-11-16 11:59 | 東京ガス（SimpleLogin転送） | 【訂正とお詫び】給湯器の基本工事費改定のご案内 | 運用系（住まい・料金） | 不要（情報のみ。2026-11-12に索引した価格改定案内の訂正） | Gmail（eniacpod） | 処理済み |
 | 2026-11-17 00:23 | Google | セキュリティ通知（eniacpod。Windowsでの新しいログインと Mozilla Thunderbird へのアクセス許可） | 運用系（Google・セキュリティ） | 不要（本人の操作に伴う通知とみられる） | Gmail（eniacpod） | 処理済み |
 | 2026-11-17 11:30 | 荒川区立図書館（SimpleLogin転送） | 【荒川区立図書館】まもなく返却期限です | 運用系（図書館） | 任意（返却期限の確認） | Gmail（eniacpod） | 未完了 |
+| 2026-11-17 21:09 | SBI証券（SimpleLogin転送） | フィッシングサイト・不審なメールにはご注意ください | 運用系（金融・セキュリティ） | 不要（情報のみ） | Gmail（eniacpod） | 処理済み |
+| 2026-11-18 00:19 | OpenCode（SimpleLogin転送） | Your receipt from OpenCode #2638-3611（OpenCode Go 契約の領収書） | 運用系（AI・契約） | 不要（情報のみ） | Gmail（eniacpod） | 処理済み |
+| 2026-11-18 10:35 | 三菱UFJ eスマート証券（SimpleLogin転送） | 【三菱UFJ eスマート証券】ID/PW入力のお知らせ | 運用系（金融・アカウント） | 不要（本人の操作に伴う通知とみられる） | Gmail（eniacpod） | 処理済み |

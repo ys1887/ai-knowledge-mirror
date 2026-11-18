@@ -72,7 +72,7 @@ plugins:
 model:
   # Default model to use (can be overridden with --model flag)
   # Both "default" and "model" work as the key name here.
-  default: "gpt-6.1-sol"
+  default: "deepseek-v4.1-flash"
 
   # Inference provider selection:
   #   "auto"         - Auto-detect from credentials (default)
@@ -105,11 +105,11 @@ model:
   #   It works with both no-auth and auth-enabled server modes.
   #
   # Can also be overridden for a single invocation with the --provider flag.
-  provider: "openai-codex"
+  provider: "opencode-go"
 
   # API configuration (falls back to OPENROUTER_API_KEY env var)
   # api_key: "your-key-here"  # Uncomment to set here instead of .env
-  base_url: "https://chatgpt.com/backend-api/codex"
+  base_url: "https://opencode.ai/zen/go/v1"
 
   # Stream API responses from the provider (default: true). The agent core
   # prefers streaming for every turn — subagents included — for liveness
@@ -408,7 +408,7 @@ model:
 # is spawned with the bundled sdlc-review skill and can approve, request changes
 # back to the original implementer, or escalate a genuine external blocker.
 # Disable this only when every review is performed manually from the dashboard.
-  api_mode: codex_responses
+  api_mode: chat_completions
 kanban:
   review_dispatch: true
 
@@ -1928,6 +1928,11 @@ delegation:
 # =============================================================================
 # Display
 # =============================================================================
+  model: deepseek-v4.1-flash
+  provider: opencode-go
+  reasoning_effort: medium
+  max_concurrent_children: 2
+  child_timeout_seconds: 900
 display:
   # Use compact banner mode (hides the ASCII-art banner, shows a single line).
   #   true:  Compact single-line banner
