@@ -11,6 +11,10 @@
 | X アーカイブ（本人の投稿テキストと自投稿メディア） | `x-archive/`（同フォルダ内） | 本人の過去の発言と関心を、話題が出たときに検索して原文を引く。全AIが参照する | 現行資料 | 本人の PC `E:\Documents\archives` の公式アーカイブ ZIP | エイダ | 2026-11-13 |
 | 英語教材（Essential Grammar in Use、English Grammar in Use、The Oxford 3000） | `english-textbooks/`（同フォルダ内、索引は `english-textbooks/index.md`） | イギリス英語学習の教材。エイダ（🇬🇧 English）と Hermes の語学担当 Bot が参照する。原本は編集・削除・移動しないこと | 現行資料 | ここ（本人の決定で原典 PDF もここに置く。エイダ側 `workspace/user/files/` にも控えあり） | エイダ | 2026-11-16 |
 | シャーロック・ホームズ全作品 原文（Arthur Conan Doyle） | `sherlock-holmes/`（同フォルダ内、索引は `sherlock-holmes/index.md`） | ホームズ正典60作（長編4・短編56）の英語原文コーパス。1作1ファイルで、索引から必要な作品だけを読む。エイダ（🔍 Sherlock Holmes）と Hermes のホームズ専門 Bot（作成予定）が参照する。原本は編集・削除・移動しないこと | 確定資料 | Project Gutenberg（各作品の ID は `sherlock-holmes/index.md` と各ファイル先頭に記載）。エイダ側 `workspace/sherlock-holmes/` に巻単位ファイルを含む控えあり | エイダ | 2026-11-17 |
+| シェイクスピア全作品 原文（William Shakespeare） | `shakespeare/`（同フォルダ内、索引は `shakespeare/index.md`） | 戯曲38作・詩篇5作の英語原文コーパスに、外典5作を別フォルダ（`shakespeare/apocrypha/`）で加えたもの。1作1ファイルで、索引から必要な作品だけを読む。原文は初期近代英語。原本は編集・削除・移動しないこと | 確定資料 | Project Gutenberg（1500番台シリーズを正本、各作品の ID は `shakespeare/index.md` に記載）。エイダ側 `workspace/shakespeare/` に取得原ファイルの控えあり | エイダ | 2026-11-19 |
+| ベーオウルフ 原文・英訳（作者不詳） | `beowulf/`（同フォルダ内、索引は `beowulf/index.md`） | 古英語の叙事詩の原文コーパス（Wyatt 校訂版）と Gummere 英訳。フィンスブルグ断片を含む。原本は編集・削除・移動しないこと | 確定資料 | 原文は Wikisource の校正済みテキスト（底本は1894年の Wyatt 版）、英訳は Project Gutenberg #981。エイダ側 `workspace/beowulf/` に控えあり | エイダ | 2026-11-19 |
+| エッダ 原文・英訳（詩のエッダ／散文エッダ） | `edda/`（同フォルダ内、索引は `edda/index.md`） | 北欧神話の原典コーパス。詩のエッダは古ノルド語原文（Pettit 校訂版から抽出）と Bellows 英訳、散文エッダは古ノルド語原文（Finnur Jónsson 校訂、1907年版）と Anderson 英訳。Brodeur 英訳は日本では保護期間内のため未収録（理由は索引に記載）。原本は編集・削除・移動しないこと | 確定資料 | 詩のエッダ原文は Open Book Publishers のオープンアクセス版（CC BY-NC 4.0）、英訳2点は Project Gutenberg #73533・#18947、散文エッダ原文は Internet Archive 収蔵の1907年版スキャン。エイダ側 `workspace/edda/` に控えあり | エイダ | 2026-11-19 |
+| ヘレンニウスへの修辞学書 原文（Rhetorica ad Herennium、作者不詳） | `rhetorica-ad-herennium/`（同フォルダ内、索引は `rhetorica-ad-herennium/index.md`） | ラテン語の修辞学書全4巻の原文コーパス。記憶術（場所法）の最古のまとまった記述は第3巻16〜24章。原本は編集・削除・移動しないこと | 確定資料 | ラテン語 Wikisource（底本は Marx 校訂 Teubner 版、1923年）。エイダ側 `workspace/rhetorica-ad-herennium/` に控えあり | エイダ | 2026-11-19 |
 | 公用文作成の考え方（文化審議会建議、令和4年1月7日）＋解説 | `koyobun-sakusei-no-kangaekata.md`（同フォルダ） | 公用文・形式的な文書の表記と文章の規範として参照する。主に Hermes のレーベル（公的・形式的な文書担当）が参照し、エイダも公的な文書を書く場面で参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\文章\公用文作成の考え方.pdf`（PDF 原本）。エイダ側 `workspace/user/files/` に PDF と md の控えあり | エイダ | 2026-11-17 |
 | Communicating with Slip Boxes（Niklas Luhmann） | `communicating-with-slip-boxes.md`（同フォルダ） | 知識ベースの方法論（索引カード箱との対話）の原典として、KB の設計・運用を考えるときに参照する。全AIが参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\Communicating-with-Slip-Boxes.pdf`（PDF 原本） | エイダ | 2026-11-17 |
 | ニクラス・ルーマンの索引カード箱とコンピューター（山﨑裕太、大学院研究年報 第51号、2022） | `zettelkasten-and-computer-yamazaki.md`（同フォルダ） | 上の原典の日本語の伴走論文として、索引カード箱をコンピューターの先駆として読む視点に参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\2435-8339_51_151-160.pdf`（PDF 原本） | エイダ | 2026-11-17 |
@@ -18,6 +22,8 @@
 | わかりやすい説明のための10の鉄則（米田優峻、2023） | `wakariyasui-setsumei-10-tessoku.md`（同フォルダ） | 説明・解説の型として、資料作成や説明文を書く場面で参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\わかりやすい説明のための10の鉄則.pdf`（PDF 原本、スライド126枚） | エイダ | 2026-11-17 |
 | How to Solve It（G. Polya） | `how-to-solve-it.md`（同フォルダ） | 問題解決の考え方の古典として、学習や検討の場面で参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\数学\Polya - How to solve it.pdf`（PDF 原本） | エイダ | 2026-11-17 |
 | A Mind for Numbers（Barbara Oakley） | `a-mind-for-numbers.md`（同フォルダ） | 学習科学として、数学や英語などの学習法を考えるときに参照する。本人が 2026-11-17 に提示した資料 | 確定資料 | 本人の PC `E:\Documents\PDF\数学\A_Mind_for_Numbers-barbara-oakley.pdf`（PDF 原本） | エイダ | 2026-11-17 |
+| The Mathematical Theory of Communication（Claude E. Shannon / Warren Weaver、1949） | `the-mathematical-theory-of-communication.md`（同フォルダ） | 情報理論の原典として、エントロピーや情報量を考えるときに参照する。Primers の Kolmogorov 複雑性の資料と対になる。本人が 2026-11-17 に提示し、2026-11-19 に md 化を決めた資料 | 確定資料 | 本人の PC `E:\Documents\PDF\数学\The Mathematical Theory of Communication.pdf`（PDF 原本） | エイダ | 2026-11-19 |
+| The Joy of Abstraction（Eugenia Cheng、2022） | `the-joy-of-abstraction.md`（同フォルダ） | 圏論の入門として、抽象化や構造の考え方を参照する。本人が 2026-11-17 に提示し、2026-11-19 に md 化を決めた資料 | 確定資料 | 本人の PC `E:\Documents\PDF\数学\The Joy of Abstraction 世界は圏論でできている Eugenia Cheng.pdf`（PDF 原本） | エイダ | 2026-11-19 |
 
 - 現行資料：内容が変わり得る資料。更新担当を決め、実物を確認した日を最終確認日にします。
 - 確定資料：過去の記録や成果物のように、内容を差し替えない資料。
@@ -32,6 +38,8 @@
 - `koyobun-sakusei-no-kangaekata.md` は、本人が 2026-11-17 に提示した PDF（63ページ）から機械的に変換したものです。振り仮名は再現しておらず、表は行単位に平坦化されている箇所があります。PDF の49・53・61ページは画像のみでテキスト化できていないため、その内容は含まれていません。
 - `communicating-with-slip-boxes.md`、`zettelkasten-and-computer-yamazaki.md`、`jtf-japanese-style-guide.md`、`wakariyasui-setsumei-10-tessoku.md`、`how-to-solve-it.md`、`a-mind-for-numbers.md` は、本人が 2026-11-17 に提示した PDF から機械的に変換したものです。図は再現しておらず、表は行単位に平坦化されている箇所があります。原本の PDF は本人の PC にあります。
 - `how-to-solve-it.md` と `a-mind-for-numbers.md` の著作権は権利者にあります。この md は本人のナレッジベース内部での参照用に限り、外部へ配らないでください。
+- `the-mathematical-theory-of-communication.md` と `the-joy-of-abstraction.md` は、本人が 2026-11-17 に提示した PDF から 2026-11-19 に機械的に変換したものです。図は再現しておらず、数式や記号はテキスト化で崩れている箇所があります。数式が要る箇所は PDF 原本を見てください。原本の PDF は本人の PC にあります。
+- `the-joy-of-abstraction.md` の著作権は権利者にあります。この md は本人のナレッジベース内部での参照用に限り、外部へ配らないでください。
 
 ## Hermes の入力資料について
 

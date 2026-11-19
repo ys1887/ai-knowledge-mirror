@@ -1,0 +1,198 @@
+{
+ "format": "yomiyasu-check-record",
+ "format_version": 1,
+ "run_id": "20261118T163219Z-8a372959",
+ "attempt": 1,
+ "fix_count": 0,
+ "previous": null,
+ "created_at": "2026-11-18T16:32:19Z",
+ "mode": "compose",
+ "cwd": "E:\\Documents\\Google Drive\\AI_knowledge\\20_areas\\ai-operations\\outputs\\holmes",
+ "host": {
+  "session": null,
+  "codex_thread_id": null,
+  "armed_by": null
+ },
+ "skill": {
+  "found": true,
+  "dir": "C:\\Users\\nekol\\AppData\\Local\\hermes\\shared-skills\\yomiyasu",
+  "skill_md_sha256": "12ea4a3309952e834fe324413eb95294ca3cb8b451bf0638730b101ac5a6a8b1",
+  "version": "3.0.0"
+ },
+ "tools": {
+  "yomiyasu_check.py": {
+   "version": "3.0.0",
+   "sha256": "d8c3d0deb475460a7519231c6d0b9fce45e897456e6b8b193e1c905b245362ad"
+  },
+  "yomiyasu_lint.py": {
+   "version": "3.0.0",
+   "sha256": "5c7edd8d9c871241ffac7f2dba81acdd88c0698a99caed7a883eac2040d6b6a5"
+  },
+  "yomiyasu_diff.py": {
+   "version": "3.0.0",
+   "sha256": "1f4c04d00c97a7d1f83eee3ca23f2b4f055dad8e6886b7b90727d3e4585fff93"
+  },
+  "markdown_visibility.py": {
+   "version": "3.0.0",
+   "sha256": "fc6ef52acf23a87c3793feb761208a6b38741d2922f16b8371022c0446769dbd"
+  },
+  "references/lists/nominalization.txt": {
+   "version": null,
+   "sha256": "2c28ed3d22ec2c52b8372be78e434b61c318116182b15e7df1420f6dc9b68565"
+  },
+  "references/lists/intensifiers.txt": {
+   "version": null,
+   "sha256": "f1740ed05026a6dc1ad58bc0af4e746db3a73d14135c4750a58d512ff69be32d"
+  },
+  "references/lists/feelings.txt": {
+   "version": null,
+   "sha256": "f36c6634b15d61989256ba5629793bd0add9ecaf9a701252d249f19ccce9c2dd"
+  },
+  "references/lists/hedges.txt": {
+   "version": null,
+   "sha256": "9233d43ee892dc43f41f765f4754c25624f8374c79235db4ad4e6f029da979f0"
+  },
+  "references/lists/katakana-terms.txt": {
+   "version": null,
+   "sha256": "652ecc12301f7fc81d9aeb0f5664aab62630b28eb98a6d67185fb0ff60138f75"
+  },
+  "references/lists/thin-evaluation.txt": {
+   "version": null,
+   "sha256": "f32ef9ad7d554a1a2ea049f71db09098a19869f06f8a40f819884d11664b9ab4"
+  },
+  "references/lists/renyo-nouns.txt": {
+   "version": null,
+   "sha256": "ddf3cccfbcb209a48c2a320bc5155a4fe6e46dbc7e6833f6057a467a7009406b"
+  },
+  "references/lists/fact-gaps.txt": {
+   "version": null,
+   "sha256": "279e72ce8164cf89ae03fb57af44ebb4e862f65cb2b8aff3bf358847e441ba5b"
+  }
+ },
+ "python": {
+  "version": "3.14.9",
+  "implementation": "CPython",
+  "unicode_version": "16.0.0"
+ },
+ "inputs": {
+  "source": null,
+  "materials": [
+   {
+    "role": "material",
+    "index": 1,
+    "path": null,
+    "via": "stdin",
+    "bytes": 1038,
+    "sha256": "51263ae21a05ad5689369f1e4783962292d0f94663d073bd2dcb6711bc711475",
+    "text_sha256": "51263ae21a05ad5689369f1e4783962292d0f94663d073bd2dcb6711bc711475",
+    "bom": false,
+    "eol": "lf",
+    "snapshot": "inputs/51263ae21a05ad5689369f1e4783962292d0f94663d073bd2dcb6711bc711475.bin",
+    "label": null,
+    "treated_as_source": false,
+    "similarity": 0.313,
+    "treated_by": null
+   }
+  ],
+  "final": {
+   "role": "final",
+   "index": 0,
+   "path": null,
+   "via": "stdin",
+   "bytes": 3950,
+   "sha256": "6daf1f3fb72530add8d2563f9a8e05aa82226f6c9445c26e64cf436f926ee33d",
+   "text_sha256": "6daf1f3fb72530add8d2563f9a8e05aa82226f6c9445c26e64cf436f926ee33d",
+   "bom": false,
+   "eol": "lf",
+   "snapshot": "inputs/6daf1f3fb72530add8d2563f9a8e05aa82226f6c9445c26e64cf436f926ee33d.bin"
+  }
+ },
+ "options": {
+  "stance": null,
+  "fail_on": [],
+  "timeout": 90,
+  "doc_type": null,
+  "reader": null,
+  "fact_gaps": true
+ },
+ "required_checks": [
+  "lint",
+  "materials"
+ ],
+ "checks": [
+  {
+   "name": "lint",
+   "status": "ran",
+   "exit_code": 0,
+   "duration_ms": 197,
+   "target": {
+    "final": "6daf1f3fb72530add8d2563f9a8e05aa82226f6c9445c26e64cf436f926ee33d"
+   },
+   "report": "runs/20261118T163219Z-8a372959/attempt-1.lint.json",
+   "report_sha256": "f633af56d4011ade1210f53cb25a8e522a8fead7e81f39c82c707f9b61f056b0",
+   "text": "runs/20261118T163219Z-8a372959/attempt-1.lint.txt",
+   "text_sha256": "b9a96594b4b27dfec4582dee58f2693bc5d87b1561d5e1219f8b36016abdda77",
+   "summary": {
+    "candidate_count": 0,
+    "counts": {
+     "error": 0,
+     "warn": 0,
+     "info": 0
+    },
+    "kept_marks": []
+   },
+   "stderr": "",
+   "error": null
+  },
+  {
+   "name": "materials",
+   "status": "ran",
+   "exit_code": null,
+   "duration_ms": 8,
+   "target": {
+    "materials": [
+     "51263ae21a05ad5689369f1e4783962292d0f94663d073bd2dcb6711bc711475"
+    ],
+    "final": "6daf1f3fb72530add8d2563f9a8e05aa82226f6c9445c26e64cf436f926ee33d"
+   },
+   "report": "runs/20261118T163219Z-8a372959/attempt-1.materials.json",
+   "report_sha256": "364e66a412cb7953d0a2d19a1cff9c0ad7f5de13096572d1e13de3f6462f34c5",
+   "text": "runs/20261118T163219Z-8a372959/attempt-1.materials.txt",
+   "text_sha256": "713120005208991dfa5a3e3cc4047609cccb9eb4ccb265ce16b582b870dbce28",
+   "summary": {
+    "candidate_count": 85,
+    "meaning_risk_count": 84,
+    "from_materials": 53,
+    "not_in_sources": 141,
+    "dropped_certainty": 0
+   },
+   "stderr": "",
+   "error": null
+  }
+ ],
+ "materials_summary": {
+  "from_materials": 53,
+  "not_in_sources": 141,
+  "dropped_certainty": 0
+ },
+ "fact_gaps": {
+  "count": 0,
+  "skipped": null,
+  "by_kind": {},
+  "items": []
+ },
+ "result": {
+  "status": "executed",
+  "token": "yomiyasu-check: executed via=run run=20261118T163219Z-8a372959 attempt=1 final=text-sha256:6daf1f3fb725 mode=compose checks=lint,materials meaning_risk=84",
+  "next": "review",
+  "fail_on_hit": false,
+  "meaning_risk_count": 84,
+  "fail_on_meaning_risk_count": 18,
+  "final_unchanged_during_run": true,
+  "not_judged": [
+   "meaning_preservation",
+   "reader_comprehension"
+  ]
+ },
+ "record_digest": "sha256:c9d14c13664f01ea130132446507aa4820bad1c2dd3950e745779d854791dd44"
+}

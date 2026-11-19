@@ -52,3 +52,14 @@
 | 2026-11-18 | ボット、ホームズ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-18 | 怪盗、指揮官？ | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
 | 2026-11-18 | サブでds | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | サブでds | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | 怪盗、指揮官？ | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ソニー銀行、3,000 | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | 三井住友、1,000 | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ボット、ホームズ | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ✓ Proton Mail、解約 | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-18 | ✓ ChatGPT、エクスポート | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-19 | ソニー銀行、4,000 | 変更（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-19 | 三井住友、1,000 | 削除（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-19 | Codex、ログ、WSLも | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |
+| 2026-11-19 | シェイクスピア | 追加（Todoist連携タスク） | Google Calendar（eniacpod） |

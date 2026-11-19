@@ -1,0 +1,167 @@
+■ 意味が変わる恐れ（80件。原文と資料に照らして確かめる）
+- 資料にない数値（後1行目）: 三つ
+  後: 三つとも、正典の原文を照合した。
+- 資料にない数値（後3行目）: 1
+  後: ### 1. 『マスグレーヴ家の儀式』の問答
+- 資料にない名前（後5行目）: Whose
+  後: “Whose was it?
+- 資料にない名前（後5行目）: was
+  後: “Whose was it?
+- 資料にない名前（後5行目）: it
+  後: “Whose was it?
+- 資料にない名前（後7行目）: His
+  後: “His who is gone.”
+- 資料にない名前（後7行目）: who
+  後: “His who is gone.”
+- 資料にない名前（後7行目）: is
+  後: “His who is gone.”
+- 資料にない名前（後7行目）: gone
+  後: “His who is gone.”
+- 資料にない名前（後9行目）: Who
+  後: “Who shall have it?
+- 資料にない名前（後9行目）: shall
+  後: “Who shall have it?
+- 資料にない名前（後9行目）: have
+  後: “Who shall have it?
+- 資料にない名前（後11行目）: He
+  後: “He who will come.”
+- 資料にない名前（後11行目）: will
+  後: “He who will come.”
+- 資料にない名前（後11行目）: come
+  後: “He who will come.”
+- 資料にない名前（後13行目）: Where
+  後: “Where was the sun?
+- 資料にない名前（後13行目）: sun
+  後: “Where was the sun?
+- 資料にない名前（後15行目）: Over
+  後: “Over the oak.”
+- 資料にない名前（後15行目）: oak
+  後: “Over the oak.”
+- 資料にない名前（後17行目）: shadow
+  後: “Where was the shadow?
+- 資料にない名前（後19行目）: Under
+  後: “Under the elm.”
+- 資料にない名前（後19行目）: elm
+  後: “Under the elm.”
+- 資料にない名前（後21行目）: How
+  後: “How was it stepped?
+- 資料にない名前（後21行目）: stepped
+  後: “How was it stepped?
+- 資料にない名前（後23行目）: North
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: by
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: ten
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: and
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: east
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: five
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: south
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: two
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: west
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: one
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: so
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後23行目）: under
+  後: “North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.”
+- 資料にない名前（後25行目）: What
+  後: “What shall we give for it?
+- 資料にない名前（後25行目）: we
+  後: “What shall we give for it?
+- 資料にない名前（後25行目）: give
+  後: “What shall we give for it?
+- 資料にない名前（後25行目）: for
+  後: “What shall we give for it?
+- 資料にない名前（後27行目）: All
+  後: “All that is ours.”
+- 資料にない名前（後27行目）: that
+  後: “All that is ours.”
+- 資料にない名前（後27行目）: ours
+  後: “All that is ours.”
+- 資料にない名前（後29行目）: Why
+  後: “Why should we give it?
+- 資料にない名前（後29行目）: should
+  後: “Why should we give it?
+- 資料にない名前（後31行目）: For
+  後: “For the sake of the trust.”
+- 資料にない名前（後31行目）: sake
+  後: “For the sake of the trust.”
+- 資料にない名前（後31行目）: trust
+  後: “For the sake of the trust.”
+- 資料にない数値（後33行目）: 460行
+  後: 出典：*The Musgrave Ritual*（『マスグレーヴ家の儀式』）, `works/20-the-musgrave-ritual.txt`、433–460行。
+- 資料にない数値（後35行目）: 2
+  後: ### 2. サー・ヘンリーのブーツ
+- 資料にない数値（後37行目）: 4章
+  後: のちにホテルの部屋の戸棚の下から見つかり、昼食のあいだに給仕が戻したのではないかと話されるが、給仕は知らないと答える（第4章・第5章、`works/27-the-hound-of-the-baskervilles.txt`、1515–1539、2108–2128行）。
+- 資料にない数値（後37行目）: 5章
+  後: のちにホテルの部屋の戸棚の下から見つかり、昼食のあいだに給仕が戻したのではないかと話されるが、給仕は知らないと答える（第4章・第5章、`works/27-the-hound-of-the-baskervilles.txt`、1515–1539、2108–2128行）。
+- 資料にない数値（後37行目）: 2128行
+  後: のちにホテルの部屋の戸棚の下から見つかり、昼食のあいだに給仕が戻したのではないかと話されるが、給仕は知らないと答える（第4章・第5章、`works/27-the-hound-of-the-baskervilles.txt`、1515–1539、2108–2128行）。
+- 資料にない数値（後37行目）: 15章
+  後: ホームズは後に、最初に盗まれた新しいブーツは犬に嗅がせるには役に立たず、返されたため、古いブーツが手に入れられたと説明する（第15章、同ファイル、7157–7172行）。
+- 資料にない数値（後37行目）: 7172行
+  後: ホームズは後に、最初に盗まれた新しいブーツは犬に嗅がせるには役に立たず、返されたため、古いブーツが手に入れられたと説明する（第15章、同ファイル、7157–7172行）。
+- 資料にない名前（後39行目）: Meyers
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない名前（後39行目）: Toronto
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない数値（後39行目）: 1874
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない数値（後39行目）: 1884行
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない数値（後39行目）: 14章
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない数値（後39行目）: 6901行
+  後: 内側には “Meyers, Toronto” と記されており、ステイプルトンが逃走中に投げ捨てたものだとホームズは推理する（第5章、同ファイル、1874–1884行；第14章、6884–6901行）。
+- 資料にない名前（後41行目）: loss
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: new
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: brown
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: boot
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: old
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: black
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: now
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない名前（後41行目）: return
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない数値（後41行目）: 2132
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない数値（後41行目）: 2136行
+  後: 原文は一連の出来事を “the loss of the new brown boot, the loss of the old black boot, and now the return of the new brown boot” と整理している（第5章、同ファイル、2132–2136行）。
+- 資料にない数値（後43行目）: 3
+  後: ### 3. 「初歩だよ、ワトソン君」
+- 資料にない数値（後45行目）: 60
+  後: この定型句は、ドイルの正典60作には出てこない。
+- 資料にない名前（後45行目）: Elementary
+  後: ワトソンがホームズの推理に感嘆すると、ホームズは “Elementary,” と答える。
+- 資料にない名前（後45行目）: Watson
+  後: その直前には “my dear Watson” という呼びかけもあるが、二つは別の発言で、よく知られた一続きの台詞そのものではない。
+- 資料にない数値（後45行目）: 二つ
+  後: その直前には “my dear Watson” という呼びかけもあるが、二つは別の発言で、よく知られた一続きの台詞そのものではない。
+- 資料にない数値（後45行目）: 79行
+  後: 場面は、ホームズがワトソンのブーツの汚れ具合から、その日の診療で辻馬車を使ったと推理するところだ（`works/22-the-crooked-man.txt`、63–79行）。
+- 資料にない数値（後47行目）: 1929年
+  後: 正典外の例として、Snopesは1929年の映画 *The Return of Sherlock Holmes* の終幕で、クライヴ・ブルック演じるホームズがこの台詞を言うと紹介している。
+- 資料にない名前（後47行目）: My
+  後: 出典：Snopes, “Sherlock Holmes and ‘Elementary, My Dear Watson’,” https://www.snopes.com/fact-check/elementary-my-dear-watson/（2026-11-19確認）。
+- 資料にない名前（後47行目）: Dear
+  後: 出典：Snopes, “Sherlock Holmes and ‘Elementary, My Dear Watson’,” https://www.snopes.com/fact-check/elementary-my-dear-watson/（2026-11-19確認）。
+
+■ 資料との照合（資料1件）
+- 資料に基づく補足の候補（該当行）: 433（資料1の1行目「原文コーパス：The Musgrave Ritual, works/20-the」）、1515（資料1の1行目「原文コーパス：The Musgrave Ritual, works/20-the」）、1539（資料1の1行目「原文コーパス：The Musgrave Ritual, works/20-the」）、2108（資料1の1行目「原文コーパス：The Musgrave Ritual, works/20-the」）、7157（資料1の1行目「原文コーパス：The Musgrave Ritual, works/20-the」）
+- 資料にない語: 照合、マスグレーヴ、問答、出典、サー、ヘンリー、ブーツ、茶色、ロンドン、片方、ホテル、部屋、戸棚、昼食、給仕、ホームズ、最初、説明、ファイル、一方、紛失後、行方不明、ステイプルトン、猟犬、利用、終盤、沼地、内側、逃走中、推理、一連、出来事、整理、初歩、ワトソン、ドイル、場面、短編、背中、感嘆、直前、発言、一続、具合、診療、辻馬車、作品、該当作品、正典外、クライヴ、ブルック、起源自体、確認
+- 参考: 資料にあって最終稿にない数値: 20、460、27、1857、1895、2136、2380、2384、5777、5790、6901、7172、22、79、1929
+- 照らしたのは数値、名前、語、確度の語だけです。主張、条件、担当が資料どおりかは判定していません。資料と読み比べてください。

@@ -1,0 +1,11 @@
+description: "Sherlock Holmes specialist: answers from Doyle's canon with cited evidence,
+  separating fact from inference."
+description_auto: false
+display_name: holmes
+ui_meta:
+  hermes-bots:
+    title: ホームズ/諮問探偵
+    imageKind: photo
+    custom: true
+_ui_meta_revisions:
+  hermes-bots: 1

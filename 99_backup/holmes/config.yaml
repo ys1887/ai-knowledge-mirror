@@ -1,0 +1,41 @@
+model:
+  default: gpt-6-luna
+  provider: opencode-go
+  base_url: https://opencode.ai/zen/go/v1
+  api_mode: codex_responses
+_config_version: 53
+terminal:
+  backend: local
+  cwd: E:/Documents/Google Drive/AI_knowledge/20_areas/ai-operations/outputs/holmes
+approvals:
+  mode: smart
+skills:
+  external_dirs:
+    - C:/Users/nekol/AppData/Local/hermes/shared-skills
+  write_approval: true
+memory:
+  write_approval: true
+platform_toolsets:
+  cli:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+  api-server:
+    - file
+    - terminal
+    - skills
+    - memory
+    - clarify
+    - web
+stt:
+  enabled: false
+delegation:
+  model: deepseek-v4.1-flash
+  provider: opencode-go
+  reasoning_effort: medium
+  max_concurrent_children: 5
+  child_timeout_seconds: 900
+  prefix_stagger_seconds: 2
